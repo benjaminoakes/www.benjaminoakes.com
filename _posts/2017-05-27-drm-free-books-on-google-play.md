@@ -4,7 +4,7 @@ title:  DRM Free eBooks on Google Play
 date:   2017-05-27
 ---
 
-Looking for DRM free books on Google Play that you can use on any EPUB eReader, like a Nook or iPad?  They can be a great deal in combination with a $5 off coupon that Google sometimes offers.  Unfortunately, Google makes searching for DRM free (or price) difficult.
+Looking for DRM free books on Google Play that you can use on any EPUB eReader, like a Nook or iPad?  They can be a great deal in combination with a $5 off coupon that Google sometimes offers.  Unfortunately, Google makes searching for DRM free (or by price) difficult.
 
 Here are some options I found while looking for DRM free books.
 
