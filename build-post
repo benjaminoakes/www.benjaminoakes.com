@@ -1,0 +1,12 @@
+date="$(date -I)"
+title="$1"
+path="_posts/$date-$title.md"
+
+cat <<EOF > "$path"
+---
+layout: post
+title:  "$title"
+date:   $date
+---
+
+EOF
