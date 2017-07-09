@@ -8,15 +8,19 @@ else
 fi
 
 date="$(date -I)"
-safe_title="$(echo "$title" | sed 's/[^A-Za-z0-9 ]//g' | sed 's/ /-/g')"
-path="_posts/$date-$safe_title.md"
+safe_title="$(echo "$title" | sed 's/\|/-/g')"
+safe_body="$(echo "$body" | sed 's/\|/-/g')"
+safe_filename_title="$(echo "$title" | sed 's/[^A-Za-z0-9 ]//g' | sed 's/ /-/g')"
+path="_posts/$date-$safe_filename_title.md"
 
 cat <<EOF > "$path"
 ---
 layout: post
-title:  "$title"
+title:  "$safe_title"
 date:   $date
 ---
 
-$body
+$safe_body
 EOF
+
+echo "$path"
