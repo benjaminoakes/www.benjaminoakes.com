@@ -1,5 +1,6 @@
 date="$(date -I)"
 title="$1"
+safe_title="$(echo "$title" | sed 's/ /-/')"
 path="_posts/$date-$title.md"
 
 cat <<EOF > "$path"
