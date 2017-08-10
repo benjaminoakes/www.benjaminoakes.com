@@ -15,4 +15,4 @@ Source: [How to get git diff with full context? - Stack Overflow](https://stacko
 
 Source: `git diff --help`
 
-Kind of like `--context` or `-C` for `grep` or `git grep`.
+Kind of like `--context` or `-C` for `grep` or `git grep`.  Useful for reviewing SQL schema changes for tables with a lot of columns.
