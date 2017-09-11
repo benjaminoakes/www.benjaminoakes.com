@@ -1,8 +1,8 @@
 title: Benjamin Oakes
 description: >
   A programmer, sustainability enthusiast, and community builder in Iowa City.
-url: "https://benjaminoakes.github.io/"
-baseurl: "ghpages-test"
+url: "https://benjaminoakes.github.io"
+baseurl: "/ghpages-test"
 twitter_username: benjaminoakes
 github_username:  benjaminoakes
 permalink: ':year/:month/:day/:title'
