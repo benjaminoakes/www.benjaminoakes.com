@@ -4,6 +4,7 @@ description: >
 url: "https://benjaminoakes.github.io/ghpages-test/"
 twitter_username: benjaminoakes
 github_username:  benjaminoakes
+permalink: ':year/:month/:day/:title'
 
 markdown: kramdown
 theme: minima
