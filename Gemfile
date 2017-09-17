@@ -9,3 +9,9 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-seo-tag"
 end
+
+group :development do
+  gem "jekyll-import"
+  gem "hpricot"
+  gem "open_uri_redirections"
+end

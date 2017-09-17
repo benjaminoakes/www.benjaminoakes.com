@@ -16,6 +16,12 @@ RUN bundle config --global silence_root_warning 1
 
 RUN pkg-gem ffi:1.9.18
 
+RUN pkg-deb \
+  patch \
+  ruby-dev \
+  zlib1g-dev \
+  liblzma-dev
+
 WORKDIR /src
 COPY Gemfile /src/Gemfile
 COPY Gemfile.lock /src/Gemfile.lock
