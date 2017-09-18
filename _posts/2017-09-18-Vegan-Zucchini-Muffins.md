@@ -4,6 +4,10 @@ title:  "Vegan Zucchini Muffins"
 date:   2017-09-18
 ---
 
+[
+  ![Vegan Zucchini Muffins]({{ site.baseurl }}/images/thumbnail-2017-09-18-Vegan-Zucchini-Muffins.jpg)
+]({{ site.baseurl }}/images/2017-09-18-Vegan-Zucchini-Muffins.jpg)
+
 Ingredients:
 
   * 1 cup all-purpose flour
