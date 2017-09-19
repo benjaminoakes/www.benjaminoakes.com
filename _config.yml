@@ -2,7 +2,7 @@ title: Benjamin Oakes
 description: >
   A programmer, sustainability enthusiast, and community builder in Iowa City.
 url: "http://staging.benjaminoakes.com"
-baseurl: "/"
+baseurl: ""
 twitter_username: benjaminoakes
 github_username:  benjaminoakes
 permalink: ':year/:month/:day/:title'
