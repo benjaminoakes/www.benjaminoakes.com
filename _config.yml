@@ -7,6 +7,11 @@ twitter_username: benjaminoakes
 github_username:  benjaminoakes
 permalink: ':year/:month/:day/:title'
 
+adsense:
+  ad_client: "ca-pub-5788066382467641"
+  ad_slot: "2987007375"
+  ad_format: "auto"
+
 markdown: kramdown
 theme: minima
 gems:
