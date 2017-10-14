@@ -1,46 +1,25 @@
 <footer class="site-footer">
 
   <div class="wrapper">
+    <div class="footer-col">
+      <div class="footer-col-wrapper">
+        <p>
+          <strong>{{ site.title | escape }}</strong>
+        </p>
+        <p>
+          {{ site.description | escape }}
+        </p>
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+        <p>
+          <a href="/feed">RSS</a>
+          | <a target="_blank" href="https://twitter.com/{{site.github_username}}">Twitter</a>
+          | <a target="_blank" href="https://github.com/{{site.github_username}}">GitHub</a>
+          | <a target="_blank" href="http://stackoverflow.com/users/146764/benjamin-oakes">StackOverflow</a>
+        </p>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
+        <p><small>&copy; 2002-{{ site.time | date: '%Y' }} Benjamin Oakes</small></p>
       </div>
     </div>
-
   </div>
 
 </footer>
