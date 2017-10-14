@@ -12,6 +12,10 @@ adsense:
   ad_slot: "2987007375"
   ad_format: "auto"
 
+feed:
+  # To match WordPress
+  path: feed
+
 markdown: kramdown
 theme: minima
 gems:
