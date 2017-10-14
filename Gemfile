@@ -14,4 +14,5 @@ group :development do
   gem "jekyll-import"
   gem "hpricot"
   gem "open_uri_redirections"
+  gem 'github-pages-health-check'
 end
