@@ -3,7 +3,7 @@ Staging MVP:
 - [x] Custom 404 page
 - [x] Add AdSense
 - [x] Test publishing to Twitter
-- [-] Confirm RSS retains the same URL (including as rel=alternate)
+- [-] Confirm RSS retains the same URL (including as rel=alternate and any links)
 - [ ] Add Analytics
 - [ ] Import content from existing website
 - [ ] Confirm posts retain the same URLs
