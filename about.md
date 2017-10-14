@@ -10,6 +10,8 @@ Currently, I'm a Ruby/JavaScript Developer working remotely from Iowa City, IA. 
 
 I also consider myself a sustainability enthusiast.  If you'd like to talk about solar power, electric vehicles, waste reduction (including recycling), vegetarianism, or vegetable gardening, please [get in touch](../contact)!
 
+<small>[Disclaimer](../disclaimer).</small>
+
 <!--
 
 Debug info:
