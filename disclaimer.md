@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Disclaimer
 permalink: /disclaimer/
 ---
-
-### Disclaimer
 
 Just in case:
 
