@@ -4,8 +4,8 @@ Staging MVP:
 - [x] Add AdSense
 - [x] Test publishing to Twitter
 - [x] Add search box (even just https://duckduckgo.com/?q=site%3Abenjaminoakes.com+bisect)
-- [-] Confirm RSS retains the same URL (including as rel=alternate and any links)
-- [-] Import content from existing website
+- [ ] @wip Confirm RSS retains the same URL (including as rel=alternate and any links)
+- [ ] @wip Import content from existing website
 - [ ] Add Analytics
 - [ ] Confirm posts retain the same URLs
 - [ ] Test on existing host
@@ -14,6 +14,7 @@ Fix:
 
 ```
 _posts/2015-11-08-super-mario-world-castle-theme-organ-cover.md
+2016/10/29/apples-phil-schiller-thinks-its-sad-that-people-use-5-year-old-computers/
 ```
 
 Production MVP:
