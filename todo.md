@@ -10,6 +10,12 @@ Staging MVP:
 - [ ] Confirm posts retain the same URLs
 - [ ] Test on existing host
 
+Fix:
+
+```
+_posts/2015-11-08-super-mario-world-castle-theme-organ-cover.md
+```
+
 Production MVP:
 
 - [ ] Automate publishing to existing host
