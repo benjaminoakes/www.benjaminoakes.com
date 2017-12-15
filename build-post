@@ -24,4 +24,6 @@ date:   $date
 $body
 EOF
 
-echo "$path"
+$EDITOR "$path"
+git add "$path"
+git ci -m "Add $path"
