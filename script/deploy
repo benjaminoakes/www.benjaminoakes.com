@@ -1,1 +1,3 @@
 git push origin master
+
+rsync --archive --verbose --compress --delete --rsh=ssh _site/ benjaminoakes.com:~/jekyll.benjaminoakes.com/
