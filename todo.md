@@ -15,6 +15,7 @@ Fix:
 ```
 _posts/2015-11-08-super-mario-world-castle-theme-organ-cover.md
 2016/10/29/apples-phil-schiller-thinks-its-sad-that-people-use-5-year-old-computers/
+2017/01/26/10-simple-ways-to-use-less-oil/
 ```
 
 Production MVP:
