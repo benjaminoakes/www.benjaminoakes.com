@@ -5,8 +5,9 @@ Staging MVP:
 - [x] Test publishing to Twitter
 - [x] Add search box (even just https://duckduckgo.com/?q=site%3Abenjaminoakes.com+bisect)
 - [ ] @wip Test on existing host
-  - [ ] Fix r remove search
+  - [ ] Fix or remove search
 - [ ] @wip Confirm RSS retains the same URL (including as rel=alternate and any links)
+  - [ ] Consider making a fake RSS that asks people to subscribe to the new feed
 - [ ] @wip Import content from existing website
 - [ ] Add Analytics
 - [ ] Confirm posts retain the same URLs
