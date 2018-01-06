@@ -5,7 +5,7 @@ url: "http://staging.benjaminoakes.com"
 baseurl: ""
 twitter_username: benjaminoakes
 github_username:  benjaminoakes
-permalink: ':year/:month/:day/:title'
+permalink: pretty
 
 adsense:
   ad_client: "ca-pub-5788066382467641"
