@@ -22,5 +22,10 @@ gems:
   - jekyll-feed
   - jekyll-seo-tag
 exclude:
+  - CNAME
+  - docker-compose.yml
+  - Dockerfile
   - Gemfile
   - Gemfile.lock
+  - script
+  - todo.md
