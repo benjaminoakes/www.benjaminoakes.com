@@ -4,11 +4,12 @@ Staging MVP:
 - [x] Add AdSense
 - [x] Test publishing to Twitter
 - [x] Add search box (even just https://duckduckgo.com/?q=site%3Abenjaminoakes.com+bisect)
+- [ ] @wip Test on existing host
+  - [ ] Fix r remove search
 - [ ] @wip Confirm RSS retains the same URL (including as rel=alternate and any links)
 - [ ] @wip Import content from existing website
 - [ ] Add Analytics
 - [ ] Confirm posts retain the same URLs
-- [ ] Test on existing host
 
 Fix:
 
