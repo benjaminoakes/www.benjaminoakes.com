@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What's the ".well-known" folder?"
+title:  "What's the .well-known folder?"
 date:   2017-12-13
 ---
 
