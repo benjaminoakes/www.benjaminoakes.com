@@ -25,5 +25,13 @@ $body
 EOF
 
 $EDITOR "$path"
+
+if grep '|' "$path"; then
+  echo "Pipe found in content of $path"
+  echo "This may cause Jekyll formatting issues.  Press enter to edit and correct."
+  read
+  $EDITOR "$path"
+fi
+
 git add "$path"
 git ci -m "Add $path"
