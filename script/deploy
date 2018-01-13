@@ -1,5 +1,7 @@
 git push origin master
 
+sudo docker-compose run app jekyll build
+
 rsync \
   --archive \
   --verbose \
