@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Turning Design Mockups Into Code With Deep Learning - FloydHub Blog"
+title:  "Turning Design Mockups Into Code With Deep Learning"
 date:   2018-01-13
 ---
 
