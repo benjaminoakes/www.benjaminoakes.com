@@ -1,6 +1,6 @@
 git push origin master
 
-sudo docker-compose run app jekyll build
+sudo docker-compose run app jekyll build --incremental
 
 rsync \
   --archive \
