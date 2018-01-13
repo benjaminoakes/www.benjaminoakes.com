@@ -11,7 +11,7 @@ RUN pkg-deb \
   ruby2.3 \
   ruby2.3-dev
 
-RUN pkg-gem bundler:1.14.3
+RUN pkg-gem bundler:1.14.6
 RUN bundle config --global silence_root_warning 1
 
 RUN pkg-gem ffi:1.9.18
