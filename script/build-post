@@ -27,8 +27,10 @@ EOF
 $EDITOR "$path"
 
 if grep '|' "$path"; then
+  echo
   echo "Pipe found in content of $path"
   echo "This may cause Jekyll formatting issues.  Press enter to edit and correct."
+  echo
   read
   $EDITOR "$path"
 fi
