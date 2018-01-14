@@ -3,9 +3,7 @@ Staging MVP:
 - [x] Custom 404 page
 - [x] Add AdSense
 - [x] Test publishing to Twitter
-- [x] Add search box (even just https://duckduckgo.com/?q=site%3Abenjaminoakes.com+bisect)
 - [ ] @wip Test on existing host
-  - [ ] Fix or remove search
 - [ ] @wip Confirm RSS retains the same URL (including as rel=alternate and any links)
   - [ ] Consider making a fake RSS that asks people to subscribe to the new feed
 - [ ] @wip Import content from existing website
@@ -32,6 +30,7 @@ Later:
 - [ ] Add DNS records for GitHub hosting
 - [ ] Add Disqus
 - [ ] Add old WordPress comments
+- [ ] Add search back
 
 Even later:
 
