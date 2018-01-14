@@ -6,8 +6,9 @@
 - [x] Test publishing to Twitter
 - [x] Automate publishing to existing host
 - [x] Test on existing host
-- [ ] @wip Import content from existing website
-
+- [ ] Un-customize RSS feed generation
+- [ ] Add fake RSS feed at `/feed/` for anyone that might have been subscribing directly
+- [ ] Import content from existing website
 
 To fix:
 
@@ -18,13 +19,11 @@ _posts/2015-11-08-super-mario-world-castle-theme-organ-cover.md
 ```
 
 - [ ] Confirm posts retain the same URLs
-- [ ] Confirm RSS retains the same URL (including as rel=alternate and any links)
-  - [ ] Consider making a fake RSS that asks people to subscribe to the new feed
 - [ ] Add Analytics
 
 ## Stage: Production MVP
 
-- [ ] Add notice to RSS feed
+- [ ] Change [Feedburner](https://feedburner.google.com/fb/a/myfeeds) "Original Feed"
 - [ ] Replace benjaminoakes.com on existing host
 - [ ] Confirm ads work in production
 - [ ] Confirm analytics work in production
@@ -32,6 +31,8 @@ _posts/2015-11-08-super-mario-world-castle-theme-organ-cover.md
 ## Stage: New Host MVP
 
 - [ ] Change DNS to point to GitHub for www.benjaminoakes.com and benjaminoakes.com
+- [ ] Delete https://github.com/benjaminoakes/staging.benjaminoakes.com
+- [ ] Delete http://jekyll.benjaminoakes.com
 
 ## Backlog
 
