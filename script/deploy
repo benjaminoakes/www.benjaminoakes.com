@@ -3,9 +3,10 @@ set -o errexit
 
 git push origin master
 
+sudo rm -rf _production
 sudo docker-compose build
-sudo docker-compose run app jekyll build --incremental
-sudo docker-compose run app linkchecker _site
+sudo docker-compose run -e JEKYLL_ENV=production app jekyll build --destination _production
+sudo docker-compose run app linkchecker _production
 
 rsync \
   --archive \
@@ -13,5 +14,5 @@ rsync \
   --compress \
   --delete \
   --rsh=ssh \
-  _site/ \
+  _production/ \
   benjaminoakes.com:~/jekyll.benjaminoakes.com/
