@@ -1,3 +1,4 @@
+#!/bin/bash
 set -o errexit
 
 git push origin master
