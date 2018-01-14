@@ -1,4 +1,4 @@
-Staging MVP:
+## Stage: Staging MVP
 
 - [x] Custom 404 page
 - [x] Add AdSense
@@ -8,6 +8,8 @@ Staging MVP:
 - [x] Test on existing host
 - [ ] @wip Import content from existing website
 
+
+To fix:
 
 ```
 _posts/2015-11-08-super-mario-world-castle-theme-organ-cover.md
@@ -20,16 +22,18 @@ _posts/2015-11-08-super-mario-world-castle-theme-organ-cover.md
   - [ ] Consider making a fake RSS that asks people to subscribe to the new feed
 - [ ] Add Analytics
 
-Fix:
-
-Production MVP:
+## Stage: Production MVP
 
 - [ ] Add notice to RSS feed
-- [ ] Replace benjaminoakes.com
+- [ ] Replace benjaminoakes.com on existing host
 - [ ] Confirm ads work in production
 - [ ] Confirm analytics work in production
 
-Later:
+## Stage: New Host MVP
+
+- [ ] Change DNS to point to GitHub for www.benjaminoakes.com and benjaminoakes.com
+
+## Backlog
 
 - [ ] Convert FeedBurner
 - [ ] Convert Twitter
@@ -37,7 +41,4 @@ Later:
 - [ ] Add Disqus
 - [ ] Add old WordPress comments
 - [ ] Add search back
-
-Even later:
-
 - [ ] Site map?
