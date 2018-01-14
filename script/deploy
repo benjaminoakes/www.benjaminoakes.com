@@ -4,6 +4,7 @@ git push origin master
 
 sudo docker-compose build
 sudo docker-compose run app jekyll build --incremental
+sudo docker-compose run app linkchecker _site
 
 rsync \
   --archive \
