@@ -2,6 +2,7 @@ Staging MVP:
 
 - [x] Custom 404 page
 - [x] Add AdSense
+  - [ ] Confirm ads work
 - [x] Test publishing to Twitter
 - [ ] @wip Test on existing host
 - [ ] @wip Confirm RSS retains the same URL (including as rel=alternate and any links)
