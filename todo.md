@@ -2,16 +2,12 @@ Staging MVP:
 
 - [x] Custom 404 page
 - [x] Add AdSense
-  - [ ] Confirm ads work
+  - [x] Confirm ads work in staging
 - [x] Test publishing to Twitter
-- [ ] @wip Test on existing host
-- [ ] @wip Confirm RSS retains the same URL (including as rel=alternate and any links)
-  - [ ] Consider making a fake RSS that asks people to subscribe to the new feed
+- [x] Automate publishing to existing host
+- [x] Test on existing host
 - [ ] @wip Import content from existing website
-- [ ] Add Analytics
-- [ ] Confirm posts retain the same URLs
 
-Fix:
 
 ```
 _posts/2015-11-08-super-mario-world-castle-theme-organ-cover.md
@@ -19,15 +15,24 @@ _posts/2015-11-08-super-mario-world-castle-theme-organ-cover.md
 2017/01/26/10-simple-ways-to-use-less-oil/
 ```
 
+- [ ] Confirm posts retain the same URLs
+- [ ] Confirm RSS retains the same URL (including as rel=alternate and any links)
+  - [ ] Consider making a fake RSS that asks people to subscribe to the new feed
+- [ ] Add Analytics
+
+Fix:
+
 Production MVP:
 
-- [ ] Automate publishing to existing host
+- [ ] Add notice to RSS feed
 - [ ] Replace benjaminoakes.com
-- [ ] Convert FeedBurner
-- [ ] Convert Twitter
+- [ ] Confirm ads work in production
+- [ ] Confirm analytics work in production
 
 Later:
 
+- [ ] Convert FeedBurner
+- [ ] Convert Twitter
 - [ ] Add DNS records for GitHub hosting
 - [ ] Add Disqus
 - [ ] Add old WordPress comments
