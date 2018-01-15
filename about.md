@@ -16,6 +16,7 @@ I also consider myself a sustainability enthusiast.  If you'd like to talk about
 
 Debug info:
 
+jekyll.environment: {{ jekyll.environment }}
 site.time: {{ site.time }}
 site.url: {{ site.url }}
 site.data: {{ site.data }}
