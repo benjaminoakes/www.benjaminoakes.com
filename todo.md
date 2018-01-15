@@ -8,6 +8,7 @@
 - [x] Test on existing host
 - [x] Un-customize RSS feed generation
 - [x] Reduce number of posts on root page
+- [ ] Change rel=alternate to Feedburner
 - [ ] Import content from existing website
 
 To fix:
