@@ -18,6 +18,7 @@ _posts/2015-11-08-super-mario-world-castle-theme-organ-cover.md
 2017/01/26/10-simple-ways-to-use-less-oil/
 ```
 
+- [ ] Remove id, author, guids from frontmatter
 - [ ] Confirm posts retain the same URLs
 - [ ] Add Analytics
 
