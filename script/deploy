@@ -1,6 +1,8 @@
 #!/bin/bash
 set -o errexit
 
+sudo echo "Deploying..."
+
 git push origin master
 
 sudo rm -rf _production
