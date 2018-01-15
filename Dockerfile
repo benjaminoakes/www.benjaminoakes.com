@@ -23,13 +23,12 @@ RUN pkg-gem eventmachine:1.2.5
 RUN pkg-gem ffi:1.9.18
 RUN pkg-gem hpricot:0.8.6
 RUN pkg-gem nokogiri:1.8.1
+RUN pkg-gem commonmarker:0.17.7.1
 
 WORKDIR /src
 COPY Gemfile /src/Gemfile
 COPY Gemfile.lock /src/Gemfile.lock
-
-RUN bundle install
-COPY Gemfile.lock /src/Gemfile.lock
+RUN bundle update
 
 # Force choosing a command in docker-compose.yml or CLI
 CMD false
