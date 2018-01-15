@@ -13,6 +13,7 @@ adsense:
   ad_format: "auto"
 
 paginate: 10
+paginate_path: "/pages/:num"
 
 markdown: kramdown
 theme: minima # Maybe change to hydejack
