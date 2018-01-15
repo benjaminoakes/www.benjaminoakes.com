@@ -6,7 +6,7 @@ gem "jekyll"
 gem "minima"
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-feed"
   gem "jekyll-seo-tag"
 end
 
