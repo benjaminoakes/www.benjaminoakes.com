@@ -14,7 +14,7 @@ adsense:
 
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
   - jekyll-seo-tag
 exclude:

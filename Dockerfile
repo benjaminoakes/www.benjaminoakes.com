@@ -19,6 +19,7 @@ RUN pkg-deb \
 
 RUN pkg-gem bundler:1.14.6
 RUN bundle config --global silence_root_warning 1
+RUN pkg-gem eventmachine:1.2.5
 RUN pkg-gem ffi:1.9.18
 RUN pkg-gem hpricot:0.8.6
 RUN pkg-gem nokogiri:1.8.1
