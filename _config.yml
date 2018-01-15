@@ -22,6 +22,8 @@ adsense:
 feedburner:
   feed_address: "BenjaminOakes"
 
+google_analytics: "UA-26383944-1"
+
 paginate: 10
 paginate_path: "/page/:num"
 
