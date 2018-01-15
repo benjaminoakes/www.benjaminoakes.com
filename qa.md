@@ -1,4 +1,4 @@
-Check that:
+Desktop:
 
   - [ ] Root page has working links to posts
   - [ ] Pagination page 2 has working links to posts
@@ -15,3 +15,7 @@ Check that:
   - [ ] Footer RSS subscription uses FeedBurner
   - [ ] Browser RSS subscription uses FeedBurner
   - [ ] Analytics are tracked while browsing
+
+Mobile:
+
+  - [ ] Check all the above on a mobile device
