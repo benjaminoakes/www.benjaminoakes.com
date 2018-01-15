@@ -11,16 +11,17 @@ RUN pkg-deb \
   ruby2.3 \
   ruby2.3-dev
 
-RUN pkg-gem bundler:1.14.6
-RUN bundle config --global silence_root_warning 1
-
-RUN pkg-gem ffi:1.9.18
-
 RUN pkg-deb \
   patch \
   ruby-dev \
   zlib1g-dev \
   liblzma-dev
+
+RUN pkg-gem bundler:1.14.6
+RUN bundle config --global silence_root_warning 1
+RUN pkg-gem ffi:1.9.18
+RUN pkg-gem hpricot:0.8.6
+RUN pkg-gem nokogiri:1.8.1
 
 WORKDIR /src
 COPY Gemfile /src/Gemfile
