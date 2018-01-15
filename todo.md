@@ -9,6 +9,8 @@
 - [x] Un-customize RSS feed generation
 - [x] Reduce number of posts on root page
 - [x] Change rel=alternate to Feedburner
+- [x] Add Analytics
+- [ ] Remove id, author, guids from frontmatter
 - [ ] Import content from existing website
 
 To fix:
@@ -19,9 +21,7 @@ _posts/2015-11-08-super-mario-world-castle-theme-organ-cover.md
 2017/01/26/10-simple-ways-to-use-less-oil/
 ```
 
-- [ ] Remove id, author, guids from frontmatter
 - [ ] Confirm posts retain the same URLs
-- [ ] Add Analytics
 
 ## Stage: Production MVP
 
