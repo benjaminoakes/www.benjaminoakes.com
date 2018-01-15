@@ -6,7 +6,7 @@
 - [x] Test publishing to Twitter
 - [x] Automate publishing to existing host
 - [x] Test on existing host
-- [ ] Un-customize RSS feed generation
+- [x] Un-customize RSS feed generation
 - [ ] Add fake RSS feed at `/feed/` for anyone that might have been subscribing directly
 - [ ] Import content from existing website
 
