@@ -29,6 +29,7 @@ COPY Gemfile /src/Gemfile
 COPY Gemfile.lock /src/Gemfile.lock
 
 RUN bundle install
+COPY Gemfile.lock /src/Gemfile.lock
 
 # Force choosing a command in docker-compose.yml or CLI
 CMD false
