@@ -12,6 +12,9 @@ adsense:
   ad_slot: "2987007375"
   ad_format: "auto"
 
+feedburner:
+  feed_address: "BenjaminOakes"
+
 paginate: 10
 paginate_path: "/page/:num"
 

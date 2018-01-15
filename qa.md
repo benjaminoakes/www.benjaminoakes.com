@@ -14,6 +14,7 @@ Desktop:
   - [ ] Contact page email link opens a compose window
   - [ ] Footer RSS subscription uses FeedBurner
   - [ ] Browser RSS subscription uses FeedBurner
+  - [ ] `/feed.xml` is valid
   - [ ] Analytics are tracked while browsing
 
 Mobile:
