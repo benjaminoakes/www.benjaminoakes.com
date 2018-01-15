@@ -1,10 +1,17 @@
+# SEO
 title: Benjamin Oakes
 description: >
   A programmer, sustainability enthusiast, and community builder in Iowa City.
+author: Benjamin Oakes
+github:
+  username: benjaminoakes
+linkedin:
+  username: benjaminoakes
+twitter:
+  username: benjaminoakes
+
 url: "http://staging.benjaminoakes.com"
 baseurl: ""
-twitter_username: benjaminoakes
-github_username:  benjaminoakes
 permalink: pretty
 
 adsense:
