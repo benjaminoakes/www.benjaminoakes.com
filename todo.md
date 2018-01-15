@@ -7,7 +7,7 @@
 - [x] Automate publishing to existing host
 - [x] Test on existing host
 - [x] Un-customize RSS feed generation
-- [ ] Reduce number of posts on root page
+- [x] Reduce number of posts on root page
 - [ ] Import content from existing website
 
 To fix:

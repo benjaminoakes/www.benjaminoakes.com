@@ -12,10 +12,17 @@ adsense:
   ad_slot: "2987007375"
   ad_format: "auto"
 
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: "/page/:num/"
+  sort_reverse: true
+
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate-v2
   - jekyll-seo-tag
 exclude:
   - CNAME

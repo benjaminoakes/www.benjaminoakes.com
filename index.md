@@ -1,3 +1,31 @@
 ---
-layout: home
+layout: default
+pagination:
+  enabled: true
 ---
+
+<ul class="post-list">
+  {% for post in paginator.posts %}
+    <li>
+      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </h3>
+    </li>
+  {% endfor %}
+</ul>
+
+{% if paginator.total_pages > 1 %}
+  {% if paginator.next_page %}
+    <span style="float: left">
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">&larr; Older</a>
+    </span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <span style="float: right">
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer &rarr;</a>
+    </span>
+  {% endif %}
+{% endif %}

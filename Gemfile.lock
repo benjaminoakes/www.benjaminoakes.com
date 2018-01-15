@@ -45,6 +45,8 @@ GEM
       fastercsv
       jekyll (>= 1.4)
       nokogiri
+    jekyll-paginate-v2 (1.9.2)
+      jekyll (~> 3.0)
     jekyll-sass-converter (1.5.1)
       sass (~> 3.4)
     jekyll-seo-tag (2.4.0)
@@ -97,6 +99,7 @@ DEPENDENCIES
   jekyll
   jekyll-feed
   jekyll-import
+  jekyll-paginate-v2
   jekyll-seo-tag
   minima
   open_uri_redirections
