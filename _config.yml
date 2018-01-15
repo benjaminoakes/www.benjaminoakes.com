@@ -19,7 +19,7 @@ pagination:
   sort_reverse: true
 
 markdown: kramdown
-theme: minima
+theme: minima # Maybe change to hydejack
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
