@@ -1,0 +1,56 @@
+---
+layout: default
+title: Categories
+---
+
+<!-- Many thanks to https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/ -->
+
+{% assign rawcategories = "" %}
+{% for post in site.posts %}
+  {% assign tcategories = post.categories | join:'|' | append:'|' %}
+  {% assign rawcategories = rawcategories | append:tcategories %}
+{% endfor %}
+
+{% assign rawcategories = rawcategories | split:'|' | sort %}
+
+{% assign categories = "" %}
+{% for category in rawcategories %}
+  {% if category != "" %}
+    {% if categories == "" %}
+      {% assign categories = category | split:'|' %}
+    {% endif %}
+
+    {% unless categories contains category %}
+      {% assign categories = categories | join:'|' | append:'|' | append:category | split:'|' %}
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+
+<h1>Posts by Category</h1>
+
+<details>
+  <summary>All Categories</summary>
+
+  {% for category in categories %}
+    <a href="#{{ category | slugify }}"> {{ category }} </a>
+  {% endfor %}
+</details>
+
+{% for category in categories %}
+  <h1 id="{{ category | slugify }}">{{ category }}</h1>
+
+  {% for post in site.posts %}
+    {% if post.categories contains category %}
+      <ul class="post-list">
+        <li>
+          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </h3>
+        </li>
+      </ul>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
