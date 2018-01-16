@@ -10,10 +10,6 @@ sudo docker-compose build
 sudo docker-compose run -e JEKYLL_ENV=production app jekyll build --destination _production
 sudo docker-compose run app linkchecker _production
 
-cat <<EOF > _production/.htaccess
-ErrorDocument 404 /404.html
-EOF
-
 rsync \
   --archive \
   --verbose \
