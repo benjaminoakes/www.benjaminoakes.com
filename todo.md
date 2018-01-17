@@ -10,8 +10,10 @@
 - [x] Reduce number of posts on root page
 - [x] Change rel=alternate to Feedburner
 - [x] Add Analytics
-- [ ] Remove id, author, guids from frontmatter
+- [ ] Remove id, guids from frontmatter
 - [ ] Import content from existing website
+  - [ ] Fix entities
+  - [ ] Fix pipes
 
 To fix:
 
