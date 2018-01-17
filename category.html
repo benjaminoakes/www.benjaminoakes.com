@@ -32,7 +32,11 @@ title: Categories
   <summary>All Categories</summary>
 
   {% for category in categories %}
-    <a href="#{{ category | slugify }}"> {{ category }} </a>
+    {% if category != categories.last %}
+      <a href="#{{ category | slugify }}"> {{ category }} </a>,
+    {% else %}
+      <a href="#{{ category | slugify }}"> {{ category }} </a>
+    {% endif %}
   {% endfor %}
 </details>
 
