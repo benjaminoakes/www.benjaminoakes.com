@@ -1,0 +1,85 @@
+#!/bin/bash
+
+# This is just for backwards compatibility with WordPress so visitors can go
+# somewhere useful.
+
+categories=(
+  api
+  android
+  bookmark
+  chrome
+  conference
+  debugging
+  engineering
+  film
+  funny
+  gardening
+  github
+  hardware
+  heroku
+  human-rights
+  interview
+  iowa
+  iowa-city
+  javascript
+  linguistics
+  linux
+  mac-os-x
+  maid
+  matlab
+  minimalism
+  mobile
+  music
+  mysql
+  open-source
+  php
+  perl
+  politics
+  postgresql
+  presentation
+  privacy
+  programming
+  projects
+  psychology
+  puppet
+  rss
+  rails
+  recipe
+  ruby
+  sqlite
+  school
+  scifi
+  security
+  sharing
+  shell
+  snippets
+  standards
+  sustainability
+  technology
+  testing
+  today-i-learned
+  ubuntu
+  uncategorized
+  vagrant
+  vegetarianism
+  video
+  video-games
+  web
+  weekly-roundup
+  ebooks
+  ios
+  newhaven-rb
+  repairs
+)
+
+for category in ${categories[@]}; do
+  mkdir -p "category/$category"
+
+  cat > "category/$category/index.html" <<EOF
+---
+layout: redirect
+redirect:
+  to: /category/#$category
+---
+EOF
+done
