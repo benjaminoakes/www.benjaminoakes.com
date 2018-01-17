@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NYC sues oil companies for the cost of adapting to climate change - Ars Technica"
+title:  "NYC sues oil companies for the cost of adapting to climate change"
 date:   2018-01-16
 ---
 
