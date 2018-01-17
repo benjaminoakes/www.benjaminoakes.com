@@ -29,6 +29,7 @@ _posts/2015-11-08-super-mario-world-castle-theme-organ-cover.md
 - [ ] Replace benjaminoakes.com on existing host
 - [ ] Confirm ads work in production
 - [ ] Confirm analytics work in production
+- [ ] Configure DNS so that benjaminoakes.com and www.benjaminoakes.com work appropriately
 
 ## Stage: New Host MVP
 
