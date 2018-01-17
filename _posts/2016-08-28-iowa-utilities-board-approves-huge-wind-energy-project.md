@@ -13,6 +13,6 @@ tags:
   - sustainability
   - wind
 ---
-> The Iowa Utilities Board has approved a wind turbine operation it says will be the nation&#8217;s largest wind energy project. \[&#8230;\] \[T\]he project will see 85 percent of the company&#8217;s Iowa customer needs met through wind energy by 2020.
+> The Iowa Utilities Board has approved a wind turbine operation it says will be the nation&#8217;s largest wind energy project. \[...\] \[T\]he project will see 85 percent of the company&#8217;s Iowa customer needs met through wind energy by 2020.
 
 Source: _[Iowa Utilities Board approves huge wind energy project](http://www.desmoinesregister.com/story/money/business/development/2016/08/27/iowa-utilities-board-approves-huge-wind-energy-project/89488034/)_

@@ -58,7 +58,7 @@ class ConcreteClassTwo extends AbstractClass
 }
 </code></pre>
 > 
-> Any ideas on how to get the desired behavior? Being able to do this would really &#8220;DRY up&#8221; my code, but I can&#8217;t seem to find a way to do it&#8211;nothing that I&#8217;ve googled for or tried has yielded any results so far. 
+> Any ideas on how to get the desired behavior? Being able to do this would really &#8220;DRY up&#8221; my code, but I can&#8217;t seem to find a way to do it--nothing that I&#8217;ve googled for or tried has yielded any results so far. 
 
 > The reason for this is that I want to use that name in the function. I&#8217;m making an implementation of the Active Record design pattern. The classes specify the table names. So, for a subclass named &#8220;Ticket&#8221;, the table name is &#8220;tickets&#8221;. Say I&#8217;m implementing a static function called &#8220;count&#8221;, called like so:
 > 

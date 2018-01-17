@@ -1,6 +1,6 @@
 ---
 id: 425
-title: 'KnightOS &#8211; An open source OS for TI calculators'
+title: 'KnightOS -- An open source OS for TI calculators'
 date: 2014-01-24T21:50:40+00:00
 author: Ben
 layout: post
@@ -14,11 +14,11 @@ tags:
   - OpenSource
   - TI-83
 ---
-[KnightOS &#8211; An open source OS for TI calculators](http://www.knightos.org/).
+[KnightOS -- An open source OS for TI calculators](http://www.knightos.org/).
 
 [<img class="aligncenter size-thumbnail wp-image-426" alt="terminal" src="http://www.benjaminoakes.com/wp-content/uploads/2014/01/terminal.gif" />](http://www.benjaminoakes.com/wp-content/uploads/2014/01/terminal.gif)
 
-This seems like a strange thing to appear in 2014&#8230; an open source OS for TI calculators, [including the 83-plus that I used in high school](http://www.benjaminoakes.com/2010/08/08/basic-ti-83/ "Basic: TI-83").  It&#8217;s kind of amazing that this could even be created, but also a little disappointing that calculators have barely changed.  (I get the standardized-testing angle but&#8230; those black-and-white displays look like they&#8217;re a million years old.)
+This seems like a strange thing to appear in 2014... an open source OS for TI calculators, [including the 83-plus that I used in high school](http://www.benjaminoakes.com/2010/08/08/basic-ti-83/ "Basic: TI-83").  It&#8217;s kind of amazing that this could even be created, but also a little disappointing that calculators have barely changed.  (I get the standardized-testing angle but... those black-and-white displays look like they&#8217;re a million years old.)
 
 And of course, there&#8217;s a relevant XKCD:
 

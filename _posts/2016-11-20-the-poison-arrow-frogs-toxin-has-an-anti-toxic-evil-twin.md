@@ -19,4 +19,4 @@ tags:
 
 Source: _[The poison arrow frog’s toxin has an anti-toxic evil twin | Ars Technica](http://arstechnica.com/science/2016/11/the-poison-arrow-frogs-toxin-has-an-anti-toxic-evil-twin/)_
 
-I wouldn&#8217;t exactly call the result &#8220;anti toxic,&#8221; but I learned something about chemistry from this article&#8230; (I&#8217;m pretty sure I learned about the mechanics of the neurotoxin in a neuroscience class.)
+I wouldn&#8217;t exactly call the result &#8220;anti toxic,&#8221; but I learned something about chemistry from this article... (I&#8217;m pretty sure I learned about the mechanics of the neurotoxin in a neuroscience class.)

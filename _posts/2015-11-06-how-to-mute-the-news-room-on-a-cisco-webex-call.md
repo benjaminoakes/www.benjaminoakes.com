@@ -13,7 +13,7 @@ WebEx has a feature that plays the news while you wait for the meeting organizer
 
 To mute the news feed, this is all you need to do:
 
-  * Wait until you hear the news feed and then&#8230;
+  * Wait until you hear the news feed and then...
   * Hit `*60` **quickly** (`*6` is used for some other functions, which is why the numbers need to be entered rapidly)
 
 The news feed will mute and you will then hear silence.

@@ -14,7 +14,7 @@ tags:
   - JavaScript
   - windows10
 ---
-[Bringing asm.js to the Chakra JavaScript engine in Windows 10 &#8211; IEBlog &#8211; Site Home &#8211; MSDN Blogs](http://blogs.msdn.com/b/ie/archive/2015/02/18/bringing-asm-js-to-the-chakra-javascript-engine-in-windows-10.aspx?utm_source=javascriptweekly&utm_medium=email).
+[Bringing asm.js to the Chakra JavaScript engine in Windows 10 -- IEBlog -- Site Home -- MSDN Blogs](http://blogs.msdn.com/b/ie/archive/2015/02/18/bringing-asm-js-to-the-chakra-javascript-engine-in-windows-10.aspx?utm_source=javascriptweekly&utm_medium=email).
 
 > Second but more importantly is the fact that asm.js is a pure subset of JavaScript and guarantees interoperability across platforms and browsers. This means that engines that support asm.js light up the new features, while engines that don’t will simply run with degraded performance. Since the beginning of Chakra, our team’s focus has always been to prioritize this approach to new functionality.
 

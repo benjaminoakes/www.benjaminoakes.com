@@ -16,4 +16,4 @@ From [my question on the ruby-talk mailing list](http://blade.nagaokaut.ac.jp/cg
 > 
 > Thanks,
 > 
-> &#8212; Ben (aka divokz)
+> -- Ben (aka divokz)

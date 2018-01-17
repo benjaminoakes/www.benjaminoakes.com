@@ -46,7 +46,7 @@ Searching [ruby-doc.org core](http://ruby-doc.org/core-2.0) gave:
   * [`NilClass#to_h`](http://ruby-doc.org/core-2.0/NilClass.html#method-i-to_h)
   * [`Struct#to_h`](http://ruby-doc.org/core-2.0/Struct.html#method-i-to_h)
 
-&#8230;and a handful of aliases called `to_hash`, which were also present in 1.9.
+...and a handful of aliases called `to_hash`, which were also present in 1.9.
 
 Here&#8217;s what they do:
 
@@ -98,7 +98,7 @@ That would be especially nice, since then you could convert back and forth from 
 <pre><code class="language-ruby">{ panda: 'bamboo' }.to_a.to_h # =&gt; NoMethodError: undefined method `to_h'
 </code></pre>
 
-&#8230;but alas, that&#8217;s just not how it works. However, we can [try to convince matz otherwise](http://bugs.ruby-lang.org/issues/7292).
+...but alas, that&#8217;s just not how it works. However, we can [try to convince matz otherwise](http://bugs.ruby-lang.org/issues/7292).
 
 Something I found by accident: I screwed up `Hash[]` the first time and got a bunch of new warnings on STDERR.
 
@@ -134,7 +134,7 @@ Fortunately, you can do this:
 JSON.generate(ENV.to_h) # =&gt; "{\"TERM\":\"xterm\",\"SHELL\": ...
 </code></pre>
 
-&#8230;but that feels like an excellent use of `to_h` that should have been a part of `JSON`.
+...but that feels like an excellent use of `to_h` that should have been a part of `JSON`.
 
 ## Enough complaining! Show something useful. {#enoughcomplainingshowsomethinguseful}
 
@@ -149,7 +149,7 @@ Here&#8217;s a simple example. Let&#8217;s say I have a method called `eat`:
 end
 </code></pre>
 
-&#8230;but I want to make sure the `diet` that is passed in is treated like a `Hash`. That&#8217;s possible now:
+...but I want to make sure the `diet` that is passed in is treated like a `Hash`. That&#8217;s possible now:
 
 <pre><code class="language-ruby">def eat(diet)
   "A panda eats #{ diet.to_h[:eats] }"

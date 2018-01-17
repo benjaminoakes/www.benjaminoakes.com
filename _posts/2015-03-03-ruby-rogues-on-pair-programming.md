@@ -16,7 +16,7 @@ tags:
   - Ruby
   - ruby rogues
 ---
-[026 RR Pair Programming &#8211; Ruby Rogues &#8211; DevChat.tv](http://devchat.tv/ruby-rogues/029-pair-programming).
+[026 RR Pair Programming -- Ruby Rogues -- DevChat.tv](http://devchat.tv/ruby-rogues/029-pair-programming).
 
 I&#8217;ve looked this up too many times in conversations with coworkers, so I&#8217;m bookmarking it with this post.
 

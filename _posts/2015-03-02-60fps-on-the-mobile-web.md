@@ -20,7 +20,7 @@ tags:
 > 
 > Now we’re coming full circle and bringing Flipboard to the web. Much of what we do at Flipboard has value independent of what device it’s consumed on: curating the best stories from all the topics, sources, and people that you care about most. Bringing our service to the web was always a logical extension.
 > 
-> [&#8230;]
+> [...]
 > 
 > Most modern mobile devices have hardware-accelerated canvas, so why couldn’t we take advantage of this? HTML5 games certainly do. But could we really develop an application user interface in canvas?
 

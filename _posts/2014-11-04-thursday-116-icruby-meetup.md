@@ -36,4 +36,4 @@ And also, my customary monthly Ruby news roundup:
 >   * Rails 3.2.20, 4.0.11, 4.1.7 released (security fixes) on Oct 30th
 >   * Last Rails 4.2.0 beta released, release candidates coming soon.
 >   * Ruboto 1.2.0 released, with support for ART on Android Lollipop (5.0)
->   * Raptor &#8212; new Ruby web server &#8212; coming out this month. Supposed to be high performance.
+>   * Raptor -- new Ruby web server -- coming out this month. Supposed to be high performance.

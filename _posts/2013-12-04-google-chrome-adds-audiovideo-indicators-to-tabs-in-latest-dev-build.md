@@ -15,4 +15,4 @@ tags:
 ---
 [Google Chrome Adds Audio/Video Indicators To Tabs in Latest Dev Build](http://www.omgchrome.com/google-chrome-tab-audio-features/).
 
-Such a great idea for a feature&#8230; It&#8217;s funny to think it took this long for it to happen.
+Such a great idea for a feature... It&#8217;s funny to think it took this long for it to happen.

@@ -13,6 +13,6 @@ tags:
   - code review
   - style
 ---
-> guides &#8211; A guide for programming in style.
+> guides -- A guide for programming in style.
 
 Source: <a href="https://github.com/thoughtbot/guides" target="_blank">Thoughtbot guides</a>

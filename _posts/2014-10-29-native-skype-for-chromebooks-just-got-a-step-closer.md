@@ -13,6 +13,6 @@ tags:
   - ortc
   - skype
 ---
-[Native Skype for Chromebooks Just Got a Step Closer &#8211; OMG! Chrome!](http://www.omgchrome.com/skype-chromebooks-just-got-step-closer/).
+[Native Skype for Chromebooks Just Got a Step Closer -- OMG! Chrome!](http://www.omgchrome.com/skype-chromebooks-just-got-step-closer/).
 
 With the Chrome runtime for Android and a possible ORTC implementation of Skype, it seems that Skype on Chrome OS is inevitable.

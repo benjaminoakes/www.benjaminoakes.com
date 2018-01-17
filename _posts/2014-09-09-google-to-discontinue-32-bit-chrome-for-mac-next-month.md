@@ -16,6 +16,6 @@ tags:
   - mac mini
   - support
 ---
-<a href="http://www.omgchrome.com/chrome-32-bit-mac-discontinued-later-year" target="_blank">Google to Discontinue 32-bit Chrome for Mac Next Month &#8211; OMG! Chrome</a>.
+<a href="http://www.omgchrome.com/chrome-32-bit-mac-discontinued-later-year" target="_blank">Google to Discontinue 32-bit Chrome for Mac Next Month -- OMG! Chrome</a>.
 
 It&#8217;s sad that I could run the latest Chrome on a Pentium 4 Dell found on the side of the road, but not on the Core Duo Mac mini I bought (for quite a bit, mind you). I don&#8217;t expect support to last forever, but what a disparity.

@@ -1,6 +1,6 @@
 ---
 id: 880
-title: 'heapfrag &#8211; Heap visualizer for Ruby'
+title: 'heapfrag -- Heap visualizer for Ruby'
 date: 2016-05-12T00:28:42+00:00
 author: Ben
 layout: post
@@ -15,4 +15,4 @@ tags:
 ---
 > This is a library for dumping and visualizing your heap in MRI.
 
-Source: <a href="https://github.com/tenderlove/heapfrag" target="_blank">heapfrag &#8211; Heap visualizer for Ruby</a>
+Source: <a href="https://github.com/tenderlove/heapfrag" target="_blank">heapfrag -- Heap visualizer for Ruby</a>

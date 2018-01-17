@@ -35,4 +35,4 @@ Anyway, I thought I&#8217;d share some of the better talks:
   
 * [Several really good Lightning Talks](https://github.com/newhavenrb/conferences/wiki/WindyCityRails-2012-Lightning-Talks)
 
-Both David Chelimsky and Steve Klabnik contributed to the wiki, which was a nice surprise. :) Steve&#8217;s talk was really good, but hard to do it justice with any notes&#8230; I was happy to see that he annotated it.
+Both David Chelimsky and Steve Klabnik contributed to the wiki, which was a nice surprise. :) Steve&#8217;s talk was really good, but hard to do it justice with any notes... I was happy to see that he annotated it.

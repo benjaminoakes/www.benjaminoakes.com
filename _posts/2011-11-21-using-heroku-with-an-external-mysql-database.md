@@ -141,7 +141,7 @@ The rest of the process is the same as in “MySQL with a CA Certificate”.
 
 <blockquote class="twitter-tweet">
   <p>
-    Connect your heroku rails app to an external database &#8211; <a href="http://t.co/12aM8BPh">http://t.co/12aM8BPh</a>
+    Connect your heroku rails app to an external database -- <a href="http://t.co/12aM8BPh">http://t.co/12aM8BPh</a>
   </p>
   
   <p>

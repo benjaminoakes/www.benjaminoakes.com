@@ -15,6 +15,6 @@ tags:
   - Caucus
   - iowa
 ---
-[Microsoft Will Help Iowa Caucuses Go High-Tech &#8211; Slashdot](http://classic.slashdot.org/story/15/06/08/1945208).
+[Microsoft Will Help Iowa Caucuses Go High-Tech -- Slashdot](http://classic.slashdot.org/story/15/06/08/1945208).
 
 > Poltical party caucuses are one of the quirkier aspects of American political life: local party members gather in small rooms across the state, discuss their preferences, and send a report of how many delegates for each candidate will attend later county and statewide caucuses to ultimately choose delegates to the national convention. It&#8217;s also a system with a lot of room for error in reporting, as local precinct leaders have traditionally sent in reports of votes via telephone touch-tone menus and paper mail. In 2016, Microsoft will help both Democrats and Republicans streamline the process.

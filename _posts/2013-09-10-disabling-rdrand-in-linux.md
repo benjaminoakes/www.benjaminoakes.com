@@ -22,11 +22,11 @@ tags:
   - RdRand
   - security
 ---
-[Linus Responds To RdRand Petition With Scorn &#8211; Slashdot](http://linux.slashdot.org/story/13/09/10/1311247/linus-responds-to-rdrand-petition-with-scorn?utm_source=rss1.0mainlinkanon&utm_medium=feed).
+[Linus Responds To RdRand Petition With Scorn -- Slashdot](http://linux.slashdot.org/story/13/09/10/1311247/linus-responds-to-rdrand-petition-with-scorn?utm_source=rss1.0mainlinkanon&utm_medium=feed).
   
 [Torvalds&#8217; response to whether RdRand could be compromised in the Linux kernel | Hacker News](https://news.ycombinator.com/item?id=6359892).
   
-[Linus Torvalds responds &#8211; Change.org](http://www.change.org/en-GB/petitions/linus-torvalds-remove-rdrand-from-dev-random-4/responses/9066).
+[Linus Torvalds responds -- Change.org](http://www.change.org/en-GB/petitions/linus-torvalds-remove-rdrand-from-dev-random-4/responses/9066).
 
 This got a surprising amount of attention, mostly because of one of Linus&#8217; classic responses. My feeling is that it&#8217;s good to question these types of things. However, making a petition against using a hardware random number generator, and including some vague concerns about the NSA probably isn&#8217;t quite the right way to go about it.
 

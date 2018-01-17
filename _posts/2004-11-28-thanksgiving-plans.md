@@ -15,12 +15,12 @@ tags:
 This being Thanksgiving vacation, I had some major goals:
 
   1. Eat. Watch a movie. (The easiest and best goal, if you ask me)
-  2. Finish up all the chores I had been neglecting (which took an entire day&#8211;I was expecting more)
+  2. Finish up all the chores I had been neglecting (which took an entire day--I was expecting more)
   3. Get all the homework that I can done
   4. Do tons of research and order a new computer
   5. Blog
 
-I&#8217;ve been living with this computer of mine for far too long. It has a multitude of problems that reside in the hardware of the computer itself&#8211;enough of them that I don&#8217;t want to replace anything else. It was a computer from circa &#8217;97 that I had outfitted with new hardware. So, after three (or four?) motherboards, processors, a new hard drive, optical drives, and many other substantial upgrades of which I will not delve into, it&#8217;s an entirely different computer than it was. You wouldn&#8217;t recognize it if it were not for the case.
+I&#8217;ve been living with this computer of mine for far too long. It has a multitude of problems that reside in the hardware of the computer itself--enough of them that I don&#8217;t want to replace anything else. It was a computer from circa &#8217;97 that I had outfitted with new hardware. So, after three (or four?) motherboards, processors, a new hard drive, optical drives, and many other substantial upgrades of which I will not delve into, it&#8217;s an entirely different computer than it was. You wouldn&#8217;t recognize it if it were not for the case.
 
 Of course, now it has some problems. One of the hard drives is the original one from the computer, which I have since filled to the brim with MP3s. It&#8217;s dying. Quickly too. I think I have a backup of most of the data on it that&#8217;s important, but it&#8217;s mainly just music. Plus, I have most of the source CD&#8217;s.
 
@@ -140,12 +140,12 @@ HP zv5000t series](http://www.shopping.hp.com/webapp/shopping/computer_series.do
   </tr>
 </table>
 
-**Editor&#8217;s note:** this was quite possibly the worst computer I&#8217;ve ever owned, looking back on it from 2010. I&#8217;ve since vowed never to get an HP again after they wouldn&#8217;t do an in warranty repair after it died within a year. I&#8217;m now on the Mac and couldn&#8217;t be happier. I can&#8217;t even believe how much I spent on this thing too&#8230;
+**Editor&#8217;s note:** this was quite possibly the worst computer I&#8217;ve ever owned, looking back on it from 2010. I&#8217;ve since vowed never to get an HP again after they wouldn&#8217;t do an in warranty repair after it died within a year. I&#8217;m now on the Mac and couldn&#8217;t be happier. I can&#8217;t even believe how much I spent on this thing too...
 
 The processor is 200 MHz slower, but the 512 MB more RAM than the Vaio K33 will more than make up the difference. In many other areas, it&#8217;s just a tiny bit better, but still very comparable. I love the fact that he went down to [Nebraska Furniture Mart](http://www.nfm.com/) to buy his and ended up paying around $1700 after taxes, etc. I&#8217;m paying less than that and getting a 802.11g router and a printer, no taxes, no shipping. The great part is that I would have been buying these anyway.
 
 If you know anything about computers at all, you might just be drooling over these configurations. Or is that just me? In case you&#8217;re wondering why I&#8217;m going with such high specs, it&#8217;s because I do tons with digital video.
 
-There&#8217;s still a big road block to me ordering though. I didn&#8217;t like the Sony notebook because they only supported their own proprietary Memory Stick. I thought that the HP had one of their 5-in-1 media readers, but I&#8217;m not sure at this point. Their [specs](http://www.shopping.hp.com/webapp/shopping/computer_series.do?storeName=computer_store&category=notebooks/hp_pavilion&series_name=zv5000t_series&catLevel=2&tab_switch=true&tab=specs) page doesn&#8217;t mention it at all, but the [3D tour](http://h71016.www7.hp.com/HTML/interactive/zv5000/model.html) (requires Internet Explorer, bleh) devotes a section to it. I&#8217;m still waiting for their sales team to get back to me&#8211;the sooner the better.
+There&#8217;s still a big road block to me ordering though. I didn&#8217;t like the Sony notebook because they only supported their own proprietary Memory Stick. I thought that the HP had one of their 5-in-1 media readers, but I&#8217;m not sure at this point. Their [specs](http://www.shopping.hp.com/webapp/shopping/computer_series.do?storeName=computer_store&category=notebooks/hp_pavilion&series_name=zv5000t_series&catLevel=2&tab_switch=true&tab=specs) page doesn&#8217;t mention it at all, but the [3D tour](http://h71016.www7.hp.com/HTML/interactive/zv5000/model.html) (requires Internet Explorer, bleh) devotes a section to it. I&#8217;m still waiting for their sales team to get back to me--the sooner the better.
 
 Oh, and by the way, here&#8217;s a wholehearted thank you to Mel (she&#8217;s the one that took the pictures of me and my &#8220;fan club&#8221;) for helping me decide on specs.

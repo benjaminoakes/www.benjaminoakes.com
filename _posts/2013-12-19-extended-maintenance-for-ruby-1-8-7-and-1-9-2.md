@@ -27,7 +27,7 @@ From the post:
 
 > This maintenance extension is made possible by Heroku, see their blog post A Patch in Time: Securing Ruby for more information.
 > 
-> [&#8230;]
+> [...]
 > 
 > You may remember an announcement approximately 6 months ago that sunset 1.8.7.
 > 

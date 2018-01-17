@@ -1,6 +1,6 @@
 ---
 id: 990
-title: 'Sonic Pi &#8211; The Live Coding Music Synth for Everyone'
+title: 'Sonic Pi -- The Live Coding Music Synth for Everyone'
 date: 2016-12-30T22:47:06+00:00
 author: Ben
 layout: post
@@ -38,8 +38,8 @@ Source: [Aerodynamic · mxs](https://aimxhaisse.com/aerodynamic-en.html)
 
 > OSC-over-UDP is just OSC packed data sent over a UDP connection. My first serious encounter with OSC-over-UDP was when I attended strangloop and talked about The Mess We&#8217;re In
 > 
-> I bumped into Sam Aaron, the unstoppable force behind Sonic Pi and said that it would be really cool to control Sonic Pi from Erlang. &#8230;
+> I bumped into Sam Aaron, the unstoppable force behind Sonic Pi and said that it would be really cool to control Sonic Pi from Erlang. ...
 > 
 > Sam told me that to control Sonic Pi all I had to do was send it OSC encoded messages over UDP. 
 
-Source: [Joe Armstrong &#8211; A Badass Way to Connect Programs Togther](https://joearms.github.io/2016/01/28/A-Badass-Way-To-Connect-Programs-Together.html)
+Source: [Joe Armstrong -- A Badass Way to Connect Programs Togther](https://joearms.github.io/2016/01/28/A-Badass-Way-To-Connect-Programs-Together.html)

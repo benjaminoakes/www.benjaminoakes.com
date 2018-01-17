@@ -17,4 +17,4 @@ tags:
 
 > IOWA CITY — Iowa is well equipped to become the first state in the nation with a roadway certified for driverless cars, and researchers this week met with government and transportation officials to discuss the possibilities. 
 
-Mark Nolte from ICAD has been a big proponent of this, and it&#8217;s a lot more likely than you might initially think&#8230;
+Mark Nolte from ICAD has been a big proponent of this, and it&#8217;s a lot more likely than you might initially think...

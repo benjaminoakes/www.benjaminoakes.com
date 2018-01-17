@@ -14,6 +14,6 @@ tags:
 ---
 [Doctor Who game helps kids to learn to code (Wired UK)](http://www.wired.co.uk/news/archive/2015-02/06/doctor-who-coding-game).
 
-> The BBC has revealed its fiendish side &#8212; tricking kids into learning how to code with a free Doctor Who game. The Doctor and the Dalek is available now on Android, iOS, and Amazon app stores, and combines a platforming adventure with an introduction to Boolean logic-based programming.
+> The BBC has revealed its fiendish side -- tricking kids into learning how to code with a free Doctor Who game. The Doctor and the Dalek is available now on Android, iOS, and Amazon app stores, and combines a platforming adventure with an introduction to Boolean logic-based programming.
 
 How unfair that this is limited to residents of the UK.

@@ -11,6 +11,6 @@ categories:
 ---
 > Patients under “hypnosedation” go to their happy place while skull is opened.
 > 
-> Just imagine that the whirring noise &#8212; from drills and saws cutting into your skull &#8212; is the gentle engine-hum of a motorboat, gliding past your canoe as you float in a tranquil lake.
+> Just imagine that the whirring noise -- from drills and saws cutting into your skull -- is the gentle engine-hum of a motorboat, gliding past your canoe as you float in a tranquil lake.
 
 Source: _[Hypnosis replaces anesthetic in brain surgery—and there’s video](http://arstechnica.com/science/2016/01/hypnosis-replaces-anesthetic-in-brain-surgery-and-theres-video/)_

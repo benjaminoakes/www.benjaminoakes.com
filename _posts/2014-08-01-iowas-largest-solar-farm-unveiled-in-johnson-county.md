@@ -20,10 +20,10 @@ Great to hear. Makes me wonder how much energy Iowa could produce compared to wh
 
 > The array is capable of generating up to 1,800 watts of solar power per customer, giving the cooperative the highest per-capita solar generation rate of any utility in the nation, said Warren McKenna, general manager and CEO of Farmers Electric Cooperative.
 > 
-> [&#8230;]
+> [...]
 > 
 > Iowa Deputy Secretary of Agriculture Michael Naig said the state already leads the nation when it comes to wind energy, with 27.4 percent of Iowa&#8217;s total energy production coming from that renewable source, along with ethanol and biodiesel, which contributed $5.5 billion to Iowa&#8217;s gross domestic product last year.
 > 
-> [&#8230;]
+> [...]
 > 
 > Keys said with the U.S. sending about $1 billion each day overseas to purchase energy, &#8220;homegrown&#8221; renewable sources such as solar power represent an important step in reducing that foreign dependency.

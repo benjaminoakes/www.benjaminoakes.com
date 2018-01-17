@@ -14,7 +14,7 @@ tags:
   - personal finance
   - wesabe
 ---
-[Why Wesabe Lost to Mint &#8211; Marc Hedlund&#8217;s Blog](http://blog.precipice.org/why-wesabe-lost-to-mint/).
+[Why Wesabe Lost to Mint -- Marc Hedlund&#8217;s Blog](http://blog.precipice.org/why-wesabe-lost-to-mint/).
 
 I&#8217;ve come across this blog post a number of times, and it always makes me think. (Wesabe is also notable for having [open sourced their code after failing](https://github.com/wesabe/), though it hasn&#8217;t gotten much continued development.) Regardless, more companies should share stories like these so others can learn from them.
 

@@ -12,7 +12,7 @@ tags:
   - Built on Rock and Roll
   - iowa city
 ---
-[Iowa City to be renamed Iowa Rock City &#8211; Little Village](http://littlevillagemag.com/iowa-city-to-be-renamed-iowa-rock-city/).
+[Iowa City to be renamed Iowa Rock City -- Little Village](http://littlevillagemag.com/iowa-city-to-be-renamed-iowa-rock-city/).
 
 > The tongue-in-cheek “rocklamation” claims that “the City of Iowa City’s official name contains redundancies and is not sufficiently rocking enough.” The proclamation also states that Iowa City was built on rock and roll, that “the kids are all right” and that the children are indeed the future. 
 

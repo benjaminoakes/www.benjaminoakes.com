@@ -19,4 +19,4 @@ tags:
 > 
 > They were originally built for use with CruiseControl, but they work just as well with Travis CI, and you can use either to poll your Travis CI repositories and have their status show in the menu bar or tray.
 
-Source: _[Using CCMenu with Travis CI &#8211; Travis CI](https://docs.travis-ci.com/user/cc-menu)_
+Source: _[Using CCMenu with Travis CI -- Travis CI](https://docs.travis-ci.com/user/cc-menu)_

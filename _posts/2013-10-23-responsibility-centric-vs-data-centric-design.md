@@ -17,6 +17,6 @@ tags:
   - service
   - software engineering
 ---
-[Issue 4.11: Responsibility-centric vs. data-centric design &#8211; Practicing Ruby](https://practicingruby.com/articles/responsibility-centric-vs-data-centric-design?u=dc2ab0f9bb).
+[Issue 4.11: Responsibility-centric vs. data-centric design -- Practicing Ruby](https://practicingruby.com/articles/responsibility-centric-vs-data-centric-design?u=dc2ab0f9bb).
 
-A good read; got me thinking about how we should structure our coming projects.  However, my feeling is that in a Rails app, a hybrid approach seems to work well&#8230; leave persistence and querying to ActiveRecord objects, and use services in the way this article suggests.
+A good read; got me thinking about how we should structure our coming projects.  However, my feeling is that in a Rails app, a hybrid approach seems to work well... leave persistence and querying to ActiveRecord objects, and use services in the way this article suggests.

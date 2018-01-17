@@ -36,7 +36,7 @@ From [my question on StackOverflow](http://stackoverflow.com/questions/2546503/c
 >     ...
 >     q2 + q5 + q13 + q25 + ... + q122 / 12 as domain_score_14
 > 
-> &#8230;but i need to pull out the nulls and average based on the non-nulls. So, for `domain_score_1` (which has 11 items), I would need to do:
+> ...but i need to pull out the nulls and average based on the non-nulls. So, for `domain_score_1` (which has 11 items), I would need to do:
 > 
 > <pre><code class="no-highlight">Input:  3, 5, NULL, 7, 2, NULL, 3, 1, 5, NULL, 1
 

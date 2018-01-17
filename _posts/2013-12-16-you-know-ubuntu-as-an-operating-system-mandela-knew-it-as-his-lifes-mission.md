@@ -18,4 +18,4 @@ tags:
 
 > Yet the system&#8217;s name didn&#8217;t spring from nowhere. It&#8217;s inspired by a notion that&#8217;s even less tangible than a bunch of ones and zeroes; it describes, Obama said, the extent of Mandela&#8217;s compassion.
 > 
-> > There is a word in South Africa — Ubuntu, a word that captures Mandela’s greatest gift: His recognition that we are all bound together in ways that are invisible to the eye; that there is a oneness to humanity; that we achieve ourselves by sharing ourselves with others, and caring for those around us. &#8230; He not only embodied Ubuntu, he taught millions to find that truth within themselves.
+> > There is a word in South Africa — Ubuntu, a word that captures Mandela’s greatest gift: His recognition that we are all bound together in ways that are invisible to the eye; that there is a oneness to humanity; that we achieve ourselves by sharing ourselves with others, and caring for those around us. ... He not only embodied Ubuntu, he taught millions to find that truth within themselves.

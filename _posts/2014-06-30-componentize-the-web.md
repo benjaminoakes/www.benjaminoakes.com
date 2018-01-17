@@ -13,6 +13,6 @@ tags:
   - polymer
   - shadow dom
 ---
-[Componentize the Web &#8211; YouTube](https://www.youtube.com/watch?v=2toYLLcoY14).
+[Componentize the Web -- YouTube](https://www.youtube.com/watch?v=2toYLLcoY14).
 
 Polymer tabs tutorial with Addy Osmani.

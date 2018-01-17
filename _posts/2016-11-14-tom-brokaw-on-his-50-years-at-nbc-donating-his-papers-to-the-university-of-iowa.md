@@ -18,4 +18,4 @@ tags:
 
 > As he celebrates a milestone 50 years at NBC, Tom Brokaw tells TODAY he’s planning to donate his papers and memorabilia to the library at the University of Iowa.
 
-Source: _[Tom Brokaw on his 50 years at NBC, Donald Trump’s ‘unforeseen’ win &#8211; TODAY.com](http://www.today.com/video/tom-brokaw-on-his-50-years-at-nbc-donald-trump-s-unforeseen-win-805618755912)_
+Source: _[Tom Brokaw on his 50 years at NBC, Donald Trump’s ‘unforeseen’ win -- TODAY.com](http://www.today.com/video/tom-brokaw-on-his-50-years-at-nbc-donald-trump-s-unforeseen-win-805618755912)_

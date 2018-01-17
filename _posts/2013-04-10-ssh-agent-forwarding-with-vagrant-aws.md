@@ -68,4 +68,4 @@ There&#8217;s a related change that can be made to make `vagrant ssh-config` mat
    ForwardAgent yes
 </code></pre>
 
-That was enough to get our SSH agent forwarding to work. These changes make sense in the context of AWS, but probably not in Vagrant at large. I&#8217;m tempted to make a pull request, but the above changes are a little half baked &#8212; and `vagrant-aws` still needs some fine tuning before the change can **really** be tested.
+That was enough to get our SSH agent forwarding to work. These changes make sense in the context of AWS, but probably not in Vagrant at large. I&#8217;m tempted to make a pull request, but the above changes are a little half baked -- and `vagrant-aws` still needs some fine tuning before the change can **really** be tested.

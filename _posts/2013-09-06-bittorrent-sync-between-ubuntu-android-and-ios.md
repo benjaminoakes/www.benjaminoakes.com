@@ -17,13 +17,13 @@ tags:
   - Linux
   - Sync
 ---
-[BitTorrent Labs &#8211; Sync](http://labs.bittorrent.com/experiments/sync.html).
+[BitTorrent Labs -- Sync](http://labs.bittorrent.com/experiments/sync.html).
 
-I was happy to find our today that BitTorrent Sync is available for iOS, in addition to Ubuntu, Android, and a wide variety of other Linux platforms.  My NAS has a MIPS processor though, so it can&#8217;t run Sync&#8230; yet.
+I was happy to find our today that BitTorrent Sync is available for iOS, in addition to Ubuntu, Android, and a wide variety of other Linux platforms.  My NAS has a MIPS processor though, so it can&#8217;t run Sync... yet.
 
 I&#8217;ve been intrigued by the concept behind BitTorrent Sync, as I don&#8217;t like the idea of all my music, documents, etc having to go through the Internet _and_ a third party just to be synced wirelessly. I&#8217;ve tried other options like [SparkleShare](http://sparkleshare.org) (which works well for small files, but isn&#8217;t good on mobile at all) and [ownCloud](https://owncloud.com) (more Dropbox-like, but needs polish). I&#8217;m hoping Sync will meet their shortcomings.
 
-The iOS port seems much more limited than Android &#8212; probably because of platform constraints, which may explain why it took longer. For example, Android seems nicer in that BitTorrent Synced music can be played in any music app. Also, it doesn&#8217;t seem to support &#8220;Open In&#8221; for iOS, at least for PDFs.  I really wish iOS app integration was more like Android in this respect.  (Apple, there&#8217;s more on my iPhone than a shared photo library!)
+The iOS port seems much more limited than Android -- probably because of platform constraints, which may explain why it took longer. For example, Android seems nicer in that BitTorrent Synced music can be played in any music app. Also, it doesn&#8217;t seem to support &#8220;Open In&#8221; for iOS, at least for PDFs.  I really wish iOS app integration was more like Android in this respect.  (Apple, there&#8217;s more on my iPhone than a shared photo library!)
 
 That&#8217;s just my quick take, as I&#8217;ve used it very little so far.
 

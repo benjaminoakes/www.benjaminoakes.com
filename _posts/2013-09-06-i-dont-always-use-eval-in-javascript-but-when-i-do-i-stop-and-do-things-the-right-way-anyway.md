@@ -16,7 +16,7 @@ categories:
 
 <blockquote class="twitter-tweet">
   <p>
-    <a href="https://twitter.com/benjaminoakes">@benjaminoakes</a> Love it. I don't always test, but when I do&#8230;
+    <a href="https://twitter.com/benjaminoakes">@benjaminoakes</a> Love it. I don't always test, but when I do...
   </p>
   
   <p>

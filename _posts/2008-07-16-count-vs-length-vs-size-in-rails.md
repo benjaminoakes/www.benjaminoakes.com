@@ -14,4 +14,4 @@ tags:
   - length
   - size
 ---
-I knew I had found a [blog post](http://blog.hasmanythrough.com/2008/2/27/count-length-size) about the differences at one point &#8212; I always get confused about it as well.
+I knew I had found a [blog post](http://blog.hasmanythrough.com/2008/2/27/count-length-size) about the differences at one point -- I always get confused about it as well.

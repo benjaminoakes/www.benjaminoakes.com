@@ -13,4 +13,4 @@ categories:
 ---
 [RSS Feeds Directory for Facebook, YouTube, Pinterest and More](http://www.labnol.org/internet/rss-feeds-directory/21242/). I came to this site looking for individual Facebook status feeds in RSS (which aren&#8217;t included), but I found several other feeds for common services.
 
-[RSS it for Me! &#8211; RSS generator for Twitter (previously 'RSS 4 Twitter')](http://www.rssitfor.me/). Unfortunately, Twitter killed off its RSS feeds. This service seems to work pretty well for following all tweets from a user.
+[RSS it for Me! -- RSS generator for Twitter (previously 'RSS 4 Twitter')](http://www.rssitfor.me/). Unfortunately, Twitter killed off its RSS feeds. This service seems to work pretty well for following all tweets from a user.

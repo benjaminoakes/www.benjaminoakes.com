@@ -17,7 +17,7 @@ tags:
 ---
 This is the first of a series of posts about code I have in my [GitHub repositories](http://www.github.com/benjaminoakes).
 
-I&#8217;m often annoyed that I have to wait for iTunes to download the [NBC Nightly News podcast](http://www.msnbc.msn.com/id/8132577/) so I can watch it in the morning. I also don&#8217;t like iTunes&#8217; video player much &#8212; it&#8217;s slow and crashes all the time. (Why Apple hasn&#8217;t ported iTunes from Carbon to Cocoa is sometimes beyond me&#8230; but I&#8217;m sure it will happen eventually.)
+I&#8217;m often annoyed that I have to wait for iTunes to download the [NBC Nightly News podcast](http://www.msnbc.msn.com/id/8132577/) so I can watch it in the morning. I also don&#8217;t like iTunes&#8217; video player much -- it&#8217;s slow and crashes all the time. (Why Apple hasn&#8217;t ported iTunes from Carbon to Cocoa is sometimes beyond me... but I&#8217;m sure it will happen eventually.)
 
 Recently, I found out that NBC always publishes their podcast to the same location every day, so it was easy to make an AppleScript to open it in QuickTime X. QuickTime X starts playing it right away, without making me have to wait for it to download completely (or wait for iTunes to catch up with me).
 

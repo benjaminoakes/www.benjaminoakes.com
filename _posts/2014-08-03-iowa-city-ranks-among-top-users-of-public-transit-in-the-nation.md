@@ -12,7 +12,7 @@ tags:
   - environmentalism
   - transit
 ---
-[Iowa City ranks among top users of public transit in the nation &#8211; TheGazette](http://thegazette.com/subject/news/iowa-city-ranks-among-top-users-of-public-transit-in-the-nation-20140801).
+[Iowa City ranks among top users of public transit in the nation -- TheGazette](http://thegazette.com/subject/news/iowa-city-ranks-among-top-users-of-public-transit-in-the-nation-20140801).
 
 Way to go, Iowa City! Almost in the top ten for the United States. Number 11 isn&#8217;t bad, but we&#8217;re so close to beating Philadelphia that we should make that a goal. :)
 

@@ -1,6 +1,6 @@
 ---
 id: 752
-title: 'I Left the Coast for a Simpler Life in the Midwest &#8211; and You Can, Too'
+title: 'I Left the Coast for a Simpler Life in the Midwest -- and You Can, Too'
 date: 2015-11-01T15:47:58+00:00
 author: Ben
 layout: post
@@ -11,7 +11,7 @@ categories:
 ---
 > Longing for a simpler, less-expensive life? Don&#8217;t fear the seasons or the slower pace of small, Midwestern cities like Madison, Wis.
 
-Source: _[I Left the Coast for a Simpler Life in the Midwest &#8211; and You Can, Too &#8211; The Simple Dollar](http://www.thesimpledollar.com/seeking-the-simple-life-leave-the-coast/)_
+Source: _[I Left the Coast for a Simpler Life in the Midwest -- and You Can, Too -- The Simple Dollar](http://www.thesimpledollar.com/seeking-the-simple-life-leave-the-coast/)_
 
 You&#8217;re welcome to join us in Iowa City as well.
 

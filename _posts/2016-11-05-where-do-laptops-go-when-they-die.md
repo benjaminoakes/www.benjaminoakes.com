@@ -15,7 +15,7 @@ tags:
 ---
 > The rest of the e-waste entering Wistron&#8217;s recycling plant has a different fate. Cables go one way to have their copper recovered. Steel frames go another. Lithium-ion batteries go to dedicated lithium operations. Case fans might even be saved and reused. Any components that can be yanked off circuit boards are, and then it&#8217;s on to precious metals.
 > 
-> [&#8230;]
+> [...]
 > 
 > &#8220;In some ways, it&#8217;s gotta start on the front end, in terms of consumers wanting products that are more recyclable,&#8221; Huang said.
 > 

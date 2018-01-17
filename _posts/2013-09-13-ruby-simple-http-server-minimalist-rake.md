@@ -31,7 +31,7 @@ Here it is:
 
 (from [Aaron Patterson&#8217;s tweet](https://twitter.com/tenderlove/status/351554818579505152) found via [Zach Morek](http://zachmorek.com))
 
-It&#8217;s pretty much the same, except it&#8217;s written in Ruby. More often than not, that&#8217;s not a big difference &#8212; except I can understand [the code behind it](https://github.com/ruby/ruby/blob/trunk/lib/un.rb#L313).
+It&#8217;s pretty much the same, except it&#8217;s written in Ruby. More often than not, that&#8217;s not a big difference -- except I can understand [the code behind it](https://github.com/ruby/ruby/blob/trunk/lib/un.rb#L313).
 
 <pre><code class="ruby">#
 # = un.rb

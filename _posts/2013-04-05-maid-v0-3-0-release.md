@@ -33,6 +33,6 @@ I did have to make [some expected changes from `move` to `rename`](https://githu
 
 Otherwise, work is progressing on [the next version of Maid](https://github.com/benjaminoakes/maid/issues?milestone=6&state=open) also. Hopefully there will be another beta soon.
 
-But in the meantime, Maid v0.3.0 has already been [downloaded 62 times](https://rubygems.org/gems/maid/versions/0.3.0). If you haven&#8217;t already given it a try, maybe Maid can help you with your spring cleaning&#8230; :)
+But in the meantime, Maid v0.3.0 has already been [downloaded 62 times](https://rubygems.org/gems/maid/versions/0.3.0). If you haven&#8217;t already given it a try, maybe Maid can help you with your spring cleaning... :)
 
 Enjoy!

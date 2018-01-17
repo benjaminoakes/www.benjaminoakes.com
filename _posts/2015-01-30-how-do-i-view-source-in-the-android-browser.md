@@ -13,6 +13,6 @@ tags:
   - Android
   - chrome
 ---
-[html &#8211; How do I view source in the Android browser? &#8211; Android Enthusiasts Stack Exchange](http://android.stackexchange.com/questions/5039/how-do-i-view-source-in-the-android-browser).
+[html -- How do I view source in the Android browser? -- Android Enthusiasts Stack Exchange](http://android.stackexchange.com/questions/5039/how-do-i-view-source-in-the-android-browser).
 
 As a bookmarklet: <code class="javascript">javascript:document.location='view-source:'+document.location;</code>

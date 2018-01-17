@@ -19,6 +19,6 @@ I especially like some of the comments:
 > 
 > Good on Iowa City&#8217;s residents. (And a pretty nifty way to transition a petition to law.) 
 
-> How&#8217;s the IT job market in Iowa City? I may just move&#8230; 
+> How&#8217;s the IT job market in Iowa City? I may just move... 
 
 > Reasons like this are why I love Iowa City and would like to relocate there in the future.

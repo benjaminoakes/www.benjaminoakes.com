@@ -1,6 +1,6 @@
 ---
 id: 357
-title: 'Programming Language: Objective CorporateSpeak++ &#8211; Floopsy&#8217;s Sketchpad'
+title: 'Programming Language: Objective CorporateSpeak++ -- Floopsy&#8217;s Sketchpad'
 date: 2013-10-30T13:46:30+00:00
 author: Ben
 layout: post
@@ -13,9 +13,9 @@ tags:
   - funny
   - language
 ---
-[Programming Language: Objective CorporateSpeak++ &#8211; Floopsy&#8217;s Sketchpad](http://www.floopsy.com/post/32660494624/programming-language-objective-corporatespeak).
+[Programming Language: Objective CorporateSpeak++ -- Floopsy&#8217;s Sketchpad](http://www.floopsy.com/post/32660494624/programming-language-objective-corporatespeak).
 
-Business speak and programming languages, mixed together&#8230;   Funny if you&#8217;ve ever spent time in either world..
+Business speak and programming languages, mixed together...   Funny if you&#8217;ve ever spent time in either world..
 
 From the page:
 

@@ -49,7 +49,7 @@ Since Jyrki&#8217;s post is licensed under [a Creative Commons Attribution 3.0 U
 >   </p>
 >   
 >   <h2>
->     &#8230;and the software
+>     ...and the software
 >   </h2>
 >   
 >   <p>

@@ -12,4 +12,4 @@ tags:
   - amazon
   - danielle
 ---
-My [girlfriend](http://theadventuresofdanielle05.blogspot.com/) is moving in just a few days but still has quite a few books listed on Amazon that would be great to sell before packing everything up. [Take a look around](http://www.amazon.com/shops/alternate-imagination-media) &#8212; you might find something worth picking up!
+My [girlfriend](http://theadventuresofdanielle05.blogspot.com/) is moving in just a few days but still has quite a few books listed on Amazon that would be great to sell before packing everything up. [Take a look around](http://www.amazon.com/shops/alternate-imagination-media) -- you might find something worth picking up!

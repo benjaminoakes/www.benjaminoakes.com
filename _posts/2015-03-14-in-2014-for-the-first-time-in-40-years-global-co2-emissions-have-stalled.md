@@ -11,7 +11,7 @@ categories:
 tags:
   - Carbon footprint
 ---
-[In 2014, for the first time in 40 years, global CO2 emissions have stalled, but&#8230; : TreeHugger](http://www.treehugger.com/climate-change/2014-first-time-40-years-global-co2-emissions-stalled-32-billion-tonnes.html).
+[In 2014, for the first time in 40 years, global CO2 emissions have stalled, but... : TreeHugger](http://www.treehugger.com/climate-change/2014-first-time-40-years-global-co2-emissions-stalled-32-billion-tonnes.html).
   
 [For the first time, the world economy grows while carbon emissions don't | The Verge](http://www.theverge.com/2015/3/13/8211817/carbon-dioxide-emissions-world-economy-link).
 

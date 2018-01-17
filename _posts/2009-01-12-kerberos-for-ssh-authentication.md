@@ -29,7 +29,7 @@ I had a problem using Kerberos for SSH authentication on a MacBook Pro using Mac
 > 
 >     debug3: preferred publickey,keyboard-interactive,password
 > 
-> &#8230;as my user, but as a different user (which works) I have:
+> ...as my user, but as a different user (which works) I have:
 > 
 >     debug3: preferred gssapi-keyex,gssapi-with-mic,publickey,keyboard-interactive,password
 > 
@@ -39,7 +39,7 @@ I had a problem using Kerberos for SSH authentication on a MacBook Pro using Mac
   
 > 5) ssh keys don&#8217;t work either
 > 
-> Any help would be appreciated &#8212; having to type in passwords with every bzr command isn&#8217;t fun!
+> Any help would be appreciated -- having to type in passwords with every bzr command isn&#8217;t fun!
 
 After lots of trial and error, I knew:
 
@@ -50,7 +50,7 @@ After lots of trial and error, I knew:
 
 <pre><code class="no-highlight">debug3: publickey,keyboard-interactive,password</code></pre>
 
-&#8230;as my user, but as a different user (which worked) I had:
+...as my user, but as a different user (which worked) I had:
 
 <pre><code class="no-highlight">debug3: preferred gssapi-keyex,gssapi-with-mic,publickey,keyboard-interactive,password</code></pre>
 

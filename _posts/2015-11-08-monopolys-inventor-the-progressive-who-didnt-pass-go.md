@@ -13,4 +13,4 @@ categories:
 > 
 > She created two sets of rules for her game: an anti-monopolist set in which all were rewarded when wealth was created, and a monopolist set in which the goal was to create monopolies and crush opponents. Her dualistic approach was a teaching tool meant to demonstrate that the first set of rules was morally superior.
 
-Source: _[Monopoly’s Inventor: The Progressive Who Didn’t Pass ‘Go’ &#8211; The New York Times](http://www.nytimes.com/2015/02/15/business/behind-monopoly-an-inventor-who-didnt-pass-go.html)_
+Source: _[Monopoly’s Inventor: The Progressive Who Didn’t Pass ‘Go’ -- The New York Times](http://www.nytimes.com/2015/02/15/business/behind-monopoly-an-inventor-who-didnt-pass-go.html)_

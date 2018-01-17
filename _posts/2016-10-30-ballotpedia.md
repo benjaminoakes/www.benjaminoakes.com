@@ -15,6 +15,6 @@ tags:
 ---
 > Ballotpedia: The Encyclopedia of American Politics
 
-Source: _[Iowa Supreme Court &#8211; Ballotpedia](https://ballotpedia.org/Iowa_Supreme_Court)_
+Source: _[Iowa Supreme Court -- Ballotpedia](https://ballotpedia.org/Iowa_Supreme_Court)_
 
 This is a useful reference for the upcoming election. They seem to have info about most sections of the ballot.

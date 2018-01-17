@@ -9,7 +9,7 @@ permalink: /2014/10/14/largest-climate-change-march-in-history-unlikely-to-convi
 categories:
   - Sustainability
 ---
-[Largest Climate-Change March in History Unlikely to Convince Idiots &#8211; The New Yorker](http://www.newyorker.com/humor/borowitz-report/largest-climate-change-march-history-unlikely-convince-idiots?mbid=rss).
+[Largest Climate-Change March in History Unlikely to Convince Idiots -- The New Yorker](http://www.newyorker.com/humor/borowitz-report/largest-climate-change-march-history-unlikely-convince-idiots?mbid=rss).
 
 Andy Borowitz cuts right to the core. I wish this were less true.
 

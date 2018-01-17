@@ -20,7 +20,7 @@ Just as proof that the government shutdown does have an affect, this is a proble
 
 From [the GitHub issue I opened](https://github.com/criticaljuncture/federal_register/issues/6):
 
-> We noticed the Federal Register was giving us fewer results than normal. At first we thought it was a problem with our code&#8230; but it&#8217;s actually because of the government shutdown. There are only updates that &#8220;address imminent threats to the safety of human life or protection of property&#8221; &#8212; which would seem to explain the issue.
+> We noticed the Federal Register was giving us fewer results than normal. At first we thought it was a problem with our code... but it&#8217;s actually because of the government shutdown. There are only updates that &#8220;address imminent threats to the safety of human life or protection of property&#8221; -- which would seem to explain the issue.
 > 
 > Full text of [a banner on the Federal Register site](https://www.federalregister.gov/):
 > 

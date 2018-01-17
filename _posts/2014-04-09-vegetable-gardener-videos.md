@@ -14,7 +14,7 @@ tags:
   - preperation
   - vegetables
 ---
-[Video: Planting Out &#8211; Vegetable Gardener Videos](http://www.vegetablegardener.com/item/6454/video-planting-out).
+[Video: Planting Out -- Vegetable Gardener Videos](http://www.vegetablegardener.com/item/6454/video-planting-out).
 
 I&#8217;m getting ready to move some plants I started inside out to our yard, so this video was helpful. They have a lot of good information in their video series. Here&#8217;s a quick list:
 

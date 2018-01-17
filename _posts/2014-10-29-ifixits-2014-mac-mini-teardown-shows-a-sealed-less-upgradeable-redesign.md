@@ -13,6 +13,6 @@ categories:
 
 It&#8217;s funny, I was just thinking about how it was nice that Apple was still offering a lower-priced computer with components designed to be upgraded, in contrast with their other offerings. 
 
-While considering a replacement for an older Mac mini, the non-upgradable RAM and storage in the 2014 model are a letdown. Also the small performance improvement to the 2012 model (and actually a performance **decrease** if comparing the high-end models) is also less than I was expecting. The only real benefit is the low-end model runs $100 cheaper than in 2012 &#8212; though it isn&#8217;t a better deal.
+While considering a replacement for an older Mac mini, the non-upgradable RAM and storage in the 2014 model are a letdown. Also the small performance improvement to the 2012 model (and actually a performance **decrease** if comparing the high-end models) is also less than I was expecting. The only real benefit is the low-end model runs $100 cheaper than in 2012 -- though it isn&#8217;t a better deal.
 
 In the end, I expect the 2012 model to retain its value for some time.

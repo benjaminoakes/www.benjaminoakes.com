@@ -9,7 +9,7 @@ permalink: /2015/03/13/dropbox-now-available-in-the-chrome-os-file-manager/
 categories:
   - Chrome
 ---
-[How To Access Dropbox from the Chromebook File Manager &#8211; OMG! Chrome!](http://www.omgchrome.com/you-can-now-access-dropbox-on-your-chromebook/).
+[How To Access Dropbox from the Chromebook File Manager -- OMG! Chrome!](http://www.omgchrome.com/you-can-now-access-dropbox-on-your-chromebook/).
 
 > A new Chrome app allows users to access Dropbox files from the Chrome OS File Manager, just like Google Drive. You can browse and search files stored in your Dropbox and upload new ones.
 > 

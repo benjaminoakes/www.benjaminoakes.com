@@ -40,7 +40,7 @@ To stay on top of the changes, I did some research on the release notes provided
       * Pre-2.1.0: `Rational(1, 2)`, 2.1.0 and later: `1/2r`
       * Lets you represent fractions without the normal pain associated with IEEE floating point
   * Frozen String Literal 
-      * `"bar"f`, frozen string&#8230; looks funky
+      * `"bar"f`, frozen string... looks funky
       * This syntax was dropped, see preview2
   * def&#8217;s return value 
       * name symbol, now you can do `private def foo`
@@ -88,8 +88,8 @@ Otherwise, I got updated to 2.1.0, as you can see in [the Travis CI build](https
 These are what I read when researching the above. I hope they can help point you to more information.
 
   * [RubyKaigi Presentation by Heroku&#8217;s Koichi Sasada](http://www.atdot.net/~ko1/activities/toruby05-ko1.pdf). Published 2013-09-21.
-  * [ruby-lang.org &#8211; Ruby 2.1.0-preview1 is released](https://www.ruby-lang.org/en/news/2013/09/23/ruby-2-1-0-preview1-is-released/). Published 2013-09-23.
-  * [Konstantin Haase &#8211; Ruby 2.1](http://rkh.im/ruby-2.1). Published 2013-09-24.
-  * [ruby-lang.org &#8211; Ruby 2.1.0-preview2 is released](https://www.ruby-lang.org/en/news/2013/11/22/ruby-2-1-0-preview2-is-released/). Published 2013-11-22.
+  * [ruby-lang.org -- Ruby 2.1.0-preview1 is released](https://www.ruby-lang.org/en/news/2013/09/23/ruby-2-1-0-preview1-is-released/). Published 2013-09-23.
+  * [Konstantin Haase -- Ruby 2.1](http://rkh.im/ruby-2.1). Published 2013-09-24.
+  * [ruby-lang.org -- Ruby 2.1.0-preview2 is released](https://www.ruby-lang.org/en/news/2013/11/22/ruby-2-1-0-preview2-is-released/). Published 2013-11-22.
 
 **Update (2014-02-05):** [We](http://continuity.net/) have been running Ruby 2.1.0 in production for a few weeks, with very few issues. We had a random MySQL issue that took less than an afternoon to figure out. Overall, the upgrade was fairly painless!

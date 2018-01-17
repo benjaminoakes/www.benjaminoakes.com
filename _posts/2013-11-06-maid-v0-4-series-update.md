@@ -27,7 +27,7 @@ In case you missed it, here&#8217;s some details from the ChangeLog:
   * Update to rubyzip 1.0.0 (Closes: [#109](https://github.com/benjaminoakes/maid/issues/109 "Update to rubyzip 1.0.0"))
   * Remove &#8220;ohai&#8221; dependency which required native extensions (Closes: [#112](https://github.com/benjaminoakes/maid/issues/112 "Remove ohai dependency"))
   * Updated other dependencies (Closes: [#111](https://github.com/benjaminoakes/maid/issues/111 "Update dependencies"))
-  * Mu Ye: Require &#8220;&#8211;force&#8221; option to cause real cleaning to take place (Closes: [#78](https://github.com/benjaminoakes/maid/issues/78 "Require option to cause real cleaning to take place"))
+  * Mu Ye: Require &#8220;--force&#8221; option to cause real cleaning to take place (Closes: [#78](https://github.com/benjaminoakes/maid/issues/78 "Require option to cause real cleaning to take place"))
   * Graham Siener: Add UTF-8 support for &#8220;zipfile_contents&#8221; tool (Closes: [#35](https://github.com/benjaminoakes/maid/issues/35 "OSX zipfile extraction tool fails on zip files with UTF8 characters"))
   * Justin Hileman: Add ability to list duplicate files (Closes: [#15](https://github.com/benjaminoakes/maid/issues/15 "Add ability to list duplicate files"))
   * Mikael Hultgren: Rotate log file

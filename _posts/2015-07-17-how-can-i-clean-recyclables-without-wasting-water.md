@@ -14,7 +14,7 @@ tags:
 ---
 > Clean recyclables or water conservation? You don’t have to pick one over the other!
 
-> [&#8230;]
+> [...]
 
 > Bottles containing liquids can be emptied and air-dried before being tossed in the bin, without needing an ounce of water. Wide-mouth containers with stickier foodstuff should be scraped or wiped out by hand using a fork, spatula, or dirty napkin, again avoiding the sink altogether.
 > 

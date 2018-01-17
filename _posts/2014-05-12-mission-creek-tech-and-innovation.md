@@ -12,7 +12,7 @@ tags:
   - MCTI
   - Mission Creek
 ---
-[Inaugural conference adds tech component to Mission Creek Festival &#8211; Silicon Prairie News](http://www.siliconprairienews.com/2014/04/inaugural-conference-adds-tech-component-to-mission-creek-festival).
+[Inaugural conference adds tech component to Mission Creek Festival -- Silicon Prairie News](http://www.siliconprairienews.com/2014/04/inaugural-conference-adds-tech-component-to-mission-creek-festival).
 
 Some photos from [Flickr](https://www.flickr.com/photos/geemus/sets/72157644381154876) that happen to include me:
 

@@ -26,7 +26,7 @@ tags:
 > 
 > You will need a small Phillips head screw driver (size 0 or 00).
 
-Source: [NOOK 1st Edition &#8211; Replace Battery &#8211; Barnes and Noble](https://help.barnesandnoble.com/app/answers/detail/a_id/85/kw/3nook%20replacement%20parts)
+Source: [NOOK 1st Edition -- Replace Battery -- Barnes and Noble](https://help.barnesandnoble.com/app/answers/detail/a_id/85/kw/3nook%20replacement%20parts)
 
 I recently picked up a 1st generation Nook for $20. I was a little weary of the age of the battery (6 or so years old?), but it turns out that this Nook is one of the few consumer electronics released in recent memory that was built to be repairable. (The battery was meant to be replaced! There are even [official instructions](https://help.barnesandnoble.com/app/answers/detail/a_id/85/kw/3nook%20replacement%20parts).) This is in stark contrast to my 2nd generation Amazon Kindle which had hardware problems and became unusable right after the warranty period ended. That experience soured me on the Kindle, understandably.
 

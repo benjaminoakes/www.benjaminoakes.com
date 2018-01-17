@@ -13,7 +13,7 @@ tags:
   - ntp
   - open source
 ---
-[NTP&#8217;s Fate Hinges On &#8216;Father Time&#8217; &#8211; InformationWeek](http://www.informationweek.com/it-life/ntps-fate-hinges-on-father-time/d/d-id/1319432?page_number=1).
+[NTP&#8217;s Fate Hinges On &#8216;Father Time&#8217; -- InformationWeek](http://www.informationweek.com/it-life/ntps-fate-hinges-on-father-time/d/d-id/1319432?page_number=1).
 
 > In April, one of the open source code movement&#8217;s first and biggest success stories, the Network Time Protocol, will reach a decision point. At 30 years old, will NTP continue as the preeminent time synchronization system for Macs, Windows, and Linux computers and most servers on networks?
 > 

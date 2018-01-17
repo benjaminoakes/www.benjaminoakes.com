@@ -39,7 +39,7 @@ NoMethodError: undefined method `period_for_utc' for nil:NilClass
 [...]
 </code></pre>
 
-Wait, that&#8217;s odd&#8230; why doesn&#8217;t that work? After searching, I found you could use some city names like so:
+Wait, that&#8217;s odd... why doesn&#8217;t that work? After searching, I found you could use some city names like so:
 
 <pre><code class="language-irb">>> Time.now.in_time_zone('Tokyo')
 => Wed, 24 Nov 2010 01:04:54 JST +09:00

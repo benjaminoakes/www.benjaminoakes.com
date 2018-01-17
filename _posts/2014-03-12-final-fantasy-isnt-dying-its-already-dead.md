@@ -18,6 +18,6 @@ tags:
 
 > At this point, it’s tough to see a path back to relevance for Final Fantasy, if the caretakers of the series are spending their creative cycles thinking about the particulars of breast physics. That’s not why the Final Fantasy brand still carries the cachet that it does, and the modern games are at this point living entirely off an inherited reputation. 
 
-Sad. I know I bought Chaos Rings for the iPhone based on the inherited reputation that Square Enix had with me&#8230; but Chaos Rings was much more repetitive than it should have been. After my save data got reset, it was hard to want to go through any of it again.
+Sad. I know I bought Chaos Rings for the iPhone based on the inherited reputation that Square Enix had with me... but Chaos Rings was much more repetitive than it should have been. After my save data got reset, it was hard to want to go through any of it again.
 
-I&#8217;m still a fan of the SNES and PlayStation era games (roughly VI through IX; FFI is tough to enjoy unless playing a remake). I have to wonder whether Square Enix is making any money on anything but remakes at this point&#8230;
+I&#8217;m still a fan of the SNES and PlayStation era games (roughly VI through IX; FFI is tough to enjoy unless playing a remake). I have to wonder whether Square Enix is making any money on anything but remakes at this point...

@@ -1,6 +1,6 @@
 ---
 id: 186
-title: 'That&#8217;s not doing quite what you think&#8230;'
+title: 'That&#8217;s not doing quite what you think...'
 date: 2012-11-16T03:39:12+00:00
 author: Ben
 excerpt: "<p>I recently helped an intern at Hedgeye work through a problem with a database query.  Because I'm working in a separate timezone, I ended up making suggestions through a GitHub pull request.  We discussed and decided that what I wrote was self-contained enough that I should re-post so it can help others.</p>"
@@ -24,7 +24,7 @@ I recently helped an intern at Hedgeye work through a problem with a database qu
 > <pre><code class="language-ruby">:conditions =&gt; ["event_type != ?", 'LOGIN'||'LOGOUT'],
 </code></pre>
 > 
-> I don&#8217;t think this is doing quite what you think&#8230;
+> I don&#8217;t think this is doing quite what you think...
 > 
 > <pre><code class="language-ruby">'LOGIN' || 'LOGOUT' # =&gt; 'LOGIN'
 </code></pre>

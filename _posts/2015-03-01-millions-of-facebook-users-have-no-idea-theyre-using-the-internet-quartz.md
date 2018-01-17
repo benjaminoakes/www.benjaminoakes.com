@@ -17,4 +17,4 @@ tags:
 
 > Indonesians surveyed by Galpaya told her that they didn’t use the internet. But in focus groups, they would talk enthusiastically about how much time they spent on Facebook. Galpaya, a researcher (and now CEO) with LIRNEasia, a think tank, called Rohan Samarajiva, her boss at the time, to tell him what she had discovered. “It seemed that in their minds, the Internet did not exist; only Facebook,” he concluded.
 
-This is scary stuff&#8230; but to be honest, it sounds a lot like AOL before everyone realized they were actually using the Internet.
+This is scary stuff... but to be honest, it sounds a lot like AOL before everyone realized they were actually using the Internet.

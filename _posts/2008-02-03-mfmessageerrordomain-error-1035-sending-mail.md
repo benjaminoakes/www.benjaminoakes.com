@@ -11,6 +11,6 @@ categories:
 ---
 From [a discussion on Apple Support Communities](https://discussions.apple.com/message/6512267#6512267) that I participated in:
 
-> This worked for me as well, even though I created my mail account in Leopard. I just recently started using a digital signature &#8212; the problem occurred with that.
+> This worked for me as well, even though I created my mail account in Leopard. I just recently started using a digital signature -- the problem occurred with that.
 > 
 > Mac mini, Mac OS X (10.5.1)

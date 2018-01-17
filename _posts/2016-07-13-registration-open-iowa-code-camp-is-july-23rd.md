@@ -19,7 +19,7 @@ categories:
   
 > Developer relevant content
   
-> Never during work hours &#8211; usually on a Saturday
+> Never during work hours -- usually on a Saturday
   
 > We are looking for developers who want to tell other developers about cool things they are doing. Topics they really care about. If you are working with .Net, Ruby, PHP, Java, Rails, Python, SQL, <fill in the blank> and you want to tell other people about it, then consider submitting a speaking proposal.
 

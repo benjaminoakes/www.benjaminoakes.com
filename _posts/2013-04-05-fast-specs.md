@@ -43,7 +43,7 @@ I gave [a talk on &#8220;Fast Specs&#8221;](http://media.benjaminoakes.com/2013/
 
 <blockquote class="twitter-tweet" data-conversation="none">
   <p>
-    @<a href="https://twitter.com/jwieringa">jwieringa</a> Cool, I hope it&#8217;s interesting&#8230; and helpful.:)
+    @<a href="https://twitter.com/jwieringa">jwieringa</a> Cool, I hope it&#8217;s interesting... and helpful.:)
   </p>
   
   <p>
@@ -53,7 +53,7 @@ I gave [a talk on &#8220;Fast Specs&#8221;](http://media.benjaminoakes.com/2013/
 
 <blockquote class="twitter-tweet" data-conversation="none">
   <p>
-    @<a href="https://twitter.com/benjaminoakes">benjaminoakes</a> Good stuff.Have you tried `bundle install &#8211;standalone` to avoid the runtime bundler tax? <a href="http://t.co/XMhcN373rY" title="http://myronmars.to/n/dev-blog/2012/03/faster-test-boot-times-with-bundler-standalone">myronmars.to/n/dev-blog/201…</a>
+    @<a href="https://twitter.com/benjaminoakes">benjaminoakes</a> Good stuff.Have you tried `bundle install --standalone` to avoid the runtime bundler tax? <a href="http://t.co/XMhcN373rY" title="http://myronmars.to/n/dev-blog/2012/03/faster-test-boot-times-with-bundler-standalone">myronmars.to/n/dev-blog/201…</a>
   </p>
   
   <p>
@@ -63,7 +63,7 @@ I gave [a talk on &#8220;Fast Specs&#8221;](http://media.benjaminoakes.com/2013/
 
 <blockquote class="twitter-tweet" data-conversation="none">
   <p>
-    @<a href="https://twitter.com/myronmarston">myronmarston</a> Thanks!:)We&#8217;ve played with changing our use of Bundler, but I hadn&#8217;t heard of `&#8211;standalone` before.I&#8217;ll have to try it.
+    @<a href="https://twitter.com/myronmarston">myronmarston</a> Thanks!:)We&#8217;ve played with changing our use of Bundler, but I hadn&#8217;t heard of `--standalone` before.I&#8217;ll have to try it.
   </p>
   
   <p>

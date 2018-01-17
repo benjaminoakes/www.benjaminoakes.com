@@ -14,7 +14,7 @@ tags:
   - autoupdating
   - wifi
 ---
-[4.1 jelly bean &#8211; How to allow auto-update of apps in Play Store only when plugged in? &#8211; Android Enthusiasts Stack Exchange](http://android.stackexchange.com/questions/41648/how-to-allow-auto-update-of-apps-in-play-store-only-when-plugged-in).
+[4.1 jelly bean -- How to allow auto-update of apps in Play Store only when plugged in? -- Android Enthusiasts Stack Exchange](http://android.stackexchange.com/questions/41648/how-to-allow-auto-update-of-apps-in-play-store-only-when-plugged-in).
 
 My answer:
 

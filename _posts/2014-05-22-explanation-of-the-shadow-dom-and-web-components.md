@@ -14,4 +14,4 @@ tags:
   - shadow dom
   - Web
 ---
-[Explanation of the Shadow DOM and Web Components &#8211; YouTube](https://www.youtube.com/watch?v=pQOuHNm5seY#t=165).
+[Explanation of the Shadow DOM and Web Components -- YouTube](https://www.youtube.com/watch?v=pQOuHNm5seY#t=165).

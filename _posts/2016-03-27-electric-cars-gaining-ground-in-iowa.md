@@ -16,7 +16,7 @@ tags:
 ---
 <a href="http://www.benjaminoakes.com/wp-content/uploads/2016/03/tmp_18314-EP-1603297101801002629.jpg" rel="attachment wp-att-860"><img class="size-medium wp-image-860" src="http://www.benjaminoakes.com/wp-content/uploads/2016/03/tmp_18314-EP-1603297101801002629-300x220-1.jpg" alt=" Iowa license plate, 100% electric badge" width="300" height="220" /></a>
 
-> CEDAR RAPIDS &#8211; When Gary Scott arrives for work each morning at Schneider Electric in Cedar Rapids, he plugs his 2012 Nissan Leaf into one of two charging stations in the company&#8217;s parking lot.
+> CEDAR RAPIDS -- When Gary Scott arrives for work each morning at Schneider Electric in Cedar Rapids, he plugs his 2012 Nissan Leaf into one of two charging stations in the company&#8217;s parking lot.
 
 Source: _[Electric cars gaining ground in Iowa](http://www.thegazette.com/subject/news/business/electric-cars-gaining-ground-in-iowa-20160327)_
 

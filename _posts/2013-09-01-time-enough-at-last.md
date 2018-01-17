@@ -25,4 +25,4 @@ As you might have guessed, I had that episode in mind while we watched the movie
 
 [<img src="http://www.benjaminoakes.com/wp-content/uploads/2013/09/32633.cover_.medium-150x150.png" alt="32633.cover.medium" width="150" height="150" class="aligncenter size-thumbnail wp-image-302" alt="Worlds of Science Fiction 1953" />](http://www.gutenberg.org/ebooks/32633)
 
-I was even more surprised to find [a copy of the short story it is based on](http://www.gutenberg.org/etext/32633) (1953, and **public domain**). It&#8217;s pretty short, and maybe even better than the television rendition. You should give it a read, when you have time. (I read it first&#8230; just in case.)
+I was even more surprised to find [a copy of the short story it is based on](http://www.gutenberg.org/etext/32633) (1953, and **public domain**). It&#8217;s pretty short, and maybe even better than the television rendition. You should give it a read, when you have time. (I read it first... just in case.)

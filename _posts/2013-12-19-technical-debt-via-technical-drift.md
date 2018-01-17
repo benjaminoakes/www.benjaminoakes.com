@@ -15,7 +15,7 @@ tags:
   - technical debt
   - technical drift
 ---
-[Are you experiencing technical drift? &#8211; Code Climate Blog](http://blog.codeclimate.com/blog/2013/12/19/are-you-experiencing-technical-drift/).
+[Are you experiencing technical drift? -- Code Climate Blog](http://blog.codeclimate.com/blog/2013/12/19/are-you-experiencing-technical-drift/).
 
 In summary: technical drift leads to technical debt, which can be prevented through iterative design.
 

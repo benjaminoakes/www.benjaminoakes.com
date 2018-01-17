@@ -16,4 +16,4 @@ tags:
 
 So sad.
 
-Source: _[J.J. Abrams Reacts To Death of Star Trek Actor Anton &#8216;Chekov&#8217; Yelchin &#8211; Slashdot](https://entertainment.slashdot.org/story/16/06/19/2222201/jj-abrams-reacts-to-death-of-star-trek-actor-anton-chekov-yelchin)_
+Source: _[J.J. Abrams Reacts To Death of Star Trek Actor Anton &#8216;Chekov&#8217; Yelchin -- Slashdot](https://entertainment.slashdot.org/story/16/06/19/2222201/jj-abrams-reacts-to-death-of-star-trek-actor-anton-chekov-yelchin)_

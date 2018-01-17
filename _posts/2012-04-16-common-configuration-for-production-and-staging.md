@@ -12,7 +12,7 @@ categories:
 ---
 Like many web apps, we typically have a need for a staging environment to test before we deploy to production. Combined with continuous deployment, it becomes much quicker and easier to find issues that would affect production by testing in this production-like environment.
 
-This staging environment needs to be as close as possible to production; ideally the only things that are different are the data and some integration points. Having different behavior based on environment makes realistic testing difficult. Different configuration based on environment can also be problematic. In many ways, staging can be thought of as being based on production&#8230; but how does that work in pratice?
+This staging environment needs to be as close as possible to production; ideally the only things that are different are the data and some integration points. Having different behavior based on environment makes realistic testing difficult. Different configuration based on environment can also be problematic. In many ways, staging can be thought of as being based on production... but how does that work in pratice?
 
 Rails doesn&#8217;t provide a built in idiom for a staging environment (the default environments are just &#8220;development&#8221;, &#8220;test&#8221;, and &#8220;production&#8221;), so many people have come up with their own way of managing the staging configuration problem. Many times the reality is that `config/environments/staging.rb` is a copied and pasted version of `config/environments/production.rb` along with some minor adjustments.
 

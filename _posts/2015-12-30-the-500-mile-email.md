@@ -13,7 +13,7 @@ tags:
   - funny
   - statistics
 ---
-> Here&#8217;s a problem that \*sounded\* impossible&#8230; I almost regret posting the story to a wide audience, because it makes a great tale over drinks at a conference. :-) The story is slightly altered in order to protect the guilty, elide over irrelevant and boring details, and generally make the whole thing more entertaining.
+> Here&#8217;s a problem that \*sounded\* impossible... I almost regret posting the story to a wide audience, because it makes a great tale over drinks at a conference. :-) The story is slightly altered in order to protect the guilty, elide over irrelevant and boring details, and generally make the whole thing more entertaining.
 > 
 > I was working in a job running the campus email system some years ago when I got a call from the chairman of the statistics department.
 > 

@@ -17,7 +17,7 @@ tags:
 ---
 > On Monday, the Iowa City City Council voted to help fund a bike-sharing grant with the University of Iowa, authorized the creation of dedicated bike lanes to parts of First Avenue and Mormon Trek Boulevard, as well as changes to the city’s biking ordinance.
 
-Source: _[City Council supports biking &#8211; The Daily Iowan](http://www.dailyiowan.com/2015/07/28/Metro/42641.html)_
+Source: _[City Council supports biking -- The Daily Iowan](http://www.dailyiowan.com/2015/07/28/Metro/42641.html)_
 
 I hope there are more bike paths in the works as well.
 

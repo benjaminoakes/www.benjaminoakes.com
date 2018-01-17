@@ -48,7 +48,7 @@ I got fed up with it again today, and searched some more. It turns out that you 
 
 This is what we had to do to get Puppet to stop complaining. Note that this didn’t work for us without **both** the `hostname` and the `fqdn` values set.
 
-**Update (2013-04-26):** It seems like FQDN doesn&#8217;t play as big of a role as I first thought &#8212; the problem seems to go away with just `hostname` set when using Puppet 3.1.1.
+**Update (2013-04-26):** It seems like FQDN doesn&#8217;t play as big of a role as I first thought -- the problem seems to go away with just `hostname` set when using Puppet 3.1.1.
 
 <pre><code class="language-ruby"># File: Vagrantfile
 Vagrant.configure('2') do |config|

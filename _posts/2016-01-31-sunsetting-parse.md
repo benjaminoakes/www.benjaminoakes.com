@@ -19,4 +19,4 @@ tags:
 > 
 > First, we’re releasing a database migration tool that lets you migrate data from your Parse app to any MongoDB database. During this migration, the Parse API will continue to operate as usual based on your new database, so this can happen without downtime. Second, we’re releasing the open source Parse Server, which lets you run most of the Parse API from your own Node.js server. Once you have your data in your own database, Parse Server lets you keep your application running without major changes in the client-side code. 
 
-Source: _[Michael Tsai &#8211; Blog &#8211; Sunsetting Parse](http://mjtsai.com/blog/2016/01/30/sunsetting-parse/)_
+Source: _[Michael Tsai -- Blog -- Sunsetting Parse](http://mjtsai.com/blog/2016/01/30/sunsetting-parse/)_

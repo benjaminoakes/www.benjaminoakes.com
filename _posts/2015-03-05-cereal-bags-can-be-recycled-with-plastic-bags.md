@@ -13,8 +13,8 @@ tags:
   - plastic
   - recycling
 ---
-[Because You Asked: Can Cereal Bags Be Recycled? &#8211; Live Green &#8211; Recyclebank](https://livegreen.recyclebank.com/because-you-asked-can-cereal-bags-be-recycled).
+[Because You Asked: Can Cereal Bags Be Recycled? -- Live Green -- Recyclebank](https://livegreen.recyclebank.com/because-you-asked-can-cereal-bags-be-recycled).
 
-> Many cereal box liners are made from HDPE (#2 plastic) film. [&#8230;] But plastic in film form (including bags) should not be added to your bin because it can jam up and damage recycling machinery. Instead, #2 plastic bags and other plastic film can be dropped off for recycling at one of thousands of retail locations.
+> Many cereal box liners are made from HDPE (#2 plastic) film. [...] But plastic in film form (including bags) should not be added to your bin because it can jam up and damage recycling machinery. Instead, #2 plastic bags and other plastic film can be dropped off for recycling at one of thousands of retail locations.
 
 Huh, wish I had known that sooner. We&#8217;ve started to see this marked on some brands of cereal (notably Chex), so it seems legit.

@@ -12,9 +12,9 @@ tags:
   - java
   - lambda
 ---
-[Everything about Java 8 &#8211; TechEmpower Blog](http://www.techempower.com/blog/2013/03/26/everything-about-java-8/).
+[Everything about Java 8 -- TechEmpower Blog](http://www.techempower.com/blog/2013/03/26/everything-about-java-8/).
 
-There are other new features&#8230; but this doesn&#8217;t look like Java code to me:
+There are other new features... but this doesn&#8217;t look like Java code to me:
 
     (x, y) -> x + y
     

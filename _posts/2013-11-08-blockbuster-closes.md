@@ -16,10 +16,10 @@ tags:
   - Omaha
   - Onion
 ---
-[Your late fees are waived: Blockbuster closes &#8211; CNN.com](http://www.cnn.com/2013/11/06/tech/gaming-gadgets/blockbuster-video-stores-impact/).
+[Your late fees are waived: Blockbuster closes -- CNN.com](http://www.cnn.com/2013/11/06/tech/gaming-gadgets/blockbuster-video-stores-impact/).
 
 Not surprising, but still something worth reflecting on. Strange to think that so many video rental stores are disappearing (along with the jobs they provided), but at least there won&#8217;t be millions of plastic disks getting created because of digital distribution.
 
-[Historic ‘Blockbuster’ Store Offers Glimpse Of How Movies Were Rented In The Past | Video | The Onion &#8211; America's Finest News Source](http://www.theonion.com/video/historic-blockbuster-store-offers-glimpse-of-how-m,14233/).
+[Historic ‘Blockbuster’ Store Offers Glimpse Of How Movies Were Rented In The Past | Video | The Onion -- America's Finest News Source](http://www.theonion.com/video/historic-blockbuster-store-offers-glimpse-of-how-m,14233/).
 
 I thought this was really funny. I&#8217;m disappointed though; Iowa City never had a Borders that I&#8217;m aware of. (Although I really miss the one in Omaha, it seems to have been the only Borders worth shopping at in my experience.) Anyway, I&#8217;m looking forward to visiting future Iowa City&#8217;s Borders Bookstore Museum.

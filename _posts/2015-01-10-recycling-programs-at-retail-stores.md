@@ -12,6 +12,6 @@ tags:
   - recycling
   - retail
 ---
-[Recycling Programs at Retail Stores &#8211; Cuyahoga County Solid Waste District](http://cuyahogaswd.org/en-US/retailer-recycling-programs.aspx).
+[Recycling Programs at Retail Stores -- Cuyahoga County Solid Waste District](http://cuyahogaswd.org/en-US/retailer-recycling-programs.aspx).
 
 Great summary of recycling programs.

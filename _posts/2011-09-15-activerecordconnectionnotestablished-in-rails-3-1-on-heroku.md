@@ -75,7 +75,7 @@ require "rails/test_unit/railtie"
 require "active_record"
 </code></pre>
 
-Our automated tests (Rspec, integration tests, Tarantula, Selenium, etc) all pass with it and we no longer get `ActiveRecord::ConnectionNotEstablished`, but we still have an ActiveRecord dependency I don&#8217;t like. (There must be another error we can raise &#8212; I don&#8217;t entirely like the `render '/404.html', status: 404` solution for several reasons.)
+Our automated tests (Rspec, integration tests, Tarantula, Selenium, etc) all pass with it and we no longer get `ActiveRecord::ConnectionNotEstablished`, but we still have an ActiveRecord dependency I don&#8217;t like. (There must be another error we can raise -- I don&#8217;t entirely like the `render '/404.html', status: 404` solution for several reasons.)
 
 **Update:**
 

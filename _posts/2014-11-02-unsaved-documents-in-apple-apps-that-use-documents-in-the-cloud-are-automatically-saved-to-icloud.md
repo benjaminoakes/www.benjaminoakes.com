@@ -16,6 +16,6 @@ tags:
 ---
 [iCloud: Unsaved documents in Apple apps that use Documents in the Cloud are automatically saved to iCloud](http://support.apple.com/kb/TS4372).
 
-[How one man’s private files ended up on Apple’s iCloud without his consent &#8211; The Washington Post](http://www.washingtonpost.com/blogs/the-switch/wp/2014/10/30/how-one-mans-private-files-ended-up-on-apples-icloud-without-his-consent/).
+[How one man’s private files ended up on Apple’s iCloud without his consent -- The Washington Post](http://www.washingtonpost.com/blogs/the-switch/wp/2014/10/30/how-one-mans-private-files-ended-up-on-apples-icloud-without-his-consent/).
 
 Not the behavior I expected; makes me wonder what documents I have stored in iCloud without my knowledge. Either way, I&#8217;m happy Apple is moving to a more Dropbox-like strategy.

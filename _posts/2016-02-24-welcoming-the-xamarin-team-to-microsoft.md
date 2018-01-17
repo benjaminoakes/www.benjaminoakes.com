@@ -16,4 +16,4 @@ tags:
 ---
 > I am pleased to announce today that Microsoft has signed an agreement to acquire Xamarin, a leading platform provider for mobile app development.
 
-Source: _[ScottGu&#8217;s Blog &#8211; Welcoming the Xamarin team to Microsoft](http://weblogs.asp.net/scottgu/welcoming-the-xamarin-team-to-Microsoft)_
+Source: _[ScottGu&#8217;s Blog -- Welcoming the Xamarin team to Microsoft](http://weblogs.asp.net/scottgu/welcoming-the-xamarin-team-to-Microsoft)_

@@ -15,7 +15,7 @@ tags:
   - IMAP
   - SMS
 ---
-[SMS Backup + &#8211; Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.zegoggles.smssync&hl=en).
+[SMS Backup + -- Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.zegoggles.smssync&hl=en).
 
 > Backup Android SMS, MMS and call log to Gmail / Gcal / IMAP
 

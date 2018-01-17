@@ -13,6 +13,6 @@ tags:
   - CSV
   - extension
 ---
-[Table Capture &#8211; Chrome Web Store](https://chrome.google.com/webstore/detail/table-capture/iebpjdmgckacbodjpijphcplhebcmeop?utm_source=chrome-app-launcher-info-dialog).
+[Table Capture -- Chrome Web Store](https://chrome.google.com/webstore/detail/table-capture/iebpjdmgckacbodjpijphcplhebcmeop?utm_source=chrome-app-launcher-info-dialog).
 
 A really useful extension that converts HTML tables so they can be pasted into Google Docs, Excel, CSV, etc.

@@ -36,4 +36,4 @@ You will have:
 
 It&#8217;s really useful for wide tables, or ones with text columns.
 
-I&#8217;m always surprised that the MySQL docs don&#8217;t make it easier to find this &#8212; it&#8217;s one of the better tricks for using the database console.
+I&#8217;m always surprised that the MySQL docs don&#8217;t make it easier to find this -- it&#8217;s one of the better tricks for using the database console.

@@ -13,6 +13,6 @@ tags:
   - English
   - sociolinguistics
 ---
-[What we can learn from dialect maps &#8211; Boing Boing](http://boingboing.net/2013/12/24/what-we-can-learn-from-dialect.htm).
+[What we can learn from dialect maps -- Boing Boing](http://boingboing.net/2013/12/24/what-we-can-learn-from-dialect.htm).
 
 I always find this sort of thing fascinating.

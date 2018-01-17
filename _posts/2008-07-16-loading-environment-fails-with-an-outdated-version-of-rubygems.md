@@ -54,7 +54,7 @@ My recent ticket for Rails 2.1 has gotten a fix that has been [committed](http:/
   
 > project which does not use Gem Dependencies on a machine that has
   
-> RubyGems < 1.1.1 (not sure of the exact version &#8212; 0.9.4 and
+> RubyGems < 1.1.1 (not sure of the exact version -- 0.9.4 and
   
 > 0.9.2 were causing problems for us.) Verify that this works without
   

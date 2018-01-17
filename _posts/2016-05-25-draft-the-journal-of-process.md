@@ -1,6 +1,6 @@
 ---
 id: 884
-title: 'Draft &#8211; The Journal of Process'
+title: 'Draft -- The Journal of Process'
 date: 2016-05-25T14:41:21+00:00
 author: Ben
 layout: post
@@ -15,4 +15,4 @@ tags:
 ---
 > Featuring stories, first drafts, and interviews with authors of note, draft is a unique print publication emphasizing the importance and diversity of the creative process. We’re interested in mechanics, techniques, approaches, triumphs, failures, concussive frustration — everything that goes into crafting a great piece of creative writing.
 
-Source: _[Draft &#8211; The Journal of Process](http://draftjournal.com/)_
+Source: _[Draft -- The Journal of Process](http://draftjournal.com/)_

@@ -23,11 +23,11 @@ tags:
   - popular
   - video
 ---
-**UPDATE (2015-02-15):** As of yesterday &#8212; Valentine&#8217;s Day of all days &#8212; the NBC podcasts are discontinued. The closest replacement I&#8217;m aware of is the [PBS NewsHour YouTube Channel](https://www.youtube.com/user/PBSNewsHour) or [PBS NewsHour Video RSS Feed](http://video.pbs.org/program/newshour/rss/) (not a video podcast, unfortunately).
+**UPDATE (2015-02-15):** As of yesterday -- Valentine&#8217;s Day of all days -- the NBC podcasts are discontinued. The closest replacement I&#8217;m aware of is the [PBS NewsHour YouTube Channel](https://www.youtube.com/user/PBSNewsHour) or [PBS NewsHour Video RSS Feed](http://video.pbs.org/program/newshour/rss/) (not a video podcast, unfortunately).
 
 **UPDATE (2015-03-05):** The only remaining NBC video podcast is The _Rachel Maddow Show_, though they have limited it to a 25 minute selection of highlights. I would encourage you to [show Rachel Maddow support](https://twitter.com/maddow) for this. I doubt it&#8217;s a simple coincidence that she&#8217;s the only one still offering a video podcast.
 
-I&#8217;ve been watching the NBC Nightly News video podcast for a long time. Probably since 2006, and maybe even as early as 2005 (ten years ago!). It&#8217;s never been perfect &#8212; sometimes they skip a day without explanation, and they clearly cut out some content on occasion &#8212; but it&#8217;s been an important part of how I&#8217;ve gotten news over roughly the last 10 years.
+I&#8217;ve been watching the NBC Nightly News video podcast for a long time. Probably since 2006, and maybe even as early as 2005 (ten years ago!). It&#8217;s never been perfect -- sometimes they skip a day without explanation, and they clearly cut out some content on occasion -- but it&#8217;s been an important part of how I&#8217;ve gotten news over roughly the last 10 years.
 
 My wife and I will often watch it while eating breakfast together. We were greeted with this notice today:
 
@@ -43,7 +43,7 @@ Especially when I didn&#8217;t have a TV, I used to watch _Nightly News_ on a la
 
 That&#8217;s the thing about podcasts: they&#8217;re malleable. You can do so much with them. After all, a video podcast is just a file with a link to a DRM-free video file. There are very few restrictions to how a podcast consumer can use that file; you can play it on an old &#8220;unsupported&#8221; computer or your video game console. You can burn it to DVD. You can save segments you want to keep. You can use content in all sorts of interesting ways, moving it easily between devices. In the end, that&#8217;s probably exactly what NBC and other broadcasters don&#8217;t like about video podcasts.
 
-The problem is, podcasts can&#8217;t really be replaced by websites and mobile apps. Those options force you to a specific interaction, a specific user experience. That&#8217;s much less interesting because those options are only useful to you if your usage happens to be one of the ones they considered and designed. To make it concrete, this means that you can&#8217;t watch this specific NBC content on your Apple TV, Roku, etc. anymore because NBC doesn&#8217;t want you to &#8212; although you could when it was a video podcast. Forcing the content through an app is a step backwards.
+The problem is, podcasts can&#8217;t really be replaced by websites and mobile apps. Those options force you to a specific interaction, a specific user experience. That&#8217;s much less interesting because those options are only useful to you if your usage happens to be one of the ones they considered and designed. To make it concrete, this means that you can&#8217;t watch this specific NBC content on your Apple TV, Roku, etc. anymore because NBC doesn&#8217;t want you to -- although you could when it was a video podcast. Forcing the content through an app is a step backwards.
 
 Marco Arment of Instapaper fame described this well when [he wrote about RSS](http://www.marco.org/2013/07/03/lockdown), the technology behind video podcasts:
 
@@ -51,13 +51,13 @@ Marco Arment of Instapaper fame described this well when [he wrote about RSS](ht
 > 
 > The bigger problem is that they&#8217;ve abandoned interoperability. RSS, semantic markup, microformats, and open APIs all enable interoperability, but the big players don&#8217;t want that — they want to lock you in.
 > 
-> [&#8230;]
+> [...]
 > 
 > RSS represents the antithesis of [vendor lock-in]: it&#8217;s completely open, decentralized, and owned by nobody, just like the web itself. It allows anyone, large or small, to build something new and disrupt anyone else they&#8217;d like because nobody has to fly six salespeople out first to work out a partnership with anyone else&#8217;s salespeople.
 
 I can&#8217;t tell if video podcasts just didn&#8217;t get the traction in the market that they needed or if audio podcasts are just preferable because broadcasters _really_ want to protect their video. The same could be said for terrestrial broadcasts (i.e., those you get for free over an antenna), which no longer seem to be a major priority for broadcasters either. I&#8217;ve considered getting [a PVR](http://www.amazon.com/dp/B00I2ZBD1U/ref=wl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=1ILC0B8SVHDXG&coliid=IVJ3IRPM33RPI) to record video in lieu of video podcasts, but NBC isn&#8217;t available at our house (though several other stations are). Would we have been able to receive NBC here in the pre-cable era? I don&#8217;t know, but I wouldn&#8217;t be surprised if the answer were &#8220;yes.&#8221;
 
-The entire television and online video industry is in a weird, transitory state right now. The number of options that used to be completely free and open are dwindling &#8212; even those that include advertisements. I don&#8217;t know if I&#8217;ll like how this transition ends, but in some ways, I can&#8217;t wait for the transition to be over.
+The entire television and online video industry is in a weird, transitory state right now. The number of options that used to be completely free and open are dwindling -- even those that include advertisements. I don&#8217;t know if I&#8217;ll like how this transition ends, but in some ways, I can&#8217;t wait for the transition to be over.
 
 ### Reactions
 

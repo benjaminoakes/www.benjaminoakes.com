@@ -14,6 +14,6 @@ tags:
   - js
   - primes
 ---
-_[Factorisation Diagrams &#8211; Jason Davies](https://www.jasondavies.com/factorisation-diagrams/)_
+_[Factorisation Diagrams -- Jason Davies](https://www.jasondavies.com/factorisation-diagrams/)_
 
 The prime numbers really stand out. Made with D3.js.

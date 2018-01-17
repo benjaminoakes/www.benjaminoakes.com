@@ -24,4 +24,4 @@ tags:
 
 So true! But pair programming can help with that. :)
 
-In real life though&#8230; I sometimes use the commit message &#8220;(m)&#8221; when I only changed whitespace or a comment, etc. it&#8217;s a lot easier than writing a description that&#8217;s longer than the change itself.
+In real life though... I sometimes use the commit message &#8220;(m)&#8221; when I only changed whitespace or a comment, etc. it&#8217;s a lot easier than writing a description that&#8217;s longer than the change itself.

@@ -18,6 +18,6 @@ Andy Borowitz in response to _Town of Greece v. Galloway_.
 
 > By a five-to-four vote, the Court eliminated what grade-school children have traditionally been taught was one of the key rationales for founding the United States in the first place. 
 > 
-> [&#8230;]
+> [...]
 > 
 > “Last year, we gutted the Voting Rights Act, and today we did the First Amendment,” he said. “We’ll just have to see what’s left.”

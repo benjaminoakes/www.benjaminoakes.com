@@ -18,7 +18,7 @@ I&#8217;ve been getting _tons_ done with this new laptop.  I&#8217;ve spent mo
     However, there was one thing that made the day great.  I finally received my ACT scores.  I&#8217;m not going to say what I got, but I <em>will </em>say that I solidly qualify for all the scholarships that require at least a 30.</p> 
     
     <p>
-      And that&#8217;s not all: earlier this afternoon I got my car washed.  I paid for a regular automatic wash&#8211;no wax, no dryer&#8211;but I received both of these free.  I asked the manger if he wanted me to pay extra, but he said it wasn&#8217;t necessary after thanking me.
+      And that&#8217;s not all: earlier this afternoon I got my car washed.  I paid for a regular automatic wash--no wax, no dryer--but I received both of these free.  I asked the manger if he wanted me to pay extra, but he said it wasn&#8217;t necessary after thanking me.
     </p>
     
     <p>

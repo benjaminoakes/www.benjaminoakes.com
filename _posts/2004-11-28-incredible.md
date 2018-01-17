@@ -30,24 +30,24 @@ I could go on and on about this movie, and some time in the future I might. But 
 
 > Querida Señora, 
 > 
-> ¡Ay, olvidé! Fue el pavo, te digo, ¡el pavo! Me duerme fácilmente&#8230; 
+> ¡Ay, olvidé! Fue el pavo, te digo, ¡el pavo! Me duerme fácilmente... 
 > 
-> Esto fue un mentira. No pudo el pavo porque soy un vegetariano. No sé que fue, entonces&#8230; Tal vez porque soy tanto. 
+> Esto fue un mentira. No pudo el pavo porque soy un vegetariano. No sé que fue, entonces... Tal vez porque soy tanto. 
 > 
-> ¿Disfrutó usted el día de gracias? Lo disfruté. Porque hay solamente tres personas en esta familia (y un no come pavo), nosotros usualmente vamos a un casino (Ameristar, Harrah&#8217;s) y comemos su buffet. Es siempre agradable; no platos sucios, no trabajo dificíl haciendo la comida, y después de la cena&#8230; ¡Nosotros vamos a una película! No hay mucho de elegir, no obstante. Quise mirar &#8220;Ray,&#8221; la película sobre el músico quien, tristemente, murió, pero mi hermana no sabe quien él fue. Así, nosotros miramos &#8220;The Incredibles.&#8221; Es un película por los niños, pero lo disfruté. 
+> ¿Disfrutó usted el día de gracias? Lo disfruté. Porque hay solamente tres personas en esta familia (y un no come pavo), nosotros usualmente vamos a un casino (Ameristar, Harrah&#8217;s) y comemos su buffet. Es siempre agradable; no platos sucios, no trabajo dificíl haciendo la comida, y después de la cena... ¡Nosotros vamos a una película! No hay mucho de elegir, no obstante. Quise mirar &#8220;Ray,&#8221; la película sobre el músico quien, tristemente, murió, pero mi hermana no sabe quien él fue. Así, nosotros miramos &#8220;The Incredibles.&#8221; Es un película por los niños, pero lo disfruté. 
 > 
-> Sé que yo no estoy el sólo que olvidó escribir una carta. Ah, los días feriados&#8230; 
+> Sé que yo no estoy el sólo que olvidó escribir una carta. Ah, los días feriados... 
 > 
 > Su estudiante, 
 > 
 > Ben Oakes 
 
-P.S. Puse esto en un traductor y&#8230; me gusta como mi nombre es traducido: 
+P.S. Puse esto en un traductor y... me gusta como mi nombre es traducido: 
 
 <blockquote cite="http://babelfish.yahoo.com/">
   <p>
-    Loved Lady, Ay, I forgot! It was the turkey, I say to you, the turkey! To duer to me easily to me&#8230; This was a lie. The turkey could not because I am a vegetarian. I do not know that it was, then&#8230; Perhaps because I am as much. Enjoyed you the day of thanks? I enjoyed it. Because there are only three people in this family (and he does not eat turkey), we usually go to a casino (Ameristar, Harrah&#8217;s) and eat their buffet. He is always pleasant; dirty nonplates, work dificíl not making the food, and after the supper&#8230; We go to a film! There is much no to choose, despite. I wanted to watch &#8220;Ray, &#8221; the film on the musician who, sadly, died, but my sister does not know who he was. Thus, we watched &#8220;The Incredibles.&#8221; It is a film by the children, but I enjoyed it. I know that I am not only who forgot to write a letter. Ah, the holiday days&#8230; Its student, <strong>Horseradish tree Oakes</strong>
+    Loved Lady, Ay, I forgot! It was the turkey, I say to you, the turkey! To duer to me easily to me... This was a lie. The turkey could not because I am a vegetarian. I do not know that it was, then... Perhaps because I am as much. Enjoyed you the day of thanks? I enjoyed it. Because there are only three people in this family (and he does not eat turkey), we usually go to a casino (Ameristar, Harrah&#8217;s) and eat their buffet. He is always pleasant; dirty nonplates, work dificíl not making the food, and after the supper... We go to a film! There is much no to choose, despite. I wanted to watch &#8220;Ray, &#8221; the film on the musician who, sadly, died, but my sister does not know who he was. Thus, we watched &#8220;The Incredibles.&#8221; It is a film by the children, but I enjoyed it. I know that I am not only who forgot to write a letter. Ah, the holiday days... Its student, <strong>Horseradish tree Oakes</strong>
   </p>
 </blockquote>
 
-Ay, el tecnología&#8230;
+Ay, el tecnología...

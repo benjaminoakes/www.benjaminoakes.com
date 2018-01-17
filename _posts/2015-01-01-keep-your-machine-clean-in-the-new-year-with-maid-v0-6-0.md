@@ -36,7 +36,7 @@ Let&#8217;s look at a few of the ways Maid helps you with its new features.
 
 In the past, Maid has been run manually or via `cron`. Maid v0.6.0 introduces support for watching your filesystem for changes and taking action immediately. (Under the hood, this is implemented with the `listen` gem, which uses `fsevent` on OSX and `inotify` on Linux.)
 
-Starting Maid automatically at login is pretty straitforward on my daily driver (Ubuntu) &#8212; see [the README for details](https://github.com/benjaminoakes/maid#running-as-a-daemon). It isn&#8217;t quite as easy on OSX &#8212; a situation I expect will improve &#8212; but in the meantime, check out Jurriaan&#8217;s great post on running [Maid as a Daemon on OS X](http://jurriaan.ninja/2015/01/01/maid-on-os-x.html).
+Starting Maid automatically at login is pretty straitforward on my daily driver (Ubuntu) -- see [the README for details](https://github.com/benjaminoakes/maid#running-as-a-daemon). It isn&#8217;t quite as easy on OSX -- a situation I expect will improve -- but in the meantime, check out Jurriaan&#8217;s great post on running [Maid as a Daemon on OS X](http://jurriaan.ninja/2015/01/01/maid-on-os-x.html).
 
 This new &#8220;watch&#8221; feature opens up all sorts of possibilities. Since Maid can now act automatically, you can even treat folders as drop targets for your Maid rules.
 
@@ -69,7 +69,7 @@ This new &#8220;watch&#8221; feature opens up all sorts of possibilities. Since 
 end
 </code></pre>
 
-We still support manual invocation and `cron`, but you should try `watch` &#8212; you&#8217;ll like it.
+We still support manual invocation and `cron`, but you should try `watch` -- you&#8217;ll like it.
 
 ## Image dimensions {#imagedimensions}
 

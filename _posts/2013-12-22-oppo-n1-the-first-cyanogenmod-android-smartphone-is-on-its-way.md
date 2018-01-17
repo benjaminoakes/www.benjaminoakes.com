@@ -15,4 +15,4 @@ tags:
 ---
 [OPPO N1: The first CyanogenMod Android smartphone is on its way | ZDNet](http://www.zdnet.com/oppo-n1-the-first-cyanogenmod-android-smartphone-is-on-its-way-7000024559/).
 
-Interesting. If this does well, I wonder if other manufacturers would consider using CyanogenMod&#8230;. or if CyanogenMod would reduce support for &#8220;unofficial&#8221; handsets.
+Interesting. If this does well, I wonder if other manufacturers would consider using CyanogenMod.... or if CyanogenMod would reduce support for &#8220;unofficial&#8221; handsets.
