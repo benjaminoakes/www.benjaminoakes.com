@@ -25,7 +25,8 @@ When upgrading to Rails 3.1, we found that every single page would give `ActiveR
 
 I found [part of a solution on StackOverflow](http://stackoverflow.com/questions/2212709/remove-activerecord-in-rails-3-beta), but it needed a little tweaking for Rails 3.1.0.
 
-<pre><code class="language-ruby"># File: config/application.rb
+```ruby
+# File: config/application.rb
 
 # Pick the frameworks you want:
 # require "active_record/railtie"
@@ -34,7 +35,7 @@ require "action_mailer/railtie"
 require "active_resource/railtie"
 require "sprockets/railtie"
 require "rails/test_unit/railtie"
-</code></pre>
+```
 
 That&#8217;s what Rails 3.1.0 generates when running `rails new myproject --skip-active-record`. (Note that `require "active_record/railtie"` is commented out.) This solved our `ActiveRecord::ConnectionNotEstablished` problem, but gave us a few others, namely:
 
@@ -45,13 +46,14 @@ That&#8217;s what Rails 3.1.0 generates when running `rails new myproject --skip
 
 There&#8217;s some normal stuff to get rid of in terms of `spec_helper.rb` and/or `test_helper.rb`. Here&#8217;s an example:
 
-<pre><code class="language-ruby"># File spec/spec_helper.rb
+```ruby
+# File spec/spec_helper.rb
 
 # # If you're not using ActiveRecord, or you'd prefer not to run each of your
 # # examples within a transaction, remove the following line or assign false
 # # instead of true.
 # config.use_transactional_fixtures = true
-</code></pre>
+```
 
 You may have others. [Tarantula](https://rubygems.org/gems/tarantula) had to be adjusted for us, for example.
 
@@ -61,7 +63,8 @@ You may have others. [Tarantula](https://rubygems.org/gems/tarantula) had to be 
 
 Right now, the below is what we ended up with:
 
-<pre><code class="language-ruby"># File: config/application.rb
+```ruby
+# File: config/application.rb
 
 # Pick the frameworks you want:
 # require "active_record/railtie"
@@ -73,7 +76,7 @@ require "rails/test_unit/railtie"
 
 # For errors like ActiveRecord::RecordNotFound
 require "active_record"
-</code></pre>
+```
 
 Our automated tests (Rspec, integration tests, Tarantula, Selenium, etc) all pass with it and we no longer get `ActiveRecord::ConnectionNotEstablished`, but we still have an ActiveRecord dependency I don&#8217;t like. (There must be another error we can raise -- I don&#8217;t entirely like the `render '/404.html', status: 404` solution for several reasons.)
 
