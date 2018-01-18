@@ -29,6 +29,7 @@ Needs redirect from:
 * `_posts/2010-05-11-validates_uniqueness_of-with-multiple-scopes.md`
 
 - [ ] Check for direct links/images from www.benjaminoakes.com
+- [ ] Check for more iframes for vimeo/youtube
 
 - [ ] Confirm posts retain the same URLs
 
