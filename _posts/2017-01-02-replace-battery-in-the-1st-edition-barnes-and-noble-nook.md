@@ -17,13 +17,13 @@ tags:
   - replace
 ---
 > If necessary, the battery can be replaced. A replacement battery must be of the following type:
-> 
+>
 > Barnes & Noble Lithium Polymer battery
-  
+>  
 > Model Number BNRB1530
-  
+>  
 > Rating: 3.7V, 1530mAh, 5.66Wh
-> 
+>
 > You will need a small Phillips head screw driver (size 0 or 00).
 
 Source: [NOOK 1st Edition -- Replace Battery -- Barnes and Noble](https://help.barnesandnoble.com/app/answers/detail/a_id/85/kw/3nook%20replacement%20parts)
