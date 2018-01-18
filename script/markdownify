@@ -2,6 +2,8 @@
 
 path="$1"
 
+sed -i.bak 's/<pre><code class="no-highlight">/```\n/' "$path"
+sed -i.bak 's/<pre><code class="ruby">/```ruby\n/' "$path"
 sed -i.bak 's/<pre><code class="language-ruby">/```ruby\n/' "$path"
 sed -i.bak 's/<\/code><\/pre>/```/' "$path"
 sed -i.bak 's/&lt;/</g' "$path"

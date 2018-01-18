@@ -19,24 +19,27 @@ tags:
 ---
 I use a [really simple HTTP server all the time](http://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python). It happens to be written in Python:
 
-<pre><code class="no-highlight">python -m SimpleHTTPServer 5000
-</code></pre>
+```
+python -m SimpleHTTPServer 5000
+```
 
 That serves all the files in the current directory over HTTP on port 5000. Honestly, it works just fine, but I&#8217;ve always wondered if Ruby had an equivalent.
 
 Here it is:
 
-<pre><code class="no-highlight">ruby -run -e httpd . -p 5000
-</code></pre>
+```
+ruby -run -e httpd . -p 5000
+```
 
 (from [Aaron Patterson&#8217;s tweet](https://twitter.com/tenderlove/status/351554818579505152) found via [Zach Morek](http://zachmorek.com))
 
 It&#8217;s pretty much the same, except it&#8217;s written in Ruby. More often than not, that&#8217;s not a big difference -- except I can understand [the code behind it](https://github.com/ruby/ruby/blob/trunk/lib/un.rb#L313).
 
-<pre><code class="ruby">#
+```ruby
+#
 # = un.rb
 #
-# Copyright (c) 2003 WATANABE Hirofumi &lt;eban@ruby-lang.org&gt;
+# Copyright (c) 2003 WATANABE Hirofumi <eban@ruby-lang.org>
 #
 # This program is free software.
 # You can distribute/modify this program under the same terms of Ruby.
@@ -82,12 +85,13 @@ def httpd
     s.start
   end
 end
-</code></pre>
+```
 
 So how does it work? It&#8217;s actually a little surprising. Here&#8217;s the command again for reference:
 
-<pre><code class="no-highlight">ruby -run -e httpd . -p 5000
-</code></pre>
+```
+ruby -run -e httpd . -p 5000
+```
 
 In order:
 
@@ -101,19 +105,21 @@ While that code is probably too clever, it&#8217;s nice to have a simple HTTP se
 
 Even more, the concept is reusable:
 
-<pre><code class="ruby"># File: ake.rb
+```ruby
+# File: ake.rb
 # Minimalist rake.  :)
 def greet
   puts "Hello, #{ ARGV[0] }!"
 end
-</code></pre>
+```
 
 Here&#8217;s the output
 
-<pre><code class="no-highlight">$ ruby -I . -rake -e greet Ben
+```
+$ ruby -I . -rake -e greet Ben
 Hello, Ben!
 $ ruby -r ./ake -e greet Ben
 Hello, Ben!
-</code></pre>
+```
 
 That could be a nice minimalist way to write some helper scripts without Rake or Thor.
