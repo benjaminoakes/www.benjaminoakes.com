@@ -22,21 +22,29 @@ But when we first started using Puppet with Vagrant, Puppet was _freaking out_.
 
 We resolved most of the errors quickly, but we couldn’t figure out what to do about this error message:
 
-<pre><code class="no-highlight">can't convert String into Integer at /tmp/vagrant-puppet/modules-0/puppet/manifests/init.pp:11 on node localhost.localdomain</code></pre>
+```
+can't convert String into Integer at /tmp/vagrant-puppet/modules-0/puppet/manifests/init.pp:11 on node localhost.localdomain
+```
 
 Immediately, we tracked it down to a use of the `fqdn_rand` function.
 
-<pre><code  class="language-ruby">minute =&gt; fqdn_rand(60),</code></pre>
+```ruby
+minute => fqdn_rand(60),
+```
 
 The easy fix was to cheat and just put in a number by hand.
 
-<pre><code class="language-ruby">minute =&gt; 42, # fqdn_rand(60),</code></pre>
+```ruby
+minute => 42, # fqdn_rand(60),
+```
 
 That got us by, but it felt _dirty_. We knew the problem was only happening when we tried to use Puppet in conjunction with Vagrant. Since FQDN stands for Fully Qualified Domain Name, it seemed like Puppet needed more information, but the documentation wasn’t too helpful on how to provide that.
 
 I had found out how to set the hostname to provision Vagrant boxes as different nodes, so that was my first attempt.
 
-<pre><code class="language-ruby">config.vm.hostname = 'vagrant-foo.example.com'</code></pre>
+```ruby
+config.vm.hostname = 'vagrant-foo.example.com'
+```
 
 Alas, that didn’t fix the issue. What other options were there? Use another function for random numbers?
 
@@ -50,18 +58,20 @@ This is what we had to do to get Puppet to stop complaining. Note that this didn
 
 **Update (2013-04-26):** It seems like FQDN doesn&#8217;t play as big of a role as I first thought -- the problem seems to go away with just `hostname` set when using Puppet 3.1.1.
 
-<pre><code class="language-ruby"># File: Vagrantfile
+```ruby
+# File: Vagrantfile
 Vagrant.configure('2') do |config|
   config.vm.box      = '[...]'
   config.vm.hostname = 'vagrant-foo.example.com'
 
   # [...]
 
-  config.vm.provision :puppet, :module_path =&gt; %w(modules) do |puppet|
+  config.vm.provision :puppet, :module_path => %w(modules) do |puppet|
     # fix `fqdn_rand` error
-    puppet.facter = { 'fqdn' =&gt; config.vm.hostname }
+    puppet.facter = { 'fqdn' => config.vm.hostname }
   end
-end</code></pre>
+end
+```
 
 And now our Puppet is happy again.
 
