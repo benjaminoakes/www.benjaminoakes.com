@@ -21,16 +21,19 @@ We ran into a strange bug in ActiveRecord when upgrading our Rails 3.2.x app to 
 
 Because we tracked it down to `partial_updates`, our first inclination was just to disable `partial_updates` like so: 
 
-<pre><code class="ruby">ActiveRecord::Base.partial_updates = false </code></pre>
+```ruby
+ActiveRecord::Base.partial_updates = false 
+```
 
 That definitely worked, but seemed like disabling a default Rails feature shouldn&#8217;t have been necessary. We tracked the problem down so that we could keep using `partial_updates`.
 
 Here&#8217;s some code that reproduces our issue:
 
-<pre><code class="ruby"># class CreateTestUsers &lt; ActiveRecord::Migration
+```ruby
+# class CreateTestUsers < ActiveRecord::Migration
 #   def change
 #     create_table :test_users do |t| 
-#       t.string :name, :null =&gt; false
+#       t.string :name, :null => false
 #       t.string :email
 #       t.string :type
 #   
@@ -39,19 +42,19 @@ Here&#8217;s some code that reproduces our issue:
 #   end 
 # end 
 
-class TestUser &lt; ActiveRecord::Base
-  validates :email, :presence =&gt; true
-  validates :name, :presence =&gt; true
+class TestUser < ActiveRecord::Base
+  validates :email, :presence => true
+  validates :name, :presence => true
 end 
 
-class UserA &lt; TestUser
+class UserA < TestUser
 end 
 
-class UserB &lt; TestUser
+class UserB < TestUser
 end
 
-original_user = UserA.create(:email =&gt; 'johndoe@gmail.com',
-                             :name =&gt; 'John Doe')
+original_user = UserA.create(:email => 'johndoe@gmail.com',
+                             :name => 'John Doe')
 
 dup_user = original_user.dup.becomes(UserB)
 dup_user[:type] = 'UserB'
@@ -61,7 +64,7 @@ dup_user.save! # exception!
 # a default value: INSERT INTO `test_users` (`created_at`, `email`, `type`,
 # `updated_at`) VALUES ('2014-03-03 16:33:23', 'dup@gmail.com', 'UserB',
 # '2014-03-03 16:33:23')
-</code></pre>
+```
 
 Certainly not the most common of use cases; it was clear that STI was causing the issue as we worked on creating our minimal test case.
 
@@ -69,10 +72,11 @@ After reviewing how `becomes` works, we came to the conclusion that it was mangl
 
 This alternative works with `partial_updates` enabled:
 
-<pre><code class="ruby">dup_user = original_user.becomes!(UserB).dup
+```ruby
+dup_user = original_user.becomes!(UserB).dup
 dup_user.email = 'dup@gmail.com'
 dup_user.save!
-</code></pre>
+```
 
 One could argue that there&#8217;s still a bug to fix in Rails, but this is such a corner case that we probably have one of very few codebases that had this issue. We **might** take the time to submit a pull request, but a blog post is a lot more likely to help someone else in the meantime.
 
