@@ -50,13 +50,14 @@ Searching [ruby-doc.org core](http://ruby-doc.org/core-2.0) gave:
 
 Here&#8217;s what they do:
 
-<pre><code class="language-ruby">ENV.to_h                 # =&gt; {"TERM"=&gt;"xterm", "SHELL"=&gt;"/bin/bash", ...}
-{ panda: 'bamboo' }.to_h # =&gt; {:panda=&gt;"bamboo"}
-nil.to_h                 # =&gt; {}
+```ruby
+ENV.to_h                 # => {"TERM"=>"xterm", "SHELL"=>"/bin/bash", ...}
+{ panda: 'bamboo' }.to_h # => {:panda=>"bamboo"}
+nil.to_h                 # => {}
 
 s = Struct.new(:panda, :bamboo).new
-s.to_h                   # =&gt; {:panda=&gt;nil, :bamboo=&gt;nil}
-</code></pre>
+s.to_h                   # => {:panda=>nil, :bamboo=>nil}
+```
 
 ### Std-lib {#stdlib}
 
@@ -71,11 +72,12 @@ Searching [ruby-doc.org std-lib](http://ruby-doc.org/stdlib-2.0/) gave:
 
 I don&#8217;t have any examples for the latter 3, but `OpenStruct#to_h` is easy to demonstrate:
 
-<pre><code class="language-ruby">require 'ostruct'
+```ruby
+require 'ostruct'
 os = OpenStruct.new(panda: 'bamboo')
-os      # =&gt; #&lt;OpenStruct panda="bamboo"&gt;
-os.to_h # =&gt; {:panda=&gt;"bamboo"}
-</code></pre>
+os      # => #<OpenStruct panda="bamboo">
+os.to_h # => {:panda=>"bamboo"}
+```
 
 ## Any gotchas? {#anygotchas}
 
@@ -85,28 +87,32 @@ Not everything about `to_h` works the way I&#8217;d expect.
 
 This doesn&#8217;t work:
 
-<pre><code class="language-ruby">%w(panda bamboo).to_h # =&gt; NoMethodError: undefined method `to_h'
-</code></pre>
+```ruby
+%w(panda bamboo).to_h # => NoMethodError: undefined method `to_h'
+```
 
 I might have expected behavior like this:
 
-<pre><code class="language-ruby">Hash['panda', 'bamboo'] # =&gt; {"panda"=&gt;"bamboo"}
-</code></pre>
+```ruby
+Hash['panda', 'bamboo'] # => {"panda"=>"bamboo"}
+```
 
 That would be especially nice, since then you could convert back and forth from `Array` to `Hash`:
 
-<pre><code class="language-ruby">{ panda: 'bamboo' }.to_a.to_h # =&gt; NoMethodError: undefined method `to_h'
-</code></pre>
+```ruby
+{ panda: 'bamboo' }.to_a.to_h # => NoMethodError: undefined method `to_h'
+```
 
 ...but alas, that&#8217;s just not how it works. However, we can [try to convince matz otherwise](http://bugs.ruby-lang.org/issues/7292).
 
 Something I found by accident: I screwed up `Hash[]` the first time and got a bunch of new warnings on STDERR.
 
-<pre><code class="language-ruby">Hash[['panda', 'bamboo']]
+```ruby
+Hash[['panda', 'bamboo']]
 # (irb):5: warning: wrong element type String at 0 (expected array)
 # (irb):5: warning: ignoring wrong elements is deprecated, remove them explicitly
 # (irb):5: warning: this causes ArgumentError in the next release
-</code></pre>
+```
 
 In Ruby 1.9.3, it would print no warnings and simply return `{}`.
 
@@ -114,25 +120,28 @@ In Ruby 1.9.3, it would print no warnings and simply return `{}`.
 
 I also was hoping JSON would take advantage of `to_h`, since [it&#8217;s now a part of Ruby&#8217;s stdlib](http://www.ruby-doc.org/stdlib-2.0/libdoc/json/rdoc/JSON.html).
 
-<pre><code class="language-ruby">require 'json'
+```ruby
+require 'json'
 JSON.generate(ENV)
 # /usr/local/lib/ruby/2.0.0/json/common.rb:223:in `generate': only generation of JSON objects or arrays allowed (JSON::GeneratorError)
 # from /usr/local/lib/ruby/2.0.0/json/common.rb:223:in `generate'
-# from tmp/talk_code.rb:3:in `&lt;main&gt;'
-</code></pre>
+# from tmp/talk_code.rb:3:in `<main>'
+```
 
 I would have expected something like this:
 
-<pre><code class="language-ruby">require 'json'
+```ruby
+require 'json'
 # NOTE: This doesn't actually work this way.  Blog skimmers take notice!
-JSON.generate(ENV) # =&gt; "{\"TERM\":\"xterm\",\"SHELL\": ...
-</code></pre>
+JSON.generate(ENV) # => "{\"TERM\":\"xterm\",\"SHELL\": ...
+```
 
 Fortunately, you can do this:
 
-<pre><code class="language-ruby">require 'json'
-JSON.generate(ENV.to_h) # =&gt; "{\"TERM\":\"xterm\",\"SHELL\": ...
-</code></pre>
+```ruby
+require 'json'
+JSON.generate(ENV.to_h) # => "{\"TERM\":\"xterm\",\"SHELL\": ...
+```
 
 ...but that feels like an excellent use of `to_h` that should have been a part of `JSON`.
 
@@ -144,28 +153,30 @@ Duck typing is probably the most useful use case I can think of. It&#8217;s a go
 
 Here&#8217;s a simple example. Let&#8217;s say I have a method called `eat`:
 
-<pre><code class="language-ruby">def eat(diet)
+```ruby
+def eat(diet)
   "A panda eats #{ diet[:eats] }"
 end
-</code></pre>
+```
 
 ...but I want to make sure the `diet` that is passed in is treated like a `Hash`. That&#8217;s possible now:
 
-<pre><code class="language-ruby">def eat(diet)
+```ruby
+def eat(diet)
   "A panda eats #{ diet.to_h[:eats] }"
 end
 
 # It works with a Hash
 panda_diet = { eats: 'bamboo' }
-eat(panda_diet) # =&gt; "A panda eats bamboo"
+eat(panda_diet) # => "A panda eats bamboo"
 
 # ...a Struct
 panda_diet = Struct.new(:eats).new('shoots and leaves')
-eat(panda_diet) # =&gt; "A panda eats shoots and leaves"
+eat(panda_diet) # => "A panda eats shoots and leaves"
 
 # ...or even nil
-eat(nil) # =&gt; "A panda eats "
-</code></pre>
+eat(nil) # => "A panda eats "
+```
 
 ### `Hash()` {#hash}
 
@@ -173,12 +184,13 @@ One other addition I noticed (but haven&#8217;t seen mentioned elsewhere) is the
 
 Here&#8217;s an example using `Array`:
 
-<pre><code class="language-ruby">def eat_up(foods)
+```ruby
+def eat_up(foods)
   # Turns anything into an `Array`:
   #
-  #     nil        =&gt; []
-  #     'bamboo'   =&gt; ['bamboo']
-  #     ['bamboo'] =&gt; ['bamboo']
+  #     nil        => []
+  #     'bamboo'   => ['bamboo']
+  #     ['bamboo'] => ['bamboo']
   #
   Array(foods).each do |food|
     puts eat(eats: food)
@@ -192,34 +204,36 @@ eat_up('bamboo')
 eat_up(['bamboo', 'shoots and leaves'])
 # A panda eats bamboo
 # A panda eats shoots and leaves
-</code></pre>
+```
 
 That&#8217;s actually very useful behavior; a lot of annoying type and error checking just goes away. Ever since I first saw [Avdi Grimm](http://about.avdi.org/) present it, I&#8217;ve found [many uses](https://github.com/benjaminoakes/maid/blob/master/lib/maid/tools.rb#L428) for it.
 
 The good news is, you can now do something similar with `Hash()`
 
-<pre><code class="language-ruby">def eat(diet)
+```ruby
+def eat(diet)
   diet = Hash(diet)
   "A panda eats #{ diet[:eats] }"
 end
 
 panda_diet = { eats: 'bamboo' }
-eat(panda_diet) # =&gt; "A panda eats bamboo"
-eat(nil) # =&gt; "A panda eats "
-</code></pre>
+eat(panda_diet) # => "A panda eats bamboo"
+eat(nil) # => "A panda eats "
+```
 
 If used in the right situation, that might just be as useful as `Array()`.
 
 But strangely enough, `Hash()` doesn&#8217;t work exactly like `to_h`:
 
-<pre><code class="language-ruby">Hash([]) # =&gt; {}
+```ruby
+Hash([]) # => {}
 
 Hash(OpenStruct.new)
 # TypeError: can't convert OpenStruct into Hash
 #     from (irb):100:in `Hash'
 #     from (irb):100
-#     from /usr/local/bin/irb:12:in `&lt;main&gt;'
-</code></pre>
+#     from /usr/local/bin/irb:12:in `<main>'
+```
 
 I don&#8217;t currently have an explanation, but unless you need specific behavior from `Hash()`, you may prefer to use `to_h`.
 
@@ -229,7 +243,8 @@ I don&#8217;t currently have an explanation, but unless you need specific behavi
 
 If you have a use case for it, `to_h` could make constructors more flexible:
 
-<pre><code class="language-ruby">class Panda
+```ruby
+class Panda
   def initialize(params)
     params = params.to_h
 
@@ -238,13 +253,14 @@ If you have a use case for it, `to_h` could make constructors more flexible:
     @weight = params[:weight]
   end
 end
-</code></pre>
+```
 
 ### Flexible constructor with `OpenStruct` {#flexibleconstructorwithopenstruct}
 
 Or even use an `OpenStruct` instead, if you&#8217;d like:
 
-<pre><code class="language-ruby">require 'ostruct'
+```ruby
+require 'ostruct'
 
 class Panda
   def initialize(params)
@@ -255,13 +271,14 @@ class Panda
     @weight = params.weight
   end
 end
-</code></pre>
+```
 
 ### `OpenStruct` conversion {#openstructconversion}
 
 If you felt like it, you could even refactor that into this:
 
-<pre><code class="language-ruby">require 'ostruct'
+```ruby
+require 'ostruct'
 
 # Convert to an `OpenStruct`
 def OpenStruct(hash_like)
@@ -269,14 +286,15 @@ def OpenStruct(hash_like)
 end
 
 env = OpenStruct(ENV)
-env.TERM # =&gt; 'xterm'
-</code></pre>
+env.TERM # => 'xterm'
+```
 
 ### Reusable `to_h` definition {#reusableto_hdefinition}
 
 You could even parameterize how to define `to_h`:
 
-<pre><code class="language-ruby"># Related to my concept of `to_h` back in 2010: https://github.com/benjaminoakes/snippets/blob/master/ruby/to_h.rb
+```ruby
+# Related to my concept of `to_h` back in 2010: https://github.com/benjaminoakes/snippets/blob/master/ruby/to_h.rb
 module ConversionHelper
   def pick(*methods)
     h = {}
@@ -303,6 +321,6 @@ class Panda
     pick(:name, :age)
   end
 end
-</code></pre>
+```
 
 I haven&#8217;t decided whether the last few ideas would actually be useful in practice, but these are the types of things that `Hash()` and `to_h` open up for Rubyists.
