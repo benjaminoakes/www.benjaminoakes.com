@@ -75,7 +75,7 @@ end
 
 And now our Puppet is happy again.
 
-[![Happy puppet](http://www.benjaminoakes.com/wp-content/uploads/2013/04/happy-puppet.png)](http://potterpuppetpals.com/)
+![Happy puppet](/wp-content/uploads/2013/04/happy-puppet.png)
 
 (Keep in mind that `Vagrantfile` settings like these might require a `vagrant reload` or a `vagrant destroy --force && vagrant up`.)
 
