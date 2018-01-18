@@ -14,11 +14,7 @@ tags:
   - softare engineering
   - xkcd
 ---
-[
-  
-<img src="http://www.benjaminoakes.com/wp-content/uploads/2013/11/git_commit.png" alt="git_commit" width="439" height="250" class="aligncenter size-full wp-image-376" srcset="https://www.benjaminoakes.com/wp-content/uploads/2013/11/git_commit.png 439w, https://www.benjaminoakes.com/wp-content/uploads/2013/11/git_commit-300x170.png 300w" sizes="(max-width: 439px) 100vw, 439px" />
-  
-](http://xkcd.com/1296/) 
+[![XKCD #1296: Git Commit](http://www.benjaminoakes.com/wp-content/uploads/2013/11/git_commit.png)](http://xkcd.com/1296/)
 
 (via [XKCD](http://xkcd.com/license.html))
 
