@@ -13,13 +13,9 @@ categories:
   - Rails
   - Ruby
 ---
-<div id="attachment_155" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://www.benjaminoakes.com/wp-content/uploads/2012/09/sscc-jeff-zoline-photo.jpg"><img src="http://www.benjaminoakes.com/wp-content/uploads/2012/09/sscc-jeff-zoline-photo-300x119.jpg" alt="South Shore Cultural Center, Chicago" title="sscc-jeff-zoline" width="300" height="119" class="preview size-medium wp-image-155" srcset="https://www.benjaminoakes.com/wp-content/uploads/2012/09/sscc-jeff-zoline-photo-300x119.jpg 300w, https://www.benjaminoakes.com/wp-content/uploads/2012/09/sscc-jeff-zoline-photo.jpg 690w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<img src="/wp-content/uploads/2012/09/sscc-jeff-zoline-photo.jpg" alt="South Shore Cultural Center, Chicago">
   
-  <p class="wp-caption-text">
-    <i>South Shore Cultural Center, Chicago<br />(Photo: <a href="http://www.flickr.com/photos/zol87/">Jeff Zoline</a> CC BY-NC 2.0)</i>
-  </p>
-</div>
+_South Shore Cultural Center, Chicago (Photo: <a href="http://www.flickr.com/photos/zol87/">Jeff Zoline</a> CC BY-NC 2.0)_
 
 WindyCityRails was a lot of fun.
 
@@ -28,11 +24,8 @@ As I&#8217;ve done in the past, I took notes and put them into an [open wiki on 
 Anyway, I thought I&#8217;d share some of the better talks:
 
 * David Chelimsky: [The RSpec Toolbox](https://github.com/newhavenrb/conferences/wiki/The-RSpec-Toolbox)
-  
 * Evan Light: [Frustration Driven Development](https://github.com/newhavenrb/conferences/wiki/Frustration-Driven-Development)
-  
 * Steve Klabnik: [Development and Philosophy](https://github.com/newhavenrb/conferences/wiki/Development-and-Philosophy)
-  
 * [Several really good Lightning Talks](https://github.com/newhavenrb/conferences/wiki/WindyCityRails-2012-Lightning-Talks)
 
 Both David Chelimsky and Steve Klabnik contributed to the wiki, which was a nice surprise. :) Steve&#8217;s talk was really good, but hard to do it justice with any notes... I was happy to see that he annotated it.
