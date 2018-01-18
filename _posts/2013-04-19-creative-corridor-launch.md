@@ -18,3 +18,5 @@ The Creative Corridor is what we make of it, after all, so let&#8217;s make the 
 [![We Create Here - Iowa's Creative Corridor](/wp-content/uploads/2013/04/WCH_Web_Badges-02.png)](http://creativecorridor.co/)
 
 Below is a video they presented at the event, which I think turned out very well. Here&#8217;s hoping it helps de-mystify Iowa to those living outside the Midwest!
+
+<iframe src="http://player.vimeo.com/video/64386807" frameborder="0" width="500" height="281" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
