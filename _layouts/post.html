@@ -15,18 +15,14 @@ layout: default
       {% endif %}</p>
   </header>
 
-  {% if site.adsense %}
-    {% include adsense.html %}
-  {% endif %}
-
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-
-  {% if site.adsense %}
-    {% include adsense.html %}
-  {% endif %}
 </article>
+
+{% if site.adsense %}
+  {% include adsense.html %}
+{% endif %}
 
 {% if site.disqus.shortname %}
   {% include disqus_comments.html %}
