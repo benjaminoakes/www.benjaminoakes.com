@@ -25,54 +25,60 @@ Basically, I just want to have a page in my app that shows the time in different
 
 I started with this:
 
-<pre><code class="language-irb">>> Time.now.in_time_zone('EST')
+```irb
+>> Time.now.in_time_zone('EST')
 => Tue, 23 Nov 2010 11:09:42 EST -05:00
-</code></pre>
+```
 
 Okay, so far so good. Next:
 
-<pre><code class="language-irb">>> Time.now.in_time_zone('PST')
+```irb
+>> Time.now.in_time_zone('PST')
 NoMethodError: undefined method `period_for_utc' for nil:NilClass
 [...]
 >> Time.now.in_time_zone('CST')
 NoMethodError: undefined method `period_for_utc' for nil:NilClass
 [...]
-</code></pre>
+```
 
 Wait, that&#8217;s odd... why doesn&#8217;t that work? After searching, I found you could use some city names like so:
 
-<pre><code class="language-irb">>> Time.now.in_time_zone('Tokyo')
+```irb
+>> Time.now.in_time_zone('Tokyo')
 => Wed, 24 Nov 2010 01:04:54 JST +09:00
-</code></pre>
+```
 
 But of course JST won&#8217;t work:
 
-<pre><code class="language-irb">>> Time.now.in_time_zone('JST')
+```irb
+>> Time.now.in_time_zone('JST')
 NoMethodError: undefined method `period_for_utc' for nil:NilClass
 [...]
-</code></pre>
+```
 
 And neither will major American cities:
 
-<pre><code class="language-irb">>> Time.now.in_time_zone('New York')
+```irb
+>> Time.now.in_time_zone('New York')
 NoMethodError: undefined method `period_for_utc' for nil:NilClass
 [...]
 >> Time.now.in_time_zone('Chicago')
 NoMethodError: undefined method `period_for_utc' for nil:NilClass
 [...]
-</code></pre>
+```
 
 Nothing too relevant came up when I googled the above errors and phrases (part of why I&#8217;m posting this), but then I came across the `rake time:zones:us` and `rake time:zones:all` Rake tasks. They list valid timezones for you.
 
 The thing that gets me is that `'EST'` and `'Tokyo'` work as expected, but `'PST'` and `'New York'` don&#8217;t. These are what I ended up with:
 
-<pre><code class="language-irb">>> Time.now.in_time_zone('Eastern Time (US & Canada)')
+```irb
+>> Time.now.in_time_zone('Eastern Time (US & Canada)')
 => Tue, 23 Nov 2010 11:08:12 EST -05:00
 >> Time.now.in_time_zone('Central Time (US & Canada)')
 => Tue, 23 Nov 2010 10:06:08 CST -06:00
 >> Time.now.in_time_zone('Pacific Time (US & Canada)')
 => Tue, 23 Nov 2010 08:06:23 PST -08:00
-</code></pre>
+```
 
 Ironically, it lists EST, CST, and PST in the results. It&#8217;s still confusing to me why the longhand version is the preferred notation here (sometimes), but at least you&#8217;re given the tools to look it up.
 

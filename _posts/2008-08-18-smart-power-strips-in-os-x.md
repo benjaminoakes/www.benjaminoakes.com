@@ -18,17 +18,22 @@ It&#8217;s a great idea in theory, but I had problems using it with my Mac mini 
 
 But I found a solution! According to some information I found, there&#8217;s a way to change from using the default &#8220;sleep&#8221; and use something closer to what Windows users may know as &#8220;hibernate&#8221;. (It exists normally in OS X, but is only triggered by low battery.) To force it to always &#8220;hibernate&#8221; when sleeping (which is fine in the case of the Mac mini), you can run the following command at the command line:
 
-<pre><code class="language-bash">sudo pmset -a hibernatemode 1</code></pre>
+```bash
+sudo pmset -a hibernatemode 1
+```
 
 To reset this back to normal, run:
 
-<pre><code class="language-bash">sudo pmset -a hibernatemode 3</code></pre>
+```bash
+sudo pmset -a hibernatemode 3
+```
 
 Using this hibernate mode, the Mac no longer turns itself back on when the power to the external hard drives goes off. You can then set the Mac to sleep on whatever schedule works for you in System Preferences and everything else should turn off around 15 seconds after it starts going to sleep. (You&#8217;ll have to give it a little bit because it has to write the contents of memory to disk, which takes time.)
 
 However, one problem still remains: OS X will still complain about the disks being removed improperly. To get around this, I wrote a small shell script which ejects them 5 minutes before the scheduled sleep time. You&#8217;ll need to tailor it to your setup, of course.
 
-<pre><code class="language-bash">#!/usr/bin/env bash
+```bash
+#!/usr/bin/env bash
 # ~/bin/eject_external_drives
 
 if [ -d "/Volumes/Time Machine" ]
@@ -39,7 +44,8 @@ fi
 if [ -d "/Volumes/Storage" ]
 then
   diskutil eject "/Volumes/Storage"
-fi</code></pre>
+fi
+```
 
 My crontab for this task looks like so:
 

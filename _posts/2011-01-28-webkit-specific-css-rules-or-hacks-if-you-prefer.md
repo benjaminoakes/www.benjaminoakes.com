@@ -32,15 +32,17 @@ In that spirit, I decided to make a `webkit.css` file with WebKit-only rules. Gi
 
 #### Within `<head>` add:
 
-<pre><code class="language-html">&lt;link href="webkit.css" media="screen and (-webkit-min-device-pixel-ratio:0)" rel="stylesheet" type="text/css" /&gt;
-</code></pre>
+```html
+<link href="webkit.css" media="screen and (-webkit-min-device-pixel-ratio:0)" rel="stylesheet" type="text/css" />
+```
 
 Or, if you don&#8217;t want a separate file, you can avoid that by embedding the rule into an existing stylesheet like so: 
 
-<pre><code class="language-css">@media screen and (-webkit-min-device-pixel-ratio:0) {
+```css
+@media screen and (-webkit-min-device-pixel-ratio:0) {
   /* Your CSS */
 }
-</code></pre>
+```
 
 #### Within `<head>` add:
 
@@ -48,12 +50,13 @@ Then, to style all the background colors so that `<input type="file" />` is read
 
 #### `webkit.css`
 
-<pre><code class="language-css">input[type="file"] {
+```css
+input[type="file"] {
   background-color: white;
   padding: 3px;
   -webkit-border-radius: 7px;
 }
-</code></pre>
+```
 
 That&#8217;s simple enough to fix all file inputs in WebKit, but IE 6, 7, 8 and Firefox continue to work the same way. 
 

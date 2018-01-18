@@ -17,7 +17,8 @@ I needed to filter some output when logging. Unfortunately, the filtering built 
 
 Although this wasn&#8217;t my final solution, I still think it could be useful to someone:
 
-<pre><code class="language-ruby"># License: MIT, GPLv2
+```ruby
+# License: MIT, GPLv2
 module InspectionHelper
   def self.filter(object)
     def object.ai(*)
@@ -29,13 +30,14 @@ module InspectionHelper
     end
   end
 end
-</code></pre>
+```
 
 This will filter output from both `inspect` and the equivalent in `awesome_print` (which was the pain point for me earlier today).
 
 Usage:
 
-<pre><code class="language-ruby">data = []
+```ruby
+data = []
 InspectionHelper.filter(data)
 data.inspect # => '[INSPECT-FILTERED]'
 
@@ -43,4 +45,4 @@ data.inspect # => '[INSPECT-FILTERED]'
 h = { something_important: Object.new }
 InspectionHelper.filter(h[:something_important])
 h.inspect # => {:something_important=>[INSPECT-FILTERED]}
-</code></pre>
+```

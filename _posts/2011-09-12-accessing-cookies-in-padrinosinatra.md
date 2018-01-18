@@ -15,7 +15,8 @@ tags:
 ---
 Unlike in Rails, there is no global `cookies` object in Padrino or Sinatra. Instead, you need to use `request.cookies` within your request handler:
 
-<pre><code class="language-ruby">get :index do
+```ruby
+get :index do
   my_value = request.cookies['my_value']
 end
-</code></pre>
+```

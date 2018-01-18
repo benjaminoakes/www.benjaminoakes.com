@@ -18,8 +18,12 @@ It took me quite a while to figure out that `Time` objects aren&#8217;t treated 
 
 So, it was incorrect to use the following, because Rails was treating them like a `:date` instead of a `:datetime`.
 
-<pre><code class="language-ruby">named_scope :active, lambda { now = Time.now; {:conditions =&gt; ['? &gt; open_date and ? &lt; close_date', now, now] } }</code></pre>
+```ruby
+named_scope :active, lambda { now = Time.now; {:conditions => ['? > open_date and ? < close_date', now, now] } }
+```
 
 Instead, the following was used to make sure the time parts are included:
 
-<pre><code class="language-ruby">named_scope :active, lambda { now = Time.now; {:conditions =&gt; ['? &gt; open_date and ? &lt; close_date', now.to_s(:sql), now.to_s(:sql)] } }</code></pre>
+```ruby
+named_scope :active, lambda { now = Time.now; {:conditions => ['? > open_date and ? < close_date', now.to_s(:sql), now.to_s(:sql)] } }
+```

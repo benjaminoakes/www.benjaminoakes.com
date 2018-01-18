@@ -15,11 +15,13 @@ tags:
 ---
 I recently ran into a problem where I needed to use `validates_uniqueness_of` with more than one scope. Basically, I have resources that users can either share or keep to themselves. Each resource has a description that should be unique. **However**, the scope of the uniqueness depends on the situation. In **pseudo-code**, I wanted something like:
 
-<pre><code class="language-ruby">if shared?
-  validates_uniqueness_of :description, :scope =&gt; :shared
+```ruby
+if shared?
+  validates_uniqueness_of :description, :scope => :shared
 else
-  validates_uniqueness_of :description, :scope =&gt; :user_id
-end</code></pre>
+  validates_uniqueness_of :description, :scope => :user_id
+end
+```
 
 (That is, if you share, the description should be unique across all the shared resources. Otherwise, it should just be unique within _your_ stuff.)
 
@@ -31,26 +33,30 @@ The Hashrocket folks said something similar in their [Rails 3 Blog Club -- Week 
 
 For example, _if_ validations were executed in the context of the model instance, the above would have translated directly to something like this:
 
-<pre><code class="language-ruby">class MyModel &lt; ActiveRecord::Base
+```ruby
+class MyModel < ActiveRecord::Base
   # [...]
 
   def validate
     if shared?
-      validate_uniqueness_of :description, :scope =&gt; :shared
+      validate_uniqueness_of :description, :scope => :shared
     else
-      validate_uniqueness_of :description, :scope =&gt; :user_id
+      validate_uniqueness_of :description, :scope => :user_id
     end
   end
-end</code></pre>
+end
+```
 
 (Note for blog skimmers, the above code does **NOT** work.)
 
 Instead, I ended up with the following:
 
-<pre><code class="language-ruby">class MyModel &lt; ActiveRecord::Base
-  validates_uniqueness_of :description, :scope =&gt; :shared, :if => :shared?
-  validates_uniqueness_of :description, :scope =&gt; :user_id, :unless => :shared?
-end</code></pre>
+```ruby
+class MyModel < ActiveRecord::Base
+  validates_uniqueness_of :description, :scope => :shared, :if => :shared?
+  validates_uniqueness_of :description, :scope => :user_id, :unless => :shared?
+end
+```
 
 The `:if` / `:unless` keys still feel like a hack to me. (I&#8217;m scared they will break in non-obvious ways, to be honest -- I think I&#8217;ve already found a couple of corner cases.)
 

@@ -18,11 +18,12 @@ This has bothered me for a while, so I made [a question on StackOverflow](http:/
 > 
 > So here&#8217;s my question: when you re-assign a value into a constant, you get a warning like so:
 > 
-> <pre><code class="language-irb">&gt;&gt; FOO = 'bar'
-=&gt; "bar"
-&gt;&gt; FOO = 'baz'
+> ```irb
+>> FOO = 'bar'
+=> "bar"
+>> FOO = 'baz'
 (irb):2: warning: already initialized constant FOO
-=&gt; "baz"
-</code></pre>
+=> "baz"
+```
 > 
 > Is there a way to force Ruby to throw an exception instead of printing a warning?

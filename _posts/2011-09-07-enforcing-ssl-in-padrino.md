@@ -11,16 +11,17 @@ categories:
 ---
 We&#8217;re trying `rack-ssl-enforcer` out on our Padrino-based project. It seems to work when configuring like so:
 
-<pre><code class="language-ruby">
+```ruby
+
 # File: app/app.rb
-class MyApp &lt; Padrino::Application
+class MyApp < Padrino::Application
   # [...]
   configure :production do
     require 'rack-ssl-enforcer'
     use Rack::SslEnforcer
   end
 end
-</code></pre>
+```
 
 We're using it with Padrino with some success. It's great that such a common need is really simple to set up. However, even after looking through the docs further, I'm surprised that I can request over HTTP and I don't get redirected to HTTPS. I've yet to figure out the issue, but it seems to meet our needs just fine otherwise.
 

@@ -21,17 +21,22 @@ According to the [Application Helpers guides](http://www.padrinorb.com/guides/ap
 
 Example:
 
-<pre><code class="language-haml">%p
+```haml
+%p
   = time_ago_in_words(my_date)
   ago
-</code></pre>
+```
 
 For reasons I don&#8217;t quite understand, this documentation is also **incorrect**:
 
-<pre><code class="language-ruby">time_ago_in_words(2.days.ago) # => "2 days ago"</code></pre>
+```ruby
+time_ago_in_words(2.days.ago) # => "2 days ago"
+```
 
 The actual behavior is:
 
-<pre><code class="language-ruby">time_ago_in_words(2.days.ago) # => "2 days"</code></pre>
+```ruby
+time_ago_in_words(2.days.ago) # => "2 days"
+```
 
 I&#8217;m planning to move some of this into the [padrino-framework](https://github.com/padrino/padrino-framework) project directly. Incorrect documentation is worse than no documentation; maybe it will be more accurate if kept in the code. :)

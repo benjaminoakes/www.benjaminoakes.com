@@ -21,7 +21,14 @@ To fix:
 _posts/2015-11-08-super-mario-world-castle-theme-organ-cover.md
 2016/10/29/apples-phil-schiller-thinks-its-sad-that-people-use-5-year-old-computers/
 2017/01/26/10-simple-ways-to-use-less-oil/
+/2010/11/23/rails-timezones/
 ```
+
+Needs redirect from:
+
+* `_posts/2010-05-11-validates_uniqueness_of-with-multiple-scopes.md`
+
+- [ ] Check for direct links/images from www.benjaminoakes.com
 
 - [ ] Confirm posts retain the same URLs
 
