@@ -44,7 +44,7 @@ It turns out that `vagrant` itself ignores anything but identity files, which wa
 
 It turns out that `lib/vagrant/util/ssh.rb` can be modified like so:
 
-```
+```patch
 --- a/lib/vagrant/util/ssh.rb
 +++ b/lib/vagrant/util/ssh.rb
 @@ -108,7 +108,7 @@ module Vagrant
@@ -54,13 +54,13 @@ It turns out that `lib/vagrant/util/ssh.rb` can be modified like so:
 -          command_options += ["-o", "IdentitiesOnly=yes"]
 +          command_options += ["-o", "IdentitiesOnly=no"]
          end
- 
+
          # If we're not in plain mode, attach the private key path.
 ```
 
 There&#8217;s a related change that can be made to make `vagrant ssh-config` match, but it seems to be cosmetic:
 
-```
+```patch
 --- a/templates/commands/ssh_config/config.erb
 +++ b/templates/commands/ssh_config/config.erb
 @@ -6,7 +6,7 @@ Host <%= host_key %>
