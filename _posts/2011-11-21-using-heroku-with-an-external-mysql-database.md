@@ -43,48 +43,62 @@ What we have:
 
 First, we configure Heroku with the appropriate environment variables:
 
-<pre><code class="language-bash"># You may have to specify the app name or remote name here via --app or --remote, respectively
+```bash
+# You may have to specify the app name or remote name here via --app or --remote, respectively
 heroku config:add EXTERNAL_DATABASE_CA='ca-cert.pem'
-heroku config:add EXTERNAL_DATABASE_URL='mysql://username:password@server/dbname'</code></pre>
+heroku config:add EXTERNAL_DATABASE_URL='mysql://username:password@server/dbname'
+```
 
 By default, <tt>heroku_external_db</tt> looks for the CA cert in
   
 <tt>config/ca</tt>, so we need to commit it:
 
-<pre><code class="language-bash">mkdir -p config/ca
+```bash
+mkdir -p config/ca
 cp path/to/ca-cert.pem config/ca
 git add config/ca
-git commit -v # Using -v since we want to make sure the contents are what we expect (e.g. not a private key)</code></pre>
+git commit -v # Using -v since we want to make sure the contents are what we expect (e.g. not a private key)
+```
 
 Additionally, we need the <tt>mysql</tt> gem in our Gemfile since we are setting up a MySQL server:
 
-<pre><code class="language-bash">echo "gem 'mysql', '~&gt; 2.8.1'" &gt;&gt; Gemfile
-bundle install # Need Gemfile.lock too</code></pre>
+```bash
+echo "gem 'mysql', '~> 2.8.1'" >> Gemfile
+bundle install # Need Gemfile.lock too
+```
 
 Keep in mind that Heroku installs its own <tt>database.yml</tt> for Rails apps and we have to install <tt>pg</tt> as well. Unfortunately, shared databases are mandatory (but are free).
 
-<pre><code class="no-highlight">$ heroku addons:remove shared-database:5mb
------&gt; Removing shared-database:5mb from our-app... failed
- !     Shared databases cannot be removed</code></pre>
+```
+$ heroku addons:remove shared-database:5mb
+-----> Removing shared-database:5mb from our-app... failed
+ !     Shared databases cannot be removed
+```
 
 PostgreSQL may still be useful to you if, for example, you want to have feature toggles in a local database, but the main data kept externally. However in our case, it also means all developers will need MySQL and PostgreSQL running locally, which is unfortunate.
 
 One workaround is only installing <tt>pg</tt> in production:
 
-<pre><code class="language-ruby"># File: Gemfile
+```ruby
+# File: Gemfile
 
 # *Only* needed on production.
 group :production do
-  gem 'pg', '~&gt; 0.11.0' # Regardless of whether you plan to use the database or not, Heroku requires you have 'pg' installed.
-end</code></pre>
+  gem 'pg', '~> 0.11.0' # Regardless of whether you plan to use the database or not, Heroku requires you have 'pg' installed.
+end
+```
 
 Then <tt>bundle</tt> like so:
 
-<pre><code class="language-bash">bundle install --without production</code></pre>
+```bash
+bundle install --without production
+```
 
 With our gems updated, commit:
 
-<pre><code class="language-bash">git commit -av # Commit Gemfile and Gemfile.lock</code></pre>
+```bash
+git commit -av # Commit Gemfile and Gemfile.lock
+```
 
 Another option may be overriding <tt>database.yml</tt> somehow, although it would add complexity. For more info, please see [stackoverflow.com/questions/4204724/strategies-for-overriding-database-yml](http://stackoverflow.com/questions/4204724/strategies-for-overriding-database-yml).
 
@@ -92,21 +106,27 @@ With our dependencies out of the way, we can move on to testing the connection.
 
 If you are making a new application, you may wish to have a simple MVC for testing that the connection works. E.g., for a blog style application with posts do:
 
-<pre><code class="language-bash">rails generate scaffold post
+```bash
+rails generate scaffold post
 # NOTE you probably want to change the default "Post.all" to "Post.limit(5)" or something similar
 git add .
 git commit # ...
-# Don't forget to set a default route, etc.</code></pre>
+# Don't forget to set a default route, etc.
+```
 
 With all these changes committed, we can deploy to our Heroku app:
 
-<pre><code class="language-bash">git push heroku master # Your remote may be different</code></pre>
+```bash
+git push heroku master # Your remote may be different
+```
 
 Now, since we are connecting to an existing database, we don’t need to run any migrations. (Keep in mind that when sharing a database, it is best to have one authoritative source for migrations to live.) If in your situation you’re creating a new database, you may need to do that, run migrations, seed the database, etc at this point.
 
 Open [our-app.heroku.com](http://our-app.heroku.com) and we should see our data. If you happen to run into a problem, please check the logs first:
 
-<pre><code class="language-bash">heroku logs --tail # Again, you may need to specify an app</code></pre>
+```bash
+heroku logs --tail # Again, you may need to specify an app
+```
 
 If you are having a problem, a good starting point is double checking your passwords, usernames, security settings, etc.
 
@@ -124,16 +144,20 @@ What we have:
 
 First, we configure Heroku with the appropriate environment variables:
 
-<pre><code class="language-bash">heroku config:add EXTERNAL_DATABASE_CA='ca-cert.pem'
+```bash
+heroku config:add EXTERNAL_DATABASE_CA='ca-cert.pem'
 heroku config:add EXTERNAL_DATABASE_CERT='client-cert.pem'
-heroku config:add EXTERNAL_DATABASE_KEY='client-key.pem'</code></pre>
+heroku config:add EXTERNAL_DATABASE_KEY='client-key.pem'
+```
 
 By default, <tt>heroku_external_db</tt> looks for the files in <tt>config/ca</tt>, so we need to commit them:
 
-<pre><code class="language-bash">mkdir -p config/ca
+```bash
+mkdir -p config/ca
 cp path/to/ca-cert.pem path/to/client-cert.pem path/to/client-key.pem config/ca
 git add config/ca
-git commit</code></pre>
+git commit
+```
 
 The rest of the process is the same as in “MySQL with a CA Certificate”.
 
