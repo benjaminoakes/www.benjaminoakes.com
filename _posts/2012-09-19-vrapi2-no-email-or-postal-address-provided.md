@@ -12,7 +12,7 @@ categories:
 ---
 I ran into an error with the VerticalResponse API today, and to my surprise there were no results when searching on Google, Bing, or DuckDuckGo. Not even in the [VerticalResponse documentation](http://developers.verticalresponse.com/)!
 
-[<img src="http://www.benjaminoakes.com/wp-content/uploads/2012/09/Screen-shot-2012-09-19-at-10.31.20-AM-300x132.png" alt="Your search - VRAPI2.NO_EMAIL_OR_POSTAL_ADDRESS_PROVIDED - did not match any documents." title="No results for VRAPI2" width="300" height="132" class="preview aligncenter size-medium wp-image-159" srcset="https://www.benjaminoakes.com/wp-content/uploads/2012/09/Screen-shot-2012-09-19-at-10.31.20-AM-300x132.png 300w, https://www.benjaminoakes.com/wp-content/uploads/2012/09/Screen-shot-2012-09-19-at-10.31.20-AM.png 889w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.benjaminoakes.com/wp-content/uploads/2012/09/Screen-shot-2012-09-19-at-10.31.20-AM.png)
+![Your search - VRAPI2.NO_EMAIL_OR_POSTAL_ADDRESS_PROVIDED - did not match any documents.](http://www.benjaminoakes.com/wp-content/uploads/2012/09/Screen-shot-2012-09-19-at-10.31.20-AM.png)
 
 The error was:
 

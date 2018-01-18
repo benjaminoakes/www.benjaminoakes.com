@@ -19,7 +19,7 @@ I gave [a talk on &#8220;Fast Specs&#8221;](http://media.benjaminoakes.com/2013/
 
 **Summary:** techniques for speeding up the test suite in your Rails app (subsecond specs in some cases)
 
-[<img src="http://www.benjaminoakes.com/wp-content/uploads/2013/04/fast-specs-cover.png" alt="Cover image of &quot;Fast Specs&quot;" width="500" height="388" class="preview" />](http://media.benjaminoakes.com/2013/04-04-fast-specs)
+[![Cover image of "Fast Specs"](/wp-content/uploads/2013/04/fast-specs-cover.png)](http://media.benjaminoakes.com/2013/04-04-fast-specs)
 
 <blockquote class="twitter-tweet">
   <p>

@@ -15,10 +15,6 @@ My favorite quote from the event: &#8220;not only do we **create** here, we are 
   
 The Creative Corridor is what we make of it, after all, so let&#8217;s make the most of it.
 
-[
-  
-<img src="http://www.benjaminoakes.com/wp-content/uploads/2013/04/WCH_Web_Badges-02.png" alt="We Create Here - Iowa&#039;s Creative Corridor" width="250" height="250" class="aligncenter size-full wp-image-241" srcset="https://www.benjaminoakes.com/wp-content/uploads/2013/04/WCH_Web_Badges-02.png 250w, https://www.benjaminoakes.com/wp-content/uploads/2013/04/WCH_Web_Badges-02-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" />
-  
-](http://creativecorridor.co/) 
+[![We Create Here - Iowa's Creative Corridor](/wp-content/uploads/2013/04/WCH_Web_Badges-02.png)](http://creativecorridor.co/)
 
 Below is a video they presented at the event, which I think turned out very well. Here&#8217;s hoping it helps de-mystify Iowa to those living outside the Midwest!

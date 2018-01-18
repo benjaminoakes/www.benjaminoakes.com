@@ -11,4 +11,4 @@ categories:
 ---
 Seen behind the Trinity Episcopal Church, downtown Iowa City.
 
-[<img src="http://www.benjaminoakes.com/wp-content/uploads/2012/10/20121021-192829.jpg" alt="20121021-192829.jpg" class="alignnone size-full" />](http://www.benjaminoakes.com/wp-content/uploads/2012/10/20121021-192829.jpg)
+![Thou Shalt Not Park Here](/wp-content/uploads/2012/10/20121021-192829.jpg)

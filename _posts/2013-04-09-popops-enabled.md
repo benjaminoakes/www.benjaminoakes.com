@@ -11,6 +11,6 @@ categories:
   - Uncategorized
   - Web
 ---
-[<img src="http://www.benjaminoakes.com/wp-content/uploads/2013/04/popops-enabled.png" alt="popops-enabled" style="width: 100%" />](http://www.benjaminoakes.com/wp-content/uploads/2013/04/popops-enabled.png)
+![popops-enabled](/wp-content/uploads/2013/04/popops-enabled.png)
 
 Seen at TriNet (HR Passport site).
