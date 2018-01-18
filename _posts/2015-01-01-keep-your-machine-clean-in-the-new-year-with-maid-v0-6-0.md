@@ -40,7 +40,8 @@ Starting Maid automatically at login is pretty straitforward on my daily driver 
 
 This new &#8220;watch&#8221; feature opens up all sorts of possibilities. Since Maid can now act automatically, you can even treat folders as drop targets for your Maid rules.
 
-<pre><code class="ruby">Maid.rules do
+```ruby
+Maid.rules do
   # Drop files in this directory and watch the duplicates disappear...
   watch '~/Desktop/De-dupe' do
     rule 'trash dupes' do
@@ -67,7 +68,7 @@ This new &#8220;watch&#8221; feature opens up all sorts of possibilities. Since 
     end
   end
 end
-</code></pre>
+```
 
 We still support manual invocation and `cron`, but you should try `watch` -- you&#8217;ll like it.
 
@@ -75,7 +76,8 @@ We still support manual invocation and `cron`, but you should try `watch` -- you
 
 Another handy addition is the ability to read the dimensions of images. Here&#8217;s an example:
 
-<pre><code class="ruby"># Keep your background pictures organized by their dimensions
+```ruby
+# Keep your background pictures organized by their dimensions
 watch '~/Pictures/Wallpaper' do
   rule 'organize wallpaper by dimensions' do
     where_content_type(dir('~/Pictures/Wallpaper/*'), 'image').each do |image|
@@ -84,7 +86,7 @@ watch '~/Pictures/Wallpaper' do
     end
   end
 end
-</code></pre>
+```
 
 And since it&#8217;s Ruby, you can define your own logic, such as categorizing images as big/small or portrait/landscape.
 
@@ -92,7 +94,8 @@ And since it&#8217;s Ruby, you can define your own logic, such as categorizing i
 
 Once you know Maid, you might miss the methods it provides in your other Ruby projects, so Maid is now available as a Rake task as well. As an example, look no further than [Maid&#8217;s own Rakefile](https://github.com/benjaminoakes/maid/blob/master/Rakefile):
 
-<pre><code class="ruby">require 'maid'
+```ruby
+require 'maid'
 
 Maid::Rake::Task.new(:clean) do
   # Clean up Rubinius-compilied Ruby
@@ -103,7 +106,7 @@ Maid::Rake::Task.new(:clean) do
   trash('pkg')
   trash('tmp')
 end
-</code></pre>
+```
 
 All Maid tools are available to you in Rake tasks, so you can do any common file manipulations you need.
 
