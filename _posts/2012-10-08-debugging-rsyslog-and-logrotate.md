@@ -34,19 +34,22 @@ It turned out to be a simple problem, but it&#8217;s more important to know how 
 
 You probably don&#8217;t want to debug configuration problems directly on your production instance, or even on a staging instance. To develop the changes locally, I found that the easiest solution was to use [Vagrant](http://vagrantup.com/). They provide a `precise64` box which was perfect for my needs:
 
-<pre><code class="language-bash">vagrant box add precise64 http://files.vagrantup.com/precise64.box
-</code></pre>
+```bash
+vagrant box add precise64 http://files.vagrantup.com/precise64.box
+```
 
 From there, you can test `logrotate` with the `-d` switch. Point it to your configuration file and then see what it says it will do:
 
-<pre><code class="language-bash">logrotate -d /etc/logrotate.conf
-</code></pre>
+```bash
+logrotate -d /etc/logrotate.conf
+```
 
 The problem behavior was clearly visible in the output; `/var/log/syslog` was only being kept for 7 days. Changes to `/etc/logrotate.conf` did not make a difference for the rotation count (but I could change to doing `dateext`). Around that time, started poking around in `/etc/logrotate.d/`, where I found `/etc/logrotate.d/rsyslog`.
 
 This is the original configuration for `/var/log/syslog`:
 
-<pre><code class="no-highlight">/var/log/syslog
+```
+/var/log/syslog
 {
         rotate 7
         daily
@@ -55,14 +58,15 @@ This is the original configuration for `/var/log/syslog`:
         delaycompress
         compress
         postrotate
-                reload rsyslog &gt;/dev/null 2&gt;&1 || true
+                reload rsyslog >/dev/null 2>&1 || true
         endscript
 }
-</code></pre>
+```
 
 After that point, it was simple to try my changes and retest using `logrotate` as above:
 
-<pre><code class="no-highlight">/var/log/syslog
+```
+/var/log/syslog
 {
         rotate 30
         daily
@@ -73,10 +77,10 @@ After that point, it was simple to try my changes and retest using `logrotate` a
         delaycompress
         compress
         postrotate
-                reload rsyslog &gt;/dev/null 2&gt;&1 || true
+                reload rsyslog >/dev/null 2>&1 || true
         endscript
 }
-</code></pre>
+```
 
 The debug output then showed it would retain the logs for 30 days. Great! It was then a simple matter of installing the same configuration in production.
 
