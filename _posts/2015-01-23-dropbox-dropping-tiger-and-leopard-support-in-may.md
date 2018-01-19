@@ -13,7 +13,7 @@ tags:
   - Dropbox
   - PPC
 ---
-[Dropbox Dropping Tiger and Leopard Support in May | Low End Mac](http://lowendmac.com/2015/dropbox-dropping-tiger-and-leopard-support-in-may/).
+[Dropbox Dropping Tiger and Leopard Support in May - Low End Mac](http://lowendmac.com/2015/dropbox-dropping-tiger-and-leopard-support-in-may/).
 
 It&#8217;s far from surprising that Dropbox is dropping support for these old versions of OSX. However, it does remind me of how surprised I was when Dropbox stopped making new versions for iOS 6 soon after iOS 7 was released, while still shipping new releases for OSX 10.4 on PowerPC. Who would expect better software support for an old iMac than a much newer iPhone?
 

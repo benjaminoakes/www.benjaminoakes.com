@@ -10,7 +10,7 @@ categories:
   - Iowa
   - Technology
 ---
-[Big Cable, Obama spar over government-run broadband networks | Ars Technica](http://arstechnica.com/business/2015/01/obama-and-big-cable-spar-over-government-run-broadband-networks/).
+[Big Cable, Obama spar over government-run broadband networks - Ars Technica](http://arstechnica.com/business/2015/01/obama-and-big-cable-spar-over-government-run-broadband-networks/).
 
 We should have this available in Iowa City. It doesn&#8217;t need to be owned by the government; a cooperative or private organization would be fine too.
 

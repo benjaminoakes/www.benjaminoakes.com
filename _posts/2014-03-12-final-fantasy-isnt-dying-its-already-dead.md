@@ -14,7 +14,7 @@ tags:
   - iPhone
   - square enix
 ---
-[Final Fantasy Isn't Dying. It's Already Dead | Game|Life | Wired.com](http://www.wired.com/gamelife/2013/07/final-fantasy-is-dead/).
+[Final Fantasy Isn't Dying. It's Already Dead - Game|Life - Wired.com](http://www.wired.com/gamelife/2013/07/final-fantasy-is-dead/).
 
 > At this point, it’s tough to see a path back to relevance for Final Fantasy, if the caretakers of the series are spending their creative cycles thinking about the particulars of breast physics. That’s not why the Final Fantasy brand still carries the cachet that it does, and the modern games are at this point living entirely off an inherited reputation. 
 

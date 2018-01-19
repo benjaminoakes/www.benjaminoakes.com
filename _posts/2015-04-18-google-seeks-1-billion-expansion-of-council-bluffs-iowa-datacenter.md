@@ -10,7 +10,7 @@ categories:
   - Iowa
   - Technology
 ---
-[Google seeks $1 billion expansion of Council Bluffs center | KCRG-TV9 | Cedar Rapids, Iowa News](http://kcrg.com/subject/news/business/economy/google-seeks-1-billion-expansion-of-council-bluffs-center-20150417).
+[Google seeks $1 billion expansion of Council Bluffs center - KCRG-TV9 - Cedar Rapids, Iowa News](http://kcrg.com/subject/news/business/economy/google-seeks-1-billion-expansion-of-council-bluffs-center-20150417).
 
 > COUNCIL BLUFFS, Iowa (AP) — Google Inc. wants to expand its Council Bluffs data center spending an additional $1 billion and doubling the size of its staff to 70. [...] Google’s total investment in Iowa will come to around $2 billion. [...] Microsoft is spending about $2 billion to build two data centers in West Des Moines and Facebook has invested about $1 billion in two Altoona data centers. 
 

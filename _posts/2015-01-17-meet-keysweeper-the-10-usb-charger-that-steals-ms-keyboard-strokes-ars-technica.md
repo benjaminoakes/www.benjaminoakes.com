@@ -9,6 +9,6 @@ permalink: /2015/01/17/meet-keysweeper-the-10-usb-charger-that-steals-ms-keyboar
 categories:
   - Technology
 ---
-[Meet KeySweeper, the $10 USB charger that steals MS keyboard strokes | Ars Technica](http://arstechnica.com/security/2015/01/meet-keysweeper-the-10-usb-charger-that-steals-ms-keyboard-strokes/).
+[Meet KeySweeper, the $10 USB charger that steals MS keyboard strokes - Ars Technica](http://arstechnica.com/security/2015/01/meet-keysweeper-the-10-usb-charger-that-steals-ms-keyboard-strokes/).
 
 I&#8217;m not a fan of wireless keyboards because of the number of batteries many people seem to go through, but if you really want to avoid wires, go for Bluetooth.

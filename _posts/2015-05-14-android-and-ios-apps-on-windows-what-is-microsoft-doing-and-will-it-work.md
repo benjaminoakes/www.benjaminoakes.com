@@ -13,7 +13,7 @@ tags:
   - ios
   - windows
 ---
-[Android and iOS apps on Windows: What is Microsoft doing—and will it work? | Ars Technica](http://arstechnica.com/information-technology/2015/05/android-and-ios-apps-on-windows-what-is-microsoft-doing-and-will-it-work/).
+[Android and iOS apps on Windows: What is Microsoft doing—and will it work? - Ars Technica](http://arstechnica.com/information-technology/2015/05/android-and-ios-apps-on-windows-what-is-microsoft-doing-and-will-it-work/).
 
 > The way Microsoft presented the Android and iOS support on stage last week wasn&#8217;t particularly encouraging. The way that Projects Astoria and Islandwood—the codenames for Android and iOS app support, respectively—were promoted in the keynote presentation, one might think that the Android and iOS support were pretty solid substitutes for the Universal Windows Apps that are native to Windows 10 on all the hardware form factors it will support. It seemed like porting apps from those platforms would be an effective alternative to any plans to develop native Windows applications.
 

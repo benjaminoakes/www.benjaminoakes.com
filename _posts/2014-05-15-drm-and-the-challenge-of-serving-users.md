@@ -13,7 +13,7 @@ tags:
   - firefox
   - mozilla
 ---
-[DRM and the Challenge of Serving Users | The Mozilla Blog](https://blog.mozilla.org/blog/2014/05/14/drm-and-the-challenge-of-serving-users/).
+[DRM and the Challenge of Serving Users - The Mozilla Blog](https://blog.mozilla.org/blog/2014/05/14/drm-and-the-challenge-of-serving-users/).
 
 > We’ve contemplated not implementing the new iteration of DRM due to its flaws. But video is an important aspect of online life, and a browser that doesn’t enable video would itself be deeply flawed as a consumer product. Firefox users would need to use another browser every time they want to watch a controlled video, and that calls into question the usefulness of Firefox as a product.
 > 

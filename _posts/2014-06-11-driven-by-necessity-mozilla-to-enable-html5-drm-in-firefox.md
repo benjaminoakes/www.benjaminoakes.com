@@ -10,7 +10,7 @@ categories:
   - Bookmark
   - Web
 ---
-[Driven by necessity, Mozilla to enable HTML5 DRM in Firefox | Ars Technica](http://arstechnica.com/information-technology/2014/05/driven-by-necessity-mozilla-to-enable-html5-drm-in-firefox/).
+[Driven by necessity, Mozilla to enable HTML5 DRM in Firefox - Ars Technica](http://arstechnica.com/information-technology/2014/05/driven-by-necessity-mozilla-to-enable-html5-drm-in-firefox/).
 
 From the comments:
 

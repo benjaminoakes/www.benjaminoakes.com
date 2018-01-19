@@ -9,7 +9,7 @@ permalink: /2015/03/09/californias-hot-dry-winters-tied-to-climate-change/
 categories:
   - Sustainability
 ---
-[California’s hot, dry winters tied to climate change | Ars Technica](http://arstechnica.com/science/2015/03/californias-hot-dry-winters-tied-to-climate-change/?utm_source=feedburner).
+[California’s hot, dry winters tied to climate change - Ars Technica](http://arstechnica.com/science/2015/03/californias-hot-dry-winters-tied-to-climate-change/?utm_source=feedburner).
   
 DOI: [10.1073/pnas.1422385112](http://dx.doi.org/10.1073/pnas.1422385112).
 

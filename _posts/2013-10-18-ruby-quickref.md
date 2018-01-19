@@ -14,6 +14,6 @@ tags:
   - reference
   - Ruby
 ---
-[Ruby QuickRef | zenspider.com by ryan davis](http://www.zenspider.com/Languages/Ruby/QuickRef.html).
+[Ruby QuickRef - zenspider.com by ryan davis](http://www.zenspider.com/Languages/Ruby/QuickRef.html).
 
 Cheatsheet for Ruby, including exception hierarchy and lesser used features.

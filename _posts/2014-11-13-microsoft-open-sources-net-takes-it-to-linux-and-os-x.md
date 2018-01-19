@@ -11,6 +11,6 @@ categories:
 tags:
   - microsoft
 ---
-[Microsoft open sources .NET, takes it to Linux and OS X | Ars Technica](http://arstechnica.com/information-technology/2014/11/microsoft-open-sources-net-takes-it-to-linux-and-os-x/).
+[Microsoft open sources .NET, takes it to Linux and OS X - Ars Technica](http://arstechnica.com/information-technology/2014/11/microsoft-open-sources-net-takes-it-to-linux-and-os-x/).
 
 I don&#8217;t think I would start using .NET because of this, but wow, what a step in the right direction for Microsoft!

@@ -24,7 +24,7 @@ tags:
 ---
 [Linus Responds To RdRand Petition With Scorn -- Slashdot](http://linux.slashdot.org/story/13/09/10/1311247/linus-responds-to-rdrand-petition-with-scorn?utm_source=rss1.0mainlinkanon&utm_medium=feed).
   
-[Torvalds&#8217; response to whether RdRand could be compromised in the Linux kernel | Hacker News](https://news.ycombinator.com/item?id=6359892).
+[Torvalds&#8217; response to whether RdRand could be compromised in the Linux kernel - Hacker News](https://news.ycombinator.com/item?id=6359892).
   
 [Linus Torvalds responds -- Change.org](http://www.change.org/en-GB/petitions/linus-torvalds-remove-rdrand-from-dev-random-4/responses/9066).
 

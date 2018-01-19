@@ -16,11 +16,11 @@ tags:
   - Macworld
   - WWDC
 ---
-[iOS 8 changes we’d like to see: The OS and Home screen | Macworld](http://www.macworld.com/article/2241994/ios-8-changes-we-d-like-to-see-the-os-and-home-screen.html).
+[iOS 8 changes we’d like to see: The OS and Home screen - Macworld](http://www.macworld.com/article/2241994/ios-8-changes-we-d-like-to-see-the-os-and-home-screen.html).
 
-[iOS 8 wish-list: What we'd love to see at WWDC 2014! | iMore](http://www.imore.com/ios-8-wish-list-what-wed-love-see-wwdc-2014).
+[iOS 8 wish-list: What we'd love to see at WWDC 2014! - iMore](http://www.imore.com/ios-8-wish-list-what-wed-love-see-wwdc-2014).
 
-[Why Apple should relax its App Store rules | Macworld](http://www.macworld.com/article/2066217/why-apple-should-relax-its-app-store-rules.html).
+[Why Apple should relax its App Store rules - Macworld](http://www.macworld.com/article/2066217/why-apple-should-relax-its-app-store-rules.html).
 
 Just a collection of posts I read leading up to the start of Apple&#8217;s WWDC tomorrow.
 

@@ -14,7 +14,7 @@ tags:
   - spdy
   - tls
 ---
-[Google announces SPDY’s coming demise as HTTP/2 approaches | Ars Technica](http://arstechnica.com/information-technology/2015/02/google-announces-spdys-coming-demise-as-http2-approaches/).
+[Google announces SPDY’s coming demise as HTTP/2 approaches - Ars Technica](http://arstechnica.com/information-technology/2015/02/google-announces-spdys-coming-demise-as-http2-approaches/).
   
 [Chromium Blog: Hello HTTP/2, Goodbye SPDY](http://blog.chromium.org/2015/02/hello-http2-goodbye-spdy-http-is_9.html)
 

@@ -15,6 +15,6 @@ tags:
   - json
   - psql
 ---
-[PostgresSQL: The Other big open-source database has a new release | ZDNet](http://www.zdnet.com/postgressql-the-other-big-open-source-database-has-a-new-release-7000020366/).
+[PostgresSQL: The Other big open-source database has a new release - ZDNet](http://www.zdnet.com/postgressql-the-other-big-open-source-database-has-a-new-release-7000020366/).
 
 It includes some new built-in functionality for handling data serialized as JSON. Sounds really interesting!

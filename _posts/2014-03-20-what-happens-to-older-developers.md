@@ -11,7 +11,7 @@ categories:
 tags:
   - career
 ---
-[Ask HN: What happens to older developers? | Hacker News](https://news.ycombinator.com/item?id=7372997).
+[Ask HN: What happens to older developers? - Hacker News](https://news.ycombinator.com/item?id=7372997).
 
 (via [Mark Scully](http://www.datapraxis.com/))
 

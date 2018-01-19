@@ -17,7 +17,7 @@ tags:
   - ios8
   - wishlist
 ---
-[iOS 8 to gain at least five new first-party apps | ZDNet](http://www.zdnet.com/ios-8-to-gain-at-least-five-new-first-party-apps-7000027342/).
+[iOS 8 to gain at least five new first-party apps - ZDNet](http://www.zdnet.com/ios-8-to-gain-at-least-five-new-first-party-apps-7000027342/).
 
 [iOS 8: Apple works to further push iCloud as the future of the file system](http://9to5mac.com/2014/03/13/ios-8-apple-works-to-further-push-icloud-as-the-future-of-the-ios-file-system/).
 

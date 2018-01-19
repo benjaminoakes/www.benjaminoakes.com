@@ -15,7 +15,7 @@ tags:
   - Hosting
   - Repository
 ---
-[Google to close Google Code open source project hosting | Ars Technica](http://arstechnica.com/information-technology/2015/03/google-to-close-google-code-open-source-project-hosting/).
+[Google to close Google Code open source project hosting - Ars Technica](http://arstechnica.com/information-technology/2015/03/google-to-close-google-code-open-source-project-hosting/).
 
 > Google Code is to join the long list of Google projects that have been consigned to the dustbin of history. The open source project hosting service will no longer be accepting new project submissions as of today, will no longer be accepting updates to existing projects from August 24, and will be closed entirely on January 25, 2016.
 

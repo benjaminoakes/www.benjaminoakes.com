@@ -9,7 +9,7 @@ permalink: /2015/03/31/you-can-now-test-project-spartan-microsofts-internet-expl
 categories:
   - Web
 ---
-[You can now test Project Spartan, Microsoft&#8217;s Internet Explorer successor | The Verge](http://www.theverge.com/2015/3/30/8314935/microsoft-project-spartan-windows-10-preview-download).
+[You can now test Project Spartan, Microsoft&#8217;s Internet Explorer successor - The Verge](http://www.theverge.com/2015/3/30/8314935/microsoft-project-spartan-windows-10-preview-download).
 
 > While Project Spartan is a successor to Internet Explorer, Microsoft is still planning to ship its &#8220;legacy engine&#8221; browser in some versions of Windows 10. The Verge understands that the software giant is currently evaluating a number of different ways to ship Internet Explorer in Windows 10 to those who require it, and that it will be primarily targeted at enterprise customers. Microsoft is not pinning Internet Explorer to the task bar or Start Menu in Windows 10, and Project Spartan will take over. Today’s preview includes that new behavior, and we hear that Internet Explorer could eventually become a Windows feature that you have to enable to get access to the old browser. Internet Explorer itself (the app) might not be fully dead just yet, but Microsoft is killing off the brand name in favor of a new name for Project Spartan, and the company says it’s the future of its browser efforts. 
 

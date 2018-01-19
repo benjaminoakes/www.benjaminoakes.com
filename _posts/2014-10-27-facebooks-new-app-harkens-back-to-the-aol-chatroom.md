@@ -12,6 +12,6 @@ tags:
   - AOL
   - Facebook
 ---
-[Facebook’s new app harkens back to the AOL chatroom | Ars Technica](http://arstechnica.com/business/2014/10/facebooks-new-app-harkens-back-to-the-aol-chatroom/).
+[Facebook’s new app harkens back to the AOL chatroom - Ars Technica](http://arstechnica.com/business/2014/10/facebooks-new-app-harkens-back-to-the-aol-chatroom/).
 
 This just furthers my theory that Facebook is just a modern version of AOL. (Facebook Pages smack of AOL keywords as well.)

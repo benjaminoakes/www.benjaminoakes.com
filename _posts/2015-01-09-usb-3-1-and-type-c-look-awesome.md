@@ -11,7 +11,7 @@ categories:
 tags:
   - usb
 ---
-[USB 3.1 and Type-C: The only stuff at CES that everyone is going to use | Ars Technica](http://arstechnica.com/gadgets/2015/01/usb-3-1-and-type-c-the-only-stuff-at-ces-that-everyone-is-going-to-use/).
+[USB 3.1 and Type-C: The only stuff at CES that everyone is going to use - Ars Technica](http://arstechnica.com/gadgets/2015/01/usb-3-1-and-type-c-the-only-stuff-at-ces-that-everyone-is-going-to-use/).
 
 I&#8217;ve seen the future, and it&#8217;s full of USB.
 

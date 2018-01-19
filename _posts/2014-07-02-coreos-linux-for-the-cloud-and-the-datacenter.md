@@ -12,6 +12,6 @@ tags:
   - deployment
   - docker
 ---
-[CoreOS: Linux for the cloud and the datacenter | ZDNet](http://www.zdnet.com/coreos-linux-for-the-cloud-and-the-datacenter-7000031137/#ftag=RSS510d04f).
+[CoreOS: Linux for the cloud and the datacenter - ZDNet](http://www.zdnet.com/coreos-linux-for-the-cloud-and-the-datacenter-7000031137/#ftag=RSS510d04f).
 
 Docker containers plus CoreOS seems like the future of deploying production applications on Linux. Small base OS plus dependencies wrapped up in a docker container.

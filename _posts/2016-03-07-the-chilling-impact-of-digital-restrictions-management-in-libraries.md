@@ -28,6 +28,6 @@ _This is a guest post by James Hutter, a technology librarian in New York. The p
 
 _James Hutter is an opponent of DRM, an advocate of free software and supporter of electronic privacy rights, he has a love for all things library-related. The views and opinions expressed in this piece are his own. You can follow him at @james_lead on Twitter._
 
-Original: _[The chilling impact of Digital Restrictions Management in libraries | Defective by Design](http://www.defectivebydesign.org/drm-in-libraries)_
+Original: _[The chilling impact of Digital Restrictions Management in libraries - Defective by Design](http://www.defectivebydesign.org/drm-in-libraries)_
 
 The chilling impact of Digital Restrictions Management in libraries is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).

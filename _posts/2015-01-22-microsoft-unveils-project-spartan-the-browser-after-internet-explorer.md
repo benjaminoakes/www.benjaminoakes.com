@@ -12,6 +12,6 @@ tags:
   - ie
   - spartan
 ---
-[Microsoft unveils Project Spartan, the browser after Internet Explorer | Ars Technica](http://arstechnica.com/information-technology/2015/01/microsoft-unveils-project-spartan-the-browser-after-internet-explorer/).
+[Microsoft unveils Project Spartan, the browser after Internet Explorer - Ars Technica](http://arstechnica.com/information-technology/2015/01/microsoft-unveils-project-spartan-the-browser-after-internet-explorer/).
 
 I&#8217;m cautiously hopeful for this. It will probably take years to be used by the masses, but you have to start somewhere.

@@ -12,7 +12,7 @@ tags:
   - microsoft
   - nokia
 ---
-[Hello, MS-Android. Good-bye, Windows Phone | ZDNet](http://www.zdnet.com/hello-ms-android-good-bye-windows-phone-7000026774/#ftag=RSS14dc6a9).
+[Hello, MS-Android. Good-bye, Windows Phone - ZDNet](http://www.zdnet.com/hello-ms-android-good-bye-windows-phone-7000026774/#ftag=RSS14dc6a9).
 
 > Nokia may be making the Android X, X+ and XL handsets, but at the end of the day it was Microsoft&#8217;s call to produce Android phones.
 

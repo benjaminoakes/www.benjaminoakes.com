@@ -9,7 +9,7 @@ permalink: /2014/10/28/iowa-city-has-the-largest-toothbrush-plant-in-the-world/
 categories:
   - Iowa City
 ---
-[Manual Toothbrush Built In the USA | Oral B](http://www.oralb.com/oralbusa).
+[Manual Toothbrush Built In the USA - Oral B](http://www.oralb.com/oralbusa).
 
 > Oral-B&#8217;s Iowa City plant is the largest toothbrush plant in the world. Approximately 1 million Oral-B manual toothbrushes are built at the plant by nearly 500 hardworking, committed people, including U.S. Veterans.
 

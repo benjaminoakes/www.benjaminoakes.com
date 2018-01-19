@@ -14,6 +14,6 @@ tags:
   - open source
   - unreal
 ---
-[Unreal Tournament Confirms Linux Support, Will Also Be Free | OMG! Ubuntu!](http://www.omgubuntu.co.uk/2014/05/unreal-tournament-linux-support).
+[Unreal Tournament Confirms Linux Support, Will Also Be Free - OMG! Ubuntu!](http://www.omgubuntu.co.uk/2014/05/unreal-tournament-linux-support).
 
 Gaming on Linux keeps getting good news.

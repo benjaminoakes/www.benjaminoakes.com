@@ -13,7 +13,7 @@ tags:
   - driverless
   - iowa
 ---
-[Iowa primed to be first in nation for driverless cars | TheGazette](http://www.thegazette.com/subject/news/iowa-primed-to-be-first-in-nation-for-driverless-cars-20150417).
+[Iowa primed to be first in nation for driverless cars - TheGazette](http://www.thegazette.com/subject/news/iowa-primed-to-be-first-in-nation-for-driverless-cars-20150417).
 
 > IOWA CITY — Iowa is well equipped to become the first state in the nation with a roadway certified for driverless cars, and researchers this week met with government and transportation officials to discuss the possibilities. 
 

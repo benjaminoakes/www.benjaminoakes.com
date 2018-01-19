@@ -9,7 +9,7 @@ permalink: /2014/10/24/calculating-your-co2-footprint/
 categories:
   - Uncategorized
 ---
-[Op-Ed: Calculating Your CO2 Footprint | Inside EVs](http://insideevs.com/op-ed-calculating-co2-footprint/)
+[Op-Ed: Calculating Your CO2 Footprint - Inside EVs](http://insideevs.com/op-ed-calculating-co2-footprint/)
 
 I&#8217;ve found myself returning to the above post every so often. It doesn&#8217;t have much to do with EVs (electric vehicles) -- although they are one way to reduce your carbon footprint.
 

@@ -17,7 +17,7 @@ tags:
   - google
   - open source
 ---
-[Neither Microsoft, Nokia, nor anyone else should fork Android. It’s unforkable. | Ars Technica](http://arstechnica.com/information-technology/2014/02/neither-microsoft-nokia-nor-anyone-else-should-fork-android-its-unforkable/).
+[Neither Microsoft, Nokia, nor anyone else should fork Android. It’s unforkable. - Ars Technica](http://arstechnica.com/information-technology/2014/02/neither-microsoft-nokia-nor-anyone-else-should-fork-android-its-unforkable/).
 
 An interesting take on Google&#8217;s Android strategy. In summary, Android is Open Source, but Google is really pushing that apps depending on proprietary Google Mobile Services (GMS). This explains why some apps aren&#8217;t in the Amazon Appstore. I&#8217;d be interested in how Cyanogen Mod is solving the GMS problem.
 

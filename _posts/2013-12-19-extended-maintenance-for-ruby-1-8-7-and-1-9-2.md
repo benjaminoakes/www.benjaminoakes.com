@@ -19,7 +19,7 @@ tags:
 ---
 [Security Maintenance Extension of Ruby 1.8.7 and 1.9.2](https://www.ruby-lang.org/en/news/2013/12/17/maintenance-of-1-8-7-and-1-9-2/).
 
-[Heroku | A Patch in Time: Securing Ruby](https://blog.heroku.com/archives/2013/12/5/a_patch_in_time_securing_ruby).
+[Heroku - A Patch in Time: Securing Ruby](https://blog.heroku.com/archives/2013/12/5/a_patch_in_time_securing_ruby).
 
 Heroku has stepped up to support Ruby 1.8.7 and 1.9.2 for an additional 6 months. It&#8217;s good that they are still maintained, but it does reduce the incentives to upgrade. This &#8220;reverses&#8221; the sunset of 1.8.7, in some sense.
 

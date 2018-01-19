@@ -23,7 +23,7 @@ tags:
   - win98
   - winnt
 ---
-[Why Linux | Virtuous Code](http://devblog.avdi.org/2011/08/09/why-linux/).
+[Why Linux - Virtuous Code](http://devblog.avdi.org/2011/08/09/why-linux/).
 
 Avdi has a pretty similar story to me. I was [a big fan of the BeOS back in the day](http://www.benjaminoakes.com/2004/08/16/nostalgia/), which got me involved with the POSIX command line (`bash` specifically). That led to OS X and eventually to Linux. I use Ubuntu for most things today.
 

@@ -9,7 +9,7 @@ permalink: /2014/10/29/ifixits-2014-mac-mini-teardown-shows-a-sealed-less-upgrad
 categories:
   - Technology
 ---
-[iFixit’s 2014 Mac Mini teardown shows a sealed, less-upgradeable redesign | Ars Technica](http://arstechnica.com/apple/2014/10/ifixits-2014-mac-mini-teardown-shows-a-sealed-less-upgradeable-redesign/).
+[iFixit’s 2014 Mac Mini teardown shows a sealed, less-upgradeable redesign - Ars Technica](http://arstechnica.com/apple/2014/10/ifixits-2014-mac-mini-teardown-shows-a-sealed-less-upgradeable-redesign/).
 
 It&#8217;s funny, I was just thinking about how it was nice that Apple was still offering a lower-priced computer with components designed to be upgraded, in contrast with their other offerings. 
 

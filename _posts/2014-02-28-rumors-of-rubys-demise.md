@@ -13,7 +13,7 @@ tags:
   - dying
   - language
 ---
-[Rumors of Ruby’s Demise | Virtuous Code](http://devblog.avdi.org/2014/02/23/rumors-of-rubys-demise).
+[Rumors of Ruby’s Demise - Virtuous Code](http://devblog.avdi.org/2014/02/23/rumors-of-rubys-demise).
 
 > Periodically someone on the Internet becomes aware of concurrency-oriented programming languages like Erlang or Scala, and climbs up the bell tower to sound the “is Ruby dying” bell. 
 

@@ -12,7 +12,7 @@ categories:
 tags:
   - iMessage
 ---
-[iMessage deactivation problems earn Apple a federal lawsuit | Ars Technica](http://arstechnica.com/apple/2014/11/imessage-deactivation-problems-earn-apple-a-federal-lawsuit/?comments=1#comment-27947855).
+[iMessage deactivation problems earn Apple a federal lawsuit - Ars Technica](http://arstechnica.com/apple/2014/11/imessage-deactivation-problems-earn-apple-a-federal-lawsuit/?comments=1#comment-27947855).
 
 I got a new phone over the summer, and it took me a while to realize that it couldn&#8217;t receive some text messages.  It seemed to randomly fail; sometimes it would work, sometimes it wouldn&#8217;t.  Eventually I found out that iPhone users couldn&#8217;t text me if they had texted me before. The problem was that I no longer had an iPhone; I had switched to Android.  Apple&#8217;s iMessage was intercepting my texts because I didn&#8217;t know to turn off iMessage on my old phone before wiping and selling it. That was an unexpected pain when switching from an iPhone to a competitor&#8217;s phone.
 

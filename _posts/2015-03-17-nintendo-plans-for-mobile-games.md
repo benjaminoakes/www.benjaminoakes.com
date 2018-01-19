@@ -15,7 +15,7 @@ tags:
   - squareenix
   - virtual console
 ---
-[What We Know About Nintendo’s Plans For Mobile Games | TechCrunch](http://techcrunch.com/2015/03/17/nintendo-s-long-awaited-step-into-mobile/?ncid=rss#P4w28O:JPS6).
+[What We Know About Nintendo’s Plans For Mobile Games - TechCrunch](http://techcrunch.com/2015/03/17/nintendo-s-long-awaited-step-into-mobile/?ncid=rss#P4w28O:JPS6).
 
 > The games giant partnered up with fellow Japanese outfit DeNA, a billion-dollar company that made its name with phone gaming, in a surprise alliance announced today that will see the duo develop mobile apps. But don’t expect a sea change from Nintendo; mobile is an expansion of its existing reach and not a wide-ranging pivot away from games consoles.
 

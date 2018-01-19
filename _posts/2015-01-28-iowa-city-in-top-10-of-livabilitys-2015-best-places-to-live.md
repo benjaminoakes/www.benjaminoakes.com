@@ -12,7 +12,7 @@ tags:
   - iowa city
   - top10
 ---
-[2015 Ranking of Top 100 Best Places to Live in America | Livability | Best Small to mid-sized U.S. Cities to Live | Livability](http://livability.com/best-places/top-100-best-places-to-live/2015).
+[2015 Ranking of Top 100 Best Places to Live in America - Livability - Best Small to mid-sized U.S. Cities to Live - Livability](http://livability.com/best-places/top-100-best-places-to-live/2015).
 
 :)
 
