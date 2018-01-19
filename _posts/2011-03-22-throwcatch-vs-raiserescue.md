@@ -1,6 +1,6 @@
 ---
 id: 123
-title: '<code>throw</code>/<code>catch</code> vs. <code>raise</code>/<code>rescue</code>'
+title: 'throw/catch vs. raise/rescue'
 date: 2011-03-22T02:13:41+00:00
 author: Ben
 layout: post
