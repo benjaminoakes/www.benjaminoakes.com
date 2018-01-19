@@ -14,4 +14,4 @@ tags:
 ---
 > Airlines are slowly experimenting with alternative fuel mixtures to reduce greenhouse gases.
 
-Source: _[Wood waste alcohol converted to jet fuel, used in Alaska Airlines test flight | Ars Technica](http://arstechnica.com/business/2016/11/wood-waste-alcohol-converted-to-jet-fuel-used-in-alaska-airlines-test-flight/)_
+Source: _[Wood waste alcohol converted to jet fuel, used in Alaska Airlines test flight - Ars Technica](http://arstechnica.com/business/2016/11/wood-waste-alcohol-converted-to-jet-fuel-used-in-alaska-airlines-test-flight/)_

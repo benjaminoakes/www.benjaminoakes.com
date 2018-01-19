@@ -17,4 +17,4 @@ tags:
 
 Even though natural gas fracking is less than ideal, it&#8217;s still a lot better than coal-based energy production. 
 
-Source: _[US carbon emissions drop, now 12% below 2005 levels | Ars Technica](http://arstechnica.com/science/2016/05/us-carbon-emissions-drop-now-12-below-2005-levels/)_
+Source: _[US carbon emissions drop, now 12% below 2005 levels - Ars Technica](http://arstechnica.com/science/2016/05/us-carbon-emissions-drop-now-12-below-2005-levels/)_

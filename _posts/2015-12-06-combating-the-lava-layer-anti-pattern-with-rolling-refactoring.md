@@ -14,4 +14,4 @@ tags:
 ---
 > Jimmy’s rule of 2: There can be at most two versions of a concept in an application
 
-Source: _[Combating the lava-layer anti-pattern with rolling refactoring | Jimmy Bogard&#8217;s Blog](https://lostechies.com/jimmybogard/2015/01/15/combating-the-lava-layer-anti-pattern-with-rolling-refactoring/)_
+Source: _[Combating the lava-layer anti-pattern with rolling refactoring - Jimmy Bogard&#8217;s Blog](https://lostechies.com/jimmybogard/2015/01/15/combating-the-lava-layer-anti-pattern-with-rolling-refactoring/)_

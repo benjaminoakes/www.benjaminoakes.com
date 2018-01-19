@@ -23,6 +23,6 @@ tags:
 > 
 > The closest thing to an Energy Star label for recyclability is the EPEAT registry, where companies can verify that their products meet an IEEE standard.
 
-Source: _[Where do laptops go when they die? | Ars Technica](http://arstechnica.com/science/2016/10/where-do-laptops-go-when-they-die/)_
+Source: _[Where do laptops go when they die? - Ars Technica](http://arstechnica.com/science/2016/10/where-do-laptops-go-when-they-die/)_
 
 Remember: a working computer can almost always be used by someone.  While recycling is important, re-use is also an important part of the solution.

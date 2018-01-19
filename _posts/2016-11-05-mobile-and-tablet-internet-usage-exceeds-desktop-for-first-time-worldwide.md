@@ -15,4 +15,4 @@ tags:
 ---
 [<img class="alignnone " src="http://www.benjaminoakes.com/wp-content/uploads/2016/11/internet_usage_2009_2016_ww.png" alt="" width="344" height="188" />](http://gs.statcounter.com/press/mobile-and-tablet-internet-usage-exceeds-desktop-for-first-time-worldwide)
 
-Source: _[Mobile and tablet internet usage exceeds desktop for first time worldwide | StatCounter Global Stats](http://gs.statcounter.com/press/mobile-and-tablet-internet-usage-exceeds-desktop-for-first-time-worldwide)_
+Source: _[Mobile and tablet internet usage exceeds desktop for first time worldwide - StatCounter Global Stats](http://gs.statcounter.com/press/mobile-and-tablet-internet-usage-exceeds-desktop-for-first-time-worldwide)_

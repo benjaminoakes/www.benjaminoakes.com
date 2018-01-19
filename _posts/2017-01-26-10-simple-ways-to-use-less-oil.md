@@ -15,4 +15,4 @@ tags:
 ---
 > This entry comes by popular request. A lot of people have been asking what they can do to use less oil, and reduce demand for the sticky stuff ruining beaches everywhere. Here&#8217;s my top ten, feel free to add to it in comments:1. Carpool, cycle or use public transport to go to work.2. Choose, when possible, products packaged ...
 
-Source: _[10 simple ways to use less oil | Greenpeace International](http://www.greenpeace.org/international/en/campaigns/climate-change/10-simple-ways-to-use-less-oil/blog/12883/)_
+Source: _[10 simple ways to use less oil - Greenpeace International](http://www.greenpeace.org/international/en/campaigns/climate-change/10-simple-ways-to-use-less-oil/blog/12883/)_

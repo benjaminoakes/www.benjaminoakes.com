@@ -15,7 +15,7 @@ tags:
 ---
 >  &#8220;Recently, I have seen a large-ish uptick in customers reverse engineering our code to attempt to find security vulnerabilities in it. < Insert big sigh here. > This is why I&#8217;ve been writing a lot of letters to customers that start with &#8220;hi, howzit, aloha&#8221; but end with &#8220;please comply with your license agreement and stop reverse engineering our code, already.&#8221;
 
-Source: <a href="http://www.zdnet.com/article/oracle-to-sinner-customers-reverse-engineering-is-a-sin-youd-better-pack-it-in/" target="_blank">Oracle to &#8216;sinner&#8217; customers: Reverse engineering is a sin and we know best | ZDNet</a>
+Source: <a href="http://www.zdnet.com/article/oracle-to-sinner-customers-reverse-engineering-is-a-sin-youd-better-pack-it-in/" target="_blank">Oracle to &#8216;sinner&#8217; customers: Reverse engineering is a sin and we know best - ZDNet</a>
 
 This article is hard to believe.  Imagine if the people that discover these vulnerabilities sold them on the black market instead of reporting them to Oracle.  I would hope that Oracle would prefer receiving an email to widespread zero-day attacks.
 

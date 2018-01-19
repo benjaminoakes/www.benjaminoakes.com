@@ -17,6 +17,6 @@ tags:
 
 > The 12th Amendment is a vestige of history and has run its course.
 
-Source: _[To repeal or rewrite the 12th amendment to abolish the electoral college and replace it with a win by the popular vote | We the People: Your Voice in Our Government](https://petitions.whitehouse.gov/petition/repeal-or-rewrite-12th-amendment-abolish-electoral-college-and-replace-it-win-popular-vote)_
+Source: _[To repeal or rewrite the 12th amendment to abolish the electoral college and replace it with a win by the popular vote - We the People: Your Voice in Our Government](https://petitions.whitehouse.gov/petition/repeal-or-rewrite-12th-amendment-abolish-electoral-college-and-replace-it-win-popular-vote)_
 
 I can&#8217;t think of a good reason for anyone to win the popular vote but lose the presidency.
