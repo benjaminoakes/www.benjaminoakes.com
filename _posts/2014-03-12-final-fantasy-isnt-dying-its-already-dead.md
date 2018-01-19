@@ -14,9 +14,9 @@ tags:
   - iPhone
   - square enix
 ---
-[Final Fantasy Isn't Dying. It's Already Dead - Game|Life - Wired.com](http://www.wired.com/gamelife/2013/07/final-fantasy-is-dead/).
+[Final Fantasy Isn't Dying. It's Already Dead - Game Life - Wired.com](http://www.wired.com/gamelife/2013/07/final-fantasy-is-dead/).
 
-> At this point, it’s tough to see a path back to relevance for Final Fantasy, if the caretakers of the series are spending their creative cycles thinking about the particulars of breast physics. That’s not why the Final Fantasy brand still carries the cachet that it does, and the modern games are at this point living entirely off an inherited reputation. 
+> At this point, it’s tough to see a path back to relevance for Final Fantasy, if the caretakers of the series are spending their creative cycles thinking about the particulars of breast physics. That’s not why the Final Fantasy brand still carries the cachet that it does, and the modern games are at this point living entirely off an inherited reputation.
 
 Sad. I know I bought Chaos Rings for the iPhone based on the inherited reputation that Square Enix had with me... but Chaos Rings was much more repetitive than it should have been. After my save data got reset, it was hard to want to go through any of it again.
 
