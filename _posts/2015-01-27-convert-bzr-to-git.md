@@ -17,15 +17,17 @@ I found a couple `bzr` repositories on my computer recently that I decided to co
 
 On Ubuntu:
 
-<pre><code class="sh">sudo apt-get install git bzr bzr-fastimport
-</code></pre>
+```sh
+sudo apt-get install git bzr bzr-fastimport
+```
 
 Then:
 
-<pre><code class="sh">cp -pr repo-dir ${repo}_backup
+```sh
+cp -pr repo-dir ${repo}_backup
 cd ${repo}
 git init
 bzr fast-export --plain . - git fast-import
 git co -f master
 rm -rf .bzr/
-</code></pre>
+```

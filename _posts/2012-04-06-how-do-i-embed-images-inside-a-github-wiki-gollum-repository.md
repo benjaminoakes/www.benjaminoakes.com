@@ -11,7 +11,9 @@ categories:
 ---
 After pushing images into the wiki repository (clone, add images, push), you can use relative paths like so:
 
-<pre><code class="no-highlight">[[foo.jpg]]</code></pre>
+```
+[[foo.jpg]]
+```
 
 For more info, see the [demo wiki&#8217;s page on images](https://github.com/mojombo/gollum-demo/blob/master/Mordor/Eye-Of-Sauron.md).
 

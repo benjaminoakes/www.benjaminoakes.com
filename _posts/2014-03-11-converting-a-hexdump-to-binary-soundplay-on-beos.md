@@ -41,19 +41,22 @@ Within the first page of Google results, I found [someone who posted their keyfi
 
 So close, I could almost touch it! I did a little more research and found a command to reconstitute it as a binary file.
 
-<pre><code class="bash"># xxd v1.10 was already installed on my Ubuntu 12.04 machine
+```bash
+# xxd v1.10 was already installed on my Ubuntu 12.04 machine
 xxd --revert keyfile.soundplay.hexdump keyfile.soundplay
-</code></pre>
+```
 
 For whatever reason, I had to do a little adjustment by hand before I was able to run the command. Basically this:
 
-<pre><code class="no-highlight">00000000  2b 9b 18 5f 0e 51 23 4e  c2 44 16 b8 aa 6c 7e e0  |+.._.Q#N.D...l~.|
-</code></pre>
+```
+00000000  2b 9b 18 5f 0e 51 23 4e  c2 44 16 b8 aa 6c 7e e0  |+.._.Q#N.D...l~.|
+```
 
 ...became this:
 
-<pre><code class="no-highlight">00000000: 2b9b 185f 0e51 234e c244 16b8 aa6c 7ee0
-</code></pre>
+```
+00000000: 2b9b 185f 0e51 234e c244 16b8 aa6c 7ee0
+```
 
 (I&#8217;ve posted the reformatted file below.)
 

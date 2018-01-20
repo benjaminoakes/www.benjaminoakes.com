@@ -46,11 +46,15 @@ After lots of trial and error, I knew:
   * It worked correctly on my machine if I log in as a newly created user
   * For some reason, when I made <kbd>ssh</kbd> verbose, I had:
 
-<pre><code class="no-highlight">debug3: publickey,keyboard-interactive,password</code></pre>
+```
+debug3: publickey,keyboard-interactive,password
+```
 
 ...as my user, but as a different user (which worked) I had:
 
-<pre><code class="no-highlight">debug3: preferred gssapi-keyex,gssapi-with-mic,publickey,keyboard-interactive,password</code></pre>
+```
+debug3: preferred gssapi-keyex,gssapi-with-mic,publickey,keyboard-interactive,password
+```
 
 (<kbd>gssapi</kbd> should be Kerberos)
 
@@ -59,10 +63,14 @@ After lots of trial and error, I knew:
 
 It turned out that MacPorts was to blame. Running <kbd>which ssh</kbd> in my account gave:
 
-<pre><code class="no-highlight">/opt/local/bin/ssh</code></pre>
+```
+/opt/local/bin/ssh
+```
 
 On the other had, a newly created account would have:
 
-<pre><code class="no-highlight">/usr/bin/ssh</code></pre>
+```
+/usr/bin/ssh
+```
 
 The fix is to change <kbd>$PATH</kbd>, of course. However, I&#8217;m not sure why some MacPorts package would have installed <kbd>ssh</kbd> as a dependancy.

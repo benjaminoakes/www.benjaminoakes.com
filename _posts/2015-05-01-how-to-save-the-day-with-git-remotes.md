@@ -42,51 +42,57 @@ We&#8217;ll refer to the absent user as `them` and the user that needs access to
 
 Just to set the stage, let&#8217;s look at the normal remotes for a clone from GitHub:
 
-<pre><code class="no-highlight">them$ git remote -v
+```
+them$ git remote -v
 origin  git@github.com:your-organization/your-repo.git (fetch)
 origin  git@github.com:your-organization/your-repo.git (push)
-</code></pre>
+```
 
 What we&#8217;re going to do is make a remote on the local filesystem.
 
 We&#8217;ll start by cloning into a shared directory (`/tmp` in this case):
 
-<pre><code class="no-highlight">them$ mkdir -p /tmp/git
+```
+them$ mkdir -p /tmp/git
 them$ cd /tmp/git
 them$ git clone git@github.com:your-organization/your-repo.git
-</code></pre>
+```
 
 We know that the absent user has a branch with code you need:
 
-<pre><code class="no-highlight">them$ git branch
+```
+them$ git branch
   master
   develop
 * feature/lol-i-will-be-here-tomorrow
-</code></pre>
+```
 
 So we&#8217;ll push it to that repo on the local filesystem:
 
-<pre><code class="no-highlight">them$ git remote add my-awesome-local-git-repo /tmp/git/your-repo/.git
+```
+them$ git remote add my-awesome-local-git-repo /tmp/git/your-repo/.git
 them$ git remote -v
 my-awesome-local-git-repo       /tmp/git/your-repo/.git (fetch)
 my-awesome-local-git-repo       /tmp/git/your-repo/.git (push)
 origin  git@github.com:your-organization/your-repo.git (fetch)
 origin  git@github.com:your-organization/your-repo.git (push)
-</code></pre>
+```
 
 Then you can go back to your user account and pull it.
 
 But first, you&#8217;ll need to make sure the `/tmp/git/your-repo` files are accessible. Since it&#8217;s a temporary clone, you could do something like this:
 
-<pre><code class="no-highlight">you$ sudo chown -R you:you .
-</code></pre>
+```
+you$ sudo chown -R you:you .
+```
 
 And then go back your clone, add the remote, and check out the branch:
 
-<pre><code class="no-highlight">you$ git remote add my-awesome-local-git-repo /tmp/git/your-repo/.git
+```
+you$ git remote add my-awesome-local-git-repo /tmp/git/your-repo/.git
 you$ git fetch my-awesome-local-git-repo
 you$ git co feature/lol-i-will-be-here-tomorrow
-</code></pre>
+```
 
 And there&#8217;s the branch you needed! We&#8217;re all done in our scenario, so you could now `rm -rf /tmp/git`.
 
@@ -94,15 +100,17 @@ And there&#8217;s the branch you needed! We&#8217;re all done in our scenario, s
 
 Git allows you to do a lot of interesting things like have a remote on the local filesystem, as described above:
 
-<pre><code class="no-highlight">$ git remote add my-awesome-local-git-repo /tmp/git/your-repo/.git
-</code></pre>
+```
+$ git remote add my-awesome-local-git-repo /tmp/git/your-repo/.git
+```
 
 The remote on the local filesystem acts just like any other remote; it just happens to be hosted locally. There&#8217;s very little magic going on! It&#8217;s just a pile of files that `git` manages.
 
 Another useful type of remote you can make yourself is a clone on another machine that&#8217;s accessible over SSH (and has the required `git` executables in `$PATH`):
 
-<pre><code class="no-highlight">$ git remote add my-awesome-remote-git-repo ssh://your-server/path/to/your-repo.git
-</code></pre>
+```
+$ git remote add my-awesome-remote-git-repo ssh://your-server/path/to/your-repo.git
+```
 
 That&#8217;s a lot like a private GitHub repo, but without any of the pretty web user interface or authorization management.
 

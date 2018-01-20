@@ -21,7 +21,8 @@ So, we now have Chrome 16, 17 (current), and 18, along with Firefox 9, 10 (curre
 
 Here&#8217;s some sample JSTD output from a Jasmine test suite we have:
 
-<pre><code class="no-highlight">Chrome 16.0.912.77 Windows: Run 50 tests (Passed: 50; Fails: 0; Errors 0) (267.00 ms)
+```
+Chrome 16.0.912.77 Windows: Run 50 tests (Passed: 50; Fails: 0; Errors 0) (267.00 ms)
 Chrome 17.0.963.56 Mac OS: Run 100 tests (Passed: 100; Fails: 0; Errors 0) (318.00 ms)
 Chrome 17.0.963.56 Windows: Run 50 tests (Passed: 50; Fails: 0; Errors 0) (196.00 ms)
 Chrome 18.0.1025.39 Mac OS: Run 50 tests (Passed: 50; Fails: 0; Errors 0) (209.00 ms)
@@ -35,7 +36,7 @@ Microsoft Internet Explorer 8.0 Windows: Run 50 tests (Passed: 50; Fails: 0; Err
 Microsoft Internet Explorer 9.0 Windows: Run 100 tests (Passed: 100; Fails: 0; Errors 0) (698.00 ms)
 Safari 534.52.7 Mac OS: Run 50 tests (Passed: 50; Fails: 0; Errors 0) (1553.00 ms)
 Safari 6533.18.5 iPhone OS: Run 50 tests (Passed: 50; Fails: 0; Errors 0) (184.00 ms)
-</code></pre>
+```
 
 With that many JavaScript implementations to support, writing automated tests only makes sense.
 

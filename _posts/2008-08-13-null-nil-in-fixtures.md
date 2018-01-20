@@ -14,6 +14,8 @@ tags:
 ---
 I was developing against SQLite for a while and didn’t notice that I had accidentally put `"NULL"` (i.e. as a string) in the fixtures. SQLite didn’t care about this, but MSSQL certainly did. Because I specified constraints on the column widths, I got the error:
 
-<pre><code class="no-highlight">ActiveRecord::StatementInvalid: DBI::DatabaseError: 22001 (8152) [FreeTDS][SQL Server]String or binary data would be truncated.</code></pre>
+```
+ActiveRecord::StatementInvalid: DBI::DatabaseError: 22001 (8152) [FreeTDS][SQL Server]String or binary data would be truncated.
+```
 
 At first I thought you had to use `nil` in fixtures, but in fact, it’s actually `NULL` that you want.

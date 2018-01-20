@@ -16,6 +16,8 @@ tags:
 ---
 If you have a file containing paths, but only some of them exist, you can filter them down to only the ones that exist using this command:
 
-<pre><code class="bash">ls -1 $(cat list-of-files.txt) > list-of-files.txt</code></pre>
+```bash
+ls -1 $(cat list-of-files.txt) > list-of-files.txt
+```
 
 For example, this is useful for comparing branches in `git`. You could run all the specs that changed between two branches, ignoring the spec files that were removed.

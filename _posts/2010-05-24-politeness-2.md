@@ -19,12 +19,14 @@ From the [GitHub repository](http://github.com/benjaminoakes/politeness):
 > 
 > Inspired by INTERCAL, this library makes Ruby programmers say &#8220;please&#8221; more often. If Ruby doesn&#8217;t like how brash or cocky you&#8217;re being, it will stop in the middle of your code and tell you so:
 > 
-> <pre><code class="no-highlight">"Not polite enough!"
-</code></pre>
+> ```
+"Not polite enough!"
+```
 > 
 > However, you _can_ say please too much. In that case, Ruby will throw its hands up and tell you that you&#8217;re:
 > 
-> <pre><code class="no-highlight">"Too polite!"
-</code></pre>
+> ```
+"Too polite!"
+```
 > 
 > Most libraries are _very_ rude, so be sure to require politeness after including them (unless you intend to make them a little more well-mannered).

@@ -14,7 +14,9 @@ I ran into an error with the VerticalResponse API today, and to my surprise ther
 
 The error was:
 
-<pre><code class="no-highlight">A general API error occurred: "VRAPI2.NO_EMAIL_OR_POSTAL_ADDRESS_PROVIDED" - "no email or postal address was provided, but at least one is required"</code></pre>
+```
+A general API error occurred: "VRAPI2.NO_EMAIL_OR_POSTAL_ADDRESS_PROVIDED" - "no email or postal address was provided, but at least one is required"
+```
 
 I tracked it down to a call to [`editListMember`](http://developers.verticalresponse.com/api/soap/methods/lists/editlistmember/), which I guessed didn&#8217;t include the `email_address` in `member_data`. After adding it, the error message has gone away.
 

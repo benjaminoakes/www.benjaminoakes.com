@@ -17,20 +17,22 @@ If you terminate statements with `\G` instead of `;`, the MySQL console will pri
 
 For example, instead of:
 
-<pre><code class="no-highlight">+----+--------+--------+
+```
++----+--------+--------+
 | id | foo_id | bar_id |
 +----+--------+--------+
 | 1  | 6      | 2      |
 +----+--------+--------+
-</code></pre>
+```
 
 You will have:
 
-<pre><code class="no-highlight">*************************** 1. row ***************************
+```
+*************************** 1. row ***************************
                          id: 186
                      foo_id: 6
                      bar_id: 2
-</code></pre>
+```
 
 It&#8217;s really useful for wide tables, or ones with text columns.
 

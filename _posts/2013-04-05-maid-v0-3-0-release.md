@@ -26,8 +26,9 @@ From the change log:
 
 I did have to make [some expected changes from `move` to `rename`](https://github.com/benjaminoakes/maid-example/commit/2187c4e710993374695e1ba9e7e882160d8f444c), however, but the warning messages for that show the new usage pretty clearly:
 
-<pre><code class="no-highlight">skipping move because foo is not a directory (use 'mkdir' to create first, or use 'rename')
-</code></pre>
+```
+skipping move because foo is not a directory (use 'mkdir' to create first, or use 'rename')
+```
 
 Otherwise, work is progressing on [the next version of Maid](https://github.com/benjaminoakes/maid/issues?milestone=6&state=open) also. Hopefully there will be another beta soon.
 

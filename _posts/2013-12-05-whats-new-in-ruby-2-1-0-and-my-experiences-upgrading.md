@@ -74,8 +74,9 @@ While the above bullet points are only the &#8220;notable&#8221; changes, some o
 
 It started by running into a strange ArgumentError when using FakeFS to list the contents of a directory:
 
-<pre><code class="no-highlight">ArgumentError: wrong number of arguments (2 for 1)
-</code></pre>
+```
+ArgumentError: wrong number of arguments (2 for 1)
+```
 
 I tracked it down to `Dir.entries` adding an optional second argument between Ruby 2.0.0 and 2.1.0 ([details](http://ruby-doc.org/core-2.1.0/Dir.html)). In Ruby 2.1.0, `Find.find` was calling FakeFS with the optional 2nd argument, which it didn&#8217;t know how to handle. I made [a simple pull request on FakeFS to fix the issue](https://github.com/defunkt/fakefs/pull/209). It was a little difficult to track down, but not too bad. For what it&#8217;s woth, I also ran into some trouble using [`FileUtils.touch` with an `:mtime` option](https://github.com/benjaminoakes/maid/blob/d08b80814178122c9d379985d034103356363ef5/spec/lib/maid/tools_spec.rb#L582), but I might have been using it inappropriately.
 

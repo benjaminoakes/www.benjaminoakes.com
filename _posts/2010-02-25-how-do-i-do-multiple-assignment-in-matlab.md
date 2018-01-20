@@ -32,11 +32,15 @@ From [my question on StackOverflow](http://stackoverflow.com/questions/2337126/h
 > 
 > But instead I get errors like:
 > 
-> <pre><code class="no-highlight">??? Too many output arguments.</code></pre>
+> ```
+??? Too many output arguments.
+```
 > 
 > I thought `deal()` might do it, but it seems to only work on cells.
 > 
-> <pre><code class="no-highlight">&gt;&gt; [x, y] = deal(foo{:});
-??? Cell contents reference from a non-cell array object.</code></pre>
+> ```
+>> [x, y] = deal(foo{:});
+??? Cell contents reference from a non-cell array object.
+```
 > 
 > How do I solve my problem? Must I constantly index by 1 and 2 if I want to deal with them separately?

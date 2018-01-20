@@ -15,7 +15,8 @@ From [my question on StackOverflow](http://stackoverflow.com/questions/2283065/h
 
 > I&#8217;m using DBI to query a SQLite3 database. What I have works, but it doesn&#8217;t return the columns in order. Example:
 > 
-> <pre><code class="no-highlight">Query:  select col1, col2, col3, col4 from some_view;
+> ```
+Query:  select col1, col2, col3, col4 from some_view;
 Output:
 
     col3, col2, col1, col4
@@ -25,16 +26,19 @@ Output:
     3, 2, 1, 4
     ...
 
-(values and columns are just for illustration)</code></pre>
+(values and columns are just for illustration)
+```
 > 
 > **I know this is happening because I&#8217;m using a hash**, but how else do I get the column names back if I only use an array? All I want to do is get something like this for any **arbitrary** query:
 > 
-> <pre><code class="no-highlight">    col1, col2, col3, col4
+> ```
+    col1, col2, col3, col4
     1, 2, 3, 4
     1, 2, 3, 4
     1, 2, 3, 4
     1, 2, 3, 4
-    ...</code></pre>
+    ...
+```
 > 
 > (That is, I need the output is in the right order and with the column names.)
 > 
