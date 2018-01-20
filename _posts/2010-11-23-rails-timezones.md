@@ -34,6 +34,8 @@ Okay, so far so good. Next:
 >> Time.now.in_time_zone('PST')
 NoMethodError: undefined method `period_for_utc' for nil:NilClass
 [...]
+```
+```irb
 >> Time.now.in_time_zone('CST')
 NoMethodError: undefined method `period_for_utc' for nil:NilClass
 [...]
@@ -60,6 +62,8 @@ And neither will major American cities:
 >> Time.now.in_time_zone('New York')
 NoMethodError: undefined method `period_for_utc' for nil:NilClass
 [...]
+```
+```irb
 >> Time.now.in_time_zone('Chicago')
 NoMethodError: undefined method `period_for_utc' for nil:NilClass
 [...]
