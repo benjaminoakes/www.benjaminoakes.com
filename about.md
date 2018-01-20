@@ -22,3 +22,7 @@ site.url: {{ site.url }}
 site.data: {{ site.data }}
 
 -->
+
+{% if site.adsense %}
+  {% include adsense.html %}
+{% endif %}
