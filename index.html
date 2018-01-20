@@ -20,16 +20,18 @@ layout: default
 </ul>
 
 {% if paginator.total_pages > 1 %}
-  {% if paginator.next_page %}
-    <span style="float: left">
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">&larr; Older</a>
-    </span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <span style="float: right">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer &rarr;</a>
-    </span>
-  {% endif %}
+  <p>
+    {% if paginator.next_page %}
+      <span style="float: left">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">&larr; Older</a>
+      </span>
+    {% endif %}
+    {% if paginator.previous_page %}
+      <span style="float: right">
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer &rarr;</a>
+      </span>
+    {% endif %}
+  </p>
 {% endif %}
 
 {% if site.adsense %}
