@@ -20,36 +20,36 @@ To stay on top of the changes, I did some research on the release notes provided
 
 ## preview1 {#preview1}
 
-  * VM (method cache) 
+  * VM (method cache)
       * `klasscache`, see [ko1 pg 19](http://www.atdot.net/~ko1/activities/toruby05-ko1.pdf#19)
       * Same algorithm as JRuby and Rubinius
       * Not just a global method cache anymore
-  * RGenGC (See ko1&#8217;s RubyKaigi presentation and EuRuKo presentation) 
+  * RGenGC (See ko1&#8217;s RubyKaigi presentation and EuRuKo presentation)
       * Restricted generational garbage collector
       * Faster than &#8220;mark and sweep&#8221; (M&S)
       * &#8220;True&#8221; generational GC would have caused compat problems
       * Complications with the C extension API
   * Refinements
-  * Syntax 
+  * Syntax
       * Required keyword arguments now have a syntax
       * `def foo(bar: 2)` defaults `bar` to 2 if not present, `def foo(bar:)` requires `bar`
       * Pre-2.1.0, you could do `def foo(bar: bar)` to a similar effet
-  * Decimal Literal 
+  * Decimal Literal
       * Pre-2.1.0: `Rational(1, 2)`, 2.1.0 and later: `1/2r`
       * Lets you represent fractions without the normal pain associated with IEEE floating point
-  * Frozen String Literal 
+  * Frozen String Literal
       * `"bar"f`, frozen string... looks funky
       * This syntax was dropped, see preview2
-  * def&#8217;s return value 
+  * def&#8217;s return value
       * name symbol, now you can do `private def foo`
       * seems like it might interfere with Rubinus, which returned a method object
   * Bignum
   * 128bit
-  * GMP 
+  * GMP
       * If available, 128bit math is used for large numbers. Sounds like it&#8217;s provided by [GMP](https://gmplib.org/), the GNU Multiple Precision library
-  * String#scrub 
+  * String#scrub
       * Cleans invalid byte sequences
-  * Socket.getifaddrs 
+  * Socket.getifaddrs
       * Accessing Network Interfaces (&#8220;_get_ _i_nter_f_ace _addr_esse_s_&#8220;)
       * Methods like `name` (e.g. `en0`) and `ip_address` (either IPv4 or IPv6)
   * new RubyGems
@@ -58,11 +58,11 @@ To stay on top of the changes, I did some research on the release notes provided
 
   * fix Heap Overflow in Floating Point Parsing (CVE-2013-4164)
   * f suffix of String Literal is removed #9042
-  * &#8220;literal&#8221;.freeze is now optimized #9042 
+  * &#8220;literal&#8221;.freeze is now optimized #9042
       * Backwards compatible syntax! It gets the same optimization of the `f` suffix
       * Freezing Strings can give us some easy optimizations
   * fix memory consuming issue on RGenGC (r43532 and r43755)
-  * add Exception#cause [#8257](https://bugs.ruby-lang.org/issues/8257) 
+  * add Exception#cause [#8257](https://bugs.ruby-lang.org/issues/8257)
       * Sounds like a canonical implementation of [nested exceptions](http://c2.com/ppr/wiki/JavaIdioms/NestedException.html)
   * update libraries like json, nkf, rake, RubyGems, and RDoc.
 

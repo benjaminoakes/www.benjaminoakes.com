@@ -10,75 +10,75 @@ categories:
 From [my question on StackOverflow](http://stackoverflow.com/questions/2546503/calculating-multiple-column-average-in-sqlite3) ([CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)):
 
 > I need to average some values in a _row_-wise fashion, rather than a _column_-wise fashion. (If I were doing a column-wise average, I could just use `avg()`). My specific application of this requires me ignore NULLs in averaging. It&#8217;s pretty straightforward logic, but seems awfully difficult to do in SQL. Is there an elegant way of doing my calculation?
-> 
+>
 > I&#8217;m using SQLite3, for what it&#8217;s worth.
-> 
+>
 > **Details**
-> 
+>
 > If you need more details, here&#8217;s an illustration:
-> 
+>
 > I have a a table with a survey:
-> 
+>
 > ```
-| q1 | q2    | q3    | ... | q144 |
-|----|-------|-------|-----|------|
-| 1  | 3     | 7     | ... | 2    |
-| 4  | 2     | NULL  | ... | 1    |
-| 5  | NULL  | 2     | ... | 3    |
-```
-> 
+> | q1 | q2    | q3    | ... | q144 |
+> |----|-------|-------|-----|------|
+> | 1  | 3     | 7     | ... | 2    |
+> | 4  | 2     | NULL  | ... | 1    |
+> | 5  | NULL  | 2     | ... | 3    |
+> ```
+>
 > (Those are just some example values and simple column names. The valid values are 1 through 7 and NULL.)
-> 
+>
 > I need to calculate some averages like so:
-> 
+>
 >     q7 + q33 + q38 + q40 + ... + q119 / 11 as domain_score_1
 >     q10 + q11 + q34 + q35 + ... + q140 / 13 as domain_score_2
 >     ...
 >     q2 + q5 + q13 + q25 + ... + q122 / 12 as domain_score_14
-> 
+>
 > ...but i need to pull out the nulls and average based on the non-nulls. So, for `domain_score_1` (which has 11 items), I would need to do:
-> 
+>
 > ```
-Input:  3, 5, NULL, 7, 2, NULL, 3, 1, 5, NULL, 1
-
-(3 + 5 + 7 + 2 + 3 + 1 + 5 + 1) / (11 - 3)
-27 / 8
-3.375
-```
-> 
+> Input:  3, 5, NULL, 7, 2, NULL, 3, 1, 5, NULL, 1
+>
+> (3 + 5 + 7 + 2 + 3 + 1 + 5 + 1) / (11 - 3)
+> 27 / 8
+> 3.375
+> ```
+>
 > A simple algorithm I&#8217;m considering is:
-> 
+>
 > Input:
-> 
+>
 > ```
-3, 5, NULL, 7, 2, NULL, 3, 1, 5, NULL, 1 
-```
-> 
+> 3, 5, NULL, 7, 2, NULL, 3, 1, 5, NULL, 1
+> ```
+>
 > Coalesce each value to 0 if NULL:
-> 
+>
 > ```
-3, 5, 0, 7, 2, 0, 3, 1, 5, 0, 1
-```
-> 
+> 3, 5, 0, 7, 2, 0, 3, 1, 5, 0, 1
+> ```
+>
 > Sum:
-> 
+>
 > ```
-27
-```
-> 
+> 27
+> ```
+>
 > Get the number of non-zeros by converting values > 0 to 1 and sum:
-> 
+>
 > ```
-3, 5, 0, 7, 2, 0, 3, 1, 5, 0, 1
-1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 1
-8
-```
-> 
+> 3, 5, 0, 7, 2, 0, 3, 1, 5, 0, 1
+> 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 1
+> 8
+> ```
+>
 > Divide those two numbers
-> 
+>
 > ```
-27 / 8
-3.375
-```
-> 
+> 27 / 8
+> 3.375
+> ```
+>
 > But that seems like a lot more programming than this should take. Is there an elegant way of doing this that I&#8217;m not aware of?

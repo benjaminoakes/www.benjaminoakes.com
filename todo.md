@@ -32,6 +32,7 @@ _posts/2015-11-08-super-mario-world-castle-theme-organ-cover.md
 Needs redirect from:
 
 * `_posts/2010-05-11-validates_uniqueness_of-with-multiple-scopes.md`
+* /2010/05/24/politeness-2/
 
 Why 404?
 

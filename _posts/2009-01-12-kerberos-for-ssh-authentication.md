@@ -16,27 +16,27 @@ I had a problem using Kerberos for SSH authentication on a MacBook Pro using Mac
 **Edit:** Here&#8217;s [my original description of the problem](http://hintsforums.macworld.com/showthread.php?t=97664) on the Mac OS X Hints forums.
 
 > I can&#8217;t get Kerberos to work for my user on my MacBook Pro (MacBookPro1,1), OS X Leopard 10.5.5.
-> 
+>
 > What I know so far:
-> 
+>
 > 1) It works correctly on my machine if I log in as a new user
-  
+>
 > 2) I can get Kerberos tickets using both the GUI and kinit (i.e. they show up in klist) using my user
-  
+>
 > 3) For some reason, when I make ssh verbose, I have:
-> 
+>
 >     debug3: preferred publickey,keyboard-interactive,password
-> 
+>
 > ...as my user, but as a different user (which works) I have:
-> 
+>
 >     debug3: preferred gssapi-keyex,gssapi-with-mic,publickey,keyboard-interactive,password
-> 
+>
 > gssapi should be Kerberos, so my user is just skipping my Kerberos tickets.
-> 
+>
 > 4) My /etc/ssh_config file looks fine. All other configuration that I can find isn&#8217;t work
-  
+>
 > 5) ssh keys don&#8217;t work either
-> 
+>
 > Any help would be appreciated -- having to type in passwords with every bzr command isn&#8217;t fun!
 
 After lots of trial and error, I knew:
