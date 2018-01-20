@@ -39,7 +39,7 @@ Why 404?
 * /2015/01/05/podcast-url-extractor/
 * 2011/01/12/captions-on-sanyo-tv-with-universal-remote/comment-page-1/
 
-- [ ] Add codefences for `class="ruby"`
+- [x] Add codefences for `class="ruby"`
 - [ ] Check for direct links/images from www.benjaminoakes.com
 - [ ] Check for more iframes for vimeo/youtube http://www.benjaminoakes.com/?s=iframe
 
