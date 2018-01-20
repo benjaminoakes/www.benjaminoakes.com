@@ -17,19 +17,22 @@ tags:
 ---
 We were working with some pure-Ruby CSV parsing code today and got a confusing error.
 
-<pre><code class="no-highlight">NoMethodError:
+```
+NoMethodError:
  undefined method `arity' for nil:NilClass
-</code></pre>
+```
 
 We weren&#8217;t doing anything that looked special, just something like this:
 
-<pre><code class="ruby">CSV.parse(string, :converters =&gt; [:strip])
-</code></pre>
+```ruby
+CSV.parse(string, :converters => [:strip])
+```
 
 We narrowed it down to the point that we knew that just <code  class="ruby">CSV.parse(string)</code> worked, so we knew it must have to do with the <code class="ruby">:converters</code> option. Not knowing the API backwards and forwards, I had thought that <code class="ruby">:strip</code> was built into Ruby&#8217;s <code class="ruby">CSV</code> library. It turns out that this error was happening because we hadn&#8217;t required our custom converter definition, which was in another file. It was something like this:
 
-<pre><code class="ruby">CSV::Converters[:strip] = lambda { |s| s.strip rescue s }
-</code></pre>
+```ruby
+CSV::Converters[:strip] = lambda { |s| s.strip rescue s }
+```
 
 After making that definition available, our <code  class="ruby">NoMethodError</code> went away.
 

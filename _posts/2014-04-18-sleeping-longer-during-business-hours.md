@@ -15,5 +15,6 @@ tags:
 ---
 This is just a simple trick to sleep longer during business hours. Useful if there&#8217;s a long running task that needs to avoid hammering a resource (e.g. a shared database) during the day, but not during the night.
 
-<pre><code class="ruby">sleep (7..18).include?(Time.now.hour) ? 3 : 0
-</code></pre>
+```ruby
+sleep (7..18).include?(Time.now.hour) ? 3 : 0
+```

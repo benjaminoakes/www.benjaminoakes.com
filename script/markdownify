@@ -4,6 +4,7 @@ path="$1"
 
 sed -i.bak 's/<pre><code class="no-highlight">/```\n/' "$path"
 sed -i.bak 's/<pre><code class="ruby">/```ruby\n/' "$path"
+sed -i.bak 's/<pre><code class="html">/```html\n/' "$path"
 sed -i.bak 's/<pre><code class="language-bash">/```bash\n/' "$path"
 sed -i.bak 's/<pre><code class="language-ruby">/```ruby\n/' "$path"
 sed -i.bak 's/<pre><code class="language-haml">/```haml\n/' "$path"

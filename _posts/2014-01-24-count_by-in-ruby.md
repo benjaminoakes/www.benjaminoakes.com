@@ -17,9 +17,10 @@ tags:
 ---
 This is just a simple addition to Ruby&#8217;s `Enumerable` that both [Dan Bernier](http://invisibleblocks.com/) and I agreed should be a part of Ruby&#8217;s standard library.
 
-<pre><code class="ruby"># count_by.rb
+```ruby
+# count_by.rb
 # License: MIT
-# 
+#
 # Authors: Benjamin Oakes, Dan Bernier
 
 module Enumerable
@@ -37,4 +38,4 @@ describe 'count_by' do
     assert_equal(counts, [["a", 1], ["b", 2], ["c", 1], ["d", 2], ["e", 4]])
   end
 end
-</code></pre>
+```

@@ -15,29 +15,31 @@ I needed to calculate the next leap year today, and was happy to find out about 
 
 However, there wasn&#8217;t a built-in way that I could find to get the **next** leap year. It turned out to be pretty simple, but still worth sharing.
 
-<pre><code class="ruby"># next_leap_year.rb
+```ruby
+# next_leap_year.rb
 # License: MIT
 
-require &#39;date&#39;
+require "date"
 
 def next_leap_year(year)
   year += 1 until Date.leap?(year)
   year
 end
 
-require &#39;minitest/spec&#39;
-require &#39;minitest/autorun&#39;
+require "minitest/spec"
+require "minitest/autorun"
 
-describe &#39;next_leap_year&#39; do
-  describe &#39;given a leap year&#39; do
-    it &#39;returns the same year&#39; do
+describe "next_leap_year" do
+  describe "given a leap year" do
+    it "returns the same year" do
       assert_equal(next_leap_year(2012), 2012)
     end
   end
 
-  describe &#39;given a non-leap year&#39; do
-    it &#39;returns the next leap year&#39; do
+  describe "given a non-leap year" do
+    it "returns the next leap year" do
       assert_equal(next_leap_year(2013), 2016)
     end
   end
-end</code></pre>
+end
+```
