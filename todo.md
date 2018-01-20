@@ -13,7 +13,7 @@
 - [ ] Import content from existing website
   - [x] Fix entities
   - [x] Fix pipes
-  - [ ] Remove id, guids from frontmatter
+  - [x] Remove id, guids from frontmatter
 
 To fix:
 
