@@ -32,9 +32,7 @@ So, if it still needs to be said, I want (almost need) a new computer. I&#8217;
 
 My friend Sean just got his [Sony Vaio PCG-K33](http://www.sonystyle.com/is-bin/INTERSHOP.enfinity/eCS/Store/en/-/USD/SY_DisplayProductInformation-Start?CategoryName=cpu_VAIONotebookComputers_KSeries&Dept=cpu_VAIONotebookComputers&TemplateName=item%2fsy_item_b&ProductSKU=PCGK33), and I was blown away with what he got for only $1500. Then I started looking around. This is what I&#8217;ve decided on:
   
-[
-  
-HP zv5000t series](http://www.shopping.hp.com/webapp/shopping/computer_series.do?storeName=computer_store&category=notebooks/hp_pavilion&series_name=zv5000t_series&catLevel=2&tab_switch=true&tab=overview)
+[HP zv5000t series](http://www.shopping.hp.com/webapp/shopping/computer_series.do?storeName=computer_store&category=notebooks/hp_pavilion&series_name=zv5000t_series&catLevel=2&tab_switch=true&tab=overview)
 
 <table border="0" cellspacing="0" cellpadding="4" width="545">
   <tr valign="top">

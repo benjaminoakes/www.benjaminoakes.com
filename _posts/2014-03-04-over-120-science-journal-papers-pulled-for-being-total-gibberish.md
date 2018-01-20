@@ -7,9 +7,7 @@ permalink: /2014/03/04/over-120-science-journal-papers-pulled-for-being-total-gi
 categories:
   - Uncategorized
 ---
-[Over 120 Science Journal Papers Pulled For Being Total Gibberish
-  
-](http://www.gizmodo.com.au/2014/03/over-120-science-journal-papers-pulled-for-being-total-gibberish/) 
+[Over 120 Science Journal Papers Pulled For Being Total Gibberish](http://www.gizmodo.com.au/2014/03/over-120-science-journal-papers-pulled-for-being-total-gibberish/)
 
 Why am I not surprised?
 

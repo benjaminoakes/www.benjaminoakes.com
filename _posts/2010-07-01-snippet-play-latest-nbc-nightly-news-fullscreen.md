@@ -23,4 +23,4 @@ It&#8217;s actually quite a simple script. Unfortunately, I couldn&#8217;t find 
 
 See more at [my snippets repository on GitHub](http://github.com/benjaminoakes/snippets/).
 
-[Download](http://github.com/benjaminoakes/snippets/raw/master/applescript/Play%20latest%20NBC%20Nightly%20News%20fullscreen.applescript){.download}
+[Download](http://github.com/benjaminoakes/snippets/raw/master/applescript/Play%20latest%20NBC%20Nightly%20News%20fullscreen.applescript)
