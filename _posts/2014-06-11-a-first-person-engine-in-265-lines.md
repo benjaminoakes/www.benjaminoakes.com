@@ -4,7 +4,6 @@ title: A first-person engine in 265 lines
 date: 2014-06-11T17:28:42+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=521
 permalink: /2014/06/11/a-first-person-engine-in-265-lines/
 categories:
   - JavaScript

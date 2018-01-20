@@ -4,7 +4,6 @@ title: A Huge List of Free Programming Books
 date: 2014-01-07T02:32:17+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=416
 permalink: /2014/01/07/a-huge-list-of-free-programming-books/
 categories:
   - Programming

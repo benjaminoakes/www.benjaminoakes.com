@@ -4,7 +4,6 @@ title: Firefox 1.0 impressions
 date: 2004-11-13T09:44:32+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=58
 permalink: /2004/11/13/firefox-1-0-impressions/
 categories:
   - Web

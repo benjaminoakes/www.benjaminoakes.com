@@ -4,7 +4,6 @@ title: 'iOS 8 wish-list: pre-WWDC edition'
 date: 2014-06-02T04:12:17+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=511
 permalink: /2014/06/02/ios-8-wish-list-pre-wwdc-edition/
 categories:
   - iOS

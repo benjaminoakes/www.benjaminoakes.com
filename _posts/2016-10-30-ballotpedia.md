@@ -4,7 +4,6 @@ title: Ballotpedia
 date: 2016-10-30T04:10:01+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=930
 permalink: /2016/10/30/ballotpedia/
 categories:
   - Politics

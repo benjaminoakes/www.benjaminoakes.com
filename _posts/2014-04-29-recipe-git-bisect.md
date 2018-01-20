@@ -4,7 +4,6 @@ title: 'Recipe: git bisect'
 date: 2014-04-29T20:11:20+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=722
 permalink: /2014/04/29/recipe-git-bisect/
 categories:
   - Technology

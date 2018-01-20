@@ -4,7 +4,6 @@ title: On moving across half the country
 date: 2013-08-30T03:50:59+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=287
 permalink: /2013/08/30/moving-across-half-the-country/
 categories:
   - Uncategorized

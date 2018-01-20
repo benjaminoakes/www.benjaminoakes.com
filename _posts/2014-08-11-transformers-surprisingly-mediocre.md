@@ -4,7 +4,6 @@ title: 'Transformers: Surprisingly mediocre'
 date: 2014-08-11T04:02:35+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=538
 permalink: /2014/08/11/transformers-surprisingly-mediocre/
 categories:
   - Uncategorized

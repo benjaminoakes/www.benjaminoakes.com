@@ -4,7 +4,6 @@ title: The Key Master
 date: 2015-03-17T19:01:21+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=671
 permalink: /2015/03/17/the-key-master/
 categories:
   - Web

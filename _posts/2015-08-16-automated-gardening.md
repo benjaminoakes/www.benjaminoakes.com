@@ -4,7 +4,6 @@ title: Automated Gardening
 date: 2015-08-16T03:26:37+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=736
 permalink: /2015/08/16/automated-gardening/
 categories:
   - Sustainability

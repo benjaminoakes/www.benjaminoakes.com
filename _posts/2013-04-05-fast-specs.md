@@ -4,7 +4,6 @@ title: Fast Specs
 date: 2013-04-05T01:11:48+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=210
 permalink: /2013/04/05/fast-specs/
 categories:
   - Iowa City

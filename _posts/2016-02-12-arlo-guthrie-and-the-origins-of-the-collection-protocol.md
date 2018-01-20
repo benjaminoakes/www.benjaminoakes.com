@@ -4,7 +4,6 @@ title: Arlo Guthrie and the origins of the Collection protocol
 date: 2016-02-12T01:10:48+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=820
 permalink: /2016/02/12/arlo-guthrie-and-the-origins-of-the-collection-protocol/
 categories:
   - Ruby

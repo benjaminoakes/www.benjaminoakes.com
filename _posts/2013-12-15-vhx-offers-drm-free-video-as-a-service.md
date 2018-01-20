@@ -4,7 +4,6 @@ title: VHX offers DRM-free video as a service
 date: 2013-12-15T17:49:50+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=397
 permalink: /2013/12/15/vhx-offers-drm-free-video-as-a-service/
 categories:
   - Technology

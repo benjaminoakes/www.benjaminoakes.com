@@ -4,7 +4,6 @@ title: I have a fan club!
 date: 2004-09-18T08:47:02+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=46
 permalink: /2004/09/18/i-have-a-fan-club/
 categories:
   - Uncategorized

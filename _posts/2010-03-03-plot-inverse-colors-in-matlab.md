@@ -4,7 +4,6 @@ title: Plot inverse colors in Matlab?
 date: 2010-03-03T01:53:19+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=228
 permalink: /2010/03/03/plot-inverse-colors-in-matlab/
 categories:
   - Matlab

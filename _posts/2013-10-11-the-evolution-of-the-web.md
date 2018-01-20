@@ -4,7 +4,6 @@ title: The Evolution of the Web
 date: 2013-10-11T22:15:25+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=343
 permalink: /2013/10/11/the-evolution-of-the-web/
 categories:
   - Technology

@@ -4,7 +4,6 @@ title: How to allow auto-update of apps in Play Store only when plugged in?
 date: 2015-01-30T04:19:48+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=615
 permalink: /2015/01/30/how-to-allow-auto-update-of-apps-in-play-store-only-when-plugged-in/
 categories:
   - Android

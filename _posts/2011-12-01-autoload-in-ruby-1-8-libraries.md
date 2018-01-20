@@ -4,7 +4,6 @@ title: autoload in Ruby 1.8 and Rails
 date: 2011-12-01T13:54:47+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=140
 permalink: /2011/12/01/autoload-in-ruby-1-8-libraries/
 categories:
   - Rails

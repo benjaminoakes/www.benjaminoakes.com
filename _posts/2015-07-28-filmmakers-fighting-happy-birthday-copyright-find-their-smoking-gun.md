@@ -4,7 +4,6 @@ title: Filmmakers fighting “Happy Birthday” copyright find their “smoking 
 date: 2015-07-28T14:02:09+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=726
 permalink: /2015/07/28/filmmakers-fighting-happy-birthday-copyright-find-their-smoking-gun/
 categories:
   - Music

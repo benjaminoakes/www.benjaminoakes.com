@@ -4,7 +4,6 @@ title: From ASM.JS to WebAssembly
 date: 2015-06-19T17:43:08+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=714
 permalink: /2015/06/19/brendan-eich-blog-archive-from-asm-js-to-webassembly/
 categories:
   - Web

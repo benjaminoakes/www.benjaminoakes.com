@@ -4,7 +4,6 @@ title: Keep Calm and Vote Early
 date: 2012-10-19T18:07:28+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=174
 permalink: /2012/10/19/keep-calm-and-vote-early/
 categories:
   - Iowa City

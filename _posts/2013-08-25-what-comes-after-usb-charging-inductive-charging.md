@@ -4,7 +4,6 @@ title: What comes after USB charging? Inductive charging.
 date: 2013-08-25T21:42:14+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=260
 permalink: /2013/08/25/what-comes-after-usb-charging-inductive-charging/
 categories:
   - Technology

@@ -4,7 +4,6 @@ title: Richard Stallman’s GNU Manifesto Turns Thirty
 date: 2015-11-29T19:50:53+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=783
 permalink: /2015/11/29/richard-stallmans-gnu-manifesto-turns-thirty/
 categories:
   - Open Source

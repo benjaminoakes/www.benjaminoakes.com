@@ -4,7 +4,6 @@ title: Stormcloud for Chrome
 date: 2013-04-07T00:46:14+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=215
 permalink: /2013/04/07/stormcloud-for-chrome/
 categories:
   - Chrome

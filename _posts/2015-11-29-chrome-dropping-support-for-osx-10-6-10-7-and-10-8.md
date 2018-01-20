@@ -4,7 +4,6 @@ title: Chrome dropping support for OSX 10.6, 10.7, and 10.8
 date: 2015-11-29T16:36:10+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=782
 permalink: /2015/11/29/chrome-dropping-support-for-osx-10-6-10-7-and-10-8/
 categories:
   - Chrome

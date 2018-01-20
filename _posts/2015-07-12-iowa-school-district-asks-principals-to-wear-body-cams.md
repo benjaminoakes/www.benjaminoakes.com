@@ -4,7 +4,6 @@ title: Iowa school district asks principals to wear body cams
 date: 2015-07-12T00:14:09+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=718
 permalink: /2015/07/12/iowa-school-district-asks-principals-to-wear-body-cams/
 categories:
   - Uncategorized

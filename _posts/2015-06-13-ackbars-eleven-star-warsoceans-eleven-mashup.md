@@ -4,7 +4,6 @@ title: 'Ackbar&#8217;s Eleven: Star Wars/Ocean&#8217;s Eleven mashup'
 date: 2015-06-13T15:26:23+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=712
 permalink: /2015/06/13/ackbars-eleven-star-warsoceans-eleven-mashup/
 categories:
   - Uncategorized

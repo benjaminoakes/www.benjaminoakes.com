@@ -4,7 +4,6 @@ title: Johnson County triples its solar power production
 date: 2016-09-13T02:23:10+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=917
 permalink: /2016/09/13/johnson-county-triples-its-solar-power-production/
 categories:
   - Sustainability

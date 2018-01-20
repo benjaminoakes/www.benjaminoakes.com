@@ -4,7 +4,6 @@ title: Why is printf better than echo?
 date: 2014-10-24T02:06:43+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=555
 permalink: /2014/10/24/why-is-printf-better-than-echo-unix-linux-stack-exchange/
 categories:
   - Uncategorized

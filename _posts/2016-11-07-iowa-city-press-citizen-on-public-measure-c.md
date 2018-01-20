@@ -4,7 +4,6 @@ title: Iowa City Press-Citizen on Public Measure C
 date: 2016-11-07T14:48:27+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=948
 permalink: /2016/11/07/iowa-city-press-citizen-on-public-measure-c/
 categories:
   - Politics

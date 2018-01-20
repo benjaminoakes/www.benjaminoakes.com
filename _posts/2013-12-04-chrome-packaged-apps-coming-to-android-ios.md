@@ -4,7 +4,6 @@ title: Chrome Packaged Apps Coming to Android, iOS
 date: 2013-12-04T23:29:21+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=385
 permalink: /2013/12/04/chrome-packaged-apps-coming-to-android-ios/
 categories:
   - Chrome

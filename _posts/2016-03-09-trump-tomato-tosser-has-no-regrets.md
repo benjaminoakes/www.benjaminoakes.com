@@ -4,7 +4,6 @@ title: Trump tomato tosser has no regrets
 date: 2016-03-09T01:42:44+00:00
 author: Ben
 layout: post
-guid: https://www.benjaminoakes.com/?p=847
 permalink: /2016/03/09/trump-tomato-tosser-has-no-regrets/
 categories:
   - Politics

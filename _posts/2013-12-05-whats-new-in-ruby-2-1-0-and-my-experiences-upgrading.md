@@ -4,7 +4,6 @@ title: 'What&#8217;s new in Ruby 2.1.0?  (And my experiences upgrading)'
 date: 2013-12-05T05:09:48+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=387
 permalink: /2013/12/05/whats-new-in-ruby-2-1-0-and-my-experiences-upgrading/
 categories:
   - Ruby

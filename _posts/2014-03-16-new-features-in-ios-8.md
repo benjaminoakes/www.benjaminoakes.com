@@ -4,7 +4,6 @@ title: New features in iOS 8
 date: 2014-03-16T16:08:50+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=470
 permalink: /2014/03/16/new-features-in-ios-8/
 categories:
   - Android

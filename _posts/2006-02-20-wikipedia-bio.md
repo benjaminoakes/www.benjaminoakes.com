@@ -4,7 +4,6 @@ title: Wikipedia Bio
 date: 2006-02-20T03:25:13+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=298
 permalink: /2006/02/20/wikipedia-bio/
 categories:
   - Uncategorized

@@ -4,7 +4,6 @@ title: Black Bean, Tofu, Spinach Miracle
 date: 2017-02-01T02:31:12+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=1003
 permalink: /2017/02/01/black-bean-tofu-spinach-miracle/
 categories:
   - Recipe

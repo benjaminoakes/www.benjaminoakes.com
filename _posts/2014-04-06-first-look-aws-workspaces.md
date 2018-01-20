@@ -4,7 +4,6 @@ title: First Look – AWS WorkSpaces
 date: 2014-04-06T01:48:47+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=483
 permalink: /2014/04/06/first-look-aws-workspaces/
 categories:
   - Linux

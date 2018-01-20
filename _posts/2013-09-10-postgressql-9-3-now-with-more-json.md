@@ -4,7 +4,6 @@ title: PostgresSQL 9.3 (now with more JSON)
 date: 2013-09-10T03:25:29+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=318
 permalink: /2013/09/10/postgressql-9-3-now-with-more-json/
 categories:
   - Open Source

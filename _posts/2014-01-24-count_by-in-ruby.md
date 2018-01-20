@@ -4,7 +4,6 @@ title: count_by in Ruby
 date: 2014-01-24T21:57:52+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=428
 permalink: /2014/01/24/count_by-in-ruby/
 categories:
   - Ruby

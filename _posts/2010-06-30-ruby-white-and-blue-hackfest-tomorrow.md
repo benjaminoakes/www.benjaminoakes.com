@@ -4,7 +4,6 @@ title: '&#8220;Ruby, White and Blue Hackfest&#8221; tomorrow!'
 date: 2010-06-30T17:46:59+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=102
 permalink: /2010/06/30/ruby-white-and-blue-hackfest-tomorrow/
 categories:
   - newhaven.rb

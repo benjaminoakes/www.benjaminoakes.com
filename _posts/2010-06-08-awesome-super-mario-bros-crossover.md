@@ -4,7 +4,6 @@ title: 'Awesome: Super Mario Bros. Crossover'
 date: 2010-06-08T12:17:00+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=96
 permalink: /2010/06/08/awesome-super-mario-bros-crossover/
 categories:
   - Uncategorized

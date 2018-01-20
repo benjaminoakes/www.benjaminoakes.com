@@ -4,7 +4,6 @@ title: 'The Abomination of Ebooks: They Price People Out of Reading'
 date: 2014-03-07T04:57:37+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=455
 permalink: /2014/03/07/the-abomination-of-ebooks-they-price-people-out-of-reading/
 categories:
   - Technology

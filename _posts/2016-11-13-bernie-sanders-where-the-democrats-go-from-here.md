@@ -4,7 +4,6 @@ title: 'Bernie Sanders: Where the Democrats Go From Here'
 date: 2016-11-13T20:41:10+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=957
 permalink: /2016/11/13/bernie-sanders-where-the-democrats-go-from-here/
 categories:
   - Politics

@@ -4,7 +4,6 @@ title: Clever Spam
 date: 2010-11-24T03:04:32+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=112
 permalink: /2010/11/24/clever-spam/
 categories:
   - Web

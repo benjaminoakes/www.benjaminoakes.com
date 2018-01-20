@@ -4,7 +4,6 @@ title: UGtastic Interview
 date: 2012-09-26T18:19:48+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=161
 permalink: /2012/09/26/ugtastic-interview/
 categories:
   - Conference

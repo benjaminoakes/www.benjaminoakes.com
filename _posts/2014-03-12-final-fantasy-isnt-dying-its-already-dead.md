@@ -4,7 +4,6 @@ title: 'Final Fantasy Isn&#8217;t Dying. It&#8217;s Already Dead'
 date: 2014-03-12T16:53:14+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=462
 permalink: /2014/03/12/final-fantasy-isnt-dying-its-already-dead/
 categories:
   - Video Games

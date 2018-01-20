@@ -4,7 +4,6 @@ title: Superclass mismatch when inheriting from Struct.new
 date: 2013-10-15T03:23:39+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=335
 permalink: /2013/10/15/superclass-mismatch-when-inheriting-from-struct-new/
 openid_comments:
   - 'a:1:{i:0;i:22840;}'

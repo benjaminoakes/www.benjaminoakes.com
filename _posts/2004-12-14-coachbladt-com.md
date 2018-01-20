@@ -4,7 +4,6 @@ title: coachbladt.com
 date: 2004-12-14T20:45:09+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=69
 permalink: /2004/12/14/coachbladt-com/
 categories:
   - Uncategorized

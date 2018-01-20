@@ -4,7 +4,6 @@ title: Calculating multiple column average in SQLite3
 date: 2010-03-13T11:00:54+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=230
 permalink: /2010/03/13/calculating-multiple-column-average-in-sqlite3/
 categories:
   - Uncategorized

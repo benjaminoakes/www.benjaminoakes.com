@@ -4,7 +4,6 @@ title: 'Chrome Extension: Table Capture'
 date: 2015-01-28T22:26:25+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=611
 permalink: /2015/01/28/chrome-extension-table-capture/
 categories:
   - Chrome

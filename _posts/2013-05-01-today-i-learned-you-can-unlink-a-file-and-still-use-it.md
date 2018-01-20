@@ -4,7 +4,6 @@ title: 'Today I Learned: You can unlink a file and still use it'
 date: 2013-05-01T15:37:54+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=251
 permalink: /2013/05/01/today-i-learned-you-can-unlink-a-file-and-still-use-it/
 categories:
   - API

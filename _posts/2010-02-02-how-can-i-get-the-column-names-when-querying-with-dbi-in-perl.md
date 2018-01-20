@@ -4,7 +4,6 @@ title: How can I get the column names when querying with DBI in Perl?
 date: 2010-02-02T11:00:40+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=222
 permalink: /2010/02/02/how-can-i-get-the-column-names-when-querying-with-dbi-in-perl/
 categories:
   - Debugging

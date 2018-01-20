@@ -4,7 +4,6 @@ title: Experimental support for WebAssembly in V8
 date: 2016-03-18T17:17:51+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=856
 permalink: /2016/03/18/experimental-support-for-webassembly-in-v8/
 categories:
   - Web

@@ -4,7 +4,6 @@ title: Rumors of Ruby’s Demise
 date: 2014-02-28T19:18:19+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=450
 permalink: /2014/02/28/rumors-of-rubys-demise/
 categories:
   - Ruby

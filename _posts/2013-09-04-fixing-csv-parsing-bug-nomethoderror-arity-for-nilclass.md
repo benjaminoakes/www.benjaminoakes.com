@@ -4,7 +4,6 @@ title: Fixing CSV parsing bug (NoMethodError arity for NilClass)
 date: 2013-09-04T00:47:56+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=304
 permalink: /2013/09/04/fixing-csv-parsing-bug-nomethoderror-arity-for-nilclass/
 categories:
   - Ruby

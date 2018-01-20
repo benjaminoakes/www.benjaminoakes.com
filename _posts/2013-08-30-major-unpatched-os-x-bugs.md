@@ -4,7 +4,6 @@ title: Major unpatched OS X bugs
 date: 2013-08-30T03:35:42+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=286
 permalink: /2013/08/30/major-unpatched-os-x-bugs/
 categories:
   - Mac OS X

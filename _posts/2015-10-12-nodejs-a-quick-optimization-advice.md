@@ -4,7 +4,6 @@ title: '#NodeJS : A quick optimization advice'
 date: 2015-10-12T15:41:04+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=743
 permalink: /2015/10/12/nodejs-a-quick-optimization-advice/
 categories:
   - JavaScript

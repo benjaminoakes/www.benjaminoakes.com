@@ -4,7 +4,6 @@ title: 'Broken solar clock?  Not so fast'
 date: 2010-10-11T13:07:38+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=108
 permalink: /2010/10/11/broken-solar-clock-not-so-fast/
 categories:
   - Technology

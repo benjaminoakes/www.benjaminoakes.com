@@ -4,7 +4,6 @@ title: Save the world using your PC or phone
 date: 2015-07-24T00:06:09+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=725
 permalink: /2015/07/24/save-the-world-using-your-pc-or-phone/
 categories:
   - Android

@@ -4,7 +4,6 @@ title: Creative Corridor Launch
 date: 2013-04-19T22:44:20+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=237
 permalink: /2013/04/19/creative-corridor-launch/
 categories:
   - Iowa City

@@ -4,7 +4,6 @@ title: The Value of Repetition in Personal Finance
 date: 2014-06-20T15:15:13+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=528
 permalink: /2014/06/20/the-value-of-repetition-in-personal-finance/
 categories:
   - Psychology

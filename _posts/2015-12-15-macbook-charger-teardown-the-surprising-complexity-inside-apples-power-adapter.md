@@ -4,7 +4,6 @@ title: 'Macbook charger teardown: The surprising complexity inside Apple&#8217;s
 date: 2015-12-15T04:12:04+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=796
 permalink: /2015/12/15/macbook-charger-teardown-the-surprising-complexity-inside-apples-power-adapter/
 categories:
   - Mac OS X

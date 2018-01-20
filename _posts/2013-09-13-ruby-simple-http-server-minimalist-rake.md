@@ -4,7 +4,6 @@ title: Ruby Simple HTTP Server, minimalist Rake
 date: 2013-09-13T03:38:01+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=317
 permalink: /2013/09/13/ruby-simple-http-server-minimalist-rake/
 categories:
   - Open Source

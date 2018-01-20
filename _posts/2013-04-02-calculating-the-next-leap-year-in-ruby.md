@@ -4,7 +4,6 @@ title: Calculating the next leap year in Ruby
 date: 2013-04-02T00:56:35+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=203
 permalink: /2013/04/02/calculating-the-next-leap-year-in-ruby/
 categories:
   - Open Source

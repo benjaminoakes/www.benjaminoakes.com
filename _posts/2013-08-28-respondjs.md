@@ -4,7 +4,6 @@ title: Respond.js
 date: 2013-08-28T19:44:06+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=281
 permalink: /2013/08/28/respondjs/
 categories:
   - Open Source

@@ -4,7 +4,6 @@ title: Iowa City City Council supports biking
 date: 2015-08-02T16:49:01+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=731
 permalink: /2015/08/02/iowa-city-city-council-supports-biking/
 openid_comments:
   - 'a:1:{i:0;i:80674;}'

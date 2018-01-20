@@ -4,7 +4,6 @@ title: Hypnosis replaces anesthetic in brain surgery—and there’s video
 date: 2016-01-06T03:34:04+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=813
 permalink: /2016/01/06/hypnosis-replaces-anesthetic-in-brain-surgery-and-theres-video/
 categories:
   - Uncategorized

@@ -4,7 +4,6 @@ title: ActiveRecord partial_updates broken when duping with Single Table Inherit
 date: 2014-03-03T17:40:26+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=452
 permalink: /2014/03/03/activerecord-partial_updates-broken-when-duping-with-single-table-inheritance/
 categories:
   - Rails

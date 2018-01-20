@@ -5,7 +5,6 @@ date: 2012-10-02T17:48:48+00:00
 author: Ben
 excerpt: "I've seen some of the experimenting that people have done with bringing legal code (i.e., laws) to GitHub.  As an open source developer, I think Clay has it right when he says that transparency is only one side of openness and that citizen created bills are (hopefully) inevitable.  After all, our government is too important to leave exclusively to politicians."
 layout: post
-guid: http://www.benjaminoakes.com/?p=165
 permalink: /2012/10/02/how-the-internet-will-one-day-transform-government/
 categories:
   - Conference

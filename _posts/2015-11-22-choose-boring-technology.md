@@ -4,7 +4,6 @@ title: Choose Boring Technology
 date: 2015-11-22T16:22:36+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=770
 permalink: /2015/11/22/choose-boring-technology/
 categories:
   - Programming

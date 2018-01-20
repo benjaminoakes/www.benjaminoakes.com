@@ -4,7 +4,6 @@ title: Iowa City has the largest toothbrush plant in the world
 date: 2014-10-28T17:18:44+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=561
 permalink: /2014/10/28/iowa-city-has-the-largest-toothbrush-plant-in-the-world/
 categories:
   - Iowa City

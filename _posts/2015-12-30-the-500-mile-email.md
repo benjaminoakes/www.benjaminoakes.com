@@ -4,7 +4,6 @@ title: The 500 Mile Email
 date: 2015-12-30T02:31:50+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=807
 permalink: /2015/12/30/the-500-mile-email/
 categories:
   - Funny

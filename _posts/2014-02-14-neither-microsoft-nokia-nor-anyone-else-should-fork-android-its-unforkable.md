@@ -4,7 +4,6 @@ title: Neither Microsoft, Nokia, nor anyone else should fork Android. It’s unf
 date: 2014-02-14T03:30:54+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=441
 permalink: /2014/02/14/neither-microsoft-nokia-nor-anyone-else-should-fork-android-its-unforkable/
 categories:
   - Open Source

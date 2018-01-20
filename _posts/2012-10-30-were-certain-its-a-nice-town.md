@@ -4,7 +4,6 @@ title: 'We&#8217;re certain it&#8217;s a nice town...'
 date: 2012-10-30T18:08:22+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=182
 permalink: /2012/10/30/were-certain-its-a-nice-town/
 categories:
   - Iowa City

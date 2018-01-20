@@ -4,7 +4,6 @@ title: A little too coincidental
 date: 2004-08-16T09:00:22+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=40
 permalink: /2004/08/16/a-little-too-coincidental/
 categories:
   - Uncategorized

@@ -4,7 +4,6 @@ title: HTTP/2 finished, coming to browsers within weeks
 date: 2015-02-19T02:35:28+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=627
 permalink: /2015/02/19/http2-finished-coming-to-browsers-within-weeks/
 categories:
   - Web

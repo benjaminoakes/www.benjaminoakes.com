@@ -4,7 +4,6 @@ title: Mobile and tablet internet usage exceeds desktop for first time worldwide
 date: 2016-11-05T15:12:53+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=941
 permalink: /2016/11/05/mobile-and-tablet-internet-usage-exceeds-desktop-for-first-time-worldwide/
 categories:
   - Web

@@ -4,7 +4,6 @@ title: The history of grep, the 40 years old Unix command
 date: 2015-11-28T16:42:06+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=780
 permalink: /2015/11/28/the-history-of-grep-the-40-years-old-unix-command/
 categories:
   - Linux

@@ -4,7 +4,6 @@ title: 'Iowa City&#8217;s Solar Tree: Groundswell for Downtown Public Art Showca
 date: 2016-03-01T01:54:11+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=840
 permalink: /2016/03/01/iowa-citys-solar-tree-groundswell-for-downtown-public-art-showcase/
 categories:
   - Iowa City

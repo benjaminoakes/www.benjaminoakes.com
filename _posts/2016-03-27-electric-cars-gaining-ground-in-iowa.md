@@ -4,7 +4,6 @@ title: Electric cars gaining ground in Iowa
 date: 2016-03-27T15:07:33+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=858
 permalink: /2016/03/27/electric-cars-gaining-ground-in-iowa/
 categories:
   - Sustainability

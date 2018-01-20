@@ -4,7 +4,6 @@ title: Time Travel
 date: 2004-11-28T11:53:08+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=61
 permalink: /2004/11/28/time-travel/
 categories:
   - Uncategorized

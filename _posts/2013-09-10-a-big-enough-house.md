@@ -4,7 +4,6 @@ title: A big-enough house
 date: 2013-09-10T03:04:17+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=316
 permalink: /2013/09/10/a-big-enough-house/
 categories:
   - Iowa City

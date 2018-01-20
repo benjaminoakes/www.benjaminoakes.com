@@ -4,7 +4,6 @@ title: Apple temporarily cuts prices on all USB-C cables and accessories
 date: 2016-11-05T15:30:53+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=943
 permalink: /2016/11/05/apple-temporarily-cuts-prices-on-all-usb-c-cables-and-accessories/
 categories:
   - Hardware

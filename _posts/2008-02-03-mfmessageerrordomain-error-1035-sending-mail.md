@@ -4,7 +4,6 @@ title: MFMessageErrorDomain error 1035 sending mail
 date: 2008-02-03T18:13:02+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=290
 permalink: /2008/02/03/mfmessageerrordomain-error-1035-sending-mail/
 categories:
   - Mac OS X

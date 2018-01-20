@@ -4,7 +4,6 @@ title: 'travis-watch -- Stream live Travis CI test results'
 date: 2017-03-23T15:55:47+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=1035
 permalink: /2017/03/23/travis-watch-stream-live-travis-ci-test-results/
 categories:
   - Programming

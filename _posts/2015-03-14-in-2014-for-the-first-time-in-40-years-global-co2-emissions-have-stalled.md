@@ -4,7 +4,6 @@ title: In 2014, for the first time in 40 years, global CO2 emissions have stalle
 date: 2015-03-14T02:14:56+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=668
 permalink: /2015/03/14/in-2014-for-the-first-time-in-40-years-global-co2-emissions-have-stalled/
 categories:
   - Sustainability

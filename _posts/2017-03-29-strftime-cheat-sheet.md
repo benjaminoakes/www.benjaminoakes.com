@@ -4,7 +4,6 @@ title: strftime cheat sheet
 date: 2017-03-29T21:18:28+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=1044
 permalink: /2017/03/29/strftime-cheat-sheet/
 categories:
   - Programming

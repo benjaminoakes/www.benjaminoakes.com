@@ -4,7 +4,6 @@ title: Musicolio
 date: 2010-06-06T16:10:33+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=91
 permalink: /2010/06/06/musicolio/
 enclosure:
   - |

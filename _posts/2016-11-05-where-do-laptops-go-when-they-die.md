@@ -4,7 +4,6 @@ title: Where do laptops go when they die?
 date: 2016-11-05T15:43:39+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=944
 permalink: /2016/11/05/where-do-laptops-go-when-they-die/
 categories:
   - Sustainability

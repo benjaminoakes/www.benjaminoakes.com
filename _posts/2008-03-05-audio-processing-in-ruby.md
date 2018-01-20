@@ -4,7 +4,6 @@ title: Audio Processing in Ruby
 date: 2008-03-05T11:04:38+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=296
 permalink: /2008/03/05/audio-processing-in-ruby/
 categories:
   - Programming

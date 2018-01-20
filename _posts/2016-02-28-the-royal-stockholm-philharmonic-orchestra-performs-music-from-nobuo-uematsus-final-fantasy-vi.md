@@ -4,7 +4,6 @@ title: 'The Royal Stockholm Philharmonic Orchestra performs music from Nobuo Uem
 date: 2016-02-28T02:44:44+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=837
 permalink: /2016/02/28/the-royal-stockholm-philharmonic-orchestra-performs-music-from-nobuo-uematsus-final-fantasy-vi/
 categories:
   - Music

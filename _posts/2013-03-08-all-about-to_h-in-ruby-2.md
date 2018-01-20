@@ -4,7 +4,6 @@ title: All about to_h in Ruby 2.0
 date: 2013-03-08T04:04:21+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=196
 permalink: /2013/03/08/all-about-to_h-in-ruby-2/
 openid_comments:
   - 'a:2:{i:0;i:2834;i:1;i:2879;}'

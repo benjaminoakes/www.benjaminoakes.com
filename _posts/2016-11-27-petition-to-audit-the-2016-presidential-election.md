@@ -4,7 +4,6 @@ title: Petition to Audit the 2016 Presidential Election
 date: 2016-11-27T16:42:55+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=972
 permalink: /2016/11/27/petition-to-audit-the-2016-presidential-election/
 categories:
   - Politics

@@ -4,7 +4,6 @@ title: Hawaiian burger joint to open in Iowa City
 date: 2013-08-27T02:13:17+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=265
 permalink: /2013/08/27/hawaiian-burger-joint-to-open-in-iowa-city/
 categories:
   - Iowa City

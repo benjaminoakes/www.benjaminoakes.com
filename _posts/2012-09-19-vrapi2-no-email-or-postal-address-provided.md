@@ -4,7 +4,6 @@ title: VRAPI2.NO_EMAIL_OR_POSTAL_ADDRESS_PROVIDED
 date: 2012-09-19T15:39:25+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=158
 permalink: /2012/09/19/vrapi2-no-email-or-postal-address-provided/
 categories:
   - API

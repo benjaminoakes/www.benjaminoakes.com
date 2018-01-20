@@ -4,7 +4,6 @@ title: Flexbox Froggy
 date: 2016-02-19T00:13:58+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=827
 permalink: /2016/02/19/flexbox-froggy/
 categories:
   - Web

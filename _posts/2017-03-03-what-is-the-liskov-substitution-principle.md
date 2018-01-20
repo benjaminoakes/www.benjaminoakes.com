@@ -4,7 +4,6 @@ title: What is the Liskov Substitution Principle?
 date: 2017-03-03T03:20:22+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=1022
 permalink: /2017/03/03/what-is-the-liskov-substitution-principle/
 categories:
   - Engineering

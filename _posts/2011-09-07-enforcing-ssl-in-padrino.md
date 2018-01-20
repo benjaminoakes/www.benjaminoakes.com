@@ -4,7 +4,6 @@ title: Enforcing SSL in Padrino
 date: 2011-09-07T15:42:30+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=128
 permalink: /2011/09/07/enforcing-ssl-in-padrino/
 categories:
   - Uncategorized

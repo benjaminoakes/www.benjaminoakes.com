@@ -4,7 +4,6 @@ title: Six maps that show the anatomy of America’s vast infrastructure
 date: 2016-12-02T15:37:15+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=975
 permalink: /2016/12/02/six-maps-that-show-the-anatomy-of-americas-vast-infrastructure/
 categories:
   - Iowa

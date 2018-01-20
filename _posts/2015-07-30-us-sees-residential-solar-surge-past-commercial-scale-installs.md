@@ -4,7 +4,6 @@ title: US sees residential solar surge past commercial-scale installs
 date: 2015-07-30T23:07:34+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=727
 permalink: /2015/07/30/us-sees-residential-solar-surge-past-commercial-scale-installs/
 categories:
   - Sustainability

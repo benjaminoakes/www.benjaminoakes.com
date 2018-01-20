@@ -4,7 +4,6 @@ title: Climate Change Divide Bursts to Forefront in Presidential Campaign
 date: 2016-08-03T00:07:14+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=909
 permalink: /2016/08/03/climate-change-divide-bursts-to-forefront-in-presidential-campaign/
 categories:
   - Politics

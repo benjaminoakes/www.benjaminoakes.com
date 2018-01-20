@@ -4,7 +4,6 @@ title: The Link That Can Crash Chrome
 date: 2015-10-13T03:08:48+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=745
 permalink: /2015/10/13/the-link-that-can-crash-chrome/
 categories:
   - Chrome

@@ -4,7 +4,6 @@ title: 'HTML5 by default: Google’s plan to make Chrome’s Flash click-to-play
 date: 2016-05-16T00:54:19+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=881
 permalink: /2016/05/16/html5-by-default-googles-plan-to-make-chromes-flash-click-to-play/
 categories:
   - Web

@@ -4,7 +4,6 @@ title: 'The future of Linux and Flash explained -- It&#8217;s your fault'
 date: 2013-12-22T02:58:33+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=406
 permalink: /2013/12/22/the-future-of-linux-and-flash-explained-its-your-fault/
 categories:
   - Linux

@@ -4,7 +4,6 @@ title: ASCII Diagram Tools
 date: 2017-03-29T20:10:19+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=1041
 permalink: /2017/03/29/ascii-diagram-tools/
 categories:
   - Technology

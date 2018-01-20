@@ -4,7 +4,6 @@ title: peardeck/prometheus-user-metrics
 date: 2017-03-22T15:30:40+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=1030
 permalink: /2017/03/22/peardeckprometheus-user-metrics/
 categories:
   - Technology

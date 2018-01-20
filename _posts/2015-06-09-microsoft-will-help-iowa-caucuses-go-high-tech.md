@@ -4,7 +4,6 @@ title: Microsoft Will Help Iowa Caucuses Go High-Tech
 date: 2015-06-09T02:27:06+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=699
 permalink: /2015/06/09/microsoft-will-help-iowa-caucuses-go-high-tech/
 categories:
   - Iowa

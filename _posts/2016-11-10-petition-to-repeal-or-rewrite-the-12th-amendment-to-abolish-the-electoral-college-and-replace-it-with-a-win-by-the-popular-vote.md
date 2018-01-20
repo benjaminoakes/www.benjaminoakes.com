@@ -4,7 +4,6 @@ title: Petition to repeal or rewrite the 12th amendment to abolish the electoral
 date: 2016-11-10T02:30:51+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=953
 permalink: /2016/11/10/petition-to-repeal-or-rewrite-the-12th-amendment-to-abolish-the-electoral-college-and-replace-it-with-a-win-by-the-popular-vote/
 categories:
   - Politics

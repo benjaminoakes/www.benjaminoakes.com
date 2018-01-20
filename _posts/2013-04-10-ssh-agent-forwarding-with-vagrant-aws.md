@@ -4,7 +4,6 @@ title: SSH Agent Forwarding with Vagrant AWS
 date: 2013-04-10T20:24:37+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=234
 permalink: /2013/04/10/ssh-agent-forwarding-with-vagrant-aws/
 categories:
   - Debugging

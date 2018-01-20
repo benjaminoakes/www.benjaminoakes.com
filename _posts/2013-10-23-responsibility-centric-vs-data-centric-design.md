@@ -4,7 +4,6 @@ title: Responsibility-centric vs. data-centric design
 date: 2013-10-23T00:51:21+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=355
 permalink: /2013/10/23/responsibility-centric-vs-data-centric-design/
 categories:
   - Ruby

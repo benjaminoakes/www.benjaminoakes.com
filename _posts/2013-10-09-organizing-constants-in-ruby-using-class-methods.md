@@ -4,7 +4,6 @@ title: Organizing constants in Ruby using class methods
 date: 2013-10-09T13:50:13+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=337
 permalink: /2013/10/09/organizing-constants-in-ruby-using-class-methods/
 categories:
   - Programming

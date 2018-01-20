@@ -4,7 +4,6 @@ title: Fewer Federal Register updates than normal because of government shutdown
 date: 2013-10-15T16:02:53+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=349
 permalink: /2013/10/15/fewer-federal-register-updates-than-normal-because-of-government-shutdown/
 categories:
   - Ruby

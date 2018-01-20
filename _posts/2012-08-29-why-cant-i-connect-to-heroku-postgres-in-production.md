@@ -10,7 +10,6 @@ excerpt: |
   
   <p><strong>More after the break...</strong></p>
 layout: post
-guid: http://www.benjaminoakes.com/?p=152
 permalink: /2012/08/29/why-cant-i-connect-to-heroku-postgres-in-production/
 categories:
   - Heroku

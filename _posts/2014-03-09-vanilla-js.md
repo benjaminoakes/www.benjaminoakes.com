@@ -4,7 +4,6 @@ title: Vanilla JS
 date: 2014-03-09T02:34:05+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=459
 permalink: /2014/03/09/vanilla-js/
 categories:
   - JavaScript

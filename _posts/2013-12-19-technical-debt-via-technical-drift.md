@@ -4,7 +4,6 @@ title: Technical Debt via Technical Drift
 date: 2013-12-19T19:26:54+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=404
 permalink: /2013/12/19/technical-debt-via-technical-drift/
 categories:
   - Programming

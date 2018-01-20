@@ -4,7 +4,6 @@ title: Replace Battery in the 1st Edition Barnes and Noble Nook
 date: 2017-01-02T23:27:15+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=991
 permalink: /2017/01/02/replace-battery-in-the-1st-edition-barnes-and-noble-nook/
 categories:
   - eBooks

@@ -4,7 +4,6 @@ title: NBC Quietly Discontinuing Video Podcasts
 date: 2015-01-25T19:37:03+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=604
 permalink: /2015/01/25/nbc-quietly-discontinuing-video-podcasts/
 enclosure:
   - |

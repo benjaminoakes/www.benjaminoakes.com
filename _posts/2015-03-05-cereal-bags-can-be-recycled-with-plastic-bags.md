@@ -4,7 +4,6 @@ title: Cereal Bags Can Be Recycled with Plastic Bags
 date: 2015-03-05T14:48:41+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=651
 permalink: /2015/03/05/cereal-bags-can-be-recycled-with-plastic-bags/
 categories:
   - Sustainability

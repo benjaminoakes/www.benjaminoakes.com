@@ -4,7 +4,6 @@ title: 'Face This Prospect: The End of Electric Car Incentives'
 date: 2017-01-21T16:22:16+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=998
 permalink: /2017/01/21/face-this-prospect-the-end-of-electric-car-incentives/
 categories:
   - Sustainability

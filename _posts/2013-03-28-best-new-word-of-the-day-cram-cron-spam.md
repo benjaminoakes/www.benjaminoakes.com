@@ -4,7 +4,6 @@ title: 'Best new word of the day: &#8220;cram&#8221; (cron spam)'
 date: 2013-03-28T13:44:07+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=200
 permalink: /2013/03/28/best-new-word-of-the-day-cram-cron-spam/
 categories:
   - Linux

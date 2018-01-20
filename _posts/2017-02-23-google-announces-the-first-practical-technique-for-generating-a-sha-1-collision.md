@@ -4,7 +4,6 @@ title: Google announces the first practical technique for generating a SHA-1 col
 date: 2017-02-23T16:39:49+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=1015
 permalink: /2017/02/23/google-announces-the-first-practical-technique-for-generating-a-sha-1-collision/
 categories:
   - Security

@@ -4,7 +4,6 @@ title: Review of iRobot Advanced Power System Ni-MH Battery, 3000 mAh, 17373
 date: 2010-12-08T10:00:56+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=207
 permalink: /2010/12/08/review-of-irobot-advanced-power-system-ni-mh-battery-3000-mah-17373/
 categories:
   - Uncategorized

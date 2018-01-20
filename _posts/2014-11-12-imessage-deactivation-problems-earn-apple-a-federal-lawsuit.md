@@ -4,7 +4,6 @@ title: iMessage deactivation problems earn Apple a federal lawsuit
 date: 2014-11-12T05:06:57+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=579
 permalink: /2014/11/12/imessage-deactivation-problems-earn-apple-a-federal-lawsuit/
 categories:
   - Android

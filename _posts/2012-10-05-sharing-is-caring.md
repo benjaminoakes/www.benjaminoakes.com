@@ -8,7 +8,6 @@ excerpt: |
   
   <p>But we all have places to be, don't we?</p>
 layout: post
-guid: http://www.benjaminoakes.com/?p=167
 permalink: /2012/10/05/sharing-is-caring/
 categories:
   - Iowa City

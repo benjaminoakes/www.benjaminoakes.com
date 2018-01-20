@@ -4,7 +4,6 @@ title: 'Embracing Change: Rails 5.1 Adopts Yarn, Webpack, and the JS Ecosystem'
 date: 2017-03-22T22:41:16+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=1033
 permalink: /2017/03/22/embracing-change-rails-5-1-adopts-yarn-webpack-and-the-js-ecosystem/
 categories:
   - Rails

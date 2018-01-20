@@ -4,7 +4,6 @@ title: Incredible
 date: 2004-11-28T13:12:04+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=64
 permalink: /2004/11/28/incredible/
 categories:
   - Film

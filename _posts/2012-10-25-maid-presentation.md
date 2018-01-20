@@ -4,7 +4,6 @@ title: Maid presentation
 date: 2012-10-25T22:37:02+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=179
 permalink: /2012/10/25/maid-presentation/
 categories:
   - GitHub

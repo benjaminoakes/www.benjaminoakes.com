@@ -4,7 +4,6 @@ title: Kerberos for SSH authentication
 date: 2009-01-12T11:02:08+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=15
 permalink: /2009/01/12/kerberos-for-ssh-authentication/
 categories:
   - Mac OS X

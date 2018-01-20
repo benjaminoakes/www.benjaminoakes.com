@@ -4,7 +4,6 @@ title: 'Google Cloud Platform Blog: Ruby on Google App Engine goes beta'
 date: 2016-05-07T16:27:54+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=873
 permalink: /2016/05/07/google-cloud-platform-blog-ruby-on-google-app-engine-goes-beta/
 categories:
   - Ruby

@@ -4,7 +4,6 @@ title: Podcast URL Extractor
 date: 2014-01-05T02:52:26+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=414
 permalink: /2014/01/05/podcast-url-extractor/
 openid_comments:
   - 'a:1:{i:0;i:79525;}'

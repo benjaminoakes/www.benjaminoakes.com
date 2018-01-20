@@ -4,7 +4,6 @@ title: Kiba, a lightweight Ruby ETL framework
 date: 2017-02-28T19:37:52+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=1017
 permalink: /2017/02/28/kiba-a-lightweight-ruby-etl-framework/
 categories:
   - Ruby

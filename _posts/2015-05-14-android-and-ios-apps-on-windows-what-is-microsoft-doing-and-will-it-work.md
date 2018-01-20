@@ -4,7 +4,6 @@ title: 'Android and iOS apps on Windows: What is Microsoft doing—and will it w
 date: 2015-05-14T18:36:14+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=691
 permalink: /2015/05/14/android-and-ios-apps-on-windows-what-is-microsoft-doing-and-will-it-work/
 categories:
   - Technology

@@ -4,7 +4,6 @@ title: Snowden Offers to Fix Healthcare.gov
 date: 2013-10-21T17:33:43+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=352
 permalink: /2013/10/21/snowden-offers-to-fix-healthcare-gov/
 categories:
   - Politics

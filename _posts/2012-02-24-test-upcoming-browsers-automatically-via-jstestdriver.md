@@ -4,7 +4,6 @@ title: Test upcoming browsers automatically via jsTestDriver
 date: 2012-02-24T16:40:00+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=143
 permalink: /2012/02/24/test-upcoming-browsers-automatically-via-jstestdriver/
 categories:
   - GitHub

@@ -4,7 +4,6 @@ title: iOS 9.3 brings multi-user mode to iPads
 date: 2016-01-12T04:24:20+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=815
 permalink: /2016/01/12/ios-9-3-brings-multi-user-mode-to-ipads/
 categories:
   - iOS

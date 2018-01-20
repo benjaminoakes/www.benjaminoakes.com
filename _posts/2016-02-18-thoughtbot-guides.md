@@ -4,7 +4,6 @@ title: Thoughtbot guides
 date: 2016-02-18T04:53:56+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=826
 permalink: /2016/02/18/thoughtbot-guides/
 categories:
   - Programming

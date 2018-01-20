@@ -4,7 +4,6 @@ title: 'The Internet&#8217;s Telltale Heartbleed'
 date: 2014-04-11T03:52:28+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=485
 permalink: /2014/04/11/the-internets-telltale-heartbleed/
 categories:
   - Web

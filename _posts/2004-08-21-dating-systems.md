@@ -4,7 +4,6 @@ title: Dating Systems
 date: 2004-08-21T20:59:00+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=43
 permalink: /2004/08/21/dating-systems/
 categories:
   - Uncategorized

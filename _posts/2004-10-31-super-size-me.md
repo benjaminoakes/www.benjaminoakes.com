@@ -4,7 +4,6 @@ title: Super Size Me
 date: 2004-10-31T20:00:32+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=54
 permalink: /2004/10/31/super-size-me/
 categories:
   - Uncategorized

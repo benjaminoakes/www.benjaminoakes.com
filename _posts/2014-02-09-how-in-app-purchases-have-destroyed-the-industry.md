@@ -4,7 +4,6 @@ title: How In-app Purchases Have Destroyed The Industry
 date: 2014-02-09T04:50:36+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=439
 permalink: /2014/02/09/how-in-app-purchases-have-destroyed-the-industry/
 categories:
   - Technology

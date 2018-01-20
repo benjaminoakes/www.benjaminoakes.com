@@ -4,7 +4,6 @@ title: Ruby QuickRef
 date: 2013-10-18T21:42:17+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=350
 permalink: /2013/10/18/ruby-quickref/
 categories:
   - Ruby

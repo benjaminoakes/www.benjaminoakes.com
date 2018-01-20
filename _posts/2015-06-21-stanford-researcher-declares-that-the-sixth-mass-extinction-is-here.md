@@ -4,7 +4,6 @@ title: Stanford researcher declares that the sixth mass extinction is here
 date: 2015-06-21T00:49:50+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=716
 permalink: /2015/06/21/stanford-researcher-declares-that-the-sixth-mass-extinction-is-here/
 categories:
   - Sustainability

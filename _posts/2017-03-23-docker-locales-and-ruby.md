@@ -4,7 +4,6 @@ title: Docker, Locales, and Ruby
 date: 2017-03-23T17:02:54+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=1037
 permalink: /2017/03/23/docker-locales-and-ruby/
 categories:
   - Ruby

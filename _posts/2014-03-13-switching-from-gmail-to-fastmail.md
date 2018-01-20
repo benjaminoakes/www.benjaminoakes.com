@@ -4,7 +4,6 @@ title: Switching from Gmail to FastMail
 date: 2014-03-13T13:43:55+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=465
 permalink: /2014/03/13/switching-from-gmail-to-fastmail/
 openid_comments:
   - 'a:1:{i:0;i:5226;}'

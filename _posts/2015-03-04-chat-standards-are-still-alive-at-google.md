@@ -4,7 +4,6 @@ title: Chat standards are still alive at Google
 date: 2015-03-04T16:00:16+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=646
 permalink: /2015/03/04/chat-standards-are-still-alive-at-google/
 categories:
   - Technology

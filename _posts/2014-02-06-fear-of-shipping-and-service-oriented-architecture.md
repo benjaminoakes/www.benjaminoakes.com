@@ -4,7 +4,6 @@ title: Fear of Shipping and Service-Oriented Architecture
 date: 2014-02-06T17:43:24+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=435
 permalink: /2014/02/06/fear-of-shipping-and-service-oriented-architecture/
 openid_comments:
   - 'a:2:{i:0;i:4987;i:1;i:4988;}'

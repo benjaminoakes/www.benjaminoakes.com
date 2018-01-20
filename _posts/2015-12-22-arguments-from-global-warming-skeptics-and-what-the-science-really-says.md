@@ -4,7 +4,6 @@ title: Arguments from Global Warming Skeptics and what the science really says
 date: 2015-12-22T02:39:01+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=801
 permalink: /2015/12/22/arguments-from-global-warming-skeptics-and-what-the-science-really-says/
 categories:
   - Sustainability

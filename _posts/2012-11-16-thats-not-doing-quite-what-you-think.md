@@ -5,7 +5,6 @@ date: 2012-11-16T03:39:12+00:00
 author: Ben
 excerpt: "<p>I recently helped an intern at Hedgeye work through a problem with a database query.  Because I'm working in a separate timezone, I ended up making suggestions through a GitHub pull request.  We discussed and decided that what I wrote was self-contained enough that I should re-post so it can help others.</p>"
 layout: post
-guid: http://www.benjaminoakes.com/?p=186
 permalink: /2012/11/16/thats-not-doing-quite-what-you-think/
 categories:
   - Debugging

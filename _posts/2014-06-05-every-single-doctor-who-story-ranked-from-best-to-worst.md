@@ -4,7 +4,6 @@ title: Every Single Doctor Who Story, Ranked from Best to Worst
 date: 2014-06-05T03:38:04+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=517
 permalink: /2014/06/05/every-single-doctor-who-story-ranked-from-best-to-worst/
 categories:
   - Uncategorized

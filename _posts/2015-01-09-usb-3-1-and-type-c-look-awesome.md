@@ -4,7 +4,6 @@ title: USB 3.1 and Type-C look awesome
 date: 2015-01-09T05:16:55+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=589
 permalink: /2015/01/09/usb-3-1-and-type-c-look-awesome/
 categories:
   - Hardware

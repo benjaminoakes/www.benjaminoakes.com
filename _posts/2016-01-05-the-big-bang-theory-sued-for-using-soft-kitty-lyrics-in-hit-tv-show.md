@@ -4,7 +4,6 @@ title: The Big Bang Theory sued for using “soft kitty” lyrics in hit TV show
 date: 2016-01-05T02:01:51+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=812
 permalink: /2016/01/05/the-big-bang-theory-sued-for-using-soft-kitty-lyrics-in-hit-tv-show/
 categories:
   - Uncategorized

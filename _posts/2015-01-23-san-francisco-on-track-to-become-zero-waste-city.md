@@ -4,7 +4,6 @@ title: San Francisco on Track to Become Zero Waste City
 date: 2015-01-23T05:20:16+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=596
 permalink: /2015/01/23/san-francisco-on-track-to-become-zero-waste-city/
 categories:
   - Sustainability

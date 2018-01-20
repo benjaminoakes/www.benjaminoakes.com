@@ -4,7 +4,6 @@ title: Danielle and our books
 date: 2010-07-12T16:52:47+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=104
 permalink: /2010/07/12/danielle-and-our-books/
 categories:
   - Uncategorized

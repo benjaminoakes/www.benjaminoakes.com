@@ -4,7 +4,6 @@ title: How to Set Up GitHub Pages with a Custom Domain
 date: 2015-02-24T03:58:26+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=635
 permalink: /2015/02/24/how-to-set-up-github-pages-with-a-custom-domain/
 categories:
   - Web

@@ -4,7 +4,6 @@ title: 'You can now test Project Spartan, Microsoft&#8217;s Internet Explorer su
 date: 2015-03-31T13:28:34+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=679
 permalink: /2015/03/31/you-can-now-test-project-spartan-microsofts-internet-explorer-successor/
 categories:
   - Web

@@ -4,7 +4,6 @@ title: Google seeks $1 billion expansion of Council Bluffs, Iowa datacenter
 date: 2015-04-18T14:32:04+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=687
 permalink: /2015/04/18/google-seeks-1-billion-expansion-of-council-bluffs-iowa-datacenter/
 categories:
   - Iowa

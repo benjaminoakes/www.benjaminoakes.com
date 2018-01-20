@@ -4,7 +4,6 @@ title: Lua as a Python’s secret weapon
 date: 2016-12-09T04:28:17+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=978
 permalink: /2016/12/09/lua-as-a-pythons-secret-weapon/
 categories:
   - Programming

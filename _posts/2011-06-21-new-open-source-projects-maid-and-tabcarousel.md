@@ -4,7 +4,6 @@ title: 'New open source projects: Maid and TabCarousel'
 date: 2011-06-21T18:38:01+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=126
 permalink: /2011/06/21/new-open-source-projects-maid-and-tabcarousel/
 categories:
   - GitHub

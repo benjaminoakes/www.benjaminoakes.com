@@ -4,7 +4,6 @@ title: 'Asimov -- The Relativity of Wrong'
 date: 2016-12-18T05:17:40+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=982
 permalink: /2016/12/18/asimov-the-relativity-of-wrong/
 categories:
   - Politics

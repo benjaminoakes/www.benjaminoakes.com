@@ -4,7 +4,6 @@ title: 'PHP: The Right Way'
 date: 2015-11-16T16:24:36+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=765
 permalink: /2015/11/16/php-the-right-way/
 categories:
   - PHP

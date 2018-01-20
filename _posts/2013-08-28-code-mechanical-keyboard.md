@@ -4,7 +4,6 @@ title: CODE Mechanical Keyboard
 date: 2013-08-28T01:34:10+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=278
 permalink: /2013/08/28/code-mechanical-keyboard/
 categories:
   - Hardware

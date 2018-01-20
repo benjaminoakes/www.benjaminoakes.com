@@ -4,7 +4,6 @@ title: 'The Presidential Candidate With a Plan to Run the US on 100% Clean Energ
 date: 2015-06-23T22:10:14+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=717
 permalink: /2015/06/23/the-presidential-candidate-with-a-plan-to-run-the-us-on-100-clean-energy/
 categories:
   - Uncategorized

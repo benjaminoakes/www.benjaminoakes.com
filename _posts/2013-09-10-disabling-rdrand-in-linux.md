@@ -4,7 +4,6 @@ title: Disabling RdRand in Linux
 date: 2013-09-10T23:08:04+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=321
 permalink: /2013/09/10/disabling-rdrand-in-linux/
 openid_comments:
   - 'a:1:{i:0;i:5429;}'

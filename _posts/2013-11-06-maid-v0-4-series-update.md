@@ -4,7 +4,6 @@ title: Maid v0.4-series update
 date: 2013-11-06T04:53:05+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=362
 permalink: /2013/11/06/maid-v0-4-series-update/
 categories:
   - Maid

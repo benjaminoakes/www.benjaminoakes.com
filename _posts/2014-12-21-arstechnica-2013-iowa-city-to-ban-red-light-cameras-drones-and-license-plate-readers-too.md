@@ -4,7 +4,6 @@ title: 'ArsTechnica 2013: Iowa City to ban red-light cameras, drones, and licens
 date: 2014-12-21T16:30:21+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=584
 permalink: /2014/12/21/arstechnica-2013-iowa-city-to-ban-red-light-cameras-drones-and-license-plate-readers-too/
 categories:
   - Iowa City

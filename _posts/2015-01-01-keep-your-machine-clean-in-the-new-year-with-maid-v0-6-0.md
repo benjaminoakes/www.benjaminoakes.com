@@ -4,7 +4,6 @@ title: Keep your machine clean in the New Year with Maid v0.6.0
 date: 2015-01-01T23:31:44+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=586
 permalink: /2015/01/01/keep-your-machine-clean-in-the-new-year-with-maid-v0-6-0/
 categories:
   - Maid

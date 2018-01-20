@@ -4,7 +4,6 @@ title: WebKit-specific CSS rules (or hacks, if you prefer)
 date: 2011-01-28T11:58:37+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=121
 permalink: /2011/01/28/webkit-specific-css-rules-or-hacks-if-you-prefer/
 categories:
   - Web

@@ -4,7 +4,6 @@ title: Google to Discontinue 32-bit Chrome for Mac Next Month
 date: 2014-09-09T01:30:21+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=543
 permalink: /2014/09/09/google-to-discontinue-32-bit-chrome-for-mac-next-month/
 categories:
   - Chrome

@@ -4,7 +4,6 @@ title: 'I Left the Coast for a Simpler Life in the Midwest -- and You Can, Too'
 date: 2015-11-01T15:47:58+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=752
 permalink: /2015/11/01/i-left-the-coast-for-a-simpler-life-in-the-midwest-and-you-can-too/
 categories:
   - Iowa City

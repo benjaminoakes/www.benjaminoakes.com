@@ -4,7 +4,6 @@ title: 'ICRuby for March 5th: Using Ruby to program a Sphero using Artoo'
 date: 2015-03-05T02:52:43+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=650
 permalink: /2015/03/05/icruby-for-march-5th-using-ruby-to-program-a-sphero-using-artoo/
 categories:
   - Iowa City

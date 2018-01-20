@@ -4,7 +4,6 @@ title: Google mtail
 date: 2016-11-28T20:16:45+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=974
 permalink: /2016/11/28/google-mtail/
 categories:
   - Programming

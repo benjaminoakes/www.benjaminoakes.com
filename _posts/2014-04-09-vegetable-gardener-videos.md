@@ -4,7 +4,6 @@ title: Vegetable Gardener Videos
 date: 2014-04-09T17:34:03+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=484
 permalink: /2014/04/09/vegetable-gardener-videos/
 categories:
   - Gardening

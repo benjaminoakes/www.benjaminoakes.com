@@ -4,7 +4,6 @@ title: Microsoft unveils Project Spartan, the browser after Internet Explorer
 date: 2015-01-22T02:20:28+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=595
 permalink: /2015/01/22/microsoft-unveils-project-spartan-the-browser-after-internet-explorer/
 categories:
   - Web

@@ -4,7 +4,6 @@ title: Using Heroku with an external MySQL database
 date: 2011-11-21T20:33:10+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=136
 permalink: /2011/11/21/using-heroku-with-an-external-mysql-database/
 categories:
   - Rails

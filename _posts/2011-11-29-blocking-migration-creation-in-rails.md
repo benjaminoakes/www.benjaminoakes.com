@@ -4,7 +4,6 @@ title: Blocking migration creation in Rails
 date: 2011-11-29T16:40:16+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=137
 permalink: /2011/11/29/blocking-migration-creation-in-rails/
 categories:
   - Rails

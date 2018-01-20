@@ -4,7 +4,6 @@ title: Another Apology
 date: 2004-09-16T16:57:12+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=45
 permalink: /2004/09/16/another-apology/
 categories:
   - Uncategorized

@@ -5,7 +5,6 @@ date: 2013-02-11T02:38:27+00:00
 author: Ben
 excerpt: 'Some people have recently asked me about switching from an iPad to a Nexus 7.  Did I have to give anything up?  Am I still happy with the choice?'
 layout: post
-guid: http://www.benjaminoakes.com/?p=192
 permalink: /2013/02/11/is-an-ipad-mini-or-a-nexus-7-better-for-a-geek/
 categories:
   - Android

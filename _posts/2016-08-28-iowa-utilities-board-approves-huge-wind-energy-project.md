@@ -4,7 +4,6 @@ title: Iowa Utilities Board approves huge wind energy project
 date: 2016-08-28T03:38:32+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=913
 permalink: /2016/08/28/iowa-utilities-board-approves-huge-wind-energy-project/
 categories:
   - Sustainability

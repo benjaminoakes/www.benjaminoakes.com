@@ -4,7 +4,6 @@ title: What happens to older developers?
 date: 2014-03-20T17:25:40+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=474
 permalink: /2014/03/20/what-happens-to-older-developers/
 categories:
   - Programming

@@ -4,7 +4,6 @@ title: 'Iowa City in top 10 of Livability&#8217;s 2015 Best Places to Live'
 date: 2015-01-28T05:18:38+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=609
 permalink: /2015/01/28/iowa-city-in-top-10-of-livabilitys-2015-best-places-to-live/
 categories:
   - Iowa City

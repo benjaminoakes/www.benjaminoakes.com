@@ -4,7 +4,6 @@ title: MPW, Carbon and building Classic Mac OS apps in OS X
 date: 2015-01-25T16:51:56+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=599
 permalink: /2015/01/25/mpw-carbon-and-building-classic-mac-os-apps-in-os-x/
 categories:
   - Technology

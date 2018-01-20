@@ -4,7 +4,6 @@ title: Zero Waste, not Recycling
 date: 2015-01-04T02:39:10+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=587
 permalink: /2015/01/04/zero-waste-not-recycling/
 categories:
   - Sustainability

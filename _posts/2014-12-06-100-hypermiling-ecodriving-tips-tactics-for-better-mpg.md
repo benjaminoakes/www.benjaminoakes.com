@@ -4,7 +4,6 @@ title: '100+ Hypermiling / ecodriving tips &#038; tactics for better mpg'
 date: 2014-12-06T01:56:49+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=583
 permalink: /2014/12/06/100-hypermiling-ecodriving-tips-tactics-for-better-mpg/
 categories:
   - Sustainability

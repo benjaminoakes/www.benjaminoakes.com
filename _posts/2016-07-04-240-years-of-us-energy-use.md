@@ -4,7 +4,6 @@ title: 240 years of US energy use
 date: 2016-07-04T13:53:30+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=898
 permalink: /2016/07/04/240-years-of-us-energy-use/
 categories:
   - Sustainability

@@ -4,7 +4,6 @@ title: 'Android app: SMS Backup +'
 date: 2015-01-24T04:25:14+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=598
 permalink: /2015/01/24/android-app-sms-backup/
 categories:
   - Android

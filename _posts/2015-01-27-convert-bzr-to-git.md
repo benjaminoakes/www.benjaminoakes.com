@@ -4,7 +4,6 @@ title: Convert bzr to git
 date: 2015-01-27T03:51:03+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=606
 permalink: /2015/01/27/convert-bzr-to-git/
 categories:
   - Open Source

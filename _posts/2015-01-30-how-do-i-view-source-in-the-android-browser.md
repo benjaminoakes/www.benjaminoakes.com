@@ -4,7 +4,6 @@ title: How do I view source in the Android browser?
 date: 2015-01-30T05:25:42+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=616
 permalink: /2015/01/30/how-do-i-view-source-in-the-android-browser/
 categories:
   - Android

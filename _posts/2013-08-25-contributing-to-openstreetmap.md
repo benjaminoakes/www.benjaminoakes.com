@@ -4,7 +4,6 @@ title: Contributing to OpenStreetMap
 date: 2013-08-25T21:29:12+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=259
 permalink: /2013/08/25/contributing-to-openstreetmap/
 categories:
   - Open Source

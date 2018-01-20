@@ -4,7 +4,6 @@ title: Rate Limiting and Velocity Checking
 date: 2014-03-14T02:24:10+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=469
 permalink: /2014/03/14/rate-limiting-and-velocity-checking/
 categories:
   - Web

@@ -4,7 +4,6 @@ title: Hello, MS-Android. Good-bye, Windows Phone
 date: 2014-02-27T04:06:06+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=446
 permalink: /2014/02/27/hello-ms-android-good-bye-windows-phone/
 categories:
   - Android

@@ -4,7 +4,6 @@ title: 10 simple ways to use less oil
 date: 2017-01-26T04:17:29+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=1001
 permalink: /2017/01/26/10-simple-ways-to-use-less-oil/
 categories:
   - Sustainability

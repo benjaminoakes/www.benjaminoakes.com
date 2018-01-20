@@ -4,7 +4,6 @@ title: 60fps on the mobile web
 date: 2015-03-02T18:55:20+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=637
 permalink: /2015/03/02/60fps-on-the-mobile-web/
 categories:
   - Web

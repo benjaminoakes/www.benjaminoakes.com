@@ -4,7 +4,6 @@ title: Valve unveils Steam Link, final Steam controller, Source 2
 date: 2015-03-04T23:43:00+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=648
 permalink: /2015/03/04/valve-unveils-steam-link-final-steam-controller-source-2/
 categories:
   - Video Games

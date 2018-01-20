@@ -4,7 +4,6 @@ title: Mozilla Firefox 1.0
 date: 2004-10-31T20:00:04+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=51
 permalink: /2004/10/31/mozilla-firefox-1-0/
 categories:
   - Web

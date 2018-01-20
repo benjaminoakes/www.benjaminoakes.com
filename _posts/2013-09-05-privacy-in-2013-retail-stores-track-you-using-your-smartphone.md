@@ -4,7 +4,6 @@ title: 'Privacy in 2013: Retail stores track you using your smartphone'
 date: 2013-09-05T02:48:25+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=264
 permalink: /2013/09/05/privacy-in-2013-retail-stores-track-you-using-your-smartphone/
 categories:
   - Privacy

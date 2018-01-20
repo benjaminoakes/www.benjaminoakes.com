@@ -4,7 +4,6 @@ title: How Can I Clean Recyclables Without Wasting Water?
 date: 2015-07-17T21:26:31+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=720
 permalink: /2015/07/17/how-can-i-clean-recyclables-without-wasting-water/
 categories:
   - Sustainability

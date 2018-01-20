@@ -5,7 +5,6 @@ date: 2004-09-26T18:17:20+00:00
 author: Ben
 excerpt: Here are the photos of me with Jerry, as promised in the previous post.
 layout: post
-guid: http://www.benjaminoakes.com/?p=47
 permalink: /2004/09/26/photos-with-jerry/
 categories:
   - Uncategorized

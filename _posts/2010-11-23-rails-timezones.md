@@ -4,7 +4,6 @@ title: Rails Timezones
 date: 2010-11-23T16:24:10+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=110
 permalink: /2010/11/23/rails-timezones/
 categories:
   - Rails

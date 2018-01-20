@@ -4,7 +4,6 @@ title: 'Self-hosted &#8220;Read It Later&#8221; App: Poche'
 date: 2013-08-28T02:11:34+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=279
 permalink: /2013/08/28/self-hosted-read-it-later-app-poche/
 openid_comments:
   - 'a:1:{i:0;i:3274;}'

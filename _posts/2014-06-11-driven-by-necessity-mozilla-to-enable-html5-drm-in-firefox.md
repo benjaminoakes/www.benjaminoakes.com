@@ -4,7 +4,6 @@ title: Driven by necessity, Mozilla to enable HTML5 DRM in Firefox
 date: 2014-06-11T17:52:26+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=523
 permalink: /2014/06/11/driven-by-necessity-mozilla-to-enable-html5-drm-in-firefox/
 categories:
   - Bookmark

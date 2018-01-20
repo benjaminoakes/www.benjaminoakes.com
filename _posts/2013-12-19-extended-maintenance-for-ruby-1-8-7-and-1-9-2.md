@@ -4,7 +4,6 @@ title: Extended maintenance for Ruby 1.8.7 and 1.9.2
 date: 2013-12-19T19:12:57+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=401
 permalink: /2013/12/19/extended-maintenance-for-ruby-1-8-7-and-1-9-2/
 openid_comments:
   - 'a:2:{i:0;i:4678;i:1;i:4679;}'

@@ -4,7 +4,6 @@ title: Microsoft to invest in Cyanogen, which hopes to take Android from Google
 date: 2015-01-30T01:32:11+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=613
 permalink: /2015/01/30/microsoft-to-invest-in-cyanogen-which-hopes-to-take-android-from-google/
 categories:
   - Android

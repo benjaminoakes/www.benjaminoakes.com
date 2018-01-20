@@ -4,7 +4,6 @@ title: The Role of Government
 date: 2010-06-06T12:00:51+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=93
 permalink: /2010/06/06/the-role-of-government/
 categories:
   - Politics

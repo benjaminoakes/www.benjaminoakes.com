@@ -4,7 +4,6 @@ title: How do I embed images inside a GitHub wiki (gollum) repository?
 date: 2012-04-06T11:00:43+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=224
 permalink: /2012/04/06/how-do-i-embed-images-inside-a-github-wiki-gollum-repository/
 categories:
   - Debugging

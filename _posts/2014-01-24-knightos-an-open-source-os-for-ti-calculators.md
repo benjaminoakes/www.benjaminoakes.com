@@ -4,7 +4,6 @@ title: 'KnightOS -- An open source OS for TI calculators'
 date: 2014-01-24T21:50:40+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=425
 permalink: /2014/01/24/knightos-an-open-source-os-for-ti-calculators/
 categories:
   - Technology

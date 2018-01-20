@@ -4,7 +4,6 @@ title: Transport is now biggest part of U.S. carbon emissions, first time in 40 
 date: 2016-08-18T22:51:55+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=911
 permalink: /2016/08/18/transport-is-now-biggest-part-of-u-s-carbon-emissions-first-time-in-40-years/
 categories:
   - Sustainability

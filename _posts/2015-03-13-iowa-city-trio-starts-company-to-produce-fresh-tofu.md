@@ -4,7 +4,6 @@ title: Iowa City trio starts company to produce fresh tofu
 date: 2015-03-13T13:43:09+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=667
 permalink: /2015/03/13/iowa-city-trio-starts-company-to-produce-fresh-tofu/
 categories:
   - Iowa City

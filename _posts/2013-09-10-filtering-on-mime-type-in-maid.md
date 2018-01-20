@@ -4,7 +4,6 @@ title: Filtering on MIME type in Maid
 date: 2013-09-10T03:12:51+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=305
 permalink: /2013/09/10/filtering-on-mime-type-in-maid/
 categories:
   - Programming

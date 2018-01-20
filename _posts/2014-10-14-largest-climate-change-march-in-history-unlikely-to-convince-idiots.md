@@ -4,7 +4,6 @@ title: Largest Climate-Change March in History Unlikely to Convince Idiots
 date: 2014-10-14T13:52:21+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=553
 permalink: /2014/10/14/largest-climate-change-march-in-history-unlikely-to-convince-idiots/
 categories:
   - Sustainability

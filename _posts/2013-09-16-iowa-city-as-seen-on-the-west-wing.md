@@ -4,7 +4,6 @@ title: Iowa City, as seen on The West Wing
 date: 2013-09-16T03:22:29+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=324
 permalink: /2013/09/16/iowa-city-as-seen-on-the-west-wing/
 categories:
   - Iowa City

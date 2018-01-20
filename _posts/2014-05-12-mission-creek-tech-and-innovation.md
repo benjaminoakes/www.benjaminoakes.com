@@ -4,7 +4,6 @@ title: Mission Creek Tech and Innovation
 date: 2014-05-12T17:33:13+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=496
 permalink: /2014/05/12/mission-creek-tech-and-innovation/
 categories:
   - Iowa City

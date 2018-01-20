@@ -4,7 +4,6 @@ title: 'US carbon emissions drop, now 12% below 2005 levels'
 date: 2016-05-10T02:46:45+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=875
 permalink: /2016/05/10/us-carbon-emissions-drop-now-12-below-2005-levels/
 categories:
   - Sustainability

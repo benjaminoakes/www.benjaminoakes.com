@@ -4,7 +4,6 @@ title: Google announces SPDY’s coming demise as HTTP/2 approaches
 date: 2015-02-13T03:23:31+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=621
 permalink: /2015/02/13/google-announces-spdys-coming-demise-as-http2-approaches/
 categories:
   - Web

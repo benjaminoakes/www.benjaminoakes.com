@@ -4,7 +4,6 @@ title: Converting a hexdump to binary, SoundPlay on BeOS
 date: 2014-03-11T17:54:12+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=460
 permalink: /2014/03/11/converting-a-hexdump-to-binary-soundplay-on-beos/
 openid_comments:
   - 'a:1:{i:0;i:51987;}'

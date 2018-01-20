@@ -4,7 +4,6 @@ title: Iowa considers banning conversion therapy
 date: 2015-02-18T02:56:01+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=625
 permalink: /2015/02/18/iowa-considers-banning-conversion-therapy/
 categories:
   - Iowa

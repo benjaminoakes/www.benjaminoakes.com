@@ -4,7 +4,6 @@ title: 'ampd: a remote-controlled jukebox for your old Android device'
 date: 2015-12-08T13:57:52+00:00
 author: Ben
 layout: post
-guid: https://www.benjaminoakes.com/?p=790
 permalink: /2015/12/08/ampd-a-remote-controlled-jukebox-for-your-old-android-device/
 categories:
   - Android

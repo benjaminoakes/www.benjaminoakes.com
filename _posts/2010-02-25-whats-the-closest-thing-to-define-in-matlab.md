@@ -4,7 +4,6 @@ title: 'What&#8217;s the closest thing to #define in Matlab?'
 date: 2010-02-25T11:00:15+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=229
 permalink: /2010/02/25/whats-the-closest-thing-to-define-in-matlab/
 categories:
   - Debugging

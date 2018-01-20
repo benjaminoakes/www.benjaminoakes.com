@@ -4,7 +4,6 @@ title: 'Pretty crazy to think about, isn&#8217;t it?'
 date: 2013-04-06T16:55:43+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=208
 permalink: /2013/04/06/pretty-crazy-to-think-about-isnt-it/
 categories:
   - Sharing

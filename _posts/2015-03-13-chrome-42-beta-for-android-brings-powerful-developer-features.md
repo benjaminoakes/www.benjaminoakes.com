@@ -4,7 +4,6 @@ title: Chrome 42 Beta for Android Brings Powerful Developer Features
 date: 2015-03-13T02:17:47+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=664
 permalink: /2015/03/13/chrome-42-beta-for-android-brings-powerful-developer-features/
 categories:
   - Android

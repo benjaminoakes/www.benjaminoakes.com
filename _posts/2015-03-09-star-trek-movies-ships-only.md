@@ -4,7 +4,6 @@ title: Star Trek movies (ships only)
 date: 2015-03-09T18:11:48+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=660
 permalink: /2015/03/09/star-trek-movies-ships-only/
 categories:
   - Video

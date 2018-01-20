@@ -4,7 +4,6 @@ title: How transit and bikes can pay for your home
 date: 2015-04-10T11:16:48+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=685
 permalink: /2015/04/10/how-transit-and-bikes-can-pay-for-your-home/
 categories:
   - Sustainability

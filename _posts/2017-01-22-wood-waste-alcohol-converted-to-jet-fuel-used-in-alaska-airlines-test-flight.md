@@ -4,7 +4,6 @@ title: Wood waste alcohol converted to jet fuel, used in Alaska Airlines test fl
 date: 2017-01-22T20:02:34+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=1000
 permalink: /2017/01/22/wood-waste-alcohol-converted-to-jet-fuel-used-in-alaska-airlines-test-flight/
 categories:
   - Sustainability

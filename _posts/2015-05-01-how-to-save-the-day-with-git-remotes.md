@@ -4,7 +4,6 @@ title: How to Save the Day with Git Remotes
 date: 2015-05-01T20:20:01+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=723
 permalink: /2015/05/01/how-to-save-the-day-with-git-remotes/
 categories:
   - Technology

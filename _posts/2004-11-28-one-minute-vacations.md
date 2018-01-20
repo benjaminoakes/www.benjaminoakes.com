@@ -4,7 +4,6 @@ title: One-minute vacations
 date: 2004-11-28T13:39:36+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=65
 permalink: /2004/11/28/one-minute-vacations/
 enclosure:
   - |

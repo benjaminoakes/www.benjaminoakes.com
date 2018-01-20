@@ -4,7 +4,6 @@ title: California’s hot, dry winters tied to climate change
 date: 2015-03-09T17:27:15+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=658
 permalink: /2015/03/09/californias-hot-dry-winters-tied-to-climate-change/
 categories:
   - Sustainability

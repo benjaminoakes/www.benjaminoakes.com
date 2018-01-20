@@ -4,7 +4,6 @@ title: 'ember-concurrency: structured concurrency in JavaScript'
 date: 2016-02-26T19:30:00+00:00
 author: Ben
 layout: post
-guid: https://www.benjaminoakes.com/?p=835
 permalink: /2016/02/26/ember-concurrency-structured-concurrency-in-javascript/
 categories:
   - JavaScript

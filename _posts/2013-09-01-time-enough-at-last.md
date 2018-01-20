@@ -4,7 +4,6 @@ title: Time Enough at Last
 date: 2013-09-01T18:47:36+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=299
 permalink: /2013/09/01/time-enough-at-last/
 categories:
   - eBooks

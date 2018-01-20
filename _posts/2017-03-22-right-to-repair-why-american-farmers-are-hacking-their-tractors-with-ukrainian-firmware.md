@@ -4,7 +4,6 @@ title: 'Right to Repair: Why American Farmers Are Hacking Their Tractors With Uk
 date: 2017-03-22T22:31:57+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=1031
 permalink: /2017/03/22/right-to-repair-why-american-farmers-are-hacking-their-tractors-with-ukrainian-firmware/
 categories:
   - Technology

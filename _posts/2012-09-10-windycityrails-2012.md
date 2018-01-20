@@ -4,7 +4,6 @@ title: WindyCityRails 2012
 date: 2012-09-10T13:51:54+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=154
 permalink: /2012/09/10/windycityrails-2012/
 categories:
   - Conference

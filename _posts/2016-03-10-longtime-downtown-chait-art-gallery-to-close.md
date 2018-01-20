@@ -4,7 +4,6 @@ title: Longtime downtown Chait art gallery to close
 date: 2016-03-10T01:47:25+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=849
 permalink: /2016/03/10/longtime-downtown-chait-art-gallery-to-close/
 categories:
   - Iowa City

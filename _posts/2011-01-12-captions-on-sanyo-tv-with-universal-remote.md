@@ -4,7 +4,6 @@ title: Captions on Sanyo TV with Universal Remote
 date: 2011-01-12T01:29:48+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=115
 permalink: /2011/01/12/captions-on-sanyo-tv-with-universal-remote/
 categories:
   - repairs

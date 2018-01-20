@@ -4,7 +4,6 @@ title: 'GOTO 2016 -- Software, Faster -- Dan North'
 date: 2017-03-29T21:10:35+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=1043
 permalink: /2017/03/29/goto-2016-software-faster-dan-north/
 categories:
   - Programming

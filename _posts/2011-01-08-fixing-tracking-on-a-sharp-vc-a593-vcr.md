@@ -4,7 +4,6 @@ title: Fixing Tracking on a Sharp VC-A593 VCR
 date: 2011-01-08T19:06:05+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=114
 permalink: /2011/01/08/fixing-tracking-on-a-sharp-vc-a593-vcr/
 categories:
   - Uncategorized

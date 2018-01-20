@@ -4,7 +4,6 @@ title: Giving Up on TDD
 date: 2017-01-06T01:38:42+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=993
 permalink: /2017/01/06/giving-up-on-tdd/
 categories:
   - Programming

@@ -4,7 +4,6 @@ title: Iowa City ranks among top users of public transit in the nation
 date: 2014-08-03T04:42:59+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=535
 permalink: /2014/08/03/iowa-city-ranks-among-top-users-of-public-transit-in-the-nation/
 categories:
   - Iowa City

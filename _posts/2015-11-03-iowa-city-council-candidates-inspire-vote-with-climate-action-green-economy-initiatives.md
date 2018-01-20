@@ -4,7 +4,6 @@ title: Iowa City Council Candidates Inspire Vote With Climate Action, Green Econ
 date: 2015-11-03T04:58:39+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=757
 permalink: /2015/11/03/iowa-city-council-candidates-inspire-vote-with-climate-action-green-economy-initiatives/
 categories:
   - Iowa City

@@ -4,7 +4,6 @@ title: Thanksgiving plans
 date: 2004-11-28T11:58:50+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=63
 permalink: /2004/11/28/thanksgiving-plans/
 categories:
   - Technology

@@ -4,7 +4,6 @@ title: iFixit’s 2014 Mac Mini teardown shows a sealed, less-upgradeable redesi
 date: 2014-10-29T13:31:57+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=570
 permalink: /2014/10/29/ifixits-2014-mac-mini-teardown-shows-a-sealed-less-upgradeable-redesign/
 categories:
   - Technology

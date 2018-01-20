@@ -4,7 +4,6 @@ title: Why open source and open standards matter on Android
 date: 2015-02-22T14:00:16+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=629
 permalink: /2015/02/22/why-open-source-and-open-standards-matter-on-android/
 categories:
   - Android

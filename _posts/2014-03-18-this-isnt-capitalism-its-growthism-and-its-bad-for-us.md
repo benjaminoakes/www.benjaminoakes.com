@@ -4,7 +4,6 @@ title: 'This Isn&#8217;t Capitalism -- It&#8217;s Growthism, and It&#8217;s Bad 
 date: 2014-03-18T02:19:26+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=472
 permalink: /2014/03/18/this-isnt-capitalism-its-growthism-and-its-bad-for-us/
 categories:
   - Politics

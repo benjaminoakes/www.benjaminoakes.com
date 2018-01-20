@@ -4,7 +4,6 @@ title: 'xkcd: ah, the famous &#8220;changed code&#8221; commit message'
 date: 2013-11-27T18:35:34+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=371
 permalink: /2013/11/27/xkcd-ah-the-famous-changed-code-commit-message/
 categories:
   - Technology

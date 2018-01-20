@@ -4,7 +4,6 @@ title: 4 Chrome Extensions for Teachers
 date: 2014-10-14T02:39:47+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=552
 permalink: /2014/10/14/4-chrome-extensions-for-teachers/
 categories:
   - Uncategorized

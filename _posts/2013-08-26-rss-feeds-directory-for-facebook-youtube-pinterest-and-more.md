@@ -4,7 +4,6 @@ title: RSS Feeds Directory for Facebook, Twitter, YouTube, Pinterest and More
 date: 2013-08-26T01:19:49+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=261
 permalink: /2013/08/26/rss-feeds-directory-for-facebook-youtube-pinterest-and-more/
 categories:
   - RSS

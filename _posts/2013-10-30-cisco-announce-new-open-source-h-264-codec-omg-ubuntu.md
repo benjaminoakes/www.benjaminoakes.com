@@ -4,7 +4,6 @@ title: CISCO Announce New Open Source H.264 Codec
 date: 2013-10-30T21:44:35+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=358
 permalink: /2013/10/30/cisco-announce-new-open-source-h-264-codec-omg-ubuntu/
 categories:
   - Technology

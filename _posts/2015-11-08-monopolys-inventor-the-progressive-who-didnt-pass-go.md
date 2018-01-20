@@ -4,7 +4,6 @@ title: 'Monopoly’s Inventor: The Progressive Who Didn’t Pass ‘Go’'
 date: 2015-11-08T14:41:18+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=762
 permalink: /2015/11/08/monopolys-inventor-the-progressive-who-didnt-pass-go/
 categories:
   - Uncategorized

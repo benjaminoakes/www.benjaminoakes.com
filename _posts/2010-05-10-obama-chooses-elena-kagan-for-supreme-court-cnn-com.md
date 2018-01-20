@@ -4,7 +4,6 @@ title: Obama chooses Elena Kagan for Supreme Court
 date: 2010-05-10T17:40:32+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=28
 permalink: /2010/05/10/obama-chooses-elena-kagan-for-supreme-court-cnn-com/
 categories:
   - Politics

@@ -4,7 +4,6 @@ title: Multi-line Memoization
 date: 2014-04-02T19:02:08+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=476
 permalink: /2014/04/02/multi-line-memoization/
 categories:
   - Ruby

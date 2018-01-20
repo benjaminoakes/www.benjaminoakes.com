@@ -4,7 +4,6 @@ title: Ruby gotchas
 date: 2014-02-27T19:22:46+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=449
 permalink: /2014/02/27/ruby-gotchas/
 categories:
   - Ruby

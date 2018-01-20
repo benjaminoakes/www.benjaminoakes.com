@@ -4,7 +4,6 @@ title: How do I do multiple assignment in MATLAB
 date: 2010-02-25T11:00:42+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=223
 permalink: /2010/02/25/how-do-i-do-multiple-assignment-in-matlab/
 categories:
   - Debugging

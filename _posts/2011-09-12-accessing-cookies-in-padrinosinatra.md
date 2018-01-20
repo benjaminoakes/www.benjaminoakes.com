@@ -4,7 +4,6 @@ title: Accessing Cookies in Padrino/Sinatra
 date: 2011-09-12T15:50:12+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=129
 permalink: /2011/09/12/accessing-cookies-in-padrinosinatra/
 categories:
   - Ruby

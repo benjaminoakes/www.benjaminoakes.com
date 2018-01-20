@@ -4,7 +4,6 @@ title: Mozilla Push API
 date: 2016-02-04T02:51:43+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=819
 permalink: /2016/02/04/mozilla-push-api/
 categories:
   - Web

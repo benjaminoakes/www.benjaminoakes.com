@@ -4,7 +4,6 @@ title: Weekly roundup
 date: 2013-04-29T04:39:33+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=252
 permalink: /2013/04/29/weekly-roundup-3/
 categories:
   - Web

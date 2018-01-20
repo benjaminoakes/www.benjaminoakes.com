@@ -4,7 +4,6 @@ title: Sunsetting Parse
 date: 2016-01-31T04:35:48+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=818
 permalink: /2016/01/31/sunsetting-parse/
 categories:
   - Uncategorized

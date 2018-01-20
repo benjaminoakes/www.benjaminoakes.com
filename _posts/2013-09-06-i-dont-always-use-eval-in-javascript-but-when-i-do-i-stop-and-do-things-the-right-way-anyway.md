@@ -4,7 +4,6 @@ title: 'I don&#8217;t always use eval in JavaScript, but when I do, I stop and d
 date: 2013-09-06T21:10:31+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=312
 permalink: /2013/09/06/i-dont-always-use-eval-in-javascript-but-when-i-do-i-stop-and-do-things-the-right-way-anyway/
 categories:
   - JavaScript

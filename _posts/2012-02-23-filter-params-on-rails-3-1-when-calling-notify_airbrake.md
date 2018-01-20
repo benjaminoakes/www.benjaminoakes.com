@@ -8,7 +8,6 @@ excerpt: |
   
   <p>I looked into the cases, and eventually narrowed it down to this:  an unhandled exception is filtered properly, but a notification made via <code>notify_airbrake</code> does not.</p>
 layout: post
-guid: http://www.benjaminoakes.com/?p=141
 permalink: /2012/02/23/filter-params-on-rails-3-1-when-calling-notify_airbrake/
 categories:
   - Open Source

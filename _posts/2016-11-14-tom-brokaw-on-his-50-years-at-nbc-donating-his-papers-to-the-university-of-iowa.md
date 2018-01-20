@@ -4,7 +4,6 @@ title: Tom Brokaw on his 50 years at NBC, donating his papers to the University 
 date: 2016-11-14T02:24:45+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=960
 permalink: /2016/11/14/tom-brokaw-on-his-50-years-at-nbc-donating-his-papers-to-the-university-of-iowa/
 categories:
   - Iowa City

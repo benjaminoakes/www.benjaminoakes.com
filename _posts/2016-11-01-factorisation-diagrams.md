@@ -4,7 +4,6 @@ title: Factorisation Diagrams
 date: 2016-11-01T03:17:10+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=932
 permalink: /2016/11/01/factorisation-diagrams/
 categories:
   - JavaScript

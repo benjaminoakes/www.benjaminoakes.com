@@ -4,7 +4,6 @@ title: Android Auto, Apple CarPlay on many 2016 Chevy models
 date: 2015-05-29T18:14:00+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=696
 permalink: /2015/05/29/android-auto-apple-carplay-on-many-2016-chevy-models/
 categories:
   - Technology

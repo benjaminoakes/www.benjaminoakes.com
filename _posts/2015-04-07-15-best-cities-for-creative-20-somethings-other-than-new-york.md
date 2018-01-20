@@ -4,7 +4,6 @@ title: 15 Best Cities for Creative 20-Somethings Other Than New York
 date: 2015-04-07T03:09:29+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=681
 permalink: /2015/04/07/15-best-cities-for-creative-20-somethings-other-than-new-york/
 categories:
   - Iowa City

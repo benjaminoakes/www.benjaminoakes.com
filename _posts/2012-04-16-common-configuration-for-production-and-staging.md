@@ -4,7 +4,6 @@ title: Common configuration for production and staging
 date: 2012-04-16T15:21:07+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=145
 permalink: /2012/04/16/common-configuration-for-production-and-staging/
 categories:
   - Rails

@@ -4,7 +4,6 @@ title: BitTorrent Sync between Ubuntu, Android, and iOS
 date: 2013-09-06T03:26:31+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=309
 permalink: /2013/09/06/bittorrent-sync-between-ubuntu-android-and-ios/
 openid_comments:
   - 'a:1:{i:0;i:2951;}'

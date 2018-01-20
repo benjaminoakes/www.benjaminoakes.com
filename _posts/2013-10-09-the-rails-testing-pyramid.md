@@ -4,7 +4,6 @@ title: The Rails Testing Pyramid
 date: 2013-10-09T14:47:04+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=340
 permalink: /2013/10/09/the-rails-testing-pyramid/
 categories:
   - Programming

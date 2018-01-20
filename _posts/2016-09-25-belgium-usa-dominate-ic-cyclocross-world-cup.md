@@ -4,7 +4,6 @@ title: Belgium, USA dominate IC cyclocross World Cup
 date: 2016-09-25T12:44:57+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=921
 permalink: /2016/09/25/belgium-usa-dominate-ic-cyclocross-world-cup/
 categories:
   - Iowa City

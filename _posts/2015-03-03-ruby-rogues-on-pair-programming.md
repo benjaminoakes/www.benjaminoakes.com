@@ -4,7 +4,6 @@ title: Ruby Rogues on Pair Programming
 date: 2015-03-03T23:23:08+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=638
 permalink: /2015/03/03/ruby-rogues-on-pair-programming/
 categories:
   - Programming

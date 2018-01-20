@@ -4,7 +4,6 @@ title: Obama in Cedar Falls, Municipal broadband in Iowa
 date: 2015-01-16T04:44:05+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=592
 permalink: /2015/01/16/obama-in-cedar-falls-municipal-broadband-in-iowa/
 categories:
   - Iowa

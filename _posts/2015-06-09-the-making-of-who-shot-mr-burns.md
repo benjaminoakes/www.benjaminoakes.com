@@ -4,7 +4,6 @@ title: The making of “Who Shot Mr. Burns?”
 date: 2015-06-09T21:47:08+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=704
 permalink: /2015/06/09/the-making-of-who-shot-mr-burns/
 categories:
   - Uncategorized

@@ -4,7 +4,6 @@ title: The 10 states with the best quality of life
 date: 2014-10-12T01:40:33+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=550
 permalink: /2014/10/12/the-10-states-with-the-best-quality-of-life/
 categories:
   - Iowa City

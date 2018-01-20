@@ -4,7 +4,6 @@ title: Tux logo found on ice melt
 date: 2013-12-03T03:24:49+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=377
 permalink: /2013/12/03/tux-logo-found-on-ice-salt/
 categories:
   - Linux

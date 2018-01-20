@@ -4,7 +4,6 @@ title: 'Why aren&#8217;t Heroku syslog drains logging to rsyslogd?'
 date: 2012-06-13T15:13:51+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=150
 permalink: /2012/06/13/why-arent-heroku-syslog-drains-logging-to-rsyslogd/
 categories:
   - Heroku

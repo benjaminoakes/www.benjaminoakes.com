@@ -4,7 +4,6 @@ title: 'Big in Israel: Vegan Soldiers'
 date: 2015-12-14T03:01:18+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=793
 permalink: /2015/12/14/big-in-israel-vegan-soldiers/
 categories:
   - Vegetarianism

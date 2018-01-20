@@ -4,7 +4,6 @@ title: On the Road
 date: 2004-10-31T20:00:53+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=55
 permalink: /2004/10/31/on-the-road/
 categories:
   - Uncategorized

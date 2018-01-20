@@ -4,7 +4,6 @@ title: Using CCMenu with Travis CI
 date: 2016-03-17T20:14:52+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=854
 permalink: /2016/03/17/using-ccmenu-with-travis-ci/
 categories:
   - Programming

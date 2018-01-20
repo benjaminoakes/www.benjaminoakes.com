@@ -4,7 +4,6 @@ title: Diablo dissected by its original devs
 date: 2016-03-27T15:19:28+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=862
 permalink: /2016/03/27/diablo-dissected-by-its-original-devs/
 categories:
   - Video Games

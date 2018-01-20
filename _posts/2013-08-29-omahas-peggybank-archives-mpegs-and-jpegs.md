@@ -4,7 +4,6 @@ title: 'Omaha&#8217;s PeggyBank archives MPegs and JPegs'
 date: 2013-08-29T12:28:00+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=284
 permalink: /2013/08/29/omahas-peggybank-archives-mpegs-and-jpegs/
 categories:
   - Uncategorized

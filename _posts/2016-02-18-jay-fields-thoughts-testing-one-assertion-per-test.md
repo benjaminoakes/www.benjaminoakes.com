@@ -4,7 +4,6 @@ title: 'Jay Fields&#8217; Thoughts: Testing: One assertion per test'
 date: 2016-02-18T04:49:06+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=823
 permalink: /2016/02/18/jay-fields-thoughts-testing-one-assertion-per-test/
 categories:
   - Programming

@@ -4,7 +4,6 @@ title: Native Skype for Chromebooks Just Got a Step Closer
 date: 2014-10-29T22:11:09+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=571
 permalink: /2014/10/29/native-skype-for-chromebooks-just-got-a-step-closer/
 categories:
   - Technology

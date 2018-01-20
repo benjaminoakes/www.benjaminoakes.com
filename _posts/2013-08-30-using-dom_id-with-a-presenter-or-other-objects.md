@@ -4,7 +4,6 @@ title: Using dom_id with a presenter (or other objects)
 date: 2013-08-30T18:12:25+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=257
 permalink: /2013/08/30/using-dom_id-with-a-presenter-or-other-objects/
 categories:
   - Rails

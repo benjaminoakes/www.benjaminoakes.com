@@ -4,7 +4,6 @@ title: Name of calling class using static methods in PHP
 date: 2007-11-05T14:53:39+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=294
 permalink: /2007/11/05/name-of-calling-class-using-static-methods-in-php/
 categories:
   - PHP

@@ -4,7 +4,6 @@ title: Laugh Olympics
 date: 2002-04-18T20:43:24+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=83
 permalink: /2002/04/18/laugh-olympics/
 categories:
   - School

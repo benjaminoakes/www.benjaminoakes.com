@@ -4,7 +4,6 @@ title: How Should This Work?
 date: 2014-01-16T15:27:09+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=421
 permalink: /2014/01/16/how-should-this-work/
 categories:
   - Programming

@@ -4,7 +4,6 @@ title: Spotify engineering culture
 date: 2016-11-01T18:42:28+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=939
 permalink: /2016/11/01/spotify-engineering-culture/
 categories:
   - Engineering

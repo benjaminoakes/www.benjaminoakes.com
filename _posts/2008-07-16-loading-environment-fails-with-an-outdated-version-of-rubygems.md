@@ -4,7 +4,6 @@ title: Loading environment fails with an outdated version of RubyGems
 date: 2008-07-16T08:36:06+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=22
 permalink: /2008/07/16/loading-environment-fails-with-an-outdated-version-of-rubygems/
 categories:
   - Rails

@@ -4,7 +4,6 @@ title: Popops Enabled
 date: 2013-04-09T14:56:08+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=213
 permalink: /2013/04/09/popops-enabled/
 categories:
   - Sharing

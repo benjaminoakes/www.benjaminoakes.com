@@ -4,7 +4,6 @@ title: Bringing asm.js to the Chakra JavaScript engine in Windows 10
 date: 2015-02-21T02:23:20+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=628
 permalink: /2015/02/21/bringing-asm-js-to-the-chakra-javascript-engine-in-windows-10/
 categories:
   - Web

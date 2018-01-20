@@ -4,7 +4,6 @@ title: Flattr Tiny Tiny RSS
 date: 2013-08-27T02:25:01+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=267
 permalink: /2013/08/27/flattr-tiny-tiny-rss/
 categories:
   - Open Source

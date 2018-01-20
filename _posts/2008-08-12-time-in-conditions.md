@@ -4,7 +4,6 @@ title: Time in :conditions
 date: 2008-08-12T12:43:05+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=19
 permalink: /2008/08/12/time-in-conditions/
 categories:
   - Rails

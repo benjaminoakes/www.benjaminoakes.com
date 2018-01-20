@@ -4,7 +4,6 @@ title: Nintendo Plans for Mobile Games
 date: 2015-03-17T18:46:07+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=670
 permalink: /2015/03/17/nintendo-plans-for-mobile-games/
 categories:
   - Video Games

@@ -5,7 +5,6 @@ date: 2012-10-08T17:19:02+00:00
 author: Ben
 excerpt: "<p>I've been getting my hands greasy with more involvement in Ubuntu server maintenance lately, so I thought I'd share some of my experiences with debugging <code>rsyslog</code> and <code>logrotate</code>.</p>"
 layout: post
-guid: http://www.benjaminoakes.com/?p=172
 permalink: /2012/10/08/debugging-rsyslog-and-logrotate/
 categories:
   - Debugging

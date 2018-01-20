@@ -4,7 +4,6 @@ title: Nostalgia
 date: 2004-08-16T09:17:22+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=41
 permalink: /2004/08/16/nostalgia/
 categories:
   - Music

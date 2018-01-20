@@ -4,7 +4,6 @@ title: 'Snippet: Play latest NBC Nightly News fullscreen'
 date: 2010-07-01T12:24:54+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=95
 permalink: /2010/07/01/snippet-play-latest-nbc-nightly-news-fullscreen/
 categories:
   - GitHub

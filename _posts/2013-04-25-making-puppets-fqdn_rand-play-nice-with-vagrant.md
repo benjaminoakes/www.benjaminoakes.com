@@ -4,7 +4,6 @@ title: 'Making Puppet&#8217;s fqdn_rand play nice with Vagrant'
 date: 2013-04-25T01:26:19+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=246
 permalink: /2013/04/25/making-puppets-fqdn_rand-play-nice-with-vagrant/
 categories:
   - Linux

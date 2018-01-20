@@ -4,7 +4,6 @@ title: HTML datalist Tag
 date: 2014-03-19T01:24:45+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=473
 permalink: /2014/03/19/html-datalist-tag/
 categories:
   - Web

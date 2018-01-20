@@ -4,7 +4,6 @@ title: Back on Linux
 date: 2014-02-20T18:26:11+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=445
 permalink: /2014/02/20/back-on-linux/
 categories:
   - Linux

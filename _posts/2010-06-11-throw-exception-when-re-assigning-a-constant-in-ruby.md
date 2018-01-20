@@ -4,7 +4,6 @@ title: Throw exception when re-assigning a constant in Ruby?
 date: 2010-06-11T15:03:08+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=97
 permalink: /2010/06/11/throw-exception-when-re-assigning-a-constant-in-ruby/
 categories:
   - Ruby

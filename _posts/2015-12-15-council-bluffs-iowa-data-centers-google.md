@@ -4,7 +4,6 @@ title: Council Bluffs, Iowa – Data Centers – Google
 date: 2015-12-15T20:06:28+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=799
 permalink: /2015/12/15/council-bluffs-iowa-data-centers-google/
 categories:
   - Iowa

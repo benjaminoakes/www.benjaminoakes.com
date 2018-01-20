@@ -4,7 +4,6 @@ title: 'Sonic Pi -- The Live Coding Music Synth for Everyone'
 date: 2016-12-30T22:47:06+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=990
 permalink: /2016/12/30/sonic-pi-the-live-coding-music-synth-for-everyone/
 categories:
   - Ruby

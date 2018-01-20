@@ -4,7 +4,6 @@ title: Constants in MATLAB
 date: 2009-11-09T11:00:55+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=220
 permalink: /2009/11/09/constants-in-matlab/
 categories:
   - API

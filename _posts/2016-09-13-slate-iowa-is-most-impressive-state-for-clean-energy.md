@@ -4,7 +4,6 @@ title: 'Slate: Iowa is ‘most impressive state for clean energy’'
 date: 2016-09-13T02:21:29+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=916
 permalink: /2016/09/13/slate-iowa-is-most-impressive-state-for-clean-energy/
 categories:
   - Sustainability

@@ -4,7 +4,6 @@ title: What we can learn from dialect maps
 date: 2014-01-07T13:24:18+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=417
 permalink: /2014/01/07/what-we-can-learn-from-dialect-maps/
 categories:
   - Linguistics

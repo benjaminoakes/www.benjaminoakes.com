@@ -4,7 +4,6 @@ title: 'Node v7.0 is out!  It holds such promise...  :D'
 date: 2016-10-25T21:49:01+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=926
 permalink: /2016/10/25/node-v7-0-is-out-it-holds-such-promise-d/
 categories:
   - JavaScript

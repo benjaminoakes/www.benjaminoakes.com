@@ -4,7 +4,6 @@ title: database configuration does not specify adapter
 date: 2012-10-26T22:36:32+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=175
 permalink: /2012/10/26/database-configuration-does-not-specify-adapter/
 categories:
   - Debugging

@@ -4,7 +4,6 @@ title: NULL (nil) in fixtures
 date: 2008-08-13T11:38:13+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=18
 permalink: /2008/08/13/null-nil-in-fixtures/
 categories:
   - Rails

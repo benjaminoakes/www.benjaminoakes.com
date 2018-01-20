@@ -4,7 +4,6 @@ title: nomo zilla
 date: 2015-11-02T02:11:37+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=755
 permalink: /2015/11/02/nomo-zilla/
 categories:
   - Web

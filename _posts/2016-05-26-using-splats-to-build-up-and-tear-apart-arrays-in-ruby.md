@@ -4,7 +4,6 @@ title: Using splats to build up and tear apart arrays in Ruby
 date: 2016-05-26T16:56:06+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=886
 permalink: /2016/05/26/using-splats-to-build-up-and-tear-apart-arrays-in-ruby/
 categories:
   - Ruby

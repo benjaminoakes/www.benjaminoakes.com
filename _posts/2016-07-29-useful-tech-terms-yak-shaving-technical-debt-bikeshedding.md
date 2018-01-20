@@ -4,7 +4,6 @@ title: 'Useful tech terms: Yak Shaving, Technical Debt, Bikeshedding'
 date: 2016-07-29T12:34:00+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=908
 permalink: /2016/07/29/useful-tech-terms-yak-shaving-technical-debt-bikeshedding/
 categories:
   - Engineering

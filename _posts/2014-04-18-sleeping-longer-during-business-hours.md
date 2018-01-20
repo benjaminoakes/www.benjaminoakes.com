@@ -4,7 +4,6 @@ title: Sleeping longer during business hours
 date: 2014-04-18T19:52:31+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=487
 permalink: /2014/04/18/sleeping-longer-during-business-hours/
 openid_comments:
   - 'a:2:{i:0;i:5648;i:1;i:5649;}'

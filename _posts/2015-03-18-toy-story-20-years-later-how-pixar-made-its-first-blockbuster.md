@@ -4,7 +4,6 @@ title: 'Toy Story, 20 years later: how Pixar made its first blockbuster'
 date: 2015-03-18T01:42:48+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=672
 permalink: /2015/03/18/toy-story-20-years-later-how-pixar-made-its-first-blockbuster/
 categories:
   - Technology

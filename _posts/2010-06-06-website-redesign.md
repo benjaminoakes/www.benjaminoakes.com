@@ -4,7 +4,6 @@ title: Website Redesign
 date: 2010-06-06T16:53:26+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=89
 permalink: /2010/06/06/website-redesign/
 categories:
   - Uncategorized

@@ -4,7 +4,6 @@ title: DRM and the Challenge of Serving Users
 date: 2014-05-15T14:35:05+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=501
 permalink: /2014/05/15/drm-and-the-challenge-of-serving-users/
 categories:
   - Web

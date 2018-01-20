@@ -4,7 +4,6 @@ title: The Shut-In Economy
 date: 2015-03-26T18:11:30+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=673
 permalink: /2015/03/26/the-shut-in-economy/
 openid_comments:
   - 'a:1:{i:0;i:70804;}'

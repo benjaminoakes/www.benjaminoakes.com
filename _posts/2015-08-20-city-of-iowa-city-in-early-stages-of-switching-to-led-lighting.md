@@ -4,7 +4,6 @@ title: City of Iowa City in early stages of switching to LED lighting
 date: 2015-08-20T02:15:27+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=738
 permalink: /2015/08/20/city-of-iowa-city-in-early-stages-of-switching-to-led-lighting/
 categories:
   - Iowa City

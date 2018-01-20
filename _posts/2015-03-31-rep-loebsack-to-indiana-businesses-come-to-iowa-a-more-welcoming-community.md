@@ -4,7 +4,6 @@ title: 'Rep. Loebsack to Indiana businesses: Come to Iowa, a &#8216;more welcomi
 date: 2015-03-31T03:07:27+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=678
 permalink: /2015/03/31/rep-loebsack-to-indiana-businesses-come-to-iowa-a-more-welcoming-community/
 categories:
   - Iowa City

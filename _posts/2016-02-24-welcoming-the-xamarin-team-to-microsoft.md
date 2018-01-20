@@ -4,7 +4,6 @@ title: Welcoming the Xamarin team to Microsoft
 date: 2016-02-24T20:36:04+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=832
 permalink: /2016/02/24/welcoming-the-xamarin-team-to-microsoft/
 categories:
   - Mobile

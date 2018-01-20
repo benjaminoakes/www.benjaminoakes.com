@@ -4,7 +4,6 @@ title: Componentize the Web
 date: 2014-06-30T17:51:53+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=530
 permalink: /2014/06/30/componentize-the-web/
 categories:
   - Web

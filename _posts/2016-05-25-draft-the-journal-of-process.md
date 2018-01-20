@@ -4,7 +4,6 @@ title: 'Draft -- The Journal of Process'
 date: 2016-05-25T14:41:21+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=884
 permalink: /2016/05/25/draft-the-journal-of-process/
 categories:
   - Iowa City

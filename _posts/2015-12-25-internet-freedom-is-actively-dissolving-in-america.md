@@ -4,7 +4,6 @@ title: Internet Freedom Is Actively Dissolving in America
 date: 2015-12-25T14:22:23+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=802
 permalink: /2015/12/25/internet-freedom-is-actively-dissolving-in-america/
 categories:
   - Technology

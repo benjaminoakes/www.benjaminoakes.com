@@ -4,7 +4,6 @@ title: How to mute the news room on a Cisco WebEx call
 date: 2015-11-06T17:07:27+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=759
 permalink: /2015/11/06/how-to-mute-the-news-room-on-a-cisco-webex-call/
 categories:
   - Technology

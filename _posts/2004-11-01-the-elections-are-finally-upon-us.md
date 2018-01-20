@@ -4,7 +4,6 @@ title: The elections are finally upon us
 date: 2004-11-01T20:00:50+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=57
 permalink: /2004/11/01/the-elections-are-finally-upon-us/
 categories:
   - Politics

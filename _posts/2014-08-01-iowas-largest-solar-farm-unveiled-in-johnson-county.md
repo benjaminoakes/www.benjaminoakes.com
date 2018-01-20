@@ -4,7 +4,6 @@ title: 'Iowa&#8217;s largest solar farm unveiled in Johnson County'
 date: 2014-08-01T01:12:06+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=534
 permalink: /2014/08/01/iowas-largest-solar-farm-unveiled-in-johnson-county/
 categories:
   - Iowa City

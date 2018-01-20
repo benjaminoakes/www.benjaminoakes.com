@@ -4,7 +4,6 @@ title: What can a technologist do about climate change?
 date: 2015-11-25T03:09:25+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=779
 permalink: /2015/11/25/what-can-a-technologist-do-about-climate-change/
 categories:
   - Sustainability

@@ -4,7 +4,6 @@ title: The New Rubygems Index Format
 date: 2014-04-03T01:24:31+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=477
 permalink: /2014/04/03/the-new-rubygems-index-format/
 categories:
   - Ruby

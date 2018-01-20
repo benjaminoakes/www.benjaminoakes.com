@@ -4,7 +4,6 @@ title: 6 Ways to Remove Pain From Feature Testing in Ruby on Rails
 date: 2013-10-09T16:03:21+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=341
 permalink: /2013/10/09/6-ways-to-remove-pain-from-feature-testing-in-ruby-on-rails/
 categories:
   - Rails

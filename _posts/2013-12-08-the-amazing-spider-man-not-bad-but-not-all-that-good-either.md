@@ -4,7 +4,6 @@ title: 'The Amazing Spider-Man: Not bad, but not all that good either'
 date: 2013-12-08T01:59:44+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=390
 permalink: /2013/12/08/the-amazing-spider-man-not-bad-but-not-all-that-good-either/
 categories:
   - Sharing

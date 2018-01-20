@@ -4,7 +4,6 @@ title: If you think good architecture is expensive, try bad architecture
 date: 2017-02-01T19:05:06+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=1005
 permalink: /2017/02/01/if-you-think-good-architecture-is-expensive-try-bad-architecture/
 categories:
   - Programming

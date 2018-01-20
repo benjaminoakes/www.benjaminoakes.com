@@ -4,7 +4,6 @@ title: 'Thursday, 11/6: ICRuby Meetup'
 date: 2014-11-04T16:16:18+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=578
 permalink: /2014/11/04/thursday-116-icruby-meetup/
 categories:
   - Iowa City

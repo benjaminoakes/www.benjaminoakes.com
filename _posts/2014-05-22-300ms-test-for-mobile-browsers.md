@@ -4,7 +4,6 @@ title: 300ms test for Mobile Browsers
 date: 2014-05-22T23:28:57+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=505
 permalink: /2014/05/22/300ms-test-for-mobile-browsers/
 categories:
   - Android

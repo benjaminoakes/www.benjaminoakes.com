@@ -4,7 +4,6 @@ title: “Trek against Trump” urges voters to choose Hillary Clinton
 date: 2016-10-02T18:22:40+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=923
 permalink: /2016/10/02/trek-against-trump-urges-voters-to-choose-hillary-clinton/
 categories:
   - Politics

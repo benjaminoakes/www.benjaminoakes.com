@@ -4,7 +4,6 @@ title: University of Iowa Commencement May 2009
 date: 2009-05-11T16:15:24+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=292
 permalink: /2009/05/11/university-of-iowa-commencement-may-2009/
 categories:
   - Iowa City

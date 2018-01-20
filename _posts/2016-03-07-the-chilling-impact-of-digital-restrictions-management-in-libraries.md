@@ -4,7 +4,6 @@ title: The chilling impact of Digital Restrictions Management in libraries
 date: 2016-03-07T02:44:15+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=844
 permalink: /2016/03/07/the-chilling-impact-of-digital-restrictions-management-in-libraries/
 categories:
   - Sharing

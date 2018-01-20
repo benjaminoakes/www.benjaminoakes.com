@@ -4,7 +4,6 @@ title: CenturyLink charges data overage fees, may disconnect “excessive” use
 date: 2016-07-24T22:50:21+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=901
 permalink: /2016/07/24/centurylink-charges-data-overage-fees-may-disconnect-excessive-users/
 categories:
   - Web

@@ -4,7 +4,6 @@ title: Doctor Who game helps kids to learn to code
 date: 2015-02-13T03:26:18+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=622
 permalink: /2015/02/13/doctor-who-game-helps-kids-to-learn-to-code/
 categories:
   - Programming

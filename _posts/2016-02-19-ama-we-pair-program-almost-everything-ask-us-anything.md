@@ -4,7 +4,6 @@ title: 'AMA: We pair program (almost) everything. Ask us anything!'
 date: 2016-02-19T00:17:56+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=829
 permalink: /2016/02/19/ama-we-pair-program-almost-everything-ask-us-anything/
 categories:
   - Programming

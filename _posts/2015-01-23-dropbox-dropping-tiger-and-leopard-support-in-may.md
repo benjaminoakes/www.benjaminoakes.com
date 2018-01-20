@@ -4,7 +4,6 @@ title: Dropbox Dropping Tiger and Leopard Support in May
 date: 2015-01-23T05:58:22+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=597
 permalink: /2015/01/23/dropbox-dropping-tiger-and-leopard-support-in-may/
 categories:
   - Technology

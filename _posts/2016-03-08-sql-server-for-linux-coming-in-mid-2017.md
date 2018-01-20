@@ -4,7 +4,6 @@ title: SQL Server for Linux coming in mid-2017
 date: 2016-03-08T02:02:09+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=846
 permalink: /2016/03/08/sql-server-for-linux-coming-in-mid-2017/
 categories:
   - Linux

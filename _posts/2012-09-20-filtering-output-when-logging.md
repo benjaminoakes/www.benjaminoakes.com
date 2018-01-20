@@ -4,7 +4,6 @@ title: Filtering output when logging
 date: 2012-09-20T20:31:06+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=160
 permalink: /2012/09/20/filtering-output-when-logging/
 categories:
   - Open Source

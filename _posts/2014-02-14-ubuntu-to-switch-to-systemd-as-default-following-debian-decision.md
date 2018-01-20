@@ -4,7 +4,6 @@ title: Ubuntu To Switch to Systemd As Default Following Debian Decision
 date: 2014-02-14T18:33:42+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=442
 permalink: /2014/02/14/ubuntu-to-switch-to-systemd-as-default-following-debian-decision/
 categories:
   - Ubuntu

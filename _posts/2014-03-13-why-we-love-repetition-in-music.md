@@ -4,7 +4,6 @@ title: Why we love repetition in music
 date: 2014-03-13T20:33:28+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=468
 permalink: /2014/03/13/why-we-love-repetition-in-music/
 categories:
   - Psychology

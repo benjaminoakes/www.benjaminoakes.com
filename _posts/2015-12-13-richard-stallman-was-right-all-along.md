@@ -4,7 +4,6 @@ title: Richard Stallman Was Right All Along
 date: 2015-12-13T20:09:04+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=792
 permalink: /2015/12/13/richard-stallman-was-right-all-along/
 categories:
   - Open Source

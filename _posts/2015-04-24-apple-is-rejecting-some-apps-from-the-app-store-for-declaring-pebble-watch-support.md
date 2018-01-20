@@ -4,7 +4,6 @@ title: Apple Is Rejecting Some Apps From The App Store For Declaring Pebble Watc
 date: 2015-04-24T00:49:41+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=690
 permalink: /2015/04/24/apple-is-rejecting-some-apps-from-the-app-store-for-declaring-pebble-watch-support/
 categories:
   - Technology

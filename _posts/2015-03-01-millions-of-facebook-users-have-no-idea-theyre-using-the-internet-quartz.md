@@ -4,7 +4,6 @@ title: Millions of Facebook users have no idea they’re using the internet
 date: 2015-03-01T17:44:44+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=636
 permalink: /2015/03/01/millions-of-facebook-users-have-no-idea-theyre-using-the-internet-quartz/
 categories:
   - Web

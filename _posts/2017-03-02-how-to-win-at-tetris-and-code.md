@@ -4,7 +4,6 @@ title: How to win at Tetris (and code)
 date: 2017-03-02T15:57:32+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=1020
 permalink: /2017/03/02/how-to-win-at-tetris-and-code/
 categories:
   - Engineering

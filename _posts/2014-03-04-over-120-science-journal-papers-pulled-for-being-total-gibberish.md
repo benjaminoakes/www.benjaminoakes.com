@@ -4,7 +4,6 @@ title: Over 120 Science Journal Papers Pulled For Being Total Gibberish
 date: 2014-03-04T13:25:19+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=453
 permalink: /2014/03/04/over-120-science-journal-papers-pulled-for-being-total-gibberish/
 categories:
   - Uncategorized

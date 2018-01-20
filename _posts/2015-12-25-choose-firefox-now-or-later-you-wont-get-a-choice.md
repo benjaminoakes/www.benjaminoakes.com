@@ -4,7 +4,6 @@ title: 'Choose Firefox Now, Or Later You Won&#8217;t Get A Choice'
 date: 2015-12-25T14:37:27+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=804
 permalink: /2015/12/25/choose-firefox-now-or-later-you-wont-get-a-choice/
 categories:
   - Web

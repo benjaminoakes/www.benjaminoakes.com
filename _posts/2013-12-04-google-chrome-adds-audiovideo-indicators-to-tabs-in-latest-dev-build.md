@@ -4,7 +4,6 @@ title: Google Chrome Adds Audio/Video Indicators To Tabs in Latest Dev Build
 date: 2013-12-04T23:24:02+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=384
 permalink: /2013/12/04/google-chrome-adds-audiovideo-indicators-to-tabs-in-latest-dev-build/
 categories:
   - Chrome

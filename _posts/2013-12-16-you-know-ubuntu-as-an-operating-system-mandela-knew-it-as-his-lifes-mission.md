@@ -4,7 +4,6 @@ title: You know Ubuntu as an operating system. Mandela knew it as his life’s m
 date: 2013-12-16T00:36:45+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=399
 permalink: /2013/12/16/you-know-ubuntu-as-an-operating-system-mandela-knew-it-as-his-lifes-mission/
 categories:
   - Ubuntu

@@ -4,7 +4,6 @@ title: Despite what you may have heard, Leonardo DiCaprio is probably not buying
 date: 2016-03-15T03:49:35+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=852
 permalink: /2016/03/15/despite-what-you-may-have-heard-leonardo-dicaprio-is-probably-not-buying-a-house-in-iowa-city-any-time-soon/
 categories:
   - Iowa City

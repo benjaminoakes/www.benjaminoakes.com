@@ -4,7 +4,6 @@ title: Tim Cook Speaks Up
 date: 2014-10-30T17:45:52+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=572
 permalink: /2014/10/30/tim-cook-speaks-up/
 categories:
   - Human Rights

@@ -4,7 +4,6 @@ title: The first CyanogenMod Android smartphone is on its way
 date: 2013-12-22T01:43:10+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=405
 permalink: /2013/12/22/oppo-n1-the-first-cyanogenmod-android-smartphone-is-on-its-way/
 categories:
   - Technology

@@ -4,7 +4,6 @@ title: California issues more self-driving permits, Iowa creates testing corrido
 date: 2016-10-16T12:59:25+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=924
 permalink: /2016/10/16/california-issues-more-self-driving-permits-iowa-creates-testing-corridor/
 categories:
   - Technology

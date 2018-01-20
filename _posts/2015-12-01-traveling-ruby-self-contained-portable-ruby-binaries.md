@@ -4,7 +4,6 @@ title: 'Traveling Ruby: self-contained, portable Ruby binaries'
 date: 2015-12-01T02:35:26+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=787
 permalink: /2015/12/01/traveling-ruby-self-contained-portable-ruby-binaries/
 categories:
   - Ruby

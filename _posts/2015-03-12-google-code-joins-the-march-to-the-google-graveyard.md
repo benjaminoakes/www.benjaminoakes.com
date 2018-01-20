@@ -4,7 +4,6 @@ title: Google Code joins the march to the Google Graveyard
 date: 2015-03-12T17:52:20+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=662
 permalink: /2015/03/12/google-code-joins-the-march-to-the-google-graveyard/
 categories:
   - Programming

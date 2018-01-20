@@ -4,7 +4,6 @@ title: 'Tim Berners-Lee: we need to re-decentralise the web'
 date: 2014-02-08T16:40:23+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=438
 permalink: /2014/02/08/tim-berners-lee-we-need-to-re-decentralise-the-web/
 categories:
   - Web

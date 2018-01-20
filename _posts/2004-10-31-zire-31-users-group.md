@@ -4,7 +4,6 @@ title: 'Zire 31 User&#039;s Group'
 date: 2004-10-31T21:11:15+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=48
 permalink: /2004/10/31/zire-31-users-group/
 categories:
   - Uncategorized

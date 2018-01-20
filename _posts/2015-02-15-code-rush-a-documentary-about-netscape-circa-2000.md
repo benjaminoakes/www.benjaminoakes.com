@@ -4,7 +4,6 @@ title: Code Rush, a documentary about Netscape circa 2000
 date: 2015-02-15T00:13:22+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=624
 permalink: /2015/02/15/code-rush-a-documentary-about-netscape-circa-2000/
 categories:
   - Web

@@ -4,7 +4,6 @@ title: Metroid Prime
 date: 2004-10-31T20:00:47+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=52
 permalink: /2004/10/31/metroid-prime/
 categories:
   - Video Games

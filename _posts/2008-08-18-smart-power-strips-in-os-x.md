@@ -4,7 +4,6 @@ title: Smart Power Strips in OS X
 date: 2008-08-18T19:40:14+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=17
 permalink: /2008/08/18/smart-power-strips-in-os-x/
 categories:
   - Uncategorized

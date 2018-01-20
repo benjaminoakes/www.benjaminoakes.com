@@ -4,7 +4,6 @@ title: How to organize MATLAB code?
 date: 2010-02-24T11:00:06+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=226
 permalink: /2010/02/24/how-to-organize-matlab-code/
 categories:
   - Matlab

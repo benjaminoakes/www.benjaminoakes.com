@@ -4,7 +4,6 @@ title: MySQL console tip
 date: 2010-11-30T20:31:48+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=113
 permalink: /2010/11/30/mysql-console-tip/
 categories:
   - MySQL

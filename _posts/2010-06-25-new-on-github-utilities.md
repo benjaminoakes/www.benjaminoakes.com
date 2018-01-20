@@ -4,7 +4,6 @@ title: 'New on GitHub: utilities'
 date: 2010-06-25T12:08:16+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=100
 permalink: /2010/06/25/new-on-github-utilities/
 categories:
   - Linux

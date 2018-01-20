@@ -4,7 +4,6 @@ title: 'J.J. Abrams Reacts To Death of Star Trek Actor Anton &#8216;Chekov&#8217
 date: 2016-06-20T00:54:04+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=896
 permalink: /2016/06/20/j-j-abrams-reacts-to-death-of-star-trek-actor-anton-chekov-yelchin/
 categories:
   - SciFi

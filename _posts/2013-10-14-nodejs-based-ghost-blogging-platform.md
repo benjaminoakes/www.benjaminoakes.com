@@ -4,7 +4,6 @@ title: Node.js-based Ghost blogging platform
 date: 2013-10-14T21:20:11+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=346
 permalink: /2013/10/14/nodejs-based-ghost-blogging-platform/
 categories:
   - Open Source

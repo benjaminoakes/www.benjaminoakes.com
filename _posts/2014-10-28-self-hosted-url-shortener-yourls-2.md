@@ -4,7 +4,6 @@ title: 'Self-hosted URL shortener: YOURLS'
 date: 2014-10-28T17:43:30+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=567
 permalink: /2014/10/28/self-hosted-url-shortener-yourls-2/
 categories:
   - Web

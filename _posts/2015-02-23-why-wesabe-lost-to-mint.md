@@ -4,7 +4,6 @@ title: Why Wesabe Lost to Mint
 date: 2015-02-23T04:14:38+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=633
 permalink: /2015/02/23/why-wesabe-lost-to-mint/
 categories:
   - Programming

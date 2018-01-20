@@ -4,7 +4,6 @@ title: 'CoreOS: Linux for the cloud and the datacenter'
 date: 2014-07-02T01:16:11+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=532
 permalink: /2014/07/02/coreos-linux-for-the-cloud-and-the-datacenter/
 categories:
   - Linux

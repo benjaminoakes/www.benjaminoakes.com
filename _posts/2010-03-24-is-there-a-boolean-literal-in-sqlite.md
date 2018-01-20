@@ -4,7 +4,6 @@ title: Is there a boolean literal in SQLite?
 date: 2010-03-24T11:00:50+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=227
 permalink: /2010/03/24/is-there-a-boolean-literal-in-sqlite/
 categories:
   - API

@@ -4,7 +4,6 @@ title: In Landmark Decision, Supreme Court Strikes Down Main Reason Country Was 
 date: 2014-05-12T17:15:26+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=494
 permalink: /2014/05/12/in-landmark-decision-supreme-court-strikes-down-main-reason-country-was-started/
 categories:
   - Politics

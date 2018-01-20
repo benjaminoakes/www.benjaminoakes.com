@@ -4,7 +4,6 @@ title: HTMLDiff in Ruby
 date: 2008-07-16T08:48:01+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=21
 permalink: /2008/07/16/htmldiff-in-ruby/
 categories:
   - Ruby

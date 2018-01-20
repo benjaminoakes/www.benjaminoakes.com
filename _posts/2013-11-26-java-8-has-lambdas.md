@@ -4,7 +4,6 @@ title: Java 8 has lambdas?
 date: 2013-11-26T19:14:42+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=370
 permalink: /2013/11/26/java-8-has-lambdas/
 categories:
   - Technology

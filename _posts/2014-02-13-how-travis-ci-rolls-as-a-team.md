@@ -4,7 +4,6 @@ title: How Travis CI Rolls As A Team
 date: 2014-02-13T22:30:42+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=440
 permalink: /2014/02/13/how-travis-ci-rolls-as-a-team/
 categories:
   - Uncategorized

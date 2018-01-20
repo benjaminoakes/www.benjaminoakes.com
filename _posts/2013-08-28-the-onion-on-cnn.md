@@ -4,7 +4,6 @@ title: The Onion on CNN
 date: 2013-08-28T00:53:47+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=277
 permalink: /2013/08/28/the-onion-on-cnn/
 categories:
   - Uncategorized

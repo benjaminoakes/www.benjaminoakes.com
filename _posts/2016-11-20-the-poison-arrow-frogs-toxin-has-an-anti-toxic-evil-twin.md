@@ -4,7 +4,6 @@ title: The poison arrow frog’s toxin has an anti-toxic evil twin
 date: 2016-11-20T01:36:39+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=963
 permalink: /2016/11/20/the-poison-arrow-frogs-toxin-has-an-anti-toxic-evil-twin/
 categories:
   - Today I Learned

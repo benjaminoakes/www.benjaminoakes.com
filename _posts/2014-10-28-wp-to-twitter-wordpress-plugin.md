@@ -4,7 +4,6 @@ title: WP to Twitter WordPress Plugin
 date: 2014-10-28T17:38:39+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=564
 permalink: /2014/10/28/wp-to-twitter-wordpress-plugin/
 categories:
   - Web

@@ -4,7 +4,6 @@ title: Markdown throwdown
 date: 2014-10-06T04:30:43+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=549
 permalink: /2014/10/06/markdown-throwdown/
 categories:
   - Open Source

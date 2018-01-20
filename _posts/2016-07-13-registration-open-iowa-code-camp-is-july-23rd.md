@@ -4,7 +4,6 @@ title: Registration open!  Iowa Code Camp is July 23rd
 date: 2016-07-13T03:27:37+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=900
 permalink: /2016/07/13/registration-open-iowa-code-camp-is-july-23rd/
 categories:
   - Uncategorized

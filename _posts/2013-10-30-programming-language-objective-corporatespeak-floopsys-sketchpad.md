@@ -4,7 +4,6 @@ title: 'Programming Language: Objective CorporateSpeak++ -- Floopsy&#8217;s Sket
 date: 2013-10-30T13:46:30+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=357
 permalink: /2013/10/30/programming-language-objective-corporatespeak-floopsys-sketchpad/
 categories:
   - Programming

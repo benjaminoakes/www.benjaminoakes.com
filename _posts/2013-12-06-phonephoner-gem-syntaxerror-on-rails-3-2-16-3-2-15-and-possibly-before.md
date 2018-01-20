@@ -4,7 +4,6 @@ title: 'Phone/Phoner gem: SyntaxError on Rails 3.2.16, 3.2.15, and possibly befo
 date: 2013-12-06T17:20:48+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=388
 permalink: /2013/12/06/phonephoner-gem-syntaxerror-on-rails-3-2-16-3-2-15-and-possibly-before/
 categories:
   - Rails

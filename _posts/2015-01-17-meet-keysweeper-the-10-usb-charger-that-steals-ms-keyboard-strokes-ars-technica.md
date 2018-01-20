@@ -4,7 +4,6 @@ title: Meet KeySweeper, the $10 USB charger that steals MS keyboard strokes
 date: 2015-01-17T00:09:50+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=593
 permalink: /2015/01/17/meet-keysweeper-the-10-usb-charger-that-steals-ms-keyboard-strokes-ars-technica/
 categories:
   - Technology

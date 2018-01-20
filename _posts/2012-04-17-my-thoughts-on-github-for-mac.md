@@ -4,7 +4,6 @@ title: My thoughts on GitHub for Mac
 date: 2012-04-17T13:14:22+00:00
 author: Ben
 layout: post
-guid: http://www.benjaminoakes.com/?p=147
 permalink: /2012/04/17/my-thoughts-on-github-for-mac/
 categories:
   - GitHub
