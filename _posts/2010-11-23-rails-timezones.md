@@ -1,5 +1,4 @@
 ---
-id: 110
 title: Rails Timezones
 date: 2010-11-23T16:24:10+00:00
 author: Ben

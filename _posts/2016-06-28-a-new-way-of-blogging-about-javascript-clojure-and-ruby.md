@@ -1,5 +1,4 @@
 ---
-id: 897
 title: A new way of blogging about JavaScript, Clojure, and Ruby
 date: 2016-06-28T03:43:29+00:00
 author: Ben

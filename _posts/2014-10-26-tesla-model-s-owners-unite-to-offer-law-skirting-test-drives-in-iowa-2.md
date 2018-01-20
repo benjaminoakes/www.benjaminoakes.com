@@ -1,5 +1,4 @@
 ---
-id: 558
 title: Tesla Model S Owners Unite To Offer Law-Skirting Test Drives In Iowa
 date: 2014-10-26T17:10:15+00:00
 author: Ben

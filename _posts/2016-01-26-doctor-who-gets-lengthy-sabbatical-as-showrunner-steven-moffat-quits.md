@@ -1,5 +1,4 @@
 ---
-id: 816
 title: Doctor Who gets lengthy sabbatical as showrunner Steven Moffat quits
 date: 2016-01-26T01:07:58+00:00
 author: Ben

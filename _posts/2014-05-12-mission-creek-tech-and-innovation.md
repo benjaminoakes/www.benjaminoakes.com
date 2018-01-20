@@ -1,5 +1,4 @@
 ---
-id: 496
 title: Mission Creek Tech and Innovation
 date: 2014-05-12T17:33:13+00:00
 author: Ben

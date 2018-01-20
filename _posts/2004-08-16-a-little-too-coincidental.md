@@ -1,5 +1,4 @@
 ---
-id: 40
 title: A little too coincidental
 date: 2004-08-16T09:00:22+00:00
 author: Ben

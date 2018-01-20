@@ -1,5 +1,4 @@
 ---
-id: 587
 title: Zero Waste, not Recycling
 date: 2015-01-04T02:39:10+00:00
 author: Ben

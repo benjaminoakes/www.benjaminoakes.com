@@ -1,5 +1,4 @@
 ---
-id: 102
 title: '&#8220;Ruby, White and Blue Hackfest&#8221; tomorrow!'
 date: 2010-06-30T17:46:59+00:00
 author: Ben

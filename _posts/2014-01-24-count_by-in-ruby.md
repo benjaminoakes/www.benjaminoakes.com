@@ -1,5 +1,4 @@
 ---
-id: 428
 title: count_by in Ruby
 date: 2014-01-24T21:57:52+00:00
 author: Ben

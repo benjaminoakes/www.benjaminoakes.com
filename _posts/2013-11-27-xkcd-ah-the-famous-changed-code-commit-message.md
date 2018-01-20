@@ -1,5 +1,4 @@
 ---
-id: 371
 title: 'xkcd: ah, the famous &#8220;changed code&#8221; commit message'
 date: 2013-11-27T18:35:34+00:00
 author: Ben

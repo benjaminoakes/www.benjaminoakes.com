@@ -1,5 +1,4 @@
 ---
-id: 294
 title: Name of calling class using static methods in PHP
 date: 2007-11-05T14:53:39+00:00
 author: Ben

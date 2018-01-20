@@ -1,5 +1,4 @@
 ---
-id: 52
 title: Metroid Prime
 date: 2004-10-31T20:00:47+00:00
 author: Ben

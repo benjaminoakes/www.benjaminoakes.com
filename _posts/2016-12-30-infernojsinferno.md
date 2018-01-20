@@ -1,5 +1,4 @@
 ---
-id: 985
 title: infernojs/inferno
 date: 2016-12-30T16:46:16+00:00
 author: Ben

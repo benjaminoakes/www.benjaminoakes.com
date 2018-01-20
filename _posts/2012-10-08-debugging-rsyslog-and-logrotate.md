@@ -1,5 +1,4 @@
 ---
-id: 172
 title: Debugging rsyslog and logrotate
 date: 2012-10-08T17:19:02+00:00
 author: Ben

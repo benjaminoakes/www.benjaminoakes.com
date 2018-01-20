@@ -1,5 +1,4 @@
 ---
-id: 286
 title: Major unpatched OS X bugs
 date: 2013-08-30T03:35:42+00:00
 author: Ben

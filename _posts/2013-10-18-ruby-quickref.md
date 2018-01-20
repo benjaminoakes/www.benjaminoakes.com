@@ -1,5 +1,4 @@
 ---
-id: 350
 title: Ruby QuickRef
 date: 2013-10-18T21:42:17+00:00
 author: Ben

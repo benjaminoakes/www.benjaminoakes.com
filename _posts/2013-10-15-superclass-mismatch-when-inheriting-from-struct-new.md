@@ -1,5 +1,4 @@
 ---
-id: 335
 title: Superclass mismatch when inheriting from Struct.new
 date: 2013-10-15T03:23:39+00:00
 author: Ben

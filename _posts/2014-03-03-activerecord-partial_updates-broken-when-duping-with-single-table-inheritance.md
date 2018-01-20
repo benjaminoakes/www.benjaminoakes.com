@@ -1,5 +1,4 @@
 ---
-id: 452
 title: ActiveRecord partial_updates broken when duping with Single Table Inheritance
 date: 2014-03-03T17:40:26+00:00
 author: Ben

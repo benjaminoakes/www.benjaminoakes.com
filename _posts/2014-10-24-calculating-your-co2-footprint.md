@@ -1,5 +1,4 @@
 ---
-id: 556
 title: Calculating Your CO2 Footprint
 date: 2014-10-24T02:37:16+00:00
 author: Ben

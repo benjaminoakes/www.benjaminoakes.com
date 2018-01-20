@@ -1,5 +1,4 @@
 ---
-id: 21
 title: HTMLDiff in Ruby
 date: 2008-07-16T08:48:01+00:00
 author: Ben

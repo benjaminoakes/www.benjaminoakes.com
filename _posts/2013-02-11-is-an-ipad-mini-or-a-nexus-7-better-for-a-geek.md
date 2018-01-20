@@ -1,5 +1,4 @@
 ---
-id: 192
 title: Is an iPad Mini or a Nexus 7 Better for a Geek?
 date: 2013-02-11T02:38:27+00:00
 author: Ben

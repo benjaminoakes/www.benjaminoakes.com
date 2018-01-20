@@ -1,5 +1,4 @@
 ---
-id: 993
 title: Giving Up on TDD
 date: 2017-01-06T01:38:42+00:00
 author: Ben

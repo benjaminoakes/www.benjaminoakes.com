@@ -1,5 +1,4 @@
 ---
-id: 18
 title: NULL (nil) in fixtures
 date: 2008-08-13T11:38:13+00:00
 author: Ben

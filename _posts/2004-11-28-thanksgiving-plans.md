@@ -1,5 +1,4 @@
 ---
-id: 63
 title: Thanksgiving plans
 date: 2004-11-28T11:58:50+00:00
 author: Ben

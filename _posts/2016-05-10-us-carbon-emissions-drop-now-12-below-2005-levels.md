@@ -1,5 +1,4 @@
 ---
-id: 875
 title: 'US carbon emissions drop, now 12% below 2005 levels'
 date: 2016-05-10T02:46:45+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 397
 title: VHX offers DRM-free video as a service
 date: 2013-12-15T17:49:50+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 41
 title: Nostalgia
 date: 2004-08-16T09:17:22+00:00
 author: Ben

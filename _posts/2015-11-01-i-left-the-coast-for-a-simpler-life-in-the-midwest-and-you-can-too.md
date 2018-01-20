@@ -1,5 +1,4 @@
 ---
-id: 752
 title: 'I Left the Coast for a Simpler Life in the Midwest -- and You Can, Too'
 date: 2015-11-01T15:47:58+00:00
 author: Ben

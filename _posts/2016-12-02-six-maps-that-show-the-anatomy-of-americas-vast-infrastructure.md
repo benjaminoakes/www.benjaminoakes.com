@@ -1,5 +1,4 @@
 ---
-id: 975
 title: Six maps that show the anatomy of America’s vast infrastructure
 date: 2016-12-02T15:37:15+00:00
 author: Ben

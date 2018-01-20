@@ -1,5 +1,4 @@
 ---
-id: 862
 title: Diablo dissected by its original devs
 date: 2016-03-27T15:19:28+00:00
 author: Ben

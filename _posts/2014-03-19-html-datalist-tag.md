@@ -1,5 +1,4 @@
 ---
-id: 473
 title: HTML datalist Tag
 date: 2014-03-19T01:24:45+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 483
 title: First Look – AWS WorkSpaces
 date: 2014-04-06T01:48:47+00:00
 author: Ben

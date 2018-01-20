@@ -1,5 +1,4 @@
 ---
-id: 510
 title: Quake 3 WebGL Demo
 date: 2014-05-31T12:25:33+00:00
 author: Ben

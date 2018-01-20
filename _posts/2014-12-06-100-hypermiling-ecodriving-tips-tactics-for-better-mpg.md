@@ -1,5 +1,4 @@
 ---
-id: 583
 title: '100+ Hypermiling / ecodriving tips &#038; tactics for better mpg'
 date: 2014-12-06T01:56:49+00:00
 author: Ben

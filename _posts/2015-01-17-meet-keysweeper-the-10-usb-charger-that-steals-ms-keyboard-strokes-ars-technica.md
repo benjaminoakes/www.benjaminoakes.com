@@ -1,5 +1,4 @@
 ---
-id: 593
 title: Meet KeySweeper, the $10 USB charger that steals MS keyboard strokes
 date: 2015-01-17T00:09:50+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 909
 title: Climate Change Divide Bursts to Forefront in Presidential Campaign
 date: 2016-08-03T00:07:14+00:00
 author: Ben

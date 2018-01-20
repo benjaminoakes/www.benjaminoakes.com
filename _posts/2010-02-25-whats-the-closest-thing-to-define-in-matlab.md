@@ -1,5 +1,4 @@
 ---
-id: 229
 title: 'What&#8217;s the closest thing to #define in Matlab?'
 date: 2010-02-25T11:00:15+00:00
 author: Ben

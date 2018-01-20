@@ -1,5 +1,4 @@
 ---
-id: 924
 title: California issues more self-driving permits, Iowa creates testing corridor
 date: 2016-10-16T12:59:25+00:00
 author: Ben

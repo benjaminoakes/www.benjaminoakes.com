@@ -1,5 +1,4 @@
 ---
-id: 586
 title: Keep your machine clean in the New Year with Maid v0.6.0
 date: 2015-01-01T23:31:44+00:00
 author: Ben

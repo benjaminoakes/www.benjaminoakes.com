@@ -1,5 +1,4 @@
 ---
-id: 362
 title: Maid v0.4-series update
 date: 2013-11-06T04:53:05+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 260
 title: What comes after USB charging? Inductive charging.
 date: 2013-08-25T21:42:14+00:00
 author: Ben

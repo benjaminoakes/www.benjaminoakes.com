@@ -1,5 +1,4 @@
 ---
-id: 671
 title: The Key Master
 date: 2015-03-17T19:01:21+00:00
 author: Ben

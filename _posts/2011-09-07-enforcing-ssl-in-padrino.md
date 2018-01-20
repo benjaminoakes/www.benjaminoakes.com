@@ -1,5 +1,4 @@
 ---
-id: 128
 title: Enforcing SSL in Padrino
 date: 2011-09-07T15:42:30+00:00
 author: Ben

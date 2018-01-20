@@ -1,5 +1,4 @@
 ---
-id: 589
 title: USB 3.1 and Type-C look awesome
 date: 2015-01-09T05:16:55+00:00
 author: Ben

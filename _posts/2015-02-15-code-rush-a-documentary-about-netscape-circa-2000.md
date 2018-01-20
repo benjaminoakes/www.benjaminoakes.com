@@ -1,5 +1,4 @@
 ---
-id: 624
 title: Code Rush, a documentary about Netscape circa 2000
 date: 2015-02-15T00:13:22+00:00
 author: Ben

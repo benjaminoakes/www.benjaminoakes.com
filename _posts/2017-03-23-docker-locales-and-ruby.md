@@ -1,5 +1,4 @@
 ---
-id: 1037
 title: Docker, Locales, and Ruby
 date: 2017-03-23T17:02:54+00:00
 author: Ben

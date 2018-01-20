@@ -1,5 +1,4 @@
 ---
-id: 113
 title: MySQL console tip
 date: 2010-11-30T20:31:48+00:00
 author: Ben

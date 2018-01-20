@@ -1,5 +1,4 @@
 ---
-id: 627
 title: HTTP/2 finished, coming to browsers within weeks
 date: 2015-02-19T02:35:28+00:00
 author: Ben

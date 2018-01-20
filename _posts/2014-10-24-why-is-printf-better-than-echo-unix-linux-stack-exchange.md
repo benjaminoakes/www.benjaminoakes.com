@@ -1,5 +1,4 @@
 ---
-id: 555
 title: Why is printf better than echo?
 date: 2014-10-24T02:06:43+00:00
 author: Ben

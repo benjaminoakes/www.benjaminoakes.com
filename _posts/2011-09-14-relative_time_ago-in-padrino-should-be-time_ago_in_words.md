@@ -1,5 +1,4 @@
 ---
-id: 131
 title: relative_time_ago in Padrino should be time_ago_in_words
 date: 2011-09-14T13:01:19+00:00
 author: Ben

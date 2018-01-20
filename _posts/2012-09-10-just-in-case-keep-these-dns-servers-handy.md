@@ -1,5 +1,4 @@
 ---
-id: 153
 title: 'Just in case: keep these DNS servers handy'
 date: 2012-09-10T19:22:01+00:00
 author: Ben

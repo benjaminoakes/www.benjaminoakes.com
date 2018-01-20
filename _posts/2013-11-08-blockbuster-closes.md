@@ -1,5 +1,4 @@
 ---
-id: 363
 title: Blockbuster closes
 date: 2013-11-08T04:11:44+00:00
 author: Ben

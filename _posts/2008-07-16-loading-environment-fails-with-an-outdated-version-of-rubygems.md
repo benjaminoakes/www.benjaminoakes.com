@@ -1,5 +1,4 @@
 ---
-id: 22
 title: Loading environment fails with an outdated version of RubyGems
 date: 2008-07-16T08:36:06+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 532
 title: 'CoreOS: Linux for the cloud and the datacenter'
 date: 2014-07-02T01:16:11+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 812
 title: The Big Bang Theory sued for using “soft kitty” lyrics in hit TV show
 date: 2016-01-05T02:01:51+00:00
 author: Ben

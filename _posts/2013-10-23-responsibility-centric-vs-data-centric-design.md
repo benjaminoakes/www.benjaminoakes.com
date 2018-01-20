@@ -1,5 +1,4 @@
 ---
-id: 355
 title: Responsibility-centric vs. data-centric design
 date: 2013-10-23T00:51:21+00:00
 author: Ben

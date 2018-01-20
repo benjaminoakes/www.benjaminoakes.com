@@ -1,5 +1,4 @@
 ---
-id: 811
 title: Ian Murdock, father of Debian Linux, dead at 42
 date: 2016-01-05T01:55:05+00:00
 author: Ben

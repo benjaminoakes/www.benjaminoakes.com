@@ -1,5 +1,4 @@
 ---
-id: 459
 title: Vanilla JS
 date: 2014-03-09T02:34:05+00:00
 author: Ben

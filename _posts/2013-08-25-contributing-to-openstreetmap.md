@@ -1,5 +1,4 @@
 ---
-id: 259
 title: Contributing to OpenStreetMap
 date: 2013-08-25T21:29:12+00:00
 author: Ben

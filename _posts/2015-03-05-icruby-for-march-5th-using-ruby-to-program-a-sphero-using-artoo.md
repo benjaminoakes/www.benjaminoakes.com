@@ -1,5 +1,4 @@
 ---
-id: 650
 title: 'ICRuby for March 5th: Using Ruby to program a Sphero using Artoo'
 date: 2015-03-05T02:52:43+00:00
 author: Ben

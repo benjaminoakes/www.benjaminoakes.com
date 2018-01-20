@@ -1,5 +1,4 @@
 ---
-id: 757
 title: Iowa City Council Candidates Inspire Vote With Climate Action, Green Economy Initiatives
 date: 2015-11-03T04:58:39+00:00
 author: Ben

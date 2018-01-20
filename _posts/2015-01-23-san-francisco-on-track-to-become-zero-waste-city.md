@@ -1,5 +1,4 @@
 ---
-id: 596
 title: San Francisco on Track to Become Zero Waste City
 date: 2015-01-23T05:20:16+00:00
 author: Ben

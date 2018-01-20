@@ -1,5 +1,4 @@
 ---
-id: 234
 title: SSH Agent Forwarding with Vagrant AWS
 date: 2013-04-10T20:24:37+00:00
 author: Ben

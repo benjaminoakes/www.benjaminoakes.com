@@ -1,5 +1,4 @@
 ---
-id: 1003
 title: Black Bean, Tofu, Spinach Miracle
 date: 2017-02-01T02:31:12+00:00
 author: Ben

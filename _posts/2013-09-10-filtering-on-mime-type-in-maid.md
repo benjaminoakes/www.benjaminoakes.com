@@ -1,5 +1,4 @@
 ---
-id: 305
 title: Filtering on MIME type in Maid
 date: 2013-09-10T03:12:51+00:00
 author: Ben

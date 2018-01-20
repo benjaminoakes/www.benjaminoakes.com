@@ -1,5 +1,4 @@
 ---
-id: 385
 title: Chrome Packaged Apps Coming to Android, iOS
 date: 2013-12-04T23:29:21+00:00
 author: Ben

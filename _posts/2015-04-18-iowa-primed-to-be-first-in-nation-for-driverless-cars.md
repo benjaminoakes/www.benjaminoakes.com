@@ -1,5 +1,4 @@
 ---
-id: 689
 title: Iowa primed to be first in nation for driverless cars
 date: 2015-04-18T21:05:49+00:00
 author: Ben

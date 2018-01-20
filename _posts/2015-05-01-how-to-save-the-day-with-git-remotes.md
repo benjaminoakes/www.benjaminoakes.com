@@ -1,5 +1,4 @@
 ---
-id: 723
 title: How to Save the Day with Git Remotes
 date: 2015-05-01T20:20:01+00:00
 author: Ben

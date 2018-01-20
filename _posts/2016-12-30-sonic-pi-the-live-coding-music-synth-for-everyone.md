@@ -1,5 +1,4 @@
 ---
-id: 990
 title: 'Sonic Pi -- The Live Coding Music Synth for Everyone'
 date: 2016-12-30T22:47:06+00:00
 author: Ben

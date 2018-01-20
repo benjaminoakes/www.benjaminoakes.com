@@ -1,5 +1,4 @@
 ---
-id: 673
 title: The Shut-In Economy
 date: 2015-03-26T18:11:30+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 1030
 title: peardeck/prometheus-user-metrics
 date: 2017-03-22T15:30:40+00:00
 author: Ben

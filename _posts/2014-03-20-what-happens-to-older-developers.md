@@ -1,5 +1,4 @@
 ---
-id: 474
 title: What happens to older developers?
 date: 2014-03-20T17:25:40+00:00
 author: Ben

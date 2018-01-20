@@ -1,5 +1,4 @@
 ---
-id: 487
 title: Sleeping longer during business hours
 date: 2014-04-18T19:52:31+00:00
 author: Ben

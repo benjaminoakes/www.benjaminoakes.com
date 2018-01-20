@@ -1,5 +1,4 @@
 ---
-id: 477
 title: The New Rubygems Index Format
 date: 2014-04-03T01:24:31+00:00
 author: Ben

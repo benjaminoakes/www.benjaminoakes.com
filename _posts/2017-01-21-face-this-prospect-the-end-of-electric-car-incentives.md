@@ -1,5 +1,4 @@
 ---
-id: 998
 title: 'Face This Prospect: The End of Electric Car Incentives'
 date: 2017-01-21T16:22:16+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 865
 title: Chrome 50 ends support for Windows XP, OS X 10.6, other old versions
 date: 2016-04-15T22:17:39+00:00
 author: Ben

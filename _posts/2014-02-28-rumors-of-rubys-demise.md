@@ -1,5 +1,4 @@
 ---
-id: 450
 title: Rumors of Ruby’s Demise
 date: 2014-02-28T19:18:19+00:00
 author: Ben

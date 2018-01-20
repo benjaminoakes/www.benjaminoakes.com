@@ -1,5 +1,4 @@
 ---
-id: 663
 title: 'NTP&#8217;s Fate Hinges On &#8216;Father Time&#8217;'
 date: 2015-03-13T02:11:15+00:00
 author: Ben

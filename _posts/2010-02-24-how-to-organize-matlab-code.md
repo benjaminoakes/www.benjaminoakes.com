@@ -1,5 +1,4 @@
 ---
-id: 226
 title: How to organize MATLAB code?
 date: 2010-02-24T11:00:06+00:00
 author: Ben

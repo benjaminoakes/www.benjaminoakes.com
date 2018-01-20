@@ -1,5 +1,4 @@
 ---
-id: 417
 title: What we can learn from dialect maps
 date: 2014-01-07T13:24:18+00:00
 author: Ben

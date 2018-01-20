@@ -1,5 +1,4 @@
 ---
-id: 809
 title: 'Op-ed: Safari is the new Internet Explorer'
 date: 2015-12-31T05:14:43+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 227
 title: Is there a boolean literal in SQLite?
 date: 2010-03-24T11:00:50+00:00
 author: Ben

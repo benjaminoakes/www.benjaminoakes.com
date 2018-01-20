@@ -1,5 +1,4 @@
 ---
-id: 1022
 title: What is the Liskov Substitution Principle?
 date: 2017-03-03T03:20:22+00:00
 author: Ben

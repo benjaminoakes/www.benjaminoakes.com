@@ -1,5 +1,4 @@
 ---
-id: 665
 title: Dropbox now available in the Chrome OS File Manager
 date: 2015-03-13T02:21:59+00:00
 author: Ben

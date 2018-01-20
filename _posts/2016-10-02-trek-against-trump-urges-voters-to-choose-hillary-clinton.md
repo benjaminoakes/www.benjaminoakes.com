@@ -1,5 +1,4 @@
 ---
-id: 923
 title: “Trek against Trump” urges voters to choose Hillary Clinton
 date: 2016-10-02T18:22:40+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 783
 title: Richard Stallman’s GNU Manifesto Turns Thirty
 date: 2015-11-29T19:50:53+00:00
 author: Ben

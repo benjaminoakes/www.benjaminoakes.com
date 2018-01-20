@@ -1,5 +1,4 @@
 ---
-id: 341
 title: 6 Ways to Remove Pain From Feature Testing in Ruby on Rails
 date: 2013-10-09T16:03:21+00:00
 author: Ben

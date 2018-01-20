@@ -1,5 +1,4 @@
 ---
-id: 801
 title: Arguments from Global Warming Skeptics and what the science really says
 date: 2015-12-22T02:39:01+00:00
 author: Ben

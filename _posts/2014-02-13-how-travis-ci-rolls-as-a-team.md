@@ -1,5 +1,4 @@
 ---
-id: 440
 title: How Travis CI Rolls As A Team
 date: 2014-02-13T22:30:42+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 625
 title: Iowa considers banning conversion therapy
 date: 2015-02-18T02:56:01+00:00
 author: Ben

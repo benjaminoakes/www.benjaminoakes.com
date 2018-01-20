@@ -1,5 +1,4 @@
 ---
-id: 265
 title: Hawaiian burger joint to open in Iowa City
 date: 2013-08-27T02:13:17+00:00
 author: Ben

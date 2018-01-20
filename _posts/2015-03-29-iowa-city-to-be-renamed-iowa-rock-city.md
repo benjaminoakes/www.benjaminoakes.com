@@ -1,5 +1,4 @@
 ---
-id: 675
 title: Iowa City to be renamed Iowa Rock City
 date: 2015-03-29T03:37:31+00:00
 author: Ben

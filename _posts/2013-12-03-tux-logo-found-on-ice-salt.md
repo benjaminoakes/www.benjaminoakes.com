@@ -1,5 +1,4 @@
 ---
-id: 377
 title: Tux logo found on ice melt
 date: 2013-12-03T03:24:49+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 132
 title: ActiveRecord::ConnectionNotEstablished in Rails 3.1 on Heroku
 date: 2011-09-15T15:03:50+00:00
 author: Ben

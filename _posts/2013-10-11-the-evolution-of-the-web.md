@@ -1,5 +1,4 @@
 ---
-id: 343
 title: The Evolution of the Web
 date: 2013-10-11T22:15:25+00:00
 author: Ben

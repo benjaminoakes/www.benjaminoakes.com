@@ -1,5 +1,4 @@
 ---
-id: 137
 title: Blocking migration creation in Rails
 date: 2011-11-29T16:40:16+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 136
 title: Using Heroku with an external MySQL database
 date: 2011-11-21T20:33:10+00:00
 author: Ben

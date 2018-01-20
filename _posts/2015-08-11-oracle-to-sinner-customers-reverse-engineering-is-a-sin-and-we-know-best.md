@@ -1,5 +1,4 @@
 ---
-id: 733
 title: 'Oracle to &#8216;sinner&#8217; customers: Reverse engineering is a sin and we know best'
 date: 2015-08-11T18:36:36+00:00
 author: Ben

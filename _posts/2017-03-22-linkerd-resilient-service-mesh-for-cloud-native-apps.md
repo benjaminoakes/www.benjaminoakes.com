@@ -1,5 +1,4 @@
 ---
-id: 1029
 title: 'linkerd: Resilient service mesh for cloud native apps'
 date: 2017-03-22T15:26:56+00:00
 author: Ben

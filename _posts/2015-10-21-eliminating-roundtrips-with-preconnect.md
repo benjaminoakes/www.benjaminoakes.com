@@ -1,5 +1,4 @@
 ---
-id: 746
 title: Eliminating Roundtrips with Preconnect
 date: 2015-10-21T17:23:07+00:00
 author: Ben

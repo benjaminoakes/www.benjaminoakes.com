@@ -1,5 +1,4 @@
 ---
-id: 900
 title: Registration open!  Iowa Code Camp is July 23rd
 date: 2016-07-13T03:27:37+00:00
 author: Ben

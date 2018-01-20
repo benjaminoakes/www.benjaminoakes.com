@@ -1,5 +1,4 @@
 ---
-id: 421
 title: How Should This Work?
 date: 2014-01-16T15:27:09+00:00
 author: Ben

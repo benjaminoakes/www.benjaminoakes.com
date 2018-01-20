@@ -1,5 +1,4 @@
 ---
-id: 97
 title: Throw exception when re-assigning a constant in Ruby?
 date: 2010-06-11T15:03:08+00:00
 author: Ben

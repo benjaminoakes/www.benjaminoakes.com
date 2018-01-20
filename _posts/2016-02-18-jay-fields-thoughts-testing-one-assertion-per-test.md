@@ -1,5 +1,4 @@
 ---
-id: 823
 title: 'Jay Fields&#8217; Thoughts: Testing: One assertion per test'
 date: 2016-02-18T04:49:06+00:00
 author: Ben

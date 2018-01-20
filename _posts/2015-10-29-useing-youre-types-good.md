@@ -1,5 +1,4 @@
 ---
-id: 748
 title: 'Useing You&#8217;re Type&#8217;s Good'
 date: 2015-10-29T19:34:56+00:00
 author: Ben

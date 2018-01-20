@@ -1,5 +1,4 @@
 ---
-id: 476
 title: Multi-line Memoization
 date: 2014-04-02T19:02:08+00:00
 author: Ben

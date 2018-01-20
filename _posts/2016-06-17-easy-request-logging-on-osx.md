@@ -1,5 +1,4 @@
 ---
-id: 894
 title: Easy request logging on OSX
 date: 2016-06-17T14:22:35+00:00
 author: Ben

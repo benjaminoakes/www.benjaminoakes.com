@@ -1,5 +1,4 @@
 ---
-id: 96
 title: 'Awesome: Super Mario Bros. Crossover'
 date: 2010-06-08T12:17:00+00:00
 author: Ben

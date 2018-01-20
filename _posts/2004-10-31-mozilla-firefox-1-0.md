@@ -1,5 +1,4 @@
 ---
-id: 51
 title: Mozilla Firefox 1.0
 date: 2004-10-31T20:00:04+00:00
 author: Ben

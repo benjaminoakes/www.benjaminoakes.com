@@ -1,5 +1,4 @@
 ---
-id: 1017
 title: Kiba, a lightweight Ruby ETL framework
 date: 2017-02-28T19:37:52+00:00
 author: Ben

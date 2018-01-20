@@ -1,5 +1,4 @@
 ---
-id: 717
 title: 'The Presidential Candidate With a Plan to Run the US on 100% Clean Energy'
 date: 2015-06-23T22:10:14+00:00
 author: Ben

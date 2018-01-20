@@ -1,5 +1,4 @@
 ---
-id: 143
 title: Test upcoming browsers automatically via jsTestDriver
 date: 2012-02-24T16:40:00+00:00
 author: Ben

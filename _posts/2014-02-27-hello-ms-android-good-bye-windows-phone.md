@@ -1,5 +1,4 @@
 ---
-id: 446
 title: Hello, MS-Android. Good-bye, Windows Phone
 date: 2014-02-27T04:06:06+00:00
 author: Ben

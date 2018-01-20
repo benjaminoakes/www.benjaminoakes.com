@@ -1,5 +1,4 @@
 ---
-id: 100
 title: 'New on GitHub: utilities'
 date: 2010-06-25T12:08:16+00:00
 author: Ben

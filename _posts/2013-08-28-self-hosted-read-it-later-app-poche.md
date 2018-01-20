@@ -1,5 +1,4 @@
 ---
-id: 279
 title: 'Self-hosted &#8220;Read It Later&#8221; App: Poche'
 date: 2013-08-28T02:11:34+00:00
 author: Ben

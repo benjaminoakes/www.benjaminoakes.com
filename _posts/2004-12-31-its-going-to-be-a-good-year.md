@@ -1,5 +1,4 @@
 ---
-id: 67
 title: 'It&#039;s Going to Be a Good Year'
 date: 2004-12-31T18:22:54+00:00
 author: Ben

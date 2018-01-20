@@ -1,5 +1,4 @@
 ---
-id: 203
 title: Calculating the next leap year in Ruby
 date: 2013-04-02T00:56:35+00:00
 author: Ben

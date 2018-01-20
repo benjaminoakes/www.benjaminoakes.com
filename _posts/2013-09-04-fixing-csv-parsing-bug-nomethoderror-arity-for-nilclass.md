@@ -1,5 +1,4 @@
 ---
-id: 304
 title: Fixing CSV parsing bug (NoMethodError arity for NilClass)
 date: 2013-09-04T00:47:56+00:00
 author: Ben

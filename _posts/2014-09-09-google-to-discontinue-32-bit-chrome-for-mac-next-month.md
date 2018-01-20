@@ -1,5 +1,4 @@
 ---
-id: 543
 title: Google to Discontinue 32-bit Chrome for Mac Next Month
 date: 2014-09-09T01:30:21+00:00
 author: Ben

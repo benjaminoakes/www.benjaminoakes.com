@@ -1,5 +1,4 @@
 ---
-id: 670
 title: Nintendo Plans for Mobile Games
 date: 2015-03-17T18:46:07+00:00
 author: Ben

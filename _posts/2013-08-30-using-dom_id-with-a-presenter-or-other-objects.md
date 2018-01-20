@@ -1,5 +1,4 @@
 ---
-id: 257
 title: Using dom_id with a presenter (or other objects)
 date: 2013-08-30T18:12:25+00:00
 author: Ben

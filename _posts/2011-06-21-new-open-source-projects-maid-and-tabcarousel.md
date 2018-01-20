@@ -1,5 +1,4 @@
 ---
-id: 126
 title: 'New open source projects: Maid and TabCarousel'
 date: 2011-06-21T18:38:01+00:00
 author: Ben

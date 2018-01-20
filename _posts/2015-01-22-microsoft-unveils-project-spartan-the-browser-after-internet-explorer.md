@@ -1,5 +1,4 @@
 ---
-id: 595
 title: Microsoft unveils Project Spartan, the browser after Internet Explorer
 date: 2015-01-22T02:20:28+00:00
 author: Ben

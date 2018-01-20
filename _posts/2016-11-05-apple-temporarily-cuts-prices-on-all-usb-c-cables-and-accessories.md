@@ -1,5 +1,4 @@
 ---
-id: 943
 title: Apple temporarily cuts prices on all USB-C cables and accessories
 date: 2016-11-05T15:30:53+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 15
 title: Kerberos for SSH authentication
 date: 2009-01-12T11:02:08+00:00
 author: Ben

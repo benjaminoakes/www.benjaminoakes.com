@@ -1,5 +1,4 @@
 ---
-id: 46
 title: I have a fan club!
 date: 2004-09-18T08:47:02+00:00
 author: Ben

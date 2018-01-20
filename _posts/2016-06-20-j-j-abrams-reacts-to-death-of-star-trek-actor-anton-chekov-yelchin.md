@@ -1,5 +1,4 @@
 ---
-id: 896
 title: 'J.J. Abrams Reacts To Death of Star Trek Actor Anton &#8216;Chekov&#8217; Yelchin'
 date: 2016-06-20T00:54:04+00:00
 author: Ben

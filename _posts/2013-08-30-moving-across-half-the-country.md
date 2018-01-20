@@ -1,5 +1,4 @@
 ---
-id: 287
 title: On moving across half the country
 date: 2013-08-30T03:50:59+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 629
 title: Why open source and open standards matter on Android
 date: 2015-02-22T14:00:16+00:00
 author: Ben

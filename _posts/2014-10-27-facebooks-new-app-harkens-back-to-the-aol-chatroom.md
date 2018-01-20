@@ -1,5 +1,4 @@
 ---
-id: 560
 title: Facebook’s new app harkens back to the AOL chatroom
 date: 2014-10-27T22:42:36+00:00
 author: Ben

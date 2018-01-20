@@ -1,5 +1,4 @@
 ---
-id: 590
 title: Recycling Programs at Retail Stores
 date: 2015-01-10T17:10:01+00:00
 author: Ben

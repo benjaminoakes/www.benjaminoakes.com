@@ -1,5 +1,4 @@
 ---
-id: 45
 title: Another Apology
 date: 2004-09-16T16:57:12+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 115
 title: Captions on Sanyo TV with Universal Remote
 date: 2011-01-12T01:29:48+00:00
 author: Ben

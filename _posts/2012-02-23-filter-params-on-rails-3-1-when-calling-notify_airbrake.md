@@ -1,5 +1,4 @@
 ---
-id: 141
 title: Filter params on Rails 3.1 when calling notify_airbrake
 date: 2012-02-23T22:16:45+00:00
 author: Ben

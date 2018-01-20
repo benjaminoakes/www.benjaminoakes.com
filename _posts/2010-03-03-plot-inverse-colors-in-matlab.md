@@ -1,5 +1,4 @@
 ---
-id: 228
 title: Plot inverse colors in Matlab?
 date: 2010-03-03T01:53:19+00:00
 author: Ben

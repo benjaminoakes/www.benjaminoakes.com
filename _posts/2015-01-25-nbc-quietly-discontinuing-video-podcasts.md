@@ -1,5 +1,4 @@
 ---
-id: 604
 title: NBC Quietly Discontinuing Video Podcasts
 date: 2015-01-25T19:37:03+00:00
 author: Ben

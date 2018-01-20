@@ -1,5 +1,4 @@
 ---
-id: 960
 title: Tom Brokaw on his 50 years at NBC, donating his papers to the University of Iowa
 date: 2016-11-14T02:24:45+00:00
 author: Ben

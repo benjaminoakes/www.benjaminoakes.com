@@ -1,5 +1,4 @@
 ---
-id: 830
 title: 'Report: VW told it must make electric cars in US'
 date: 2016-02-23T02:40:05+00:00
 author: Ben

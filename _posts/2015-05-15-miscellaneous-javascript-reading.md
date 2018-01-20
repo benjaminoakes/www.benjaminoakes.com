@@ -1,5 +1,4 @@
 ---
-id: 693
 title: Miscellaneous JavaScript Reading
 date: 2015-05-15T15:19:01+00:00
 author: Ben

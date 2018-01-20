@@ -1,5 +1,4 @@
 ---
-id: 742
 title: Android 6.0 Marshmallow, thoroughly reviewed
 date: 2015-10-10T18:03:07+00:00
 author: Ben

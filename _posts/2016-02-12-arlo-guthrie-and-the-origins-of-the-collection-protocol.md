@@ -1,5 +1,4 @@
 ---
-id: 820
 title: Arlo Guthrie and the origins of the Collection protocol
 date: 2016-02-12T01:10:48+00:00
 author: Ben

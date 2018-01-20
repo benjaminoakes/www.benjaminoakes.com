@@ -1,5 +1,4 @@
 ---
-id: 406
 title: 'The future of Linux and Flash explained -- It&#8217;s your fault'
 date: 2013-12-22T02:58:33+00:00
 author: Ben

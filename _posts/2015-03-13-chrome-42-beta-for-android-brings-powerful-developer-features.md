@@ -1,5 +1,4 @@
 ---
-id: 664
 title: Chrome 42 Beta for Android Brings Powerful Developer Features
 date: 2015-03-13T02:17:47+00:00
 author: Ben

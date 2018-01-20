@@ -1,5 +1,4 @@
 ---
-id: 405
 title: The first CyanogenMod Android smartphone is on its way
 date: 2013-12-22T01:43:10+00:00
 author: Ben

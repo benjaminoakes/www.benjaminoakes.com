@@ -1,5 +1,4 @@
 ---
-id: 145
 title: Common configuration for production and staging
 date: 2012-04-16T15:21:07+00:00
 author: Ben

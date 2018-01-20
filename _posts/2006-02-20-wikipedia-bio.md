@@ -1,5 +1,4 @@
 ---
-id: 298
 title: Wikipedia Bio
 date: 2006-02-20T03:25:13+00:00
 author: Ben

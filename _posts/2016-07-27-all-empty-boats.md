@@ -1,5 +1,4 @@
 ---
-id: 906
 title: All empty boats
 date: 2016-07-27T20:47:16+00:00
 author: Ben

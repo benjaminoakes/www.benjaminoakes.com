@@ -1,5 +1,4 @@
 ---
-id: 870
 title: HTTP Status Codes — httpstatuses.com
 date: 2016-05-04T19:54:14+00:00
 author: Ben

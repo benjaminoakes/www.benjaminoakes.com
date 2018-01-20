@@ -1,5 +1,4 @@
 ---
-id: 488
 title: 'xkcd: Installing'
 date: 2014-05-12T16:58:33+00:00
 author: Ben

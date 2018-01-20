@@ -1,5 +1,4 @@
 ---
-id: 901
 title: CenturyLink charges data overage fees, may disconnect “excessive” users
 date: 2016-07-24T22:50:21+00:00
 author: Ben

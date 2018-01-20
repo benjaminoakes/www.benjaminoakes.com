@@ -1,5 +1,4 @@
 ---
-id: 793
 title: 'Big in Israel: Vegan Soldiers'
 date: 2015-12-14T03:01:18+00:00
 author: Ben

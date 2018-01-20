@@ -1,5 +1,4 @@
 ---
-id: 888
 title: 'Broadband internet as a public utility -- Jason T. Lewis for Supervisor'
 date: 2016-06-04T01:31:28+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 108
 title: 'Broken solar clock?  Not so fast'
 date: 2010-10-11T13:07:38+00:00
 author: Ben

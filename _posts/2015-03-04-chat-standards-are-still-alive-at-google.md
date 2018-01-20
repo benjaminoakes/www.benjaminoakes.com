@@ -1,5 +1,4 @@
 ---
-id: 646
 title: Chat standards are still alive at Google
 date: 2015-03-04T16:00:16+00:00
 author: Ben

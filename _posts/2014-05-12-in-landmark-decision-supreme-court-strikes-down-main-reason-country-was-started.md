@@ -1,5 +1,4 @@
 ---
-id: 494
 title: In Landmark Decision, Supreme Court Strikes Down Main Reason Country Was Started
 date: 2014-05-12T17:15:26+00:00
 author: Ben

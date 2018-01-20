@@ -1,5 +1,4 @@
 ---
-id: 731
 title: Iowa City City Council supports biking
 date: 2015-08-02T16:49:01+00:00
 author: Ben

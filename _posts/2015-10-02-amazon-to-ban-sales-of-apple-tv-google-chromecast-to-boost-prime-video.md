@@ -1,5 +1,4 @@
 ---
-id: 741
 title: Amazon to ban sales of Apple TV, Google Chromecast to boost Prime Video
 date: 2015-10-02T02:36:34+00:00
 author: Ben

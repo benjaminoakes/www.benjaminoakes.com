@@ -1,5 +1,4 @@
 ---
-id: 789
 title: Combating the lava-layer anti-pattern with rolling refactoring
 date: 2015-12-06T02:32:05+00:00
 author: Ben

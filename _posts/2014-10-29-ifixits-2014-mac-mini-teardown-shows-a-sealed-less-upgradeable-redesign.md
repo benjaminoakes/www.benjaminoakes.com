@@ -1,5 +1,4 @@
 ---
-id: 570
 title: iFixit’s 2014 Mac Mini teardown shows a sealed, less-upgradeable redesign
 date: 2014-10-29T13:31:57+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 578
 title: 'Thursday, 11/6: ICRuby Meetup'
 date: 2014-11-04T16:16:18+00:00
 author: Ben

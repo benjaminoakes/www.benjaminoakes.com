@@ -1,5 +1,4 @@
 ---
-id: 503
 title: Explanation of the Shadow DOM and Web Components
 date: 2014-05-22T01:49:04+00:00
 author: Ben

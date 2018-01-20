@@ -1,5 +1,4 @@
 ---
-id: 1043
 title: 'GOTO 2016 -- Software, Faster -- Dan North'
 date: 2017-03-29T21:10:35+00:00
 author: Ben

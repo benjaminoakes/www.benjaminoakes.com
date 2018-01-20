@@ -1,5 +1,4 @@
 ---
-id: 982
 title: 'Asimov -- The Relativity of Wrong'
 date: 2016-12-18T05:17:40+00:00
 author: Ben

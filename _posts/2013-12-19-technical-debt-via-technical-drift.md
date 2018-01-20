@@ -1,5 +1,4 @@
 ---
-id: 404
 title: Technical Debt via Technical Drift
 date: 2013-12-19T19:26:54+00:00
 author: Ben

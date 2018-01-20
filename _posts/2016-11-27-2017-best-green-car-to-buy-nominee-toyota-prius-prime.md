@@ -1,5 +1,4 @@
 ---
-id: 966
 title: '2017 Best Green Car To Buy nominee: Toyota Prius Prime'
 date: 2016-11-27T16:23:18+00:00
 author: Ben

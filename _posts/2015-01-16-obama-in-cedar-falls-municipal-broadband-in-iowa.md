@@ -1,5 +1,4 @@
 ---
-id: 592
 title: Obama in Cedar Falls, Municipal broadband in Iowa
 date: 2015-01-16T04:44:05+00:00
 author: Ben

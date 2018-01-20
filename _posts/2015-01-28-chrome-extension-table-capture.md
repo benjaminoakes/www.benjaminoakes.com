@@ -1,5 +1,4 @@
 ---
-id: 611
 title: 'Chrome Extension: Table Capture'
 date: 2015-01-28T22:26:25+00:00
 author: Ben

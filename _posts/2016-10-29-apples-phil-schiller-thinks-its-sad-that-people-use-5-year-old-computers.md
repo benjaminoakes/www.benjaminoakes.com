@@ -1,5 +1,4 @@
 ---
-id: 928
 title: 'Apple&#8217;s Phil Schiller thinks it’s sad that people use 5-year-old computers'
 date: 2016-10-29T03:13:21+00:00
 author: Ben

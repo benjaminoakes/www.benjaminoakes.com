@@ -1,5 +1,4 @@
 ---
-id: 1044
 title: strftime cheat sheet
 date: 2017-03-29T21:18:28+00:00
 author: Ben

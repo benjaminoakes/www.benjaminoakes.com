@@ -1,5 +1,4 @@
 ---
-id: 457
 title: How To Scale a Development Team
 date: 2014-03-07T19:31:22+00:00
 author: Ben

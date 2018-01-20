@@ -1,5 +1,4 @@
 ---
-id: 212
 title: Maid v0.3.0 release!
 date: 2013-04-05T04:13:07+00:00
 author: Ben

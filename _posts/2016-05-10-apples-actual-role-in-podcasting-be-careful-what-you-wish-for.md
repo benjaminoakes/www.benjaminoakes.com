@@ -1,5 +1,4 @@
 ---
-id: 877
 title: 'Apple’s actual role in podcasting: be careful what you wish for'
 date: 2016-05-10T13:21:22+00:00
 author: Ben

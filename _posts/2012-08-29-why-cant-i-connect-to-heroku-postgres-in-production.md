@@ -1,5 +1,4 @@
 ---
-id: 152
 title: 'Why can&#8217;t I connect to Heroku Postgres in production?'
 date: 2012-08-29T03:53:52+00:00
 author: Ben

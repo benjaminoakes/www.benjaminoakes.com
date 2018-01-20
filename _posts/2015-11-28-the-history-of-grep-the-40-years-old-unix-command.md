@@ -1,5 +1,4 @@
 ---
-id: 780
 title: The history of grep, the 40 years old Unix command
 date: 2015-11-28T16:42:06+00:00
 author: Ben

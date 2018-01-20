@@ -1,5 +1,4 @@
 ---
-id: 829
 title: 'AMA: We pair program (almost) everything. Ask us anything!'
 date: 2016-02-19T00:17:56+00:00
 author: Ben

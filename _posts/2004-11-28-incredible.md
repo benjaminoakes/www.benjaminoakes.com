@@ -1,5 +1,4 @@
 ---
-id: 64
 title: Incredible
 date: 2004-11-28T13:12:04+00:00
 author: Ben

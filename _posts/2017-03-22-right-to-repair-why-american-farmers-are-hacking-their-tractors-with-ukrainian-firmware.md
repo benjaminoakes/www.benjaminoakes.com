@@ -1,5 +1,4 @@
 ---
-id: 1031
 title: 'Right to Repair: Why American Farmers Are Hacking Their Tractors With Ukrainian Firmware'
 date: 2017-03-22T22:31:57+00:00
 author: Ben

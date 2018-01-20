@@ -1,5 +1,4 @@
 ---
-id: 743
 title: '#NodeJS : A quick optimization advice'
 date: 2015-10-12T15:41:04+00:00
 author: Ben

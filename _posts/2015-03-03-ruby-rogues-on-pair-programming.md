@@ -1,5 +1,4 @@
 ---
-id: 638
 title: Ruby Rogues on Pair Programming
 date: 2015-03-03T23:23:08+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 679
 title: 'You can now test Project Spartan, Microsoft&#8217;s Internet Explorer successor'
 date: 2015-03-31T13:28:34+00:00
 author: Ben

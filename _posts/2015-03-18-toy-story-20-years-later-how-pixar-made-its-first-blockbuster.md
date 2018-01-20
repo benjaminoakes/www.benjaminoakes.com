@@ -1,5 +1,4 @@
 ---
-id: 672
 title: 'Toy Story, 20 years later: how Pixar made its first blockbuster'
 date: 2015-03-18T01:42:48+00:00
 author: Ben

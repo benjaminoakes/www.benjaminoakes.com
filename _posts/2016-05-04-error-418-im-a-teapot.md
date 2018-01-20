@@ -1,5 +1,4 @@
 ---
-id: 867
 title: Error 418 (I’m a teapot)!?
 date: 2016-05-04T19:50:18+00:00
 author: Ben

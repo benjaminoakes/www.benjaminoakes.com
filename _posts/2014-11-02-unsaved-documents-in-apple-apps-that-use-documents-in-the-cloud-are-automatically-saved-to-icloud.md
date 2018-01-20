@@ -1,5 +1,4 @@
 ---
-id: 574
 title: Unsaved documents in Apple apps that use Documents in the Cloud are automatically saved to iCloud
 date: 2014-11-02T04:11:06+00:00
 author: Ben

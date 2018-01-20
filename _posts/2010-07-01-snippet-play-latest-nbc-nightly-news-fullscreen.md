@@ -1,5 +1,4 @@
 ---
-id: 95
 title: 'Snippet: Play latest NBC Nightly News fullscreen'
 date: 2010-07-01T12:24:54+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 722
 title: 'Recipe: git bisect'
 date: 2014-04-29T20:11:20+00:00
 author: Ben

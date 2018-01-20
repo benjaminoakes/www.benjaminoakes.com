@@ -1,5 +1,4 @@
 ---
-id: 511
 title: 'iOS 8 wish-list: pre-WWDC edition'
 date: 2014-06-02T04:12:17+00:00
 author: Ben

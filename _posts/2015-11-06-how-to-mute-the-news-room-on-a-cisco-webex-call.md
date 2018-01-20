@@ -1,5 +1,4 @@
 ---
-id: 759
 title: How to mute the news room on a Cisco WebEx call
 date: 2015-11-06T17:07:27+00:00
 author: Ben

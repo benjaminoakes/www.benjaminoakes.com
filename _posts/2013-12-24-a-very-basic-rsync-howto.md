@@ -1,5 +1,4 @@
 ---
-id: 407
 title: A very basic rsync HOWTO
 date: 2013-12-24T04:07:10+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 918
 title: '2017 Chevy Bolt EV electric car: 238-mile EPA range rating, 119 MPGe combined'
 date: 2016-09-13T12:53:30+00:00
 author: Ben

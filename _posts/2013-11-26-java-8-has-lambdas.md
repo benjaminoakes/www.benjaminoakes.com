@@ -1,5 +1,4 @@
 ---
-id: 370
 title: Java 8 has lambdas?
 date: 2013-11-26T19:14:42+00:00
 author: Ben

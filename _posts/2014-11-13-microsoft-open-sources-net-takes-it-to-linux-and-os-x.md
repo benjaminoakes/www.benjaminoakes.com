@@ -1,5 +1,4 @@
 ---
-id: 580
 title: Microsoft open sources .NET, takes it to Linux and OS X
 date: 2014-11-13T01:32:06+00:00
 author: Ben

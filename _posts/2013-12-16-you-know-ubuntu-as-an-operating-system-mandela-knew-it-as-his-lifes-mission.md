@@ -1,5 +1,4 @@
 ---
-id: 399
 title: You know Ubuntu as an operating system. Mandela knew it as his life’s mission.
 date: 2013-12-16T00:36:45+00:00
 author: Ben

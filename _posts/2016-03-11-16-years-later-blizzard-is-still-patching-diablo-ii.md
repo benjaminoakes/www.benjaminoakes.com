@@ -1,5 +1,4 @@
 ---
-id: 851
 title: 16 years later, Blizzard is still patching Diablo II
 date: 2016-03-11T19:08:39+00:00
 author: Ben

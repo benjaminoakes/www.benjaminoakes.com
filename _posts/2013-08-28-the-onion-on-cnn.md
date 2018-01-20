@@ -1,5 +1,4 @@
 ---
-id: 277
 title: The Onion on CNN
 date: 2013-08-28T00:53:47+00:00
 author: Ben

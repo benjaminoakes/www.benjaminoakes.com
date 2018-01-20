@@ -1,5 +1,4 @@
 ---
-id: 608
 title: YouTube says HTML5 video ready for primetime, makes it default
 date: 2015-01-28T01:50:13+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 882
 title: clipboard.js
 date: 2016-05-19T00:08:44+00:00
 author: Ben

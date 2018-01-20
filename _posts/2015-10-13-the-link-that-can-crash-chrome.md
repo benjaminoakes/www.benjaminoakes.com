@@ -1,5 +1,4 @@
 ---
-id: 745
 title: The Link That Can Crash Chrome
 date: 2015-10-13T03:08:48+00:00
 author: Ben

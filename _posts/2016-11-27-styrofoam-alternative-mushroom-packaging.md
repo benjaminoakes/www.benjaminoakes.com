@@ -1,5 +1,4 @@
 ---
-id: 970
 title: 'Styrofoam Alternative: Mushroom Packaging'
 date: 2016-11-27T16:26:28+00:00
 author: Ben

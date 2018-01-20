@@ -1,5 +1,4 @@
 ---
-id: 112
 title: Clever Spam
 date: 2010-11-24T03:04:32+00:00
 author: Ben

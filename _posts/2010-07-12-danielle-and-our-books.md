@@ -1,5 +1,4 @@
 ---
-id: 104
 title: Danielle and our books
 date: 2010-07-12T16:52:47+00:00
 author: Ben

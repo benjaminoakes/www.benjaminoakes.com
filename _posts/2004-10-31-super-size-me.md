@@ -1,5 +1,4 @@
 ---
-id: 54
 title: Super Size Me
 date: 2004-10-31T20:00:32+00:00
 author: Ben

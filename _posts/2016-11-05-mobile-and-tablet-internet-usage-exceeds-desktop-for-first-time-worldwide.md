@@ -1,5 +1,4 @@
 ---
-id: 941
 title: Mobile and tablet internet usage exceeds desktop for first time worldwide
 date: 2016-11-05T15:12:53+00:00
 author: Ben

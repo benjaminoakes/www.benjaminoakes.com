@@ -1,5 +1,4 @@
 ---
-id: 57
 title: The elections are finally upon us
 date: 2004-11-01T20:00:50+00:00
 author: Ben

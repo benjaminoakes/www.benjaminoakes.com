@@ -1,5 +1,4 @@
 ---
-id: 237
 title: Creative Corridor Launch
 date: 2013-04-19T22:44:20+00:00
 author: Ben

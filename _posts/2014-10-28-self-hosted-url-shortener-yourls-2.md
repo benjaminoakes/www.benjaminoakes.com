@@ -1,5 +1,4 @@
 ---
-id: 567
 title: 'Self-hosted URL shortener: YOURLS'
 date: 2014-10-28T17:43:30+00:00
 author: Ben

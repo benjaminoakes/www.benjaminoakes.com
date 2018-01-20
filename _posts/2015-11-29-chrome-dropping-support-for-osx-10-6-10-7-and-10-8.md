@@ -1,5 +1,4 @@
 ---
-id: 782
 title: Chrome dropping support for OSX 10.6, 10.7, and 10.8
 date: 2015-11-29T16:36:10+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 530
 title: Componentize the Web
 date: 2014-06-30T17:51:53+00:00
 author: Ben

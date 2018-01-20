@@ -1,5 +1,4 @@
 ---
-id: 508
 title: 'Vagrant LXC -- Linux Containers for Vagrant'
 date: 2014-05-30T18:51:46+00:00
 author: Ben

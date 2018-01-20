@@ -1,5 +1,4 @@
 ---
-id: 455
 title: 'The Abomination of Ebooks: They Price People Out of Reading'
 date: 2014-03-07T04:57:37+00:00
 author: Ben

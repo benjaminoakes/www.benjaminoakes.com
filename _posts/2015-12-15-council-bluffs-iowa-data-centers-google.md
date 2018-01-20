@@ -1,5 +1,4 @@
 ---
-id: 799
 title: Council Bluffs, Iowa – Data Centers – Google
 date: 2015-12-15T20:06:28+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 526
 title: Filter a list of paths to those that exist
 date: 2014-06-16T17:37:34+00:00
 author: Ben

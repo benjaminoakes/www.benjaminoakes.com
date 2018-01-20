@@ -1,5 +1,4 @@
 ---
-id: 1010
 title: 'JWT: JSON Web Tokens'
 date: 2017-02-22T19:11:53+00:00
 author: Ben

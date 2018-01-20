@@ -1,5 +1,4 @@
 ---
-id: 726
 title: Filmmakers fighting “Happy Birthday” copyright find their “smoking gun”
 date: 2015-07-28T14:02:09+00:00
 author: Ben

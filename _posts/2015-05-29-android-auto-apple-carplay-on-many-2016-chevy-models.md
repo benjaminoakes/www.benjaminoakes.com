@@ -1,5 +1,4 @@
 ---
-id: 696
 title: Android Auto, Apple CarPlay on many 2016 Chevy models
 date: 2015-05-29T18:14:00+00:00
 author: Ben

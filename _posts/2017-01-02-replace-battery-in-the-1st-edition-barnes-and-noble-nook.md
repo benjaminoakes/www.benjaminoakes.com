@@ -1,5 +1,4 @@
 ---
-id: 991
 title: Replace Battery in the 1st Edition Barnes and Noble Nook
 date: 2017-01-02T23:27:15+00:00
 author: Ben

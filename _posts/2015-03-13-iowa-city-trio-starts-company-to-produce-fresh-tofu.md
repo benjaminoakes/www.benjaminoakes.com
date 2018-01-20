@@ -1,5 +1,4 @@
 ---
-id: 667
 title: Iowa City trio starts company to produce fresh tofu
 date: 2015-03-13T13:43:09+00:00
 author: Ben

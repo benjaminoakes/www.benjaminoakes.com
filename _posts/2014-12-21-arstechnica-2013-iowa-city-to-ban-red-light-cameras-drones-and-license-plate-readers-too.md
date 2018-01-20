@@ -1,5 +1,4 @@
 ---
-id: 584
 title: 'ArsTechnica 2013: Iowa City to ban red-light cameras, drones, and license plate readers too'
 date: 2014-12-21T16:30:21+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 83
 title: Laugh Olympics
 date: 2002-04-18T20:43:24+00:00
 author: Ben

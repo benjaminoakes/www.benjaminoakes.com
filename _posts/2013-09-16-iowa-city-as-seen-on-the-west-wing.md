@@ -1,5 +1,4 @@
 ---
-id: 324
 title: Iowa City, as seen on The West Wing
 date: 2013-09-16T03:22:29+00:00
 author: Ben

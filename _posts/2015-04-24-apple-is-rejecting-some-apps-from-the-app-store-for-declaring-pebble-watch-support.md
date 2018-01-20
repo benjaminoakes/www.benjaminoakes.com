@@ -1,5 +1,4 @@
 ---
-id: 690
 title: Apple Is Rejecting Some Apps From The App Store For Declaring Pebble Watch Support
 date: 2015-04-24T00:49:41+00:00
 author: Ben

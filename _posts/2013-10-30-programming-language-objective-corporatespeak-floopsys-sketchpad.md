@@ -1,5 +1,4 @@
 ---
-id: 357
 title: 'Programming Language: Objective CorporateSpeak++ -- Floopsy&#8217;s Sketchpad'
 date: 2013-10-30T13:46:30+00:00
 author: Ben

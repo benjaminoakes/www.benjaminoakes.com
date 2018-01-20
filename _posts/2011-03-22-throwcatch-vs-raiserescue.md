@@ -1,5 +1,4 @@
 ---
-id: 123
 title: 'throw/catch vs. raise/rescue'
 date: 2011-03-22T02:13:41+00:00
 author: Ben

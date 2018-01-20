@@ -1,5 +1,4 @@
 ---
-id: 858
 title: Electric cars gaining ground in Iowa
 date: 2016-03-27T15:07:33+00:00
 author: Ben

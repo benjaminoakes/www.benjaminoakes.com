@@ -1,5 +1,4 @@
 ---
-id: 714
 title: From ASM.JS to WebAssembly
 date: 2015-06-19T17:43:08+00:00
 author: Ben

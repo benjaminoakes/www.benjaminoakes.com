@@ -1,5 +1,4 @@
 ---
-id: 727
 title: US sees residential solar surge past commercial-scale installs
 date: 2015-07-30T23:07:34+00:00
 author: Ben

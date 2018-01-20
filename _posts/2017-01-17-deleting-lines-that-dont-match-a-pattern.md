@@ -1,5 +1,4 @@
 ---
-id: 997
 title: 'Deleting Lines that don&#8217;t Match a Pattern'
 date: 2017-01-17T19:52:30+00:00
 author: Ben

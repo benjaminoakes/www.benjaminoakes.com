@@ -1,5 +1,4 @@
 ---
-id: 299
 title: Time Enough at Last
 date: 2013-09-01T18:47:36+00:00
 author: Ben

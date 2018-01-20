@@ -1,5 +1,4 @@
 ---
-id: 633
 title: Why Wesabe Lost to Mint
 date: 2015-02-23T04:14:38+00:00
 author: Ben

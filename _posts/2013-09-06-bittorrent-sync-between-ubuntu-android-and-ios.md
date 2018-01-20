@@ -1,5 +1,4 @@
 ---
-id: 309
 title: BitTorrent Sync between Ubuntu, Android, and iOS
 date: 2013-09-06T03:26:31+00:00
 author: Ben

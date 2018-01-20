@@ -1,5 +1,4 @@
 ---
-id: 704
 title: The making of “Who Shot Mr. Burns?”
 date: 2015-06-09T21:47:08+00:00
 author: Ben

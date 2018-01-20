@@ -1,5 +1,4 @@
 ---
-id: 658
 title: California’s hot, dry winters tied to climate change
 date: 2015-03-09T17:27:15+00:00
 author: Ben

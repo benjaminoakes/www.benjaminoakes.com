@@ -1,5 +1,4 @@
 ---
-id: 1000
 title: Wood waste alcohol converted to jet fuel, used in Alaska Airlines test flight
 date: 2017-01-22T20:02:34+00:00
 author: Ben

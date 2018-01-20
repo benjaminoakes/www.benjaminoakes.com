@@ -1,5 +1,4 @@
 ---
-id: 615
 title: How to allow auto-update of apps in Play Store only when plugged in?
 date: 2015-01-30T04:19:48+00:00
 author: Ben

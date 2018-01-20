@@ -1,5 +1,4 @@
 ---
-id: 505
 title: 300ms test for Mobile Browsers
 date: 2014-05-22T23:28:57+00:00
 author: Ben

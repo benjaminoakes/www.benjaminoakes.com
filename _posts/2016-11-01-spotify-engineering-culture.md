@@ -1,5 +1,4 @@
 ---
-id: 939
 title: Spotify engineering culture
 date: 2016-11-01T18:42:28+00:00
 author: Ben

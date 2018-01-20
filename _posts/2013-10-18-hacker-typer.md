@@ -1,5 +1,4 @@
 ---
-id: 351
 title: Hacker Typer
 date: 2013-10-18T22:18:37+00:00
 author: Ben

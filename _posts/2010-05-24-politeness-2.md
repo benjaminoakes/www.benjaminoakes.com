@@ -1,5 +1,4 @@
 ---
-id: 36
 title: Politeness
 date: 2010-05-24T03:57:41+00:00
 author: Ben

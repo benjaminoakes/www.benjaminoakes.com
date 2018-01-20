@@ -1,5 +1,4 @@
 ---
-id: 449
 title: Ruby gotchas
 date: 2014-02-27T19:22:46+00:00
 author: Ben

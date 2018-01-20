@@ -1,5 +1,4 @@
 ---
-id: 453
 title: Over 120 Science Journal Papers Pulled For Being Total Gibberish
 date: 2014-03-04T13:25:19+00:00
 author: Ben

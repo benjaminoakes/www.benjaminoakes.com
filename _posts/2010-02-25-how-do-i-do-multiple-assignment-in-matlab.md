@@ -1,5 +1,4 @@
 ---
-id: 223
 title: How do I do multiple assignment in MATLAB
 date: 2010-02-25T11:00:42+00:00
 author: Ben

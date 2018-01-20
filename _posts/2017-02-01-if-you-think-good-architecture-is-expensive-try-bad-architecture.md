@@ -1,5 +1,4 @@
 ---
-id: 1005
 title: If you think good architecture is expensive, try bad architecture
 date: 2017-02-01T19:05:06+00:00
 author: Ben

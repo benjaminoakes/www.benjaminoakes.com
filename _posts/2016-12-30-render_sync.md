@@ -1,5 +1,4 @@
 ---
-id: 984
 title: chrismccord/render_sync
 date: 2016-12-30T16:44:19+00:00
 author: Ben

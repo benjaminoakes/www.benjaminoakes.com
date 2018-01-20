@@ -1,5 +1,4 @@
 ---
-id: 425
 title: 'KnightOS -- An open source OS for TI calculators'
 date: 2014-01-24T21:50:40+00:00
 author: Ben

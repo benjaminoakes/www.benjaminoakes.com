@@ -1,5 +1,4 @@
 ---
-id: 571
 title: Native Skype for Chromebooks Just Got a Step Closer
 date: 2014-10-29T22:11:09+00:00
 author: Ben

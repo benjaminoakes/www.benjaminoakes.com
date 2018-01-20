@@ -1,5 +1,4 @@
 ---
-id: 1015
 title: Google announces the first practical technique for generating a SHA-1 collision
 date: 2017-02-23T16:39:49+00:00
 author: Ben

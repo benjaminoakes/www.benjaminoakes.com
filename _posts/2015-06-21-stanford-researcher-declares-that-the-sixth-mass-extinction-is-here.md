@@ -1,5 +1,4 @@
 ---
-id: 716
 title: Stanford researcher declares that the sixth mass extinction is here
 date: 2015-06-21T00:49:50+00:00
 author: Ben

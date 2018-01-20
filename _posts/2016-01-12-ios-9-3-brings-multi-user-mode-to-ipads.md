@@ -1,5 +1,4 @@
 ---
-id: 815
 title: iOS 9.3 brings multi-user mode to iPads
 date: 2016-01-12T04:24:20+00:00
 author: Ben

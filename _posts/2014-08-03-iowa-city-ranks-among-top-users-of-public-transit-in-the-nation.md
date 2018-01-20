@@ -1,5 +1,4 @@
 ---
-id: 535
 title: Iowa City ranks among top users of public transit in the nation
 date: 2014-08-03T04:42:59+00:00
 author: Ben

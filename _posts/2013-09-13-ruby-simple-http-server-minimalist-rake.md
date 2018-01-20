@@ -1,5 +1,4 @@
 ---
-id: 317
 title: Ruby Simple HTTP Server, minimalist Rake
 date: 2013-09-13T03:38:01+00:00
 author: Ben

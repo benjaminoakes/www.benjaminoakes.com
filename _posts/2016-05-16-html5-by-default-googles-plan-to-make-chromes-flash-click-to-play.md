@@ -1,5 +1,4 @@
 ---
-id: 881
 title: 'HTML5 by default: Google’s plan to make Chrome’s Flash click-to-play'
 date: 2016-05-16T00:54:19+00:00
 author: Ben

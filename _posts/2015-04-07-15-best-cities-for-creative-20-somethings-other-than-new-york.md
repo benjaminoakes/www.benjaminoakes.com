@@ -1,5 +1,4 @@
 ---
-id: 681
 title: 15 Best Cities for Creative 20-Somethings Other Than New York
 date: 2015-04-07T03:09:29+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 886
 title: Using splats to build up and tear apart arrays in Ruby
 date: 2016-05-26T16:56:06+00:00
 author: Ben

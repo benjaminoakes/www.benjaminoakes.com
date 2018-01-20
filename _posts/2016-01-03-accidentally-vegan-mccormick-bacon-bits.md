@@ -1,5 +1,4 @@
 ---
-id: 810
 title: 'Accidentally Vegan: McCormick Bacon Bits'
 date: 2016-01-03T22:56:31+00:00
 author: Ben

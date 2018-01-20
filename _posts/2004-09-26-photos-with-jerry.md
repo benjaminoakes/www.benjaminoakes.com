@@ -1,5 +1,4 @@
 ---
-id: 47
 title: Photos with Jerry
 date: 2004-09-26T18:17:20+00:00
 author: Ben

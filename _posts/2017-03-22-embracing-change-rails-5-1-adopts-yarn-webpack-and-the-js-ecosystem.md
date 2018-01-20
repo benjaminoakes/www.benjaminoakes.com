@@ -1,5 +1,4 @@
 ---
-id: 1033
 title: 'Embracing Change: Rails 5.1 Adopts Yarn, Webpack, and the JS Ecosystem'
 date: 2017-03-22T22:41:16+00:00
 author: Ben

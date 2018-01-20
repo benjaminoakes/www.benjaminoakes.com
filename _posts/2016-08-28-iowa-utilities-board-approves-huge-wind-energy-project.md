@@ -1,5 +1,4 @@
 ---
-id: 913
 title: Iowa Utilities Board approves huge wind energy project
 date: 2016-08-28T03:38:32+00:00
 author: Ben

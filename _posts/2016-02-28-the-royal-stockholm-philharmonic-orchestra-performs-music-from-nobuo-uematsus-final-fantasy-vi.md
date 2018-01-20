@@ -1,5 +1,4 @@
 ---
-id: 837
 title: 'The Royal Stockholm Philharmonic Orchestra performs music from Nobuo Uematsu&#8217;s Final Fantasy VI'
 date: 2016-02-28T02:44:44+00:00
 author: Ben

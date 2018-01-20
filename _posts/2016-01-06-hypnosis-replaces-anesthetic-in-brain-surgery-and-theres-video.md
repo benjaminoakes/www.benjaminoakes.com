@@ -1,5 +1,4 @@
 ---
-id: 813
 title: Hypnosis replaces anesthetic in brain surgery—and there’s video
 date: 2016-01-06T03:34:04+00:00
 author: Ben

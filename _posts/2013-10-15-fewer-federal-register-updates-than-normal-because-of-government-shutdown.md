@@ -1,5 +1,4 @@
 ---
-id: 349
 title: Fewer Federal Register updates than normal because of government shutdown
 date: 2013-10-15T16:02:53+00:00
 author: Ben

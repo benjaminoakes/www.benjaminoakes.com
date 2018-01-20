@@ -1,5 +1,4 @@
 ---
-id: 609
 title: 'Iowa City in top 10 of Livability&#8217;s 2015 Best Places to Live'
 date: 2015-01-28T05:18:38+00:00
 author: Ben

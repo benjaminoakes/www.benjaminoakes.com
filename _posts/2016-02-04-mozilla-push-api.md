@@ -1,5 +1,4 @@
 ---
-id: 819
 title: Mozilla Push API
 date: 2016-02-04T02:51:43+00:00
 author: Ben

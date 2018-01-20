@@ -1,5 +1,4 @@
 ---
-id: 174
 title: Keep Calm and Vote Early
 date: 2012-10-19T18:07:28+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 358
 title: CISCO Announce New Open Source H.264 Codec
 date: 2013-10-30T21:44:35+00:00
 author: Ben

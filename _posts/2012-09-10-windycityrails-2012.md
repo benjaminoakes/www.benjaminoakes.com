@@ -1,5 +1,4 @@
 ---
-id: 154
 title: WindyCityRails 2012
 date: 2012-09-10T13:51:54+00:00
 author: Ben

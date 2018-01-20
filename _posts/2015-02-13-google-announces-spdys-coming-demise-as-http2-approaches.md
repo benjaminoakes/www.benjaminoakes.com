@@ -1,5 +1,4 @@
 ---
-id: 621
 title: Google announces SPDY’s coming demise as HTTP/2 approaches
 date: 2015-02-13T03:23:31+00:00
 author: Ben

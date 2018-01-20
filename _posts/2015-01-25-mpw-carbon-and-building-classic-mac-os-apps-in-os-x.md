@@ -1,5 +1,4 @@
 ---
-id: 599
 title: MPW, Carbon and building Classic Mac OS apps in OS X
 date: 2015-01-25T16:51:56+00:00
 author: Ben

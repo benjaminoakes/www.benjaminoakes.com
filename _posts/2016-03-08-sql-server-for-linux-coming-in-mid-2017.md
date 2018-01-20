@@ -1,5 +1,4 @@
 ---
-id: 846
 title: SQL Server for Linux coming in mid-2017
 date: 2016-03-08T02:02:09+00:00
 author: Ben

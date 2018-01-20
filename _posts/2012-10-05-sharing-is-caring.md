@@ -1,5 +1,4 @@
 ---
-id: 167
 title: Sharing is Caring
 date: 2012-10-05T03:36:36+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 917
 title: Johnson County triples its solar power production
 date: 2016-09-13T02:23:10+00:00
 author: Ben

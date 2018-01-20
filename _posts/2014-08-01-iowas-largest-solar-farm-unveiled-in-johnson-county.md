@@ -1,5 +1,4 @@
 ---
-id: 534
 title: 'Iowa&#8217;s largest solar farm unveiled in Johnson County'
 date: 2014-08-01T01:12:06+00:00
 author: Ben

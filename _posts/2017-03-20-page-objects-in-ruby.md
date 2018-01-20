@@ -1,5 +1,4 @@
 ---
-id: 1026
 title: Page Objects in Ruby
 date: 2017-03-20T14:48:18+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 284
 title: 'Omaha&#8217;s PeggyBank archives MPegs and JPegs'
 date: 2013-08-29T12:28:00+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 439
 title: How In-app Purchases Have Destroyed The Industry
 date: 2014-02-09T04:50:36+00:00
 author: Ben

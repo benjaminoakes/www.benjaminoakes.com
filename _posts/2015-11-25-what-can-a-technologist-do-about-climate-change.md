@@ -1,5 +1,4 @@
 ---
-id: 779
 title: What can a technologist do about climate change?
 date: 2015-11-25T03:09:25+00:00
 author: Ben

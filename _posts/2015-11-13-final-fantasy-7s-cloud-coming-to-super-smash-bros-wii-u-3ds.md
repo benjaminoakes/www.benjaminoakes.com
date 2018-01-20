@@ -1,5 +1,4 @@
 ---
-id: 764
 title: 'Final Fantasy 7&#8217;s Cloud Coming to Super Smash Bros Wii U, 3DS'
 date: 2015-11-13T00:20:31+00:00
 author: Ben

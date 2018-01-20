@@ -1,5 +1,4 @@
 ---
-id: 699
 title: Microsoft Will Help Iowa Caucuses Go High-Tech
 date: 2015-06-09T02:27:06+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 318
 title: PostgresSQL 9.3 (now with more JSON)
 date: 2013-09-10T03:25:29+00:00
 author: Ben

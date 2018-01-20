@@ -1,5 +1,4 @@
 ---
-id: 832
 title: Welcoming the Xamarin team to Microsoft
 date: 2016-02-24T20:36:04+00:00
 author: Ben

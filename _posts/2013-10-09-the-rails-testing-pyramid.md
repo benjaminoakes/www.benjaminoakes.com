@@ -1,5 +1,4 @@
 ---
-id: 340
 title: The Rails Testing Pyramid
 date: 2013-10-09T14:47:04+00:00
 author: Ben

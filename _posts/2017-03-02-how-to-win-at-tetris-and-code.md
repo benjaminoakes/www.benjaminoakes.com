@@ -1,5 +1,4 @@
 ---
-id: 1020
 title: How to win at Tetris (and code)
 date: 2017-03-02T15:57:32+00:00
 author: Ben

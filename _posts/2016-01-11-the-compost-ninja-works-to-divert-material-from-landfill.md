@@ -1,5 +1,4 @@
 ---
-id: 814
 title: The Compost Ninja works to divert material from landfill
 date: 2016-01-11T04:03:37+00:00
 author: Ben

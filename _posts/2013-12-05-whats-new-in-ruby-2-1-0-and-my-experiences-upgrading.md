@@ -1,5 +1,4 @@
 ---
-id: 387
 title: 'What&#8217;s new in Ruby 2.1.0?  (And my experiences upgrading)'
 date: 2013-12-05T05:09:48+00:00
 author: Ben

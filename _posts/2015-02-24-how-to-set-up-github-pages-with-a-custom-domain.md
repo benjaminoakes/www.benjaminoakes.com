@@ -1,5 +1,4 @@
 ---
-id: 635
 title: How to Set Up GitHub Pages with a Custom Domain
 date: 2015-02-24T03:58:26+00:00
 author: Ben

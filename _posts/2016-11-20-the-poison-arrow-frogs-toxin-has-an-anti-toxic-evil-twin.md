@@ -1,5 +1,4 @@
 ---
-id: 963
 title: The poison arrow frog’s toxin has an anti-toxic evil twin
 date: 2016-11-20T01:36:39+00:00
 author: Ben

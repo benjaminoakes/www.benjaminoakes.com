@@ -1,5 +1,4 @@
 ---
-id: 460
 title: Converting a hexdump to binary, SoundPlay on BeOS
 date: 2014-03-11T17:54:12+00:00
 author: Ben

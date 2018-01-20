@@ -1,5 +1,4 @@
 ---
-id: 770
 title: Choose Boring Technology
 date: 2015-11-22T16:22:36+00:00
 author: Ben

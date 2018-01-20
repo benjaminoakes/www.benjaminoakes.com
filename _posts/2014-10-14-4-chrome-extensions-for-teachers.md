@@ -1,5 +1,4 @@
 ---
-id: 552
 title: 4 Chrome Extensions for Teachers
 date: 2014-10-14T02:39:47+00:00
 author: Ben

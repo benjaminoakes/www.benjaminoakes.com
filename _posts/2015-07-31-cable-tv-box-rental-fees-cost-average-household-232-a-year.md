@@ -1,5 +1,4 @@
 ---
-id: 728
 title: Cable TV box rental fees cost average household $232 a year
 date: 2015-07-31T00:46:59+00:00
 author: Ben

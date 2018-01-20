@@ -1,5 +1,4 @@
 ---
-id: 790
 title: 'ampd: a remote-controlled jukebox for your old Android device'
 date: 2015-12-08T13:57:52+00:00
 author: Ben

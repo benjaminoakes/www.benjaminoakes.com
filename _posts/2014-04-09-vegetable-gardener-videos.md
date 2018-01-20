@@ -1,5 +1,4 @@
 ---
-id: 484
 title: Vegetable Gardener Videos
 date: 2014-04-09T17:34:03+00:00
 author: Ben

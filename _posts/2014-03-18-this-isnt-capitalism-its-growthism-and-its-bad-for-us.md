@@ -1,5 +1,4 @@
 ---
-id: 472
 title: 'This Isn&#8217;t Capitalism -- It&#8217;s Growthism, and It&#8217;s Bad for Us'
 date: 2014-03-18T02:19:26+00:00
 author: Ben

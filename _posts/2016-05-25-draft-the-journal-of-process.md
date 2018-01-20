@@ -1,5 +1,4 @@
 ---
-id: 884
 title: 'Draft -- The Journal of Process'
 date: 2016-05-25T14:41:21+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 738
 title: City of Iowa City in early stages of switching to LED lighting
 date: 2015-08-20T02:15:27+00:00
 author: Ben

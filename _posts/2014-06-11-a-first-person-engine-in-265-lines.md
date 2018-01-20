@@ -1,5 +1,4 @@
 ---
-id: 521
 title: A first-person engine in 265 lines
 date: 2014-06-11T17:28:42+00:00
 author: Ben

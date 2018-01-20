@@ -1,5 +1,4 @@
 ---
-id: 175
 title: database configuration does not specify adapter
 date: 2012-10-26T22:36:32+00:00
 author: Ben

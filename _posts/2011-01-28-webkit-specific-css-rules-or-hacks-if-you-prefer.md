@@ -1,5 +1,4 @@
 ---
-id: 121
 title: WebKit-specific CSS rules (or hacks, if you prefer)
 date: 2011-01-28T11:58:37+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 616
 title: How do I view source in the Android browser?
 date: 2015-01-30T05:25:42+00:00
 author: Ben

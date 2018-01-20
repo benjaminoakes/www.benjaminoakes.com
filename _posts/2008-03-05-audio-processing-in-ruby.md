@@ -1,5 +1,4 @@
 ---
-id: 296
 title: Audio Processing in Ruby
 date: 2008-03-05T11:04:38+00:00
 author: Ben

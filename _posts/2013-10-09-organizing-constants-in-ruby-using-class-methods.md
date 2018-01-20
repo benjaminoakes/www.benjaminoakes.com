@@ -1,5 +1,4 @@
 ---
-id: 337
 title: Organizing constants in Ruby using class methods
 date: 2013-10-09T13:50:13+00:00
 author: Ben

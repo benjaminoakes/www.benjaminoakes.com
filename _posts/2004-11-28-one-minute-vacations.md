@@ -1,5 +1,4 @@
 ---
-id: 65
 title: One-minute vacations
 date: 2004-11-28T13:39:36+00:00
 author: Ben

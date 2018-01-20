@@ -1,5 +1,4 @@
 ---
-id: 502
 title: Google Chrome Aura Lands on Linux In Latest Stable Update
 date: 2014-05-21T18:46:48+00:00
 author: Ben

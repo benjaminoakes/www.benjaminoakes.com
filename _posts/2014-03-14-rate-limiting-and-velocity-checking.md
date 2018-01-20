@@ -1,5 +1,4 @@
 ---
-id: 469
 title: Rate Limiting and Velocity Checking
 date: 2014-03-14T02:24:10+00:00
 author: Ben

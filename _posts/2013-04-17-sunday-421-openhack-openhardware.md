@@ -1,5 +1,4 @@
 ---
-id: 235
 title: 'Sunday 4/21: OpenHack + OpenHardware'
 date: 2013-04-17T01:05:05+00:00
 author: Ben

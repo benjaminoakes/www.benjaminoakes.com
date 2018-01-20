@@ -1,5 +1,4 @@
 ---
-id: 916
 title: 'Slate: Iowa is ‘most impressive state for clean energy’'
 date: 2016-09-13T02:21:29+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 682
 title: The case for a monolithic repository
 date: 2015-04-07T20:22:56+00:00
 author: Ben

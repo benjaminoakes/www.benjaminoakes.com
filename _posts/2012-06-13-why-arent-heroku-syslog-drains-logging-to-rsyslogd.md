@@ -1,5 +1,4 @@
 ---
-id: 150
 title: 'Why aren&#8217;t Heroku syslog drains logging to rsyslogd?'
 date: 2012-06-13T15:13:51+00:00
 author: Ben

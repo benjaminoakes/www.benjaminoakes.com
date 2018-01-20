@@ -1,5 +1,4 @@
 ---
-id: 978
 title: Lua as a Python’s secret weapon
 date: 2016-12-09T04:28:17+00:00
 author: Ben

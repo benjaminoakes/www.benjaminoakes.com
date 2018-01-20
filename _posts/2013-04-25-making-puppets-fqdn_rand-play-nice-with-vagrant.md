@@ -1,5 +1,4 @@
 ---
-id: 246
 title: 'Making Puppet&#8217;s fqdn_rand play nice with Vagrant'
 date: 2013-04-25T01:26:19+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 948
 title: Iowa City Press-Citizen on Public Measure C
 date: 2016-11-07T14:48:27+00:00
 author: Ben

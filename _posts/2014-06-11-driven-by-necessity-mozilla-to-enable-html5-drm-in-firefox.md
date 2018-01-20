@@ -1,5 +1,4 @@
 ---
-id: 523
 title: Driven by necessity, Mozilla to enable HTML5 DRM in Firefox
 date: 2014-06-11T17:52:26+00:00
 author: Ben

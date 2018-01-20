@@ -1,5 +1,4 @@
 ---
-id: 416
 title: A Huge List of Free Programming Books
 date: 2014-01-07T02:32:17+00:00
 author: Ben

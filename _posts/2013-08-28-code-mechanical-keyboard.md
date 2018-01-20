@@ -1,5 +1,4 @@
 ---
-id: 278
 title: CODE Mechanical Keyboard
 date: 2013-08-28T01:34:10+00:00
 author: Ben

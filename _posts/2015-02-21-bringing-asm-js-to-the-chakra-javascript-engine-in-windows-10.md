@@ -1,5 +1,4 @@
 ---
-id: 628
 title: Bringing asm.js to the Chakra JavaScript engine in Windows 10
 date: 2015-02-21T02:23:20+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 382
 title: 'My thoughts on Avdi Grimm&#8217;s &#8220;Why Linux&#8221;'
 date: 2013-12-04T15:45:17+00:00
 author: Ben

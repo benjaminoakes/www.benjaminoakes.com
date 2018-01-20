@@ -1,5 +1,4 @@
 ---
-id: 926
 title: 'Node v7.0 is out!  It holds such promise...  :D'
 date: 2016-10-25T21:49:01+00:00
 author: Ben

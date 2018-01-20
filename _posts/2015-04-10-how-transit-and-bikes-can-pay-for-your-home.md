@@ -1,5 +1,4 @@
 ---
-id: 685
 title: How transit and bikes can pay for your home
 date: 2015-04-10T11:16:48+00:00
 author: Ben

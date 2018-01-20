@@ -1,5 +1,4 @@
 ---
-id: 852
 title: Despite what you may have heard, Leonardo DiCaprio is probably not buying a house in Iowa City any time soon.
 date: 2016-03-15T03:49:35+00:00
 author: Ben

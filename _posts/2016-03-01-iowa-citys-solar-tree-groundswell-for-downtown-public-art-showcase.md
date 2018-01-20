@@ -1,5 +1,4 @@
 ---
-id: 840
 title: 'Iowa City&#8217;s Solar Tree: Groundswell for Downtown Public Art Showcase'
 date: 2016-03-01T01:54:11+00:00
 author: Ben

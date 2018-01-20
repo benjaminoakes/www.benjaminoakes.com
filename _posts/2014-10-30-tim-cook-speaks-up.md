@@ -1,5 +1,4 @@
 ---
-id: 572
 title: Tim Cook Speaks Up
 date: 2014-10-30T17:45:52+00:00
 author: Ben

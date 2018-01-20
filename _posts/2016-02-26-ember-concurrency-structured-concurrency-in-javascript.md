@@ -1,5 +1,4 @@
 ---
-id: 835
 title: 'ember-concurrency: structured concurrency in JavaScript'
 date: 2016-02-26T19:30:00+00:00
 author: Ben

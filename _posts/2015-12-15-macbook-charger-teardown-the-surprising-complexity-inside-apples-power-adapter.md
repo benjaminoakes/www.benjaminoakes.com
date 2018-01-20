@@ -1,5 +1,4 @@
 ---
-id: 796
 title: 'Macbook charger teardown: The surprising complexity inside Apple&#8217;s power adapter'
 date: 2015-12-15T04:12:04+00:00
 author: Ben

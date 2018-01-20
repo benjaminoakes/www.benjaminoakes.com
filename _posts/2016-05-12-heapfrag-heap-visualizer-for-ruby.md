@@ -1,5 +1,4 @@
 ---
-id: 880
 title: 'heapfrag -- Heap visualizer for Ruby'
 date: 2016-05-12T00:28:42+00:00
 author: Ben

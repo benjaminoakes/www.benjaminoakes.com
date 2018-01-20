@@ -1,5 +1,4 @@
 ---
-id: 932
 title: Factorisation Diagrams
 date: 2016-11-01T03:17:10+00:00
 author: Ben

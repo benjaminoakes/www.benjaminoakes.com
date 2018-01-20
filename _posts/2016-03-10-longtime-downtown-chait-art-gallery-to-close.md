@@ -1,5 +1,4 @@
 ---
-id: 849
 title: Longtime downtown Chait art gallery to close
 date: 2016-03-10T01:47:25+00:00
 author: Ben

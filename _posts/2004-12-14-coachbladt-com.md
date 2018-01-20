@@ -1,5 +1,4 @@
 ---
-id: 69
 title: coachbladt.com
 date: 2004-12-14T20:45:09+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 762
 title: 'Monopoly’s Inventor: The Progressive Who Didn’t Pass ‘Go’'
 date: 2015-11-08T14:41:18+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 792
 title: Richard Stallman Was Right All Along
 date: 2015-12-13T20:09:04+00:00
 author: Ben

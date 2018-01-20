@@ -1,5 +1,4 @@
 ---
-id: 88
 title: 'I didn&#039;t know it was so cut and dry'
 date: 2010-06-06T14:38:15+00:00
 author: Ben

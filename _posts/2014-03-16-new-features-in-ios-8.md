@@ -1,5 +1,4 @@
 ---
-id: 470
 title: New features in iOS 8
 date: 2014-03-16T16:08:50+00:00
 author: Ben

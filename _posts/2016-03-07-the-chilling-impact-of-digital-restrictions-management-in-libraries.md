@@ -1,5 +1,4 @@
 ---
-id: 844
 title: The chilling impact of Digital Restrictions Management in libraries
 date: 2016-03-07T02:44:15+00:00
 author: Ben

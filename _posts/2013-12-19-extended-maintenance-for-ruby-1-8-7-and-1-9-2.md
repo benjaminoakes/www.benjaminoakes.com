@@ -1,5 +1,4 @@
 ---
-id: 401
 title: Extended maintenance for Ruby 1.8.7 and 1.9.2
 date: 2013-12-19T19:12:57+00:00
 author: Ben

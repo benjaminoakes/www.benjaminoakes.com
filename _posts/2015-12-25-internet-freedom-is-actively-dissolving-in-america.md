@@ -1,5 +1,4 @@
 ---
-id: 802
 title: Internet Freedom Is Actively Dissolving in America
 date: 2015-12-25T14:22:23+00:00
 author: Ben

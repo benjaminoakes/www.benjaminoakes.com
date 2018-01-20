@@ -1,5 +1,4 @@
 ---
-id: 147
 title: My thoughts on GitHub for Mac
 date: 2012-04-17T13:14:22+00:00
 author: Ben

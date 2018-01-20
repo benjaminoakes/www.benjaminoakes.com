@@ -1,5 +1,4 @@
 ---
-id: 196
 title: All about to_h in Ruby 2.0
 date: 2013-03-08T04:04:21+00:00
 author: Ben

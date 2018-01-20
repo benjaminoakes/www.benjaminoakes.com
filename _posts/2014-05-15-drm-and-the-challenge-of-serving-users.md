@@ -1,5 +1,4 @@
 ---
-id: 501
 title: DRM and the Challenge of Serving Users
 date: 2014-05-15T14:35:05+00:00
 author: Ben

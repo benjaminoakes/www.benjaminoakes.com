@@ -1,5 +1,4 @@
 ---
-id: 892
 title: 'Vanilla List: The Vanilla Javascript Repository'
 date: 2016-06-16T00:30:36+00:00
 author: Ben

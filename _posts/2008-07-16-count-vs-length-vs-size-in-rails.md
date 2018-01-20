@@ -1,5 +1,4 @@
 ---
-id: 20
 title: Count vs length vs size in Rails
 date: 2008-07-16T20:00:01+00:00
 author: Ben

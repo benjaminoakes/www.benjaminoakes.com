@@ -1,5 +1,4 @@
 ---
-id: 462
 title: 'Final Fantasy Isn&#8217;t Dying. It&#8217;s Already Dead'
 date: 2014-03-12T16:53:14+00:00
 author: Ben

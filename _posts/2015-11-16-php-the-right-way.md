@@ -1,5 +1,4 @@
 ---
-id: 765
 title: 'PHP: The Right Way'
 date: 2015-11-16T16:24:36+00:00
 author: Ben

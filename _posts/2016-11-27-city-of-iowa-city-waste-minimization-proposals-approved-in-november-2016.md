@@ -1,5 +1,4 @@
 ---
-id: 973
 title: City of Iowa City waste minimization proposals approved in November 2016
 date: 2016-11-27T17:06:32+00:00
 author: Ben

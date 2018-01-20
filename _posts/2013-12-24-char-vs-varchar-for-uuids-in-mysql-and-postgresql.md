@@ -1,5 +1,4 @@
 ---
-id: 410
 title: char vs varchar for UUIDs in MySQL and PostgreSQL
 date: 2013-12-24T18:14:44+00:00
 author: Ben

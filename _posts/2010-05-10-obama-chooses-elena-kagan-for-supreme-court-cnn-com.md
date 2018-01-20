@@ -1,5 +1,4 @@
 ---
-id: 28
 title: Obama chooses Elena Kagan for Supreme Court
 date: 2010-05-10T17:40:32+00:00
 author: Ben

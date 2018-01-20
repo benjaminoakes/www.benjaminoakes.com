@@ -1,5 +1,4 @@
 ---
-id: 691
 title: 'Android and iOS apps on Windows: What is Microsoft doing—and will it work?'
 date: 2015-05-14T18:36:14+00:00
 author: Ben

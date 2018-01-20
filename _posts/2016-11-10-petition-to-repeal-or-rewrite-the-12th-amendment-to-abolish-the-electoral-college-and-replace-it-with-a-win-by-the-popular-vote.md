@@ -1,5 +1,4 @@
 ---
-id: 953
 title: Petition to repeal or rewrite the 12th amendment to abolish the electoral college and replace it with a win by the popular vote
 date: 2016-11-10T02:30:51+00:00
 author: Ben

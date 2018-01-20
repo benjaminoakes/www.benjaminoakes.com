@@ -1,5 +1,4 @@
 ---
-id: 930
 title: Ballotpedia
 date: 2016-10-30T04:10:01+00:00
 author: Ben

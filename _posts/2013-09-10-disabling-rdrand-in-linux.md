@@ -1,5 +1,4 @@
 ---
-id: 321
 title: Disabling RdRand in Linux
 date: 2013-09-10T23:08:04+00:00
 author: Ben

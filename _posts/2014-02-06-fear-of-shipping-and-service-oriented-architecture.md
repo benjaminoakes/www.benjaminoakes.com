@@ -1,5 +1,4 @@
 ---
-id: 435
 title: Fear of Shipping and Service-Oriented Architecture
 date: 2014-02-06T17:43:24+00:00
 author: Ben

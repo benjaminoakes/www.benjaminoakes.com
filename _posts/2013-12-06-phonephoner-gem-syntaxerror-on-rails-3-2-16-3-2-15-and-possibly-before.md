@@ -1,5 +1,4 @@
 ---
-id: 388
 title: 'Phone/Phoner gem: SyntaxError on Rails 3.2.16, 3.2.15, and possibly before'
 date: 2013-12-06T17:20:48+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 160
 title: Filtering output when logging
 date: 2012-09-20T20:31:06+00:00
 author: Ben

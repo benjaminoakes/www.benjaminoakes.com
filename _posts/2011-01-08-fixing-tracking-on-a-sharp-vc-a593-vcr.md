@@ -1,5 +1,4 @@
 ---
-id: 114
 title: Fixing Tracking on a Sharp VC-A593 VCR
 date: 2011-01-08T19:06:05+00:00
 author: Ben

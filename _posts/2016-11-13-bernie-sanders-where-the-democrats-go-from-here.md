@@ -1,5 +1,4 @@
 ---
-id: 957
 title: 'Bernie Sanders: Where the Democrats Go From Here'
 date: 2016-11-13T20:41:10+00:00
 author: Ben

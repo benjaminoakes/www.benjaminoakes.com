@@ -1,5 +1,4 @@
 ---
-id: 613
 title: Microsoft to invest in Cyanogen, which hopes to take Android from Google
 date: 2015-01-30T01:32:11+00:00
 author: Ben

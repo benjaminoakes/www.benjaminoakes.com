@@ -1,5 +1,4 @@
 ---
-id: 668
 title: In 2014, for the first time in 40 years, global CO2 emissions have stalled
 date: 2015-03-14T02:14:56+00:00
 author: Ben

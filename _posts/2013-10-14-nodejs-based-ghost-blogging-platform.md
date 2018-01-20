@@ -1,5 +1,4 @@
 ---
-id: 346
 title: Node.js-based Ghost blogging platform
 date: 2013-10-14T21:20:11+00:00
 author: Ben

@@ -1,5 +1,4 @@
 ---
-id: 720
 title: How Can I Clean Recyclables Without Wasting Water?
 date: 2015-07-17T21:26:31+00:00
 author: Ben

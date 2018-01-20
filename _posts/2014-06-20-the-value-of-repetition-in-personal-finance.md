@@ -1,5 +1,4 @@
 ---
-id: 528
 title: The Value of Repetition in Personal Finance
 date: 2014-06-20T15:15:13+00:00
 author: Ben

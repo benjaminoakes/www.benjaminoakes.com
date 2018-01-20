@@ -1,5 +1,4 @@
 ---
-id: 718
 title: Iowa school district asks principals to wear body cams
 date: 2015-07-12T00:14:09+00:00
 author: Ben

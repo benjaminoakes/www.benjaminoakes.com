@@ -1,5 +1,4 @@
 ---
-id: 43
 title: Dating Systems
 date: 2004-08-21T20:59:00+00:00
 author: Ben

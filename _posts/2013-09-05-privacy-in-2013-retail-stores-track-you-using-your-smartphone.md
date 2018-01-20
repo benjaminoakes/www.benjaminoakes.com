@@ -1,5 +1,4 @@
 ---
-id: 264
 title: 'Privacy in 2013: Retail stores track you using your smartphone'
 date: 2013-09-05T02:48:25+00:00
 author: Ben

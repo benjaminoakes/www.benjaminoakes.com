@@ -1,5 +1,4 @@
 ---
-id: 17
 title: Smart Power Strips in OS X
 date: 2008-08-18T19:40:14+00:00
 author: Ben

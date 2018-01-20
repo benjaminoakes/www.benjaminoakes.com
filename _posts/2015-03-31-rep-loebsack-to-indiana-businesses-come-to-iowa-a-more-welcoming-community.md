@@ -1,5 +1,4 @@
 ---
-id: 678
 title: 'Rep. Loebsack to Indiana businesses: Come to Iowa, a &#8216;more welcoming community&#8217;'
 date: 2015-03-31T03:07:27+00:00
 author: Ben
