@@ -17,7 +17,7 @@ tags:
   - tofu
 ---
 <div class="moz-text-html" lang="x-unicode">
-  Ingredients:</p> 
+  Ingredients:
   
   <p>
     1 package wild rice<br /> 3 tablespoons olive oil<br /> 1 onion, diced<br /> Spices, to taste<br /> Garlic powder<br /> Basil<br /> Sage<br /> Oregano<br /> Thyme<br /> Tumeric<br /> Black pepper<br /> Parsley<br /> Ginger<br /> Coriander<br /> 1 pound extra firm tofu, drained and cubed<br /> 1 package mushrooms<br /> 1 (16 ounce) can black beans, drained<br /> 1 package spinach or kale
