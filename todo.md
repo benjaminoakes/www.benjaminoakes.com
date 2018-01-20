@@ -10,10 +10,10 @@
 - [x] Reduce number of posts on root page
 - [x] Change rel=alternate to Feedburner
 - [x] Add Analytics
-- [ ] Remove id, guids from frontmatter
 - [ ] Import content from existing website
-  - [ ] Fix entities
-  - [ ] Fix pipes
+  - [x] Fix entities
+  - [x] Fix pipes
+  - [ ] Remove id, guids from frontmatter
 
 To fix:
 
@@ -38,6 +38,7 @@ Why 404?
 * /2015/01/05/podcast-url-extractor/
 * 2011/01/12/captions-on-sanyo-tv-with-universal-remote/comment-page-1/
 
+- [ ] Add codefences for `class="ruby"`
 - [ ] Check for direct links/images from www.benjaminoakes.com
 - [ ] Check for more iframes for vimeo/youtube http://www.benjaminoakes.com/?s=iframe
 
