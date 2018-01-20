@@ -3,6 +3,10 @@ layout: default
 title: Categories
 ---
 
+{% if site.adsense %}
+  {% include adsense.html %}
+{% endif %}
+
 <!-- Many thanks to https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/ -->
 
 {% assign rawcategories = "" %}
