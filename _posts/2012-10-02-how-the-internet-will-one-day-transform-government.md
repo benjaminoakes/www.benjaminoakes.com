@@ -19,3 +19,5 @@ Or, you know, the Internet will just be a place we go to see funny pictures of c
 **Update:** Just as an experiment, I made [a repository for the laws of Iowa](https://github.com/icruby/code-of-iowa) because I couldn&#8217;t find an existing one. I&#8217;m experimenting to see if any others are interesed as well, based on star count or contributions.
 
 Video: [Clay Shirky: How the Internet will (one day) transform government](http://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government.html)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CEN4XNth61o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

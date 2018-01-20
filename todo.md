@@ -14,6 +14,7 @@
   - [x] Fix entities
   - [x] Fix pipes
   - [x] Remove id, guids from frontmatter
+  - [x] Add codefences for `class="ruby"`
 
 To fix:
 
@@ -39,9 +40,7 @@ Why 404?
 * /2015/01/05/podcast-url-extractor/
 * 2011/01/12/captions-on-sanyo-tv-with-universal-remote/comment-page-1/
 
-- [x] Add codefences for `class="ruby"`
-- [ ] Check for direct links/images from www.benjaminoakes.com
-- [ ] Check for more iframes for vimeo/youtube http://www.benjaminoakes.com/?s=iframe
+- [x] Check for more iframes for vimeo/youtube http://www.benjaminoakes.com/?s=iframe
 
 - [ ] Confirm posts retain the same URLs
 

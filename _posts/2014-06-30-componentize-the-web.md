@@ -14,3 +14,5 @@ tags:
 [Componentize the Web -- YouTube](https://www.youtube.com/watch?v=2toYLLcoY14).
 
 Polymer tabs tutorial with Addy Osmani.
+
+<p><iframe width="560" height="315" src="//www.youtube.com/embed/2toYLLcoY14" frameborder="0" allowfullscreen></iframe></p>

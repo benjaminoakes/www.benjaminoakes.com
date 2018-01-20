@@ -12,3 +12,5 @@ tags:
   - Styrofoam
 ---
 > Americans may not think much about what goes into the plastic packaging material they take for granted in everyday products. Most modern packaging materials are made from polystyrene and other synthetics that are not only made from petroleum, but also take a lot of energy to make.
+
+<iframe width="500" height="281" src="https://www.youtube.com/embed/YnSi7ip32AU?feature=oembed" frameborder="0" allowfullscreen></iframe>
