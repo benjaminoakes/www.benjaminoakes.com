@@ -17,4 +17,4 @@ rsync \
   --delete \
   --rsh=ssh \
   _production/ \
-  benjaminoakes.com:~/jekyll.benjaminoakes.com/
+  benjaminoakes.com:~/benjaminoakes.com/
