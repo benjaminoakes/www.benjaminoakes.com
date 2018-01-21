@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <link href="http://www.benjaminoakes.com/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://www.benjaminoakes.com/" rel="alternate" type="text/html" />
+  <updated>2018-01-21T21:56:00+00:00</updated>
+  <id>http://www.benjaminoakes.com/</id>
+  <title type="html">Benjamin Oakes</title>
+  <subtitle>A programmer, sustainability enthusiast, and community builder in Iowa City.</subtitle>
+  <author><name>Benjamin Oakes</name></author>
+
+  <entry>
+    <title type="html">Please update your RSS reader</title>
+    <link href="http://www.benjaminoakes.com/" rel="alternate" type="text/html" title="Please update your RSS reader" />
+    <published>2018-01-21T00:00:00+00:00</published>
+    <updated>2018-01-21T00:00:00+00:00</updated>
+    <id>http://www.benjaminoakes.com/#feed-update</id>
+    <content type="html" xml:base="http://www.benjaminoakes.com/#feed-update">You are using an outdated feed.  Please update to use https://feeds.feedburner.com/BenjaminOakes instead.</content>
+    <summary type="html">You are using an outdated feed.  Please update to use https://feeds.feedburner.com/BenjaminOakes instead.</summary>
+  </entry>
+</feed>
