@@ -15,16 +15,9 @@
   - [x] Fix pipes
   - [x] Remove id, guids from frontmatter
   - [x] Add codefences for `class="ruby"`
-
-Why 404?
-
-* /2015/01/05/podcast-url-extractor/
-* 2011/01/12/captions-on-sanyo-tv-with-universal-remote/comment-page-1/
-
 - [x] Check for more iframes for vimeo/youtube http://www.benjaminoakes.com/?s=iframe
 - [x] Add Disqus
   - [x] Import comments
-
 - [x] Confirm posts retain the same URLs
 
 ## Stage: Production MVP

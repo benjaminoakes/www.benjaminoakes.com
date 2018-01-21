@@ -4,6 +4,8 @@ date: 2011-01-12T01:29:48+00:00
 author: Ben
 layout: post
 permalink: /2011/01/12/captions-on-sanyo-tv-with-universal-remote/
+redirect_from:
+  - /2011/01/12/captions-on-sanyo-tv-with-universal-remote/comment-page-1/
 categories:
   - repairs
 tags:
