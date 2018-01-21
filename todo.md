@@ -22,12 +22,11 @@
 
 ## Stage: Production MVP
 
-- [ ] Change [Feedburner](https://feedburner.google.com/fb/a/myfeeds) "Original Feed"
-- [ ] Replace benjaminoakes.com on existing host
-- [ ] Confirm Disqus works in production
-- [ ] Confirm ads work in production
-- [ ] Confirm analytics work in production
-- [ ] Configure DNS so that benjaminoakes.com and www.benjaminoakes.com work appropriately
+- [x] Change [Feedburner](https://feedburner.google.com/fb/a/myfeeds) "Original Feed"
+- [x] Replace benjaminoakes.com on existing host
+- [x] Confirm Disqus works in production
+- [x] Confirm ads work in production
+- [x] Confirm analytics work in production
 
 ## Stage: New Host MVP
 
