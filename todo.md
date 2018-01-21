@@ -27,6 +27,8 @@ Why 404?
 * 2011/01/12/captions-on-sanyo-tv-with-universal-remote/comment-page-1/
 
 - [x] Check for more iframes for vimeo/youtube http://www.benjaminoakes.com/?s=iframe
+- [x] Add Disqus
+  - [x] Import comments
 
 - [x] Confirm posts retain the same URLs
 
@@ -34,6 +36,7 @@ Why 404?
 
 - [ ] Change [Feedburner](https://feedburner.google.com/fb/a/myfeeds) "Original Feed"
 - [ ] Replace benjaminoakes.com on existing host
+- [ ] Confirm Disqus works in production
 - [ ] Confirm ads work in production
 - [ ] Confirm analytics work in production
 - [ ] Configure DNS so that benjaminoakes.com and www.benjaminoakes.com work appropriately
@@ -49,7 +52,6 @@ Why 404?
 - [ ] Convert FeedBurner
 - [ ] Convert Twitter
 - [ ] Add DNS records for GitHub hosting
-- [ ] Add Disqus
 - [ ] Add old WordPress comments
 - [ ] Add search back
 - [ ] Site map?
