@@ -1,4 +1,4 @@
 ErrorDocument 404 /404.html
 
 RewriteEngine On
-RewriteRule ^feed/$ http://www.benjaminoakes.com/legacy.xml [R=301,L]
+RewriteRule ^feed$ http://www.benjaminoakes.com/legacy.xml [R=301,L]
