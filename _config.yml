@@ -19,6 +19,9 @@ adsense:
   ad_slot: "2987007375"
   ad_format: "auto"
 
+disqus:
+  shortname: "benjaminoakes"
+
 feedburner:
   feed_address: "BenjaminOakes"
 
