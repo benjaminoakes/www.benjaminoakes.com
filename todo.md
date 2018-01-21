@@ -16,10 +16,6 @@
   - [x] Remove id, guids from frontmatter
   - [x] Add codefences for `class="ruby"`
 
-Needs redirect from:
-
-* `_posts/2010-05-11-validates_uniqueness_of-with-multiple-scopes.md`
-
 Why 404?
 
 * /2015/01/05/podcast-url-extractor/

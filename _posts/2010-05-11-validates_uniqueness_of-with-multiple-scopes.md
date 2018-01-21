@@ -3,7 +3,9 @@ title: Rails validations should be instance level, not class level
 date: 2010-05-11T16:22:17+00:00
 author: Ben
 layout: post
-permalink: /2010/05/11/validates_uniqueness_of-with-multiple-scopes/
+permalink: /2010/05/11/rails-validations-should-be-instance-level-not-class-level
+redirect_from:
+  - /2010/05/11/validates_uniqueness_of-with-multiple-scopes/
 categories:
   - Rails
 tags:
