@@ -28,6 +28,10 @@
 - [x] Confirm ads work in production
 - [x] Confirm analytics work in production
 
+## Stage: Twitter publishing
+
+- [ ] Convert Twitter using IFTTT
+
 ## Stage: New Host MVP
 
 - [ ] Change DNS to point to GitHub for www.benjaminoakes.com and benjaminoakes.com
@@ -36,9 +40,5 @@
 
 ## Backlog
 
-- [ ] Convert FeedBurner
-- [ ] Convert Twitter
-- [ ] Add DNS records for GitHub hosting
-- [ ] Add old WordPress comments
 - [ ] Add search back
 - [ ] Site map?
