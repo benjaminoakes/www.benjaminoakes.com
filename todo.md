@@ -10,7 +10,7 @@
 - [x] Reduce number of posts on root page
 - [x] Change rel=alternate to Feedburner
 - [x] Add Analytics
-- [ ] Import content from existing website
+- [x] Import content from existing website
   - [x] Fix entities
   - [x] Fix pipes
   - [x] Remove id, guids from frontmatter
