@@ -13,18 +13,16 @@ tags:
 ---
 [Back on Linux — dywypi.org](http://dywypi.org/2012/02/back-on-linux.html).
 
-This is pretty much exactly how I feel about switching from OSX back to Linux. My guess is that a lot of developers have similar sentiments. In fact, I overbought RAM (8GB) because I was so used to running out on OSX. Although it&#8217;s hardly perfect, I&#8217;m pretty happy with Ubuntu on a day-to-day basis. 
+This is pretty much exactly how I feel about switching from OSX back to Linux. My guess is that a lot of developers have similar sentiments. In fact, I overbought RAM (8GB) because I was so used to running out on OSX. Although it&#8217;s hardly perfect, I&#8217;m pretty happy with Ubuntu on a day-to-day basis.
 
-Since Jyrki&#8217;s post is licensed under [a Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/) (see the footer of his site), I thought I&#8217;d archive it here for posterity. 
+Since Jyrki&#8217;s post is licensed under [a Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/) (see the footer of his site), I thought I&#8217;d archive it here for posterity.
 
-> # [Back on Linux](/2012/02/back-on-linux.html)
-    
-> 
-> 
+> # Back on Linux
+>
 > <div class="head info">
->   by <a href="/about/">Jyrki Pulliainen</a> on 2012-02-11
+>   by Jyrki Pulliainen on 2012-02-11
 > </div>
-> 
+>
 > <div class="cf content">
 >   <p>
 >     About a month ago I moved to Stockholm, Sweden and started working at <a href="http://spotify.com">Spotify</a>. A month before starting I was asked about my preferred setup for working. Having used OS X for year as the primary operating system at work the choice was clear, I wanted to go back to Linux, in this case to Debian to be exact.
@@ -120,5 +118,5 @@ Since Jyrki&#8217;s post is licensed under [a Creative Commons Attribution 3.0 U
 >   
 >   <p>
 >     So long OS X. You were a nice experiment and I miss some parts of you, however we definitely were not a match made in heaven.
->   </p></p>
+>   </p>
 > </div>
