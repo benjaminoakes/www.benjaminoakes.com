@@ -37,6 +37,7 @@ plugins:
   - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-seo-tag
+  - jekyll-sitemap # keep this last
 exclude:
   - CNAME
   - docker-compose.yml
