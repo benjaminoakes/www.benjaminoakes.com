@@ -7,7 +7,7 @@ date:   2005-01-01
 [![Mingus](/media/2005/01/01/Jazz-Greats/Mingus-Preview.jpg)](/media/2005/01/01/Jazz-Greats/Mingus.jpg) [![Brubeck](/media/2005/01/01/Jazz-Greats/Brubeck-Preview.jpg)](/media/2005/01/01/Jazz-Greats/Brubeck.jpg) [![Adderley](/media/2005/01/01/Jazz-Greats/Adderley-Preview.jpg)](/media/2005/01/01/Jazz-Greats/Adderley.jpg) [![Jazziz Chair](/media/2005/01/01/Jazz-Greats/Jazziz-Chair-Preview.jpg)](/media/2005/01/01/Jazz-Greats/Jazziz-Chair.jpg)
 
 <p>
-I drew some portraits of jazz greats, just for fun.  **Edit (May 2010):** They're hanging in my office at the moment.
+I drew some portraits of jazz greats, just for fun.  <strong>Edit (May 2010):</strong> They're hanging in my office at the moment.
 </p>
 
 <p>
