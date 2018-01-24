@@ -16,4 +16,4 @@ tags:
 
 Source: _[What is the Liskov Substitution Principle?](http://stackoverflow.com/questions/56860/what-is-the-liskov-substitution-principle)_
 
-[<img class="alignnone size-medium wp-image-1024" src="http://www.benjaminoakes.com/wp-content/uploads/2017/03/LiskovSubtitutionPrinciple_52BB5162-1-300x240.jpg" alt="" width="300" height="240" srcset="https://www.benjaminoakes.com/wp-content/uploads/2017/03/LiskovSubtitutionPrinciple_52BB5162-1-300x240.jpg 300w, https://www.benjaminoakes.com/wp-content/uploads/2017/03/LiskovSubtitutionPrinciple_52BB5162-1.jpg 750w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.benjaminoakes.com/wp-content/uploads/2017/03/LiskovSubtitutionPrinciple_52BB5162-1.jpg)
+![If it looks like a duck, quacks like a duck, but needs batteries, you probably have the wrong abstration](/wp-content/uploads/2017/03/LiskovSubtitutionPrinciple_52BB5162-1.jpg)

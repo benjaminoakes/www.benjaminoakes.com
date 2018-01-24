@@ -18,7 +18,7 @@ tags:
   
 [watabou/pixel-dungeon -- GitHub](https://github.com/watabou/pixel-dungeon).
 
-[<img src="http://www.benjaminoakes.com/wp-content/uploads/2015/03/pixel-dungeon-gameplay-300x188.png" alt="pixel-dungeon-gameplay" width="300" height="188" class="alignnone size-medium wp-image-655" srcset="https://www.benjaminoakes.com/wp-content/uploads/2015/03/pixel-dungeon-gameplay-300x188.png 300w, https://www.benjaminoakes.com/wp-content/uploads/2015/03/pixel-dungeon-gameplay-1024x640.png 1024w, https://www.benjaminoakes.com/wp-content/uploads/2015/03/pixel-dungeon-gameplay.png 1440w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.benjaminoakes.com/wp-content/uploads/2015/03/pixel-dungeon-gameplay.png)
+![Pixel Dungeon gameplay](/wp-content/uploads/2015/03/pixel-dungeon-gameplay.png)
 
 > Traditional roguelike game with pixel-art graphics and simple interface.
 

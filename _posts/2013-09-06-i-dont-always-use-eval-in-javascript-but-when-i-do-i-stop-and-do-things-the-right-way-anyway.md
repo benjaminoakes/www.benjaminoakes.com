@@ -8,7 +8,8 @@ categories:
   - JavaScript
   - Programming
 ---
-[<img src="http://www.benjaminoakes.com/wp-content/uploads/2013/09/most-interesting-man-javascript-eval.jpg" alt="I don't always use eval in JavaScript, but when I do, I stop and do things the right way anyway" width="430" height="539" class="aligncenter size-full wp-image-313" srcset="https://www.benjaminoakes.com/wp-content/uploads/2013/09/most-interesting-man-javascript-eval.jpg 430w, https://www.benjaminoakes.com/wp-content/uploads/2013/09/most-interesting-man-javascript-eval-239x300.jpg 239w" sizes="(max-width: 430px) 100vw, 430px" />](http://www.benjaminoakes.com/wp-content/uploads/2013/09/most-interesting-man-javascript-eval.jpg)
+
+!["I don't always use eval in JavaScript, but when I do, I stop and do things the right way anyway"](/wp-content/uploads/2013/09/most-interesting-man-javascript-eval.jpg)
 
 #### Reactions
 
