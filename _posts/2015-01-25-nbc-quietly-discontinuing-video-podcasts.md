@@ -29,7 +29,7 @@ I&#8217;ve been watching the NBC Nightly News video podcast for a long time. Pro
 
 My wife and I will often watch it while eating breakfast together. We were greeted with this notice today:
 
-[<img class="alignnone size-medium wp-image-605" src="http://www.benjaminoakes.com/wp-content/uploads/2015/01/nbcnn_vodcast_discontinuation_notice-300x169.png" alt="Soon, this podcast will be discontinued, but you'll still be able to watch NBC Nightly News with Brian Williams, updated every evening, at nightlynews.com and the Nightly News app in the iTunes or Google Play Store. Nightly's audio podcast  will still be available." width="300" height="169" srcset="https://www.benjaminoakes.com/wp-content/uploads/2015/01/nbcnn_vodcast_discontinuation_notice-300x169.png 300w, https://www.benjaminoakes.com/wp-content/uploads/2015/01/nbcnn_vodcast_discontinuation_notice.png 424w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.benjaminoakes.com/wp-content/uploads/2015/01/nbcnn_vodcast_discontinuation_notice.png)
+[![Soon, this podcast will be discontinued, but you'll still be able to watch NBC Nightly News with Brian Williams, updated every evening, at nightlynews.com and the Nightly News app in the iTunes or Google Play Store. Nightly's audio podcast  will still be available.](/wp-content/uploads/2015/01/nbcnn_vodcast_discontinuation_notice-300x169.png)](/wp-content/uploads/2015/01/nbcnn_vodcast_discontinuation_notice.png)
 
 NBC is dropping all their video podcasts, without explanation. They&#8217;re also dropping _Meet the Press_ and _Today_ alongside _NBC Nightly News_. MSNBC video podcasts, like _The Rachel Maddow Show_ don&#8217;t have this notice yet, but I wouldn&#8217;t be surprised to see that happen. NBC isn&#8217;t the only one to drop their news video feeds; CBS and ABC seem to have dropped theirs a while ago. At the time of this writing, the last _CBS Evening News_ video podcast [is from early September 2014](http://feeds.cbsnews.com/podcast_eveningnews_video_1). I don&#8217;t know if others like PBS or BBC ever offered video podcasts, but I can&#8217;t find any remnant of them if they did exist.
 
@@ -46,11 +46,11 @@ The problem is, podcasts can&#8217;t really be replaced by websites and mobile a
 Marco Arment of Instapaper fame described this well when [he wrote about RSS](http://www.marco.org/2013/07/03/lockdown), the technology behind video podcasts:
 
 > This isn&#8217;t an issue of &#8220;openness&#8221;, per se — Twitter, for instance, has very good reasons to limit its API. You aren&#8217;t entitled to unrestricted access to someone else&#8217;s service. Those days are gone for good, and we&#8217;ll all be fine. We don&#8217;t need big web players to be completely open.
-> 
+>
 > The bigger problem is that they&#8217;ve abandoned interoperability. RSS, semantic markup, microformats, and open APIs all enable interoperability, but the big players don&#8217;t want that — they want to lock you in.
-> 
+>
 > [...]
-> 
+>
 > RSS represents the antithesis of [vendor lock-in]: it&#8217;s completely open, decentralized, and owned by nobody, just like the web itself. It allows anyone, large or small, to build something new and disrupt anyone else they&#8217;d like because nobody has to fly six salespeople out first to work out a partnership with anyone else&#8217;s salespeople.
 
 I can&#8217;t tell if video podcasts just didn&#8217;t get the traction in the market that they needed or if audio podcasts are just preferable because broadcasters _really_ want to protect their video. The same could be said for terrestrial broadcasts (i.e., those you get for free over an antenna), which no longer seem to be a major priority for broadcasters either. I&#8217;ve considered getting [a PVR](http://www.amazon.com/dp/B00I2ZBD1U/ref=wl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=1ILC0B8SVHDXG&coliid=IVJ3IRPM33RPI) to record video in lieu of video podcasts, but NBC isn&#8217;t available at our house (though several other stations are). Would we have been able to receive NBC here in the pre-cable era? I don&#8217;t know, but I wouldn&#8217;t be surprised if the answer were &#8220;yes.&#8221;
