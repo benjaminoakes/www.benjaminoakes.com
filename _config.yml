@@ -47,3 +47,4 @@ exclude:
   - script
   - todo.md
   - qa.md
+  - private
