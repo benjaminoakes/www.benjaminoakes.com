@@ -136,7 +136,7 @@ ul {
 .code .il { color: #009999 } /* Literal.Number.Integer.Long */
 
     </style>
-    
+
     <script type="text/javascript">
       /*!
  * jQuery JavaScript Library v1.3.2
@@ -151,7 +151,7 @@ ul {
  */
 (function(){
 
-var 
+var
 	// Will speed up references to window, and allows munging its name.
 	window = this,
 	// Will speed up references to undefined, and allows munging its name.
@@ -547,13 +547,13 @@ jQuery.fn = jQuery.prototype = {
 	},
 
 	val: function( value ) {
-		if ( value === undefined ) {			
+		if ( value === undefined ) {
 			var elem = this[0];
 
 			if ( elem ) {
 				if( jQuery.nodeName( elem, 'option' ) )
 					return (elem.attributes.value || {}).specified ? elem.value : elem.text;
-				
+
 				// We need to handle select boxes special
 				if ( jQuery.nodeName( elem, "select" ) ) {
 					var index = elem.selectedIndex,
@@ -582,7 +582,7 @@ jQuery.fn = jQuery.prototype = {
 						}
 					}
 
-					return values;				
+					return values;
 				}
 
 				// Everything else, we just grab the value
@@ -661,13 +661,13 @@ jQuery.fn = jQuery.prototype = {
 				for ( var i = 0, l = this.length; i < l; i++ )
 					callback.call( root(this[i], first), this.length > 1 || i > 0 ?
 							fragment.cloneNode(true) : fragment );
-		
+
 			if ( scripts )
 				jQuery.each( scripts, evalScript );
 		}
 
 		return this;
-		
+
 		function root( elem, cur ) {
 			return table && jQuery.nodeName(elem, "table") && jQuery.nodeName(cur, "tr") ?
 				(elem.getElementsByTagName("tbody")[0] ||
@@ -734,7 +734,7 @@ jQuery.extend = jQuery.fn.extend = function() {
 
 				// Recurse if we're merging object values
 				if ( deep && copy && typeof copy === "object" && !copy.nodeType )
-					target[ name ] = jQuery.extend( deep, 
+					target[ name ] = jQuery.extend( deep,
 						// Never move original objects, clone them
 						src || ( copy.length != null ? [ ] : { } )
 					, copy );
@@ -1076,7 +1076,7 @@ jQuery.extend({
 				// IE completely kills leading whitespace when innerHTML is used
 				if ( !jQuery.support.leadingWhitespace && /^\s/.test( elem ) )
 					div.insertBefore( context.createTextNode( elem.match(/^\s*/)[0] ), div.firstChild );
-				
+
 				elem = jQuery.makeArray( div.childNodes );
 			}
 
@@ -1097,7 +1097,7 @@ jQuery.extend({
 					fragment.appendChild( ret[i] );
 				}
 			}
-			
+
 			return scripts;
 		}
 
@@ -1478,16 +1478,16 @@ jQuery.extend({
 	},
 	queue: function( elem, type, data ) {
 		if ( elem ){
-	
+
 			type = (type || "fx") + "queue";
-	
+
 			var q = jQuery.data( elem, type );
-	
+
 			if ( !q || jQuery.isArray(data) )
 				q = jQuery.data( elem, type, jQuery.makeArray(data) );
 			else if( data )
 				q.push( data );
-	
+
 		}
 		return q;
 	},
@@ -1495,10 +1495,10 @@ jQuery.extend({
 	dequeue: function( elem, type ){
 		var queue = jQuery.queue( elem, type ),
 			fn = queue.shift();
-		
+
 		if( !type || type === "fx" )
 			fn = queue[0];
-			
+
 		if( fn !== undefined )
 			fn.call(elem);
 	}
@@ -1540,7 +1540,7 @@ jQuery.fn.extend({
 
 		return this.each(function(){
 			var queue = jQuery.queue( this, type, data );
-			
+
 			 if( type == "fx" && queue.length == 1 )
 				queue[0].call(this);
 		});
@@ -1568,19 +1568,19 @@ var Sizzle = function(selector, context, results, seed) {
 
 	if ( context.nodeType !== 1 && context.nodeType !== 9 )
 		return [];
-	
+
 	if ( !selector || typeof selector !== "string" ) {
 		return results;
 	}
 
 	var parts = [], m, set, checkSet, check, mode, extra, prune = true;
-	
+
 	// Reset the position of the chunker regexp (start from head)
 	chunker.lastIndex = 0;
-	
+
 	while ( (m = chunker.exec(selector)) !== null ) {
 		parts.push( m[1] );
-		
+
 		if ( m[2] ) {
 			extra = RegExp.rightContext;
 			break;
@@ -1694,7 +1694,7 @@ Sizzle.find = function(expr, context, isXML){
 
 	for ( var i = 0, l = Expr.order.length; i < l; i++ ) {
 		var type = Expr.order[i], match;
-		
+
 		if ( (match = Expr.match[ type ].exec( expr )) ) {
 			var left = RegExp.leftContext;
 
@@ -1956,7 +1956,7 @@ var Expr = Sizzle.selectors = {
 		},
 		ATTR: function(match, curLoop, inplace, result, not, isXML){
 			var name = match[1].replace(/\\/g, "");
-			
+
 			if ( !isXML && Expr.attrMap[name] ) {
 				match[1] = Expr.attrMap[name];
 			}
@@ -1982,7 +1982,7 @@ var Expr = Sizzle.selectors = {
 			} else if ( Expr.match.POS.test( match[0] ) || Expr.match.CHILD.test( match[0] ) ) {
 				return true;
 			}
-			
+
 			return match;
 		},
 		POS: function(match){
@@ -2116,20 +2116,20 @@ var Expr = Sizzle.selectors = {
 					if ( first == 1 && last == 0 ) {
 						return true;
 					}
-					
+
 					var doneName = match[0],
 						parent = elem.parentNode;
-	
+
 					if ( parent && (parent.sizcache !== doneName || !elem.nodeIndex) ) {
 						var count = 0;
 						for ( node = parent.firstChild; node; node = node.nextSibling ) {
 							if ( node.nodeType === 1 ) {
 								node.nodeIndex = ++count;
 							}
-						} 
+						}
 						parent.sizcache = doneName;
 					}
-					
+
 					var diff = elem.nodeIndex - last;
 					if ( first == 0 ) {
 						return diff == 0;
@@ -2202,7 +2202,7 @@ var makeArray = function(array, results) {
 		results.push.apply( results, array );
 		return results;
 	}
-	
+
 	return array;
 };
 
@@ -2347,7 +2347,7 @@ if ( document.querySelectorAll ) (function(){
 	if ( div.querySelectorAll && div.querySelectorAll(".TEST").length === 0 ) {
 		return;
 	}
-	
+
 	Sizzle = function(query, context, extra, seed){
 		context = context || document;
 
@@ -2358,7 +2358,7 @@ if ( document.querySelectorAll ) (function(){
 				return makeArray( context.querySelectorAll(query), extra );
 			} catch(e){}
 		}
-		
+
 		return oldSizzle(query, context, extra, seed);
 	};
 
@@ -2623,7 +2623,7 @@ jQuery.event = {
 
 			// Get the current list of functions bound to this event
 			var handlers = events[type];
-			
+
 			if ( jQuery.event.specialAll[type] )
 				jQuery.event.specialAll[type].setup.call(elem, data, namespaces);
 
@@ -2696,7 +2696,7 @@ jQuery.event = {
 								// Handle the removal of namespaced events
 								if ( namespace.test(events[type][handle].type) )
 									delete events[type][handle];
-									
+
 						if ( jQuery.event.specialAll[type] )
 							jQuery.event.specialAll[type].teardown.call(elem, namespaces);
 
@@ -2763,11 +2763,11 @@ jQuery.event = {
 			// don't do events on text and comment nodes
 			if ( !elem || elem.nodeType == 3 || elem.nodeType == 8 )
 				return undefined;
-			
+
 			// Clean up in case it is reused
 			event.result = undefined;
 			event.target = elem;
-			
+
 			// Clone the incoming data, if any
 			data = jQuery.makeArray(data);
 			data.unshift( event );
@@ -2808,14 +2808,14 @@ jQuery.event = {
 
 		event = arguments[0] = jQuery.event.fix( event || window.event );
 		event.currentTarget = this;
-		
+
 		// Namespaced event handlers
 		var namespaces = event.type.split(".");
 		event.type = namespaces.shift();
 
 		// Cache this now, all = true means, any handler
 		all = !namespaces.length && !event.exclusive;
-		
+
 		var namespace = RegExp("(^|\\.)" + namespaces.slice().sort().join(".*\\.") + "(\\.|$)");
 
 		handlers = ( jQuery.data(this, "events") || {} )[event.type];
@@ -2913,7 +2913,7 @@ jQuery.event = {
 			teardown: function() {}
 		}
 	},
-	
+
 	specialAll: {
 		live: {
 			setup: function( selector, namespaces ){
@@ -2922,12 +2922,12 @@ jQuery.event = {
 			teardown:  function( namespaces ){
 				if ( namespaces.length ) {
 					var remove = 0, name = RegExp("(^|\\.)" + namespaces[0] + "(\\.|$)");
-					
+
 					jQuery.each( (jQuery.data(this, "events").live || {}), function(){
 						if ( name.test(this.type) )
 							remove++;
 					});
-					
+
 					if ( remove < 1 )
 						jQuery.event.remove( this, namespaces[0], liveHandler );
 				}
@@ -2940,7 +2940,7 @@ jQuery.Event = function( src ){
 	// Allow instantiation without the 'new' keyword
 	if( !this.preventDefault )
 		return new jQuery.Event(src);
-	
+
 	// Event object
 	if( src && src.type ){
 		this.originalEvent = src;
@@ -2952,7 +2952,7 @@ jQuery.Event = function( src ){
 	// timeStamp is buggy for some events on Firefox(#3843)
 	// So we won't rely on the native value
 	this.timeStamp = now();
-	
+
 	// Mark it as fixed
 	this[expando] = true;
 };
@@ -3008,7 +3008,7 @@ var withinElement = function(event) {
 	while ( parent && parent != this )
 		try { parent = parent.parentNode; }
 		catch(e) { parent = this; }
-	
+
 	if( parent != this ){
 		// set the correct event type
 		event.type = event.data;
@@ -3016,9 +3016,9 @@ var withinElement = function(event) {
 		jQuery.event.handle.apply( this, arguments );
 	}
 };
-	
-jQuery.each({ 
-	mouseover: 'mouseenter', 
+
+jQuery.each({
+	mouseover: 'mouseenter',
 	mouseout: 'mouseleave'
 }, function( orig, fix ){
 	jQuery.event.special[ fix ] = {
@@ -3028,7 +3028,7 @@ jQuery.each({
 		teardown: function(){
 			jQuery.event.remove( this, orig, withinElement );
 		}
-	};			   
+	};
 });
 
 jQuery.fn.extend({
@@ -3067,7 +3067,7 @@ jQuery.fn.extend({
 			event.stopPropagation();
 			jQuery.event.trigger( event, data, this[0] );
 			return event.result;
-		}		
+		}
 	},
 
 	toggle: function( fn ) {
@@ -3110,7 +3110,7 @@ jQuery.fn.extend({
 
 		return this;
 	},
-	
+
 	live: function( type, fn ){
 		var proxy = jQuery.event.proxy( fn );
 		proxy.guid += this.selector + type;
@@ -3119,7 +3119,7 @@ jQuery.fn.extend({
 
 		return this;
 	},
-	
+
 	die: function( type, fn ){
 		jQuery(document).unbind( liveConvert(type, this.selector), fn ? { guid: fn.guid + this.selector + type } : null );
 		return this;
@@ -3142,7 +3142,7 @@ function liveHandler( event ){
 	elems.sort(function(a,b) {
 		return jQuery.data(a.elem, "closest") - jQuery.data(b.elem, "closest");
 	});
-	
+
 	jQuery.each(elems, function(){
 		if ( this.fn.call(this.elem, event, this.fn.data) === false )
 			return (stop = false);
@@ -3243,12 +3243,12 @@ jQuery.each( ("blur,focus,load,resize,scroll,unload,click,dblclick," +
 // Prevent memory leaks in IE
 // And prevent errors on refresh with events like mouseover in other browsers
 // Window isn't included so as not to unbind existing unload events
-jQuery( window ).bind( 'unload', function(){ 
+jQuery( window ).bind( 'unload', function(){
 	for ( var id in jQuery.cache )
 		// Skip the window
 		if ( id != 1 && jQuery.cache[ id ].handle )
 			jQuery.event.remove( jQuery.cache[ id ].handle.elem );
-}); 
+});
 (function(){
 
 	jQuery.support = {};
@@ -3272,32 +3272,32 @@ jQuery( window ).bind( 'unload', function(){
 	jQuery.support = {
 		// IE strips leading whitespace when .innerHTML is used
 		leadingWhitespace: div.firstChild.nodeType == 3,
-		
+
 		// Make sure that tbody elements aren't automatically inserted
 		// IE will insert them into empty tables
 		tbody: !div.getElementsByTagName("tbody").length,
-		
+
 		// Make sure that you can get all elements in an <object> element
 		// IE 7 always returns no results
 		objectAll: !!div.getElementsByTagName("object")[0]
 			.getElementsByTagName("*").length,
-		
+
 		// Make sure that link elements get serialized correctly by innerHTML
 		// This requires a wrapper element in IE
 		htmlSerialize: !!div.getElementsByTagName("link").length,
-		
+
 		// Get the style information from getAttribute
 		// (IE uses .cssText insted)
 		style: /red/.test( a.getAttribute("style") ),
-		
+
 		// Make sure that URLs aren't manipulated
 		// (IE normalizes it by default)
 		hrefNormalized: a.getAttribute("href") === "/a",
-		
+
 		// Make sure that element opacity exists
 		// (IE uses filter instead)
 		opacity: a.style.opacity === "0.5",
-		
+
 		// Verify style float existence
 		// (IE uses styleFloat instead of cssFloat)
 		cssFloat: !!a.style.cssFloat,
@@ -3307,14 +3307,14 @@ jQuery( window ).bind( 'unload', function(){
 		noCloneEvent: true,
 		boxModel: null
 	};
-	
+
 	script.type = "text/javascript";
 	try {
 		script.appendChild( document.createTextNode( "window." + id + "=1;" ) );
 	} catch(e){}
 
 	root.insertBefore( script, root.firstChild );
-	
+
 	// Make sure that the execution of code works by injecting a script
 	// tag with appendChild/createTextNode
 	// (IE doesn't support this, fails, and uses .text instead)
@@ -3458,7 +3458,7 @@ jQuery.each( "ajaxStart,ajaxStop,ajaxComplete,ajaxError,ajaxSuccess,ajaxSend".sp
 var jsc = now();
 
 jQuery.extend({
-  
+
 	get: function( url, data, callback, type ) {
 		// shift arguments if data argument was ommited
 		if ( jQuery.isFunction( data ) ) {
@@ -3847,7 +3847,7 @@ jQuery.extend({
 
 		if ( xml && data.documentElement.tagName == "parsererror" )
 			throw "parsererror";
-			
+
 		// Allow a pre-filtering function to sanitize the response
 		// s != null is checked to keep backwards compatibility
 		if( s && s.dataFilter )
@@ -3864,7 +3864,7 @@ jQuery.extend({
 			if ( type == "json" )
 				data = window["eval"]("(" + data + ")");
 		}
-		
+
 		return data;
 	},
 
@@ -3928,26 +3928,26 @@ jQuery.fn.extend({
 		} else {
 			for ( var i = 0, l = this.length; i < l; i++ ){
 				var old = jQuery.data(this[i], "olddisplay");
-				
+
 				this[i].style.display = old || "";
-				
+
 				if ( jQuery.css(this[i], "display") === "none" ) {
 					var tagName = this[i].tagName, display;
-					
+
 					if ( elemdisplay[ tagName ] ) {
 						display = elemdisplay[ tagName ];
 					} else {
 						var elem = jQuery("<" + tagName + " />").appendTo("body");
-						
+
 						display = elem.css("display");
 						if ( display === "none" )
 							display = "block";
-						
+
 						elem.remove();
-						
+
 						elemdisplay[ tagName ] = display;
 					}
-					
+
 					jQuery.data(this[i], "olddisplay", display);
 				}
 			}
@@ -3957,7 +3957,7 @@ jQuery.fn.extend({
 			for ( var i = 0, l = this.length; i < l; i++ ){
 				this[i].style.display = jQuery.data(this[i], "olddisplay") || "";
 			}
-			
+
 			return this;
 		}
 	},
@@ -4006,11 +4006,11 @@ jQuery.fn.extend({
 		var optall = jQuery.speed(speed, easing, callback);
 
 		return this[ optall.queue === false ? "each" : "queue" ](function(){
-		
+
 			var opt = jQuery.extend({}, optall), p,
 				hidden = this.nodeType == 1 && jQuery(this).is(":hidden"),
 				self = this;
-	
+
 			for ( p in prop ) {
 				if ( prop[p] == "hide" && hidden || prop[p] == "show" && !hidden )
 					return opt.complete.call(this);
@@ -4265,7 +4265,7 @@ jQuery.fx.prototype = {
 				if ( this.options.hide || this.options.show )
 					for ( var p in this.options.curAnim )
 						jQuery.attr(this.elem.style, p, this.options.orig[p]);
-					
+
 				// Execute the complete function
 				this.options.complete.call( this.elem );
 			}
@@ -4319,7 +4319,7 @@ if ( document.documentElement["getBoundingClientRect"] )
 			left = box.left + (self.pageXOffset || jQuery.boxModel && docElem.scrollLeft || body.scrollLeft) - clientLeft;
 		return { top: top, left: left };
 	};
-else 
+else
 	jQuery.fn.offset = function() {
 		if ( !this[0] ) return { top: 0, left: 0 };
 		if ( this[0] === this[0].ownerDocument.body ) return jQuery.offset.bodyOffset( this[0] );
@@ -4409,7 +4409,7 @@ jQuery.fn.extend({
 			parentOffset = /^body|html$/i.test(offsetParent[0].tagName) ? { top: 0, left: 0 } : offsetParent.offset();
 
 			// Subtract element margins
-			// note: when an element has margin: auto the offsetLeft and marginLeft 
+			// note: when an element has margin: auto the offsetLeft and marginLeft
 			// are the same in Safari causing offset.left to incorrectly be 0
 			offset.top  -= num( this, 'marginTop'  );
 			offset.left -= num( this, 'marginLeft' );
@@ -4440,7 +4440,7 @@ jQuery.fn.extend({
 // Create scrollLeft and scrollTop methods
 jQuery.each( ['Left', 'Top'], function(i, name) {
 	var method = 'scroll' + name;
-	
+
 	jQuery.fn[ method ] = function(val) {
 		if (!this[0]) return null;
 
@@ -4484,7 +4484,7 @@ jQuery.each([ "Height", "Width" ], function(i, name){
 			jQuery.css( this[0], lower, false, margin ? "margin" : "border" ) :
 			null;
 	};
-	
+
 	var type = name.toLowerCase();
 
 	jQuery.fn[ type ] = function( size ) {
@@ -4524,33 +4524,33 @@ jQuery.each([ "Height", "Width" ], function(i, name){
  * to offer multiple easing options
  *
  * TERMS OF USE - jQuery Easing
- * 
- * Open source under the BSD License. 
- * 
+ *
+ * Open source under the BSD License.
+ *
  * Copyright Â© 2008 George McGinley Smith
  * All rights reserved.
- * 
- * Redistribution and use in source and binary forms, with or without modification, 
+ *
+ * Redistribution and use in source and binary forms, with or without modification,
  * are permitted provided that the following conditions are met:
- * 
- * Redistributions of source code must retain the above copyright notice, this list of 
+ *
+ * Redistributions of source code must retain the above copyright notice, this list of
  * conditions and the following disclaimer.
- * Redistributions in binary form must reproduce the above copyright notice, this list 
- * of conditions and the following disclaimer in the documentation and/or other materials 
+ * Redistributions in binary form must reproduce the above copyright notice, this list
+ * of conditions and the following disclaimer in the documentation and/or other materials
  * provided with the distribution.
- * 
- * Neither the name of the author nor the names of contributors may be used to endorse 
+ *
+ * Neither the name of the author nor the names of contributors may be used to endorse
  * or promote products derived from this software without specific prior written permission.
- * 
- * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY 
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY
  * EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
  * MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
  *  COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
  *  EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
- *  GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED 
+ *  GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED
  * AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
- *  NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED 
- * OF THE POSSIBILITY OF SUCH DAMAGE. 
+ *  NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+ * OF THE POSSIBILITY OF SUCH DAMAGE.
  *
 */
 
@@ -4666,7 +4666,7 @@ jQuery.extend( jQuery.easing,
 		return c*((t=t/d-1)*t*((s+1)*t + s) + 1) + b;
 	},
 	easeInOutBack: function (x, t, b, c, d, s) {
-		if (s == undefined) s = 1.70158; 
+		if (s == undefined) s = 1.70158;
 		if ((t/=d/2) < 1) return c/2*(t*t*(((s*=(1.525))+1)*t - s)) + b;
 		return c/2*((t-=2)*t*(((s*=(1.525))+1)*t + s) + 2) + b;
 	},
@@ -4693,40 +4693,40 @@ jQuery.extend( jQuery.easing,
 /*
  *
  * TERMS OF USE - EASING EQUATIONS
- * 
- * Open source under the BSD License. 
- * 
+ *
+ * Open source under the BSD License.
+ *
  * Copyright Â© 2001 Robert Penner
  * All rights reserved.
- * 
- * Redistribution and use in source and binary forms, with or without modification, 
+ *
+ * Redistribution and use in source and binary forms, with or without modification,
  * are permitted provided that the following conditions are met:
- * 
- * Redistributions of source code must retain the above copyright notice, this list of 
+ *
+ * Redistributions of source code must retain the above copyright notice, this list of
  * conditions and the following disclaimer.
- * Redistributions in binary form must reproduce the above copyright notice, this list 
- * of conditions and the following disclaimer in the documentation and/or other materials 
+ * Redistributions in binary form must reproduce the above copyright notice, this list
+ * of conditions and the following disclaimer in the documentation and/or other materials
  * provided with the distribution.
- * 
- * Neither the name of the author nor the names of contributors may be used to endorse 
+ *
+ * Neither the name of the author nor the names of contributors may be used to endorse
  * or promote products derived from this software without specific prior written permission.
- * 
- * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY 
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY
  * EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
  * MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
  *  COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
  *  EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
- *  GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED 
+ *  GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED
  * AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
- *  NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED 
- * OF THE POSSIBILITY OF SUCH DAMAGE. 
+ *  NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+ * OF THE POSSIBILITY OF SUCH DAMAGE.
  *
  */
     </script>
     <script type="text/javascript" charset="utf-8">
       (function($) {
   var currentHash = document.location.hash;
-  
+
   var checkHash = function checkAgain() {
     var newHash = document.location.hash;
     if (currentHash != newHash) {
@@ -4861,7 +4861,7 @@ jQuery.extend( jQuery.easing,
 })(jQuery);
 
     </script>
-    
+
   </head>
   <body>
     <div id="instructions">
@@ -4869,19 +4869,19 @@ jQuery.extend( jQuery.easing,
     </div>
     <div id="slides">
       <div id="track">
-        
+
           <div class="">
             <div id="slide-0" class="content">
               <h1>Ruby 2.0 Rundown</h1><p>@benjaminoakes</p><p><a href="http://continuity.net/"><img src="continuity_logo.jpg" alt="Continuity Control"></a></p><p><a href="http://continuity.net/">continuity.net</a></p>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-1" class="content">
               <h2>Ruby is 20 years old!</h2><p>Ruby 2.0 was released on its birthday, Feb 24th</p>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-2" class="content">
               <h2>What is it?</h2><ul>
@@ -4892,7 +4892,7 @@ jQuery.extend( jQuery.easing,
 </ul>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-3" class="content">
               <h2>Then what's new?</h2><p>From a developer's perspective:</p><ul>
@@ -4903,7 +4903,7 @@ jQuery.extend( jQuery.easing,
 </ul>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-4" class="content">
               <h2>My experiences</h2><ul>
@@ -4913,7 +4913,7 @@ jQuery.extend( jQuery.easing,
 </ul>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-5" class="content">
               <h2>The good</h2><p>Things I like:</p><ul>
@@ -4927,7 +4927,7 @@ jQuery.extend( jQuery.easing,
 </ul>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-6" class="content">
               <h2>The bad</h2><p>Not ready for prodution use, yet.</p><ul>
@@ -4938,19 +4938,19 @@ jQuery.extend( jQuery.easing,
 </ul>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-7" class="content">
               <h2>DON'T PANIC</h2><p>These problems will shake out over time.</p><p>Some breakage is to be expected.</p>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-8" class="content">
               <h2>New features</h2><p>Many thanks to <a href="http://globaldev.co.uk/2012/11/ruby-2-0-0-preview-features/">Mat Sadler</a> for his writeup.</p>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-9" class="content">
               <h2>New features</h2><ul>
@@ -4966,7 +4966,7 @@ jQuery.extend( jQuery.easing,
 </ul>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-10" class="content">
               <h2><code>__dir__</code></h2><p>If you've ever hated writing <code>File.dirname(__FILE__)</code> over and over, you'll love this</p><pre><code>p __dir__
@@ -4974,7 +4974,7 @@ jQuery.extend( jQuery.easing,
 </code></pre>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-11" class="content">
               <h2>New features</h2><ul>
@@ -4988,7 +4988,7 @@ jQuery.extend( jQuery.easing,
 </ul>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-12" class="content">
               <h2><code>%i</code></h2><p>Like <code>%w()</code>, but for symbols.</p><pre><code>p %i(panda bamboo)
@@ -4998,7 +4998,7 @@ jQuery.extend( jQuery.easing,
 </code></pre><p>Like normal, be careful when making symbols from user input.</p>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-13" class="content">
               <h2>New features</h2><ul>
@@ -5014,7 +5014,7 @@ jQuery.extend( jQuery.easing,
 </ul>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-14" class="content">
               <h2><code>to_h</code></h2><ul>
@@ -5024,7 +5024,7 @@ jQuery.extend( jQuery.easing,
 </ul>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-15" class="content">
               <h2>
@@ -5037,7 +5037,7 @@ jQuery.extend( jQuery.easing,
 <p>...and a handful of aliases called <code>to_hash</code> (from 1.9)</p>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-16" class="content">
               <h2>
@@ -5050,7 +5050,7 @@ p s.to_h # =&gt; {:panda=&gt;nil, :bamboo=&gt;nil}
 </code></pre>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-17" class="content">
               <h2>
@@ -5072,7 +5072,7 @@ p s.to_h # =&gt; {:panda=&gt;nil, :bamboo=&gt;nil}
 </ul>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-18" class="content">
               <h2>
@@ -5083,14 +5083,14 @@ p os.to_h # =&gt; {:panda=&gt;"bamboo"}
 </code></pre>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-19" class="content">
               <h2>
 <code>to_h</code> (cont'd)</h2><h3>The ugly</h3>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-20" class="content">
               <h2>
@@ -5101,7 +5101,7 @@ p os.to_h # =&gt; {:panda=&gt;"bamboo"}
 </code></pre>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-21" class="content">
               <h2>
@@ -5115,7 +5115,7 @@ p os.to_h # =&gt; {:panda=&gt;"bamboo"}
 </code></pre><p>In Ruby 1.9.3, it would print no warnings and return <code>{}</code>.</p>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-22" class="content">
               <h2>
@@ -5131,7 +5131,7 @@ p JSON.generate(ENV)
 </code></pre>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-23" class="content">
               <h2>
@@ -5141,7 +5141,7 @@ p ENV.to_h.to_json
 </code></pre>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-24" class="content">
               <h2>
@@ -5151,7 +5151,7 @@ p ENV.to_h.to_json
 </ul>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-25" class="content">
               <h2>
@@ -5165,7 +5165,7 @@ p eat(panda_diet)
 </code></pre>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-26" class="content">
               <h2>
@@ -5179,7 +5179,7 @@ p eat(panda_diet)
 </code></pre>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-27" class="content">
               <h2>
@@ -5198,7 +5198,7 @@ p eat(panda_diet)
 </code></pre>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-28" class="content">
               <h2>New features</h2><ul>
@@ -5213,14 +5213,14 @@ p eat(panda_diet)
 </ul>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-29" class="content">
               <h2>Keyword arguments</h2><p>Finally, a built in way to handle what we already do all the time:</p><pre><code>some_method(positional_arg, panda: 'bamboo')
 </code></pre>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-30" class="content">
               <h2>Keyword arguments (cont'd)</h2><pre><code># Ruby &lt; 2.0 idiom
@@ -5236,13 +5236,13 @@ end
 </code></pre>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-31" class="content">
               <h2>Keyword arguments (cont'd)</h2><p>2 ways of defining</p>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-32" class="content">
               <h2>Keyword arguments (cont'd)</h2><pre><code># As keywords
@@ -5260,7 +5260,7 @@ keywords('foo', panda: 'kung fu')
 </code></pre>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-33" class="content">
               <h2>Keyword arguments (cont'd)</h2><pre><code># As keywords
@@ -5279,7 +5279,7 @@ keywords('eats', :panda =&gt; 'shoots and leaves')
 </code></pre>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-34" class="content">
               <h2>Keyword arguments (cont'd)</h2><pre><code># As keywords
@@ -5298,7 +5298,7 @@ keywords('greeting', place: 'China', panda: 'nom nom nom')
 </code></pre>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-35" class="content">
               <h2>Keyword arguments (cont'd)</h2><pre><code># As a capture ("double splat")
@@ -5316,7 +5316,7 @@ capture(anything: 'that', I: 'want')
 </code></pre>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-36" class="content">
               <h2>New features</h2><ul>
@@ -5331,7 +5331,7 @@ capture(anything: 'that', I: 'want')
 </ul>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-37" class="content">
               <h2>Lazy evaluation</h2><ul>
@@ -5342,7 +5342,7 @@ capture(anything: 'that', I: 'want')
 </ul>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-38" class="content">
               <h2>Lazy evaluation example</h2><p>From <a href="http://ruby-doc.org/core-2.0/Enumerator/Lazy.html">the docs</a>:</p><pre><code># See Kernel#to_enum for the definition of repeat
@@ -5358,13 +5358,13 @@ r.lazy.repeat(2).map { |n| n ** 2 }.first(5) # =&gt; [1, 1, 4, 4, 9]
 </code></pre>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-39" class="content">
               <h2>That's all I have...</h2><p>There's a lot of changes, but those are some that I like.</p>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-40" class="content">
               <h2>What I didn't cover</h2><ul>
@@ -5382,7 +5382,7 @@ r.lazy.repeat(2).map { |n| n ** 2 }.first(5) # =&gt; [1, 1, 4, 4, 9]
 </ul>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-41" class="content">
               <h2>So how do I get Ruby 2?</h2><ul>
@@ -5399,13 +5399,13 @@ r.lazy.repeat(2).map { |n| n ** 2 }.first(5) # =&gt; [1, 1, 4, 4, 9]
 </ul>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-42" class="content">
               <h2>Thanks!</h2><h3>Q&amp;A</h3><p>@benjaminoakes</p><p><a href="http://continuity.net/"><img src="continuity_logo.jpg" alt="Continuity Control"></a></p><p><a href="http://continuity.net/">continuity.net</a></p>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-43" class="content">
               <h2>Other references</h2><p>These were very useful when preparing this.</p><ul>
@@ -5419,13 +5419,13 @@ r.lazy.repeat(2).map { |n| n ** 2 }.first(5) # =&gt; [1, 1, 4, 4, 9]
 </ul>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-44" class="content">
               <h2><code>Module#prepend</code></h2><p>Replacement for <code>alias_method_chain</code> hackery.</p>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-45" class="content">
               <h2>
@@ -5443,7 +5443,7 @@ p Panda.new.eats # =&gt; 'shoots and leaves'
 </code></pre>
             </div>
           </div>
-        
+
           <div class="">
             <div id="slide-46" class="content">
               <h2>
@@ -5461,7 +5461,7 @@ p Panda.new.eats # =&gt; 'bamboo'
 </code></pre>
             </div>
           </div>
-        
+
       </div>
     </div>
 <script>
