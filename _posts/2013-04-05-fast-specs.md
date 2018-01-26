@@ -13,11 +13,11 @@ categories:
   - Ruby
   - Testing
 ---
-I gave [a talk on &#8220;Fast Specs&#8221;](http://media.benjaminoakes.com/2013/04-04-fast-specs) at our first round of lightning talks for [ICRuby](http://icruby.org/). I&#8217;m pretty happy with how it turned out.
+I gave [a talk on &#8220;Fast Specs&#8221;](/media/2013/04/04/fast-specs/) at our first round of lightning talks for [ICRuby](http://icruby.org/). I&#8217;m pretty happy with how it turned out.
 
 **Summary:** techniques for speeding up the test suite in your Rails app (subsecond specs in some cases)
 
-[![Cover image of "Fast Specs"](/wp-content/uploads/2013/04/fast-specs-cover.png)](http://media.benjaminoakes.com/2013/04-04-fast-specs)
+[![Cover image of "Fast Specs"](/wp-content/uploads/2013/04/fast-specs-cover.png)](/media/2013/04/04/fast-specs/)
 
 <blockquote class="twitter-tweet">
   <p>
