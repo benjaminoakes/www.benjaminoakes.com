@@ -23,4 +23,4 @@ I thought I&#8217;d share [my (quick and dirty) slides](/media/2012/10/25/maid-p
 
 There were lots of good questions (which I wish I had written down), including how to use it with iTunes, how to use it as a replacement for `logrotate`, how I was using [Vagrant](http://vagrantup.com) for testing, how to automate more than set of rules, etc.
 
-[View the slides](/media/2012/10/25/maid-presentation.html) (or get the [source markdown](https://github.com/benjaminoakes/maid/wiki/presentation))
+[View the slides](/media/2012/10/25/maid-presentation/) (or get the [source markdown](https://github.com/benjaminoakes/maid/wiki/presentation))
