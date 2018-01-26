@@ -19,7 +19,7 @@ tags:
   - ruby2
   - to_h
 ---
-I gave a talk at [ICRuby](http://icruby.org) today about Ruby 2.0, partially as a learning experience for myself. I hadn&#8217;t done much with Ruby 2.0 before, and I had fun learning more about what to expect. If you&#8217;d like to see what I presented, [my slides are available](http://media.benjaminoakes.com/2013/03-07-ruby-2-rundown).
+I gave a talk at [ICRuby](http://icruby.org) today about Ruby 2.0, partially as a learning experience for myself. I hadn&#8217;t done much with Ruby 2.0 before, and I had fun learning more about what to expect. If you&#8217;d like to see what I presented, [my slides are available](/media/2013/03/07/ruby-2-rundown).
 
 A lot of what I showed about Ruby 2.0 was a pretty standard overview, but I paid special attention to `to_h`. I ended up doing some research that I haven&#8217;t seen written up elsewhere, and thought I should share it as a blog post as well.
 
@@ -61,9 +61,9 @@ s.to_h                   # => {:panda=>nil, :bamboo=>nil}
 
 Searching [ruby-doc.org std-lib](http://ruby-doc.org/stdlib-2.0/) gave:
 
-  * Useful: 
+  * Useful:
       * [`OpenStruct#to_h`](http://ruby-doc.org/stdlib-2.0/libdoc/ostruct/rdoc/OpenStruct.html#method-i-to_h)
-  * Less common: 
+  * Less common:
       * `JSON::Ext::Generator::State`
       * `XMLRPC::FaultException`
       * `OpenSSL::X509::Extension`
