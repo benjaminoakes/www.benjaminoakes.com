@@ -13,4 +13,4 @@ tags:
 ---
 A talk I gave at Iowa Code Camp in May 2015.
 
-Source: _[AMA: We pair program (almost) everything. Ask us anything!](http://media.benjaminoakes.com/2015/05-09-iowa-code-camp/Pair-Programming-AMA.remark.html#1)_
+Source: _[AMA: We pair program (almost) everything. Ask us anything!](/media/2015/05/09/ICC-Pair-Programming-AMA/)_
