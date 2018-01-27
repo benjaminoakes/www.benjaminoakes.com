@@ -13,7 +13,7 @@ tags:
   - solar
   - walmart
 ---
-[<img class="preview" src="http://media.benjaminoakes.com/2010/Broken solar clock%20Not so fast/Mainstays WT-8029U.jpg" />](http://media.benjaminoakes.com/2010/Broken%20solar%20clock%20Not%20so%20fast/Mainstays%20WT-8029U.jpg)
+![Mainstays WT-8029U Solar Powered Clock](/media/2010/10/11/Mainstays-WT-8029U.jpg)
 
 Just a note to other Mainstays WT-8029U owners: if you think your clock is broken and the battery won&#8217;t hold a charge, you might be wrong. There are **two** solar modes you have to set. The first is on the back, under the battery compartment. The second is set using the menu:
 
