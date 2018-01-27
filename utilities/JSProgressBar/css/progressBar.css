@@ -1,0 +1,19 @@
+.empty
+{
+	position: relative;
+	background-image: url(img/empty.gif);
+	background-repeat: repeat-x;
+}
+
+.filled
+{
+	height: 10px;
+	background-image: url(img/filled.gif);
+	background-repeat: repeat-x;
+}
+
+.shadow
+{
+	height: 3px;
+	background-image: url(img/shadow.gif); 
+}
