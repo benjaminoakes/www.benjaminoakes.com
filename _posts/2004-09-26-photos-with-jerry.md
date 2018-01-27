@@ -10,15 +10,15 @@ categories:
 ---
 Here are the photos of me with Jerry, as promised:
 
-![Jerry sees me walking over to him](http://media.benjaminoakes.com/2004/Fan Club/jerry1.jpg)
+[![Jerry sees me walking over to him](/media/2004/09/26/Fan-Club/jerry1small.jpg)](/media/2004/09/26/Fan-Club/jerry1.jpg)
 
 That&#8217;s me on the far left and Jerry&#8217;s on the right.
 
-![We pose together](http://media.benjaminoakes.com/2004/Fan Club/jerry2.jpg)
+[![We pose together](/media/2004/09/26/Fan-Club/jerry2small.jpg)](/media/2004/09/26/Fan-Club/jerry2.jpg)
 
 It&#8217;s still spooky how similar our shirts were...
 
-![A candid moment, this time with hats](http://media.benjaminoakes.com/2004/Fan Club/jerry3.jpg)
+[![A candid moment, this time with hats](/media/2004/09/26/Fan-Club/jerry3small.jpg)](/media/2004/09/26/Fan-Club/jerry3.jpg)
 
 Someone decided that we could look even **more** alike if I would wear a hat.
 
