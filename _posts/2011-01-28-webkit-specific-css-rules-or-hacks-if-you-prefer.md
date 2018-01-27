@@ -14,19 +14,19 @@ tags:
   - readability
   - webkit
 ---
-There are many things about WebKit-based browsers like Chrome and Safari that I really like. One of them is the file selector widget; I&#8217;ve grown so used to being able to drag-n-drop files onto the control to upload that I really miss it when I use Firefox, IE, or when the developer decided to only give a Flash-based file uploader. It&#8217;s definitely saved me hours in poking around in my files. 
+There are many things about WebKit-based browsers like Chrome and Safari that I really like. One of them is the file selector widget; I&#8217;ve grown so used to being able to drag-n-drop files onto the control to upload that I really miss it when I use Firefox, IE, or when the developer decided to only give a Flash-based file uploader. It&#8217;s definitely saved me hours in poking around in my files.
 
-Even though I think the widget is great usability-wise, it only really looks good on light backgrounds. It&#8217;s completely _impossible_ to tell what file you&#8217;re uploading if the widget is on a black background: 
+Even though I think the widget is great usability-wise, it only really looks good on light backgrounds. It&#8217;s completely _impossible_ to tell what file you&#8217;re uploading if the widget is on a black background:
 
-<img class="preview" src="http://media.benjaminoakes.com/2011/webkit_input_type_file_before.png" />
+![WebKit input type="file" before](/media/2011/01/28/webkit_input_type_file_before.png)
 
-That&#8217;s definitely not the case in Gecko (Firefox, etc.) or Internet Explorer. They don&#8217;t give the same readability problems on a dark background. 
+That&#8217;s definitely not the case in Gecko (Firefox, etc.) or Internet Explorer. They don&#8217;t give the same readability problems on a dark background.
 
 ### What can you do about it?
 
-Well, it turns out [you can target WebKit-based browsers](http://stackoverflow.com/questions/1849137/safari-conditional-css) with a relatively simple `media` query. Conceptually, it&#8217;s similar to using a [conditional comment](http://www.quirksmode.org/css/condcom.html) to have an &#8220;IE-hacks&#8221; stylesheet. 
+Well, it turns out [you can target WebKit-based browsers](http://stackoverflow.com/questions/1849137/safari-conditional-css) with a relatively simple `media` query. Conceptually, it&#8217;s similar to using a [conditional comment](http://www.quirksmode.org/css/condcom.html) to have an &#8220;IE-hacks&#8221; stylesheet.
 
-In that spirit, I decided to make a `webkit.css` file with WebKit-only rules. Given the support of media queries across browsers and the WebKit-specific `-webkit-min-device-pixel-ratio`, the following makes it possible to give CSS that only affects WebKit. 
+In that spirit, I decided to make a `webkit.css` file with WebKit-only rules. Given the support of media queries across browsers and the WebKit-specific `-webkit-min-device-pixel-ratio`, the following makes it possible to give CSS that only affects WebKit.
 
 #### Within `<head>` add:
 
@@ -34,7 +34,7 @@ In that spirit, I decided to make a `webkit.css` file with WebKit-only rules. Gi
 <link href="webkit.css" media="screen and (-webkit-min-device-pixel-ratio:0)" rel="stylesheet" type="text/css" />
 ```
 
-Or, if you don&#8217;t want a separate file, you can avoid that by embedding the rule into an existing stylesheet like so: 
+Or, if you don&#8217;t want a separate file, you can avoid that by embedding the rule into an existing stylesheet like so:
 
 ```css
 @media screen and (-webkit-min-device-pixel-ratio:0) {
@@ -44,7 +44,7 @@ Or, if you don&#8217;t want a separate file, you can avoid that by embedding the
 
 #### Within `<head>` add:
 
-Then, to style all the background colors so that `<input type="file" />` is readable, you can do something like this: 
+Then, to style all the background colors so that `<input type="file" />` is readable, you can do something like this:
 
 #### `webkit.css`
 
@@ -56,11 +56,11 @@ input[type="file"] {
 }
 ```
 
-That&#8217;s simple enough to fix all file inputs in WebKit, but IE 6, 7, 8 and Firefox continue to work the same way. 
+That&#8217;s simple enough to fix all file inputs in WebKit, but IE 6, 7, 8 and Firefox continue to work the same way.
 
-Here&#8217;s the result: 
+Here&#8217;s the result:
 
-<img class="preview" src="http://media.benjaminoakes.com/2011/webkit_input_type_file_after.png" />
+![WebKit input type="file" before](/media/2011/01/28/webkit_input_type_file_after.png)
 
 #### Reactions
 
