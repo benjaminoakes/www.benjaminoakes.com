@@ -12,10 +12,6 @@ tags:
 ---
 I mean, the data is probably massaged a little, but still. Look:
 
-[
-  
-<img alt="Road to Recovery job loss/growth graph" class="preview" src="http://media.benjaminoakes.com/2010/Road to Recovery/OFA_road_to_recovery-jobs-may10 (thumbnail).png" />
-  
-](http://media.benjaminoakes.com/2010/Road to Recovery/OFA_road_to_recovery-jobs-may10.pdf) 
+[![Road to Recovery job loss/growth graph](/media/2010/06/06/Road-to-Recovery/OFA_road_to_recovery-jobs-may10-Preview.png)](/media/2010/06/06/Road-to-Recovery/OFA_road_to_recovery-jobs-may10.pdf)
 
 There&#8217;s more on the [Road to Recovery site](http://my.barackobama.com/Recovery).
