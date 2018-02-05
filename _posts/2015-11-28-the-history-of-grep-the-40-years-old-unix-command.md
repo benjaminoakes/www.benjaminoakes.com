@@ -13,6 +13,4 @@ tags:
 ---
 > “grep was a private command of mine for quite a while before i made it public.” -Ken Thompson
 
-Source: _[The history of grep, the 40 years old Unix command
-  
-](https://medium.com/@rualthanzauva/grep-was-a-private-command-of-mine-for-quite-a-while-before-i-made-it-public-ken-thompson-a40e24a5ef48)_
+Source: _[The history of grep, the 40 years old Unix command](https://medium.com/@rualthanzauva/grep-was-a-private-command-of-mine-for-quite-a-while-before-i-made-it-public-ken-thompson-a40e24a5ef48)_
