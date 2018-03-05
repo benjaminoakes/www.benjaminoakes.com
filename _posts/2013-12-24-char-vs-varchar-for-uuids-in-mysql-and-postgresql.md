@@ -26,5 +26,7 @@ What I learned from researching today:
   * It&#8217;s more likely to make a difference if the column is indexed ([source](http://stackoverflow.com/questions/12161933/varchar-char-or-binary-to-improve-mysql-performance))
   * [`varchar` takes extra memory to store a prefix](http://stackoverflow.com/questions/10526176/mysql-varchar-or-char-for-fixed-length-string), which I presume to describe the length which `char` would not need
   * Storing UUIDs in a non-character column could make sense, but since `UUID()` returns characters anyway, [it&#8217;s going against the grain](http://forums.mysql.com/read.php?98,49626,51650#msg-51650).
+  
+**Conclusion:** Use the `CHAR(36)` type in MySQL.  Use the `UUID` type in PosgreSQL.
 
 If I&#8217;m wrong about what I took away from reading today, please let me know in the comments. I&#8217;d love to learn more about this.
