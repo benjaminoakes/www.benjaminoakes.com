@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alternative to macros: the Vim norm(al) command "
+title: "Alternative to macros: the Vim norm(al) command"
 date: 2018-03-06
 ---
 
