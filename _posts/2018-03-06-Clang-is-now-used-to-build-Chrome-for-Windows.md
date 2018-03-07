@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LLVM Project Blog: Clang is now used to build Chrome for Windows"
+title: "Clang is now used to build Chrome for Windows"
 date: 2018-03-06
 ---
 
