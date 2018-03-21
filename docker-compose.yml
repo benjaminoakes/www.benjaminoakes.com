@@ -1,5 +1,5 @@
 app:
-  build: .
+  image: starefossen/github-pages:latest
   volumes:
     - .:/usr/src/app
   command: jekyll serve --incremental --host 0.0.0.0 --port 4000
