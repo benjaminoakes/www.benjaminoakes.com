@@ -21,6 +21,6 @@ date: 2018-04-03
 > }
 > ```
 
-Source: [Headless Chrome: an answer to server-side rendering JS sites  -  Tools for Web Developers  |  Google Developers](https://developers.google.com/web/tools/puppeteer/articles/ssr)
+Source: [Headless Chrome: an answer to server-side rendering JS sites  -  Tools for Web Developers  - Google Developers](https://developers.google.com/web/tools/puppeteer/articles/ssr)
 
 Interesting, but I wonder how it'll work if the receiving browser doesn't _quite_ match up with what Headless Chrome generates.
