@@ -89,4 +89,27 @@ Good hunting!
   * `man git-bisect`
   * [Git bisect saves the day](http://blog.boombatower.com/git-bisect-saves-the-day)
 
+For manual testing, this Ruby script can help you bisect without writing an automated test:
+
+```ruby
+#!/usr/bin/env ruby
+
+response = nil
+
+begin
+  while !%w[y n].include?(response) do
+    print "y/n? "
+    response = gets.chomp
+  end
+
+  if response == "y"
+    exit 0
+  else
+    exit 1
+  end
+rescue Interrupt
+  exit 2
+end
+```
+
 :wq
