@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spectre-NG: eight new Intel CPU flaws revealed, several serious "
+title: "Spectre-NG: eight new Intel CPU flaws revealed, several serious"
 date: 2018-05-05
 ---
 
