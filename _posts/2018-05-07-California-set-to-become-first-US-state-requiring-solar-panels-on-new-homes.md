@@ -8,7 +8,7 @@ date: 2018-05-07
 >
 > The state's Energy Commission is due to vote next week on new energy standards that would require virtually all new homes to be constructed with solar panels from 2020.
 
-Source: [California set to become first US state requiring solar panels on new homes | The Independent](https://www.independent.co.uk/news/world/americas/california-solar-power-panels-homes-renewable-green-energy-climate-change-a8337626.html)
+Source: [California set to become first US state requiring solar panels on new homes - The Independent](https://www.independent.co.uk/news/world/americas/california-solar-power-panels-homes-renewable-green-energy-climate-change-a8337626.html)
 
 Awesome.
 
