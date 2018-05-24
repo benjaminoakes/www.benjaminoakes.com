@@ -1,20 +1,4 @@
 #!/bin/bash
 set -o errexit
 
-sudo echo "Deploying..."
-
 git push origin master
-
-sudo rm -rf _production
-sudo docker-compose build
-sudo docker-compose run -e JEKYLL_ENV=production app jekyll build --destination _production
-# sudo docker-compose run app linkchecker _production
-
-rsync \
-  --archive \
-  --verbose \
-  --compress \
-  --delete \
-  --rsh=ssh \
-  _production/ \
-  benjaminoakes.com:~/benjaminoakes.com/
