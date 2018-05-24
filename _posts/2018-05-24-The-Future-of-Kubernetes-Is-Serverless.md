@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Future of Kubernetes Is Serverless"
-categories: "serverless k8s kubernetes docker"
+categories: "docker"
 date: 2018-05-24
 ---
 
