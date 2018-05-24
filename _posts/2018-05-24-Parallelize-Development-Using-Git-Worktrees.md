@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Parallelize Development Using Git Worktrees"
-categories: "git clone devtip protip maintenance"
+category: "protip"
 date: 2018-05-24
 ---
 
