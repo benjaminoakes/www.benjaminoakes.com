@@ -2,6 +2,6 @@ app:
   image: starefossen/github-pages:latest
   volumes:
     - .:/usr/src/app
-  command: jekyll serve --incremental --host 0.0.0.0 --port 4000
+  command: jekyll serve --limit-posts=11 --incremental --host 0.0.0.0 --port 4000
   ports:
     - 4000:4000
