@@ -11,4 +11,4 @@ date: 2018-06-01
 >
 > Inspired by Creative Commons and the open source software movement, the FMA provides a legal and technological framework for curators, artists, and listeners to harness the potential of music sharing. Every artist page will have a bio and links to the artists home page for users to learn more about the music they discover via the Free Music Archive.
 
-Source: [Free Music Archive](http://freemusicarchive.org/about)
+Source: [Free Music Archive](http://freemusicarchive.org/)
