@@ -10,7 +10,8 @@ Since `.github/CODEOWNERS` and `.gitignore` share the same syntax, you can use t
 First, replace your `.gitignore` with the file globs that you'd like to check:
 
 ```
-*.xyz # be sure to remove the owner name!
+# be sure to remove the owner name!
+*.xyz
 ```
 
 Then run this command:
