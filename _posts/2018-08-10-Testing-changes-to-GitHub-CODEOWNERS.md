@@ -17,7 +17,7 @@ Then run this command:
 
 ```
 # It's fairly important to ignore .git, but the other paths may vary in your situation.
-find . \( -path ./.git -o -path ./vendor -o -path ./tmp -o -path ./node_modules \) -prune -o -print | git check-ignore -v --stdin --no-index
+find . \( -path ./.git -o -path ./tmp \) -prune -o -print | git check-ignore -v --stdin --no-index
 ```
 
 Once you're done, simply `git checkout .gitignore`.
