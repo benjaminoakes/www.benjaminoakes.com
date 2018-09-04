@@ -9,4 +9,4 @@ date: 2018-09-04
 
 Soure: [command line - How do I end standard input without a newline character? - Ask Ubuntu](https://askubuntu.com/questions/118548/how-do-i-end-standard-input-without-a-newline-character)
 
-Useful on occasion, especially when a newline would break a consuming program because it expected a string without whitespace.
+This is useful on occasion, especially when a newline would break a consuming program because it expected a string without whitespace.
