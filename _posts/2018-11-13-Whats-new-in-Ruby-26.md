@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Whats new in Ruby 2.6?"
+title: "What's new in Ruby 2.6?"
 category: "ruby"
 date: 2018-11-13
 ---
