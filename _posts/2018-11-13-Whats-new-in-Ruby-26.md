@@ -13,7 +13,6 @@ date: 2018-11-13
 > - Hash#merge, merge! now accept multiple arguments
 > - The #then method
 > - Random.bytes
-> - Another notable speed improvements
 > - `Proc#call` is now around 1.4x faster.
 > - Reduce the memory footprint of short-living memory objects
 
