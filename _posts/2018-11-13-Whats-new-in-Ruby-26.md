@@ -16,6 +16,6 @@ date: 2018-11-13
 > - `Proc#call` is now around 1.4x faster.
 > - Reduce the memory footprint of short-living memory objects
 
-Source: [Whats new in Ruby 2.6?  Tailor Tech  Medium](https://medium.com/tailor-tech/whats-new-in-ruby-2-6-a4774f3631c1)
+Source: [Whats new in Ruby 2.6?](https://medium.com/tailor-tech/whats-new-in-ruby-2-6-a4774f3631c1)
 
 Some nice quality of life improvements, but nothing incredibly Earth-shaking.
