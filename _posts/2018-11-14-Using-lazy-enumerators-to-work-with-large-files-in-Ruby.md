@@ -17,7 +17,7 @@ I needed to do some one-off processing on a multi-gigabyte text file in Ruby tod
 File.open(in_file) do |file|
   file.
     each_line.
-    lazy. # 
+    lazy. # 👈
     drop(1). # We don't want the header
     map { |line| JSON.parse(clean_line(line)) }.
     # first(count).
