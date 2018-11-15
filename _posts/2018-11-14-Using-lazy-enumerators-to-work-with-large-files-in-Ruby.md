@@ -13,7 +13,7 @@ Source: [Using lazy enumerators to work with large files in Ruby](https://blog.h
 
 I needed to do some one-off processing on a multi-gigabyte text file in Ruby today.  If you're not already familiar with lazy enumerators in Ruby, they're handy for situations like this.
 
-```
+```ruby
 File.open(in_file) do |file|
   file.
     each_line.
