@@ -9,4 +9,4 @@ date: 2018-12-04
 
 Source: [Microsoft is building a Chromium-powered web browser that will replace Edge on Windows 10 - Windows Central](https://m.windowscentral.com/microsoft-building-chromium-powered-web-browser-windows-10)
 
-This is a big deal. It would leave Firefox as the last browser that isn't from the WebKit lineage.
+This is a big deal. It would leave Firefox as the last (major) browser that isn't from the WebKit lineage.
