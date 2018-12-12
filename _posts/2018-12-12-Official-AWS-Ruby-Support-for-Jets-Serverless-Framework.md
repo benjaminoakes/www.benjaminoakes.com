@@ -9,7 +9,7 @@ date: 2018-12-12
 
 Source: [Official AWS Ruby Support for Jets Serverless Framework - BoltOps Blog](https://blog.boltops.com/2018/12/12/official-aws-ruby-support-for-jets-serverless-framework)
 
-```
+```ruby
 class PostsController < ApplicationController
   def index
     # renders Lambda Proxy structure compatiable with API Gateway
@@ -25,7 +25,7 @@ class PostsController < ApplicationController
 end
 ```
 
-```
+```ruby
 class HardJob < ApplicationJob
   rate "10 hours" # every 10 hours
   def dig
