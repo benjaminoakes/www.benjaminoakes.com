@@ -9,4 +9,4 @@ date: 2019-01-09
 
 Source: [The year of the vegan](https://worldin2019.economist.com/theyearofthevegan?utm_source=412&utm_medium=COM)
 
-Now if only the American counterparts of EU restaurant chains would follow suit...
+Now if only the American counterparts of EU restaurant chains would follow suit...  (Everywhere, [not just in one restaurant in Chicago](https://www.wellandgood.com/good-food/mcdonalds-mcaloo-tikki-vegan-burger/).)
