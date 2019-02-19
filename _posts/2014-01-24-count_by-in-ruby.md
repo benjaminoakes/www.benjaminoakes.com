@@ -39,3 +39,5 @@ describe 'count_by' do
   end
 end
 ```
+
+**Update (2019-02-19):** [This is likely to be added to Ruby 2.7 as `tally`](https://www.benjaminoakes.com/ruby/2019/02/19/Ruby-27-adds-Enumerabletally/).
