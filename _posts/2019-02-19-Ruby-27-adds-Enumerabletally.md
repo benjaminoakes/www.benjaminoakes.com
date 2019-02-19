@@ -5,7 +5,7 @@ category: "ruby"
 date: 2019-02-19
 ---
 
-```ryby
+```ruby
 %w(foo foo bar foo baz foo).tally
 # => {"foo"=>4, "bar"=>1, "baz"=>1}
 ```
