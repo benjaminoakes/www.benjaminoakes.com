@@ -9,7 +9,7 @@ date: 2019-05-31
 
 Examples from the docs:
 
-```
+```ruby
   context 'when we expect exactly 1 query' do
     it 'makes database queries' do
       expect { subject.make_one_query }.to make_database_queries(count: 1)
