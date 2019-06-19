@@ -9,7 +9,7 @@ date: 2019-06-19
 
 This is now widely supported and defaults to `$!`.  It should generally work in error reporting applications like [Bugsnag](https://www.bugsnag.com/), which renders the `cause` as "caused by" in the stacktrace tab.
 
-Finally, unlike Java, which allows a nested exception's cause to be set manually, Ruby only allows `#cause` to be `$!` at the time that the wrapping exception is raised.  There is no `#cause=` or argument to `Exception.new`, and `$!` is a read-only variable.  See [the feature in Ruby's Redmine](https://bugs.ruby-lang.org/issues/8257) for discussion about the reasoning.  In effect, if you want to wrap an exception, you have to re-raise.  This makes using any kind of `Exception` (`StandardError`, etc) as a value object more difficult.  This includes use in tests/specs or as a return value when you'd like to avoid the overhead of yet another `raise`.
+Finally, unlike Java, which allows a nested exception's cause to be set manually, Ruby only allows `#cause` to be `$!` at the time that the wrapping exception is raised.  There is no `#cause=` or argument to `Exception.new`, and `$!` is a read-only variable.  See [the feature in Ruby's Redmine](https://bugs.ruby-lang.org/issues/8257) for discussion about the reasoning.  In effect, if you want to wrap an exception, you have to re-raise.  This makes using any kind of `Exception` (`StandardError`, etc) as a value object more difficult.  This includes use of `Exception#cause` in tests/specs or as a return value when you'd like to avoid the overhead of yet another `raise`.
 
 Overall, `Exception#cause` is a great addition to base Ruby, but I would love an option like `initCause` in Java.
 
