@@ -16,4 +16,4 @@ Example:
 livetail '_sourceCategory=production/haystack*' | grep 'needle'
 ```
 
-Exactly what I was hoping existed.  I've put years into learning Unix text processing, so `grep` and `sed` are second nature.  Why relearn everything?
+Exactly what I was hoping would exist.  I've put years into learning Unix text processing, so `grep` and `sed` are second nature.  Why relearn everything?
