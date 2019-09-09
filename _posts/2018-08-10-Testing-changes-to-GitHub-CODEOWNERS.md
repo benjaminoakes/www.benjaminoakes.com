@@ -5,6 +5,8 @@ category: "git"
 date: 2018-08-10
 ---
 
+**Update (2019-09-09):** You can also try out [toptal/codeowners-checker](https://github.com/toptal/codeowners-checker).
+
 Since `.github/CODEOWNERS` and `.gitignore` share the same syntax, you can use this strategy to test the files that are included by your codeowners rules.
 
 First, replace your `.gitignore` with the file globs that you'd like to check:
