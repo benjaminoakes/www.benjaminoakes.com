@@ -9,4 +9,4 @@ date: 2020-06-01
 
 Source: [htmx - high power tools for html](https://htmx.org/)
 
-This is interesting and reminds me of the old school Rails UJS JavaScript, but I wonder how quickly it falls apart as a real-world approach for everything in an app. Also it makes me wonder if it works with Turbolinks. 
+This is interesting and reminds me of the old school Rails UJS JavaScript, but I wonder how quickly it falls apart as a real-world approach for everything in an app. Also it makes me wonder if it works with Turbolinks. 😉
