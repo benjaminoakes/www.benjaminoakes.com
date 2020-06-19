@@ -15,9 +15,11 @@ I looked at making a simple [Web Share Target](https://web.dev/web-share-target/
 javascript:void(prompt("Copy",`${document.location.href}#:~:text=${encodeURIComponent(getSelection().toString())}`))
 ```
 
+Not perfect, but it gets the job done.
+
 It's a little awkward to use bookmarklets on mobile Chrome.  There are two ways I'm aware of:
 
 - Bookmark it and then tap it once it autocompletes in the URL bar
 - Set it as your "homepage" in Chrome settings.  Then tapping the home icon next to the URL bar will execute that bookmarklet.
 
-Hope this helps someone share a link.  Please leave a comment if so.  :)
+[Hope this helps someone share a link](https://www.benjaminoakes.com/web/2020/06/19/Using-text-fragment-links-on-mobile-Chrome/#:~:text=Hope%20this%20helps%20someone%20share%20a%20link).  Please leave a comment if so.  :)
