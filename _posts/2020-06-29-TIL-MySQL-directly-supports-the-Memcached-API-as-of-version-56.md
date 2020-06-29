@@ -13,4 +13,4 @@ Source: [Speedy MySQL 5.6 takes aim at NoSQL, MariaDB  The Register](https://www
 
 > The InnoDB memcached plugin (daemon_memcached) provides an integrated memcached daemon that automatically stores and retrieves data from InnoDB tables, turning the MySQL server into a fast key-value store. Instead of formulating queries in SQL, you can use simple get, set, and incr operations that avoid the performance overhead associated with SQL parsing and constructing a query optimization plan. You can also access the same InnoDB tables through SQL for convenience, complex queries, bulk operations, and other strengths of traditional database software.
 
-[MySQL :: MySQL 5.6 Reference Manual :: 14.20 InnoDB memcached Plugin](https://dev.mysql.com/doc/refman/5.6/en/innodb-memcached.html)
+Source: [MySQL :: MySQL 5.6 Reference Manual :: 14.20 InnoDB memcached Plugin](https://dev.mysql.com/doc/refman/5.6/en/innodb-memcached.html)
