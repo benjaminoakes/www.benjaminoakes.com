@@ -13,4 +13,4 @@ Source: [How to upgrade indirect dependencies? (comment by alex-thewsey-ibm)](ht
 
 Took me a while to find a good process for this.  I needed it to apply a security update to all indirect dependencies.  Thank goodness for kind strangers like Alex Thewsey.
 
-[This related writeup](https://medium.com/@ayushya/upgrading-javascript-packages-deep-dependencies-using-yarn-8b5983d5fb6b) is also linked in that comment the comment thread.
+[This related writeup](https://medium.com/@ayushya/upgrading-javascript-packages-deep-dependencies-using-yarn-8b5983d5fb6b) is also linked in that comment thread.
