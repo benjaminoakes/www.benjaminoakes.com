@@ -7,6 +7,8 @@ date: 2020-08-21
 
 > At about 7 p.m., she was walking around campus with her roommate when she looked down at her phone. An email explained that her results had been transmitted to the Iowa Department of Public Health "per policy"  she had tested positive for COVID-19.
 > 
+>[...]
+>
 > She lugged some things to the bus stop and, 4 1/2 hours later, checked into the hotel room she's called home since. At this point, she's spent $700 between the bus ticket and the past few days in her hotel room. But, she said, she wasn't about to give the UI another night.
 > 
 > "They are telling students and parents they are prepared for covid, but they lied. They are not," Gaughan wrote. "I was told 'we weren't' expecting anyone to have covid on the first day' so none of the isolation rooms had been set up or cleaned, yet I was still forced to stay there.
