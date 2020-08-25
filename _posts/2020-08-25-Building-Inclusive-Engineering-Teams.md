@@ -12,7 +12,7 @@ My notes follow.
 About inclusivity:
 
 - There's no one answer.
-- Best to widely share ideas for increasing inclusivity
+- Best to widely share ideas for increasing inclusivity.
 - Goal that scales: "we want to make our team a place where hard working collaborative smart people from all backgrounds can succeed and thrive".
 - It's contextual (e.g. Black in US, Polish in post-Brexit UK).
 - What matters: behaviors that are punished and rewarded.
