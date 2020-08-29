@@ -9,4 +9,4 @@ date: 2020-08-29
 
 Source: [The New York Times](https://www.nytimes.com/2020/08/28/world/covid-19-coronavirus.html?action=click&module=Top%20Stories&pgtype=Homepage#link-279dd7ae)
 
-Not how I like to see Iowa City in the news.  It was a mistake to let students move back, and now we have one of the highest number of cases per capita.  What are we possibly gaining that's worth that?
+Not how I like to see Iowa City in the news.  It was a mistake to let students move back, and now we have one of the highest rates of cases per capita.  What are we possibly gaining that's worth that?
