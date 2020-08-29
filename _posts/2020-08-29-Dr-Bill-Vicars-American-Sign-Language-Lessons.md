@@ -9,4 +9,4 @@ date: 2020-08-29
 
 Source: [Learn Sign Language: Lesson 01 (ASL) - YouTube](https://www.youtube.com/watch?v=DaMjr4AfYA0)
 
-I've been working through these videos as I learn (and re-learn) ASL [with my toddler](https://www.amazon.com/Sign-Your-Baby-Communicate-Infants/dp/0966836774).  He's a talented instructor and it's nice to see that he's shared so much content online.
+I've been working through these videos as I learn (and re-learn) ASL [with my toddler](https://www.amazon.com/Sign-Your-Baby-Communicate-Infants/dp/0966836774).  Dr. Bill is a talented instructor and it's nice to see that he's shared so much content online.
