@@ -5,7 +5,7 @@ category: "ruby"
 date: 2020-09-10
 ---
 
-```
+```ruby
 # What's it look like?
 set = { 1, 2, 3 }
 set.include?(3) # => true
