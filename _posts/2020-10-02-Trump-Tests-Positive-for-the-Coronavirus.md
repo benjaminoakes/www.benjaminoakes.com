@@ -9,4 +9,4 @@ date: 2020-10-02
 
 Source: [Trump Tests Positive for the Coronavirus - The New York Times](https://www.nytimes.com/2020/10/02/us/politics/trump-covid.html)
 
-If he ends up recovering and then ends up also saying it was no big deal, I'm concerned what that does for the future of further virus containment in the United States.
+If he ends up recovering and then ends up also saying it was no big deal, I'm concerned about what that does for the future of further virus containment in the United States.
