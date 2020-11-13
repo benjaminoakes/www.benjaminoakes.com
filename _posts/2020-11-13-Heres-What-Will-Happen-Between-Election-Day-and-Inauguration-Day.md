@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Heres What Will Happen Between Election Day and Inauguration Day"
+title: "Here's What Will Happen Between Election Day and Inauguration Day"
 category: "government"
 date: 2020-11-13
 ---
 
-> First, lets address the elephant in the room: It is extremely unlikely that Republicans will be able to overturn the results of the election.
+> First, let's address the elephant in the room: It is extremely unlikely that Republicans will be able to overturn the results of the election.
 >
-> It is possible, yes, to come up with scenarios in which legislators or judges engineer a second Trump term and plunge the nation into a constitutional crisis. But even with a conservative Supreme Court, a Republican-led Senate and Republican-led congressional delegations in most states, election law experts are confident this wont happen.
+> It is possible, yes, to come up with scenarios in which legislators or judges engineer a second Trump term and plunge the nation into a constitutional crisis. But even with a conservative Supreme Court, a Republican-led Senate and Republican-led congressional delegations in most states, election law experts are confident this won't happen.
 >
 > [...]
 >
