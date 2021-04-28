@@ -15,3 +15,14 @@ permalink: /utils/
     alert(`Sum: ${sumString(string)}`);
   }
 </script>
+
+<script src="//cdn.opalrb.com/opal/1.0.0/opal.min.js" onload="Opal.require('opal')"></script>
+<script src="//cdn.opalrb.com/opal/1.0.0/opal-parser.min.js" onload="Opal.require('opal-parser')"></script>
+<script type="text/ruby">
+def percentage_of_total(part_of_interest, other_part)
+  percent = part_of_interest / (part_of_interest + other_part)
+  percent * 100
+end
+
+puts "%.2f%%" % percentage_of_total(1241, 9649)
+</script>
