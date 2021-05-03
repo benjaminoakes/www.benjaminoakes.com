@@ -12,3 +12,5 @@ date: 2021-05-03
 > 5. Optimizing the Web Server
 
 Source: [Containerizing Ruby on Rails Applications](https://technology.doximity.com/articles/containerizing-ruby-on-rails-applications)
+
+A good starter set.  Honestly, these should probably be defaults.
