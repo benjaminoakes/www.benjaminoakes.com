@@ -16,6 +16,7 @@ $rollout.activate_group(:chat, :all)
 $rollout.activate_group(:chat, :admins)
 $rollout.activate_user(:chat, @user)
 $rollout.activate_percentage(:chat, 20)
+$rollout.active?(:chat, User.first)
 ```
 
 One question I have, though: Is there a drop-in Rails UI for Rollout feature toggles?
