@@ -18,7 +18,7 @@ $rollout.activate_user(:chat, @user)
 $rollout.activate_percentage(:chat, 20)
 ```
 
-One question I have, though: [Is there a drop-in Rails UI for Rollout feature toggles?](https://stackoverflow.com/questions/67387996/is-there-a-drop-in-rails-ui-for-rollout-feature-toggles)
+One question I have, though: Is there a drop-in Rails UI for Rollout feature toggles?
 
 **Edit:** I clearly did not read the README closely enough.  [There are two linked](https://github.com/FetLife/rollout#frontend--ui):
 
