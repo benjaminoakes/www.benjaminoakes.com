@@ -7,7 +7,7 @@ date: 2021-05-05
 
 > Make difficult regular expressions easy! Ruby port of the awesome VerbalExpressions repo - https://github.com/jehna/VerbalExpressions
 
-```
+```ruby
 # Create an example of how to test for correctly formed URLs
 tester = VerEx.new do
   start_of_line
