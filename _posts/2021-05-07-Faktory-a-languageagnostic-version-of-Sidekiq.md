@@ -15,4 +15,4 @@ date: 2021-05-07
 
 Source: [contribsys/faktory: Language-agnostic persistent background job server](https://github.com/contribsys/faktory)
 
-By [Mike Perham](https://github.com/mperham), the creator of [Sidekiq](https://github.com/mperham/sidekiq).  Basically, Sidekiq that isn't tied to Ruby.
+By [Mike Perham](https://github.com/mperham), the creator of [Sidekiq](https://github.com/mperham/sidekiq).  Basically, Faktory is Sidekiq that isn't tied to Ruby.
