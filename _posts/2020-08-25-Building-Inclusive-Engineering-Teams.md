@@ -25,3 +25,5 @@ Actionable:
 - **Make a culture of inclusivity.**  Act on the aberrant behavior with a nudge.  Don't worry about being PC all the time; the culture will help correct you ("not sure if that sounded like you wanted").  "Like kittens in a box."  When a kitten escapes, put it back in the box.
 - **Share how interviews are done.**  Google does this.  Stanford has an entire course on it.  Sharing interview details helps with acceptance rate into Google.
 - **Reduce the number of bullet points on your job posting.**  Men will apply if they qualify for 3 of N bullet points, but women will apply if they qualify for 85% of N.
+
+**Update (2021-05-07):** [Resources related to Building Inclusive Engineering Teams](http://www.benjaminoakes.com/inclusivity/2021/05/07/Resources-related-to-Building-Inclusive-Engineering-Teams/)
