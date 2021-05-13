@@ -13,6 +13,7 @@ Related:
 
 - [buildpack-ci/run-tests: Heroku-style builds and unit tests with buildpacks on GitHub](https://github.com/buildpack-ci/run-tests)
 - [buildpack-ci/rails-example: Getting Started with Ruby on Heroku](https://github.com/buildpack-ci/rails-example)
+- [gliderlabs/herokuish: Utility for emulating Heroku build and runtime tasks in containers](https://github.com/gliderlabs/herokuish)
 
 This is a very interesting idea.  I wonder: [What's remaining for v1?](https://github.com/buildpack-ci/run-tests/issues/2)
 
