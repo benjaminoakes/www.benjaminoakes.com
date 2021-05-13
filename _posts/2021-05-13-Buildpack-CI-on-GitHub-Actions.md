@@ -15,3 +15,5 @@ Related:
 - [buildpack-ci/rails-example: Getting Started with Ruby on Heroku](https://github.com/buildpack-ci/rails-example)
 
 This is a very interesting idea.  I wonder: [What's remaining for v1?](https://github.com/buildpack-ci/run-tests/issues/2)
+
+Similar:  [buildpacks/github-actions: End-user GitHub Actions related to Cloud Native Buildpacks](https://github.com/buildpacks/github-actions#setup-pack-cli-action)
