@@ -9,4 +9,4 @@ date: 2021-05-17
 
 Source: [htmx is Old but Gold - DEV Community](https://dev.to/ebuckley/htmx-is-old-but-gold-4i9i)
 
-Modern JavaScript is incredibly heavy for simple projects. I haven't tried HTMX, but and it's ilk are intriguing.
+Modern JavaScript is incredibly heavy for simple projects. I haven't tried HTMX, but it and it's ilk are intriguing.
