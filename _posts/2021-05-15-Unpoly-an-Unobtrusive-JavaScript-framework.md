@@ -10,3 +10,5 @@ date: 2021-05-15
 Source: [Unpoly: Unobtrusive JavaScript framework](https://unpoly.com/)
 
 Reminds me of parts of HTMX and Turbo (Hotwire).
+
+Kind of thematically similar, but no longer maintained: [Behaviors.js: Define dynamic page behaviors via HTML attributes](https://github.com/QuickenLoans/Behaviors.js)
