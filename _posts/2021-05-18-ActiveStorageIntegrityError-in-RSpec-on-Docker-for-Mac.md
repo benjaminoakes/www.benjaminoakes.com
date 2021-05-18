@@ -15,7 +15,7 @@ Related: [[3.3.0] Very specific set of circumstances leads to zero-byte (empty) 
 
 I saw `ActiveStorage::IntegrityError` on a Rails app running in Docker for Mac recently.  (Docker for Mac v3.3.3 if you're curious.)  This is a way of working around the issue in `docker-compose`, based on the above quote:
 
-```
+```yaml
 services:
   yourapp:
     tmpfs:
