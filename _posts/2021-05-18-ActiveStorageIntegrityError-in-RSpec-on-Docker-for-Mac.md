@@ -9,7 +9,7 @@ date: 2021-05-18
 > 
 > `--mount type=tmpfs,destination=/tmp`
 
-[Very specific set of circumstances leads to zero-byte (empty) file being created - Issue #1015 - docker/for-linux](https://github.com/docker/for-linux/issues/1015#issuecomment-839926235)
+Source: [Very specific set of circumstances leads to zero-byte (empty) file being created - Issue #1015 - docker/for-linux](https://github.com/docker/for-linux/issues/1015#issuecomment-839926235)
 
 Related: [[3.3.0] Very specific set of circumstances leads to zero-byte (empty) file being created · Issue #5570 · docker/for-mac](https://github.com/docker/for-mac/issues/5570#issuecomment-841148972)
 
