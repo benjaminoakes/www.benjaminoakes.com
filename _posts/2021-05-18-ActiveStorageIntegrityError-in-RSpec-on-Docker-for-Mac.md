@@ -11,6 +11,8 @@ date: 2021-05-18
 
 [Very specific set of circumstances leads to zero-byte (empty) file being created - Issue #1015 - docker/for-linux](https://github.com/docker/for-linux/issues/1015#issuecomment-839926235)
 
+Related: [[3.3.0] Very specific set of circumstances leads to zero-byte (empty) file being created · Issue #5570 · docker/for-mac](https://github.com/docker/for-mac/issues/5570#issuecomment-841148972)
+
 I saw `ActiveStorage::IntegrityError` on a Rails app running in Docker for Mac recently.  (Docker for Mac v3.3.3 if you're curious.)  This is a way of working around the issue in `docker-compose`, based on the above quote:
 
 ```
