@@ -9,4 +9,4 @@ date: 2021-05-19
 
 Source: [Hotwire by Basecamp - Phoenix Forum / Chat / Discussions - Elixir Programming Language Forum](https://elixirforum.com/t/hotwire-by-basecamp/36390/4)
 
-A post by Jose Valim on [LiveView](https://github.com/phoenixframework/phoenix_live_view) vs [Hotwire](https://hotwire.dev/)..
+A post by Jose Valim on [LiveView](https://github.com/phoenixframework/phoenix_live_view) vs [Hotwire](https://hotwire.dev/).
