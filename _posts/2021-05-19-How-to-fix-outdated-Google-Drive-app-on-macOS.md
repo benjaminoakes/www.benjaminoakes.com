@@ -9,4 +9,4 @@ date: 2021-05-19
 
 Google Drive on Desktop for macOS was prompting me this message and then quitting, over and over.  I ended up moving the app to the trash, [reinstalling](https://support.google.com/drive/answer/7329379?hl=en), and signing in again to get it working.  Strangely, the version I downloaded ended up being 47.0.19.0 (which is older than v48) and the [Google Drive for desktop release notes](https://support.google.com/a/answer/7577057?hl=en) only mentions v47 released in April.  Weird.
 
-Hope this helps someone.
+I hope this helps someone else in the same situation.
