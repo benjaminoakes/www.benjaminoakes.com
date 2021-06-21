@@ -10,3 +10,5 @@ date: 2021-06-21
 Source: [16 New ML Gems for Ruby](https://ankane.org/new-ml-gems)
 
 Sometimes, I wonder if Andrew Kane is a real person or a team of people working under a pseudonym.  He has _so many_ gems.
+
+Case in point, here are [15 More ML Gems for Ruby](https://ankane.org/more-ml-gems).
