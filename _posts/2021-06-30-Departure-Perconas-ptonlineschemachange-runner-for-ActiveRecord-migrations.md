@@ -10,3 +10,5 @@ date: 2021-06-30
 Source: [departurerb/departure: Percona's pt-online-schema-change runner for ActiveRecord migrations.](https://github.com/departurerb/departure)
 
 Basically, Departure is another take on the problem that SoundCloud's [LHM](https://github.com/soundcloud/lhm) solves.  Aside: apparently [Shopify's fork of LHM](https://github.com/Shopify/lhm) is better maintained today, but I haven't used it directly.
+
+Departure even has [support for the DSL from LHM](https://github.com/departurerb/departure#lhm-support).  Nice!
