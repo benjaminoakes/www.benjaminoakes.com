@@ -11,7 +11,7 @@ date: 2021-06-30
 
 Source: [My Pronouns Are She/They. What Are Yours?](https://hbr.org/2021/06/my-pronouns-are-she-they-what-are-yours)
 
-For whatever reason, I hadn't looked at this from the standpoint of normalization in service of allyship.  I didn't read the entire article closely, but I was happy to get a better understanding today.
+For whatever reason, I hadn't seen this from the standpoint of normalization in service of allyship.  I didn't read the entire article closely, but I was happy to get a better understanding today.
 
 Related: [How to add your personal pronouns to your LinkedIn profile](https://www.androidcentral.com/how-add-your-personal-pronouns-your-linkedin-profile)
 
