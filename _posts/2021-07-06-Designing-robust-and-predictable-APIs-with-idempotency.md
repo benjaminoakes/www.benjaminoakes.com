@@ -14,3 +14,8 @@ date: 2021-07-06
 Source: [Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency)
 
 Basically, they add an `Idempotency-Key` header to allow repeatable requests.
+
+Related:
+
+- [`Idempotency-Key` IETF Standards Draft - brandur.org](https://brandur.org/fragments/idempotency-key-draft)
+- [draft-ietf-httpapi-idempotency-key-header-00](https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00)
