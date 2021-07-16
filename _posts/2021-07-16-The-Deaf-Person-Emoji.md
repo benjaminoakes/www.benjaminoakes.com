@@ -5,7 +5,7 @@ category: "asl"
 date: 2021-07-16
 ---
 
-:deaf_person:
+🧏‍♂️
 
 This is the "deaf" emoji.
 
@@ -19,4 +19,4 @@ Case in point, the sign for "deaf" in ASL means "hearing" in BSL, **the complete
 
 In any case, it's a weird quirk of history that Deaf people from the US can read/write in England but sign in France.
 
-I hope you found this tiny history lesson interesting.  :blush:
+I hope you found this tiny history lesson interesting.  😊
