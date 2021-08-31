@@ -14,6 +14,6 @@ date: 2021-08-31
 
 Source: [testdouble/standard:  Ruby Style Guide, with linter & automatic code fixer](https://github.com/testdouble/standard)
 
-This seems like a less pedantic Rubocop, allowing Weirich style and leading dots.  I like that.
+This seems like a less pedantic set of Rubocop defaults, allowing Weirich style and leading dots.  I like that.
 
-Even so, Rubocop is so ingrained at this point, it's a bit hard to switch without playing politics.
+Even so, the Rubocop config I use most often is so ingrained at this point, it's a bit hard to switch without playing politics.
