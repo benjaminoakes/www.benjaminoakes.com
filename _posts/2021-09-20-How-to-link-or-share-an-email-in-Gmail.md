@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to link or share an email in Gmail?"
+title: "How to link or share an email in Gmail"
 category: "tech"
 date: 2021-09-20
 ---
