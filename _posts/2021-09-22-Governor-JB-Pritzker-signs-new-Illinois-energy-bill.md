@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Governor J.B. Pritzker signs new Illinois energy bill | wqad.com"
+title: "Governor J.B. Pritzker signs new Illinois energy bill"
 category: "sustainability"
 date: 2021-09-22
 ---
