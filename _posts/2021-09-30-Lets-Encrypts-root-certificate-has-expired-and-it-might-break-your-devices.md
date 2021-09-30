@@ -9,4 +9,6 @@ date: 2021-09-30
 
 Source: [Lets Encrypts root certificate has expired, and it might break your devices](https://techcrunch.com/2021/09/21/lets-encrypt-root-expiry/)
 
+Related: [OpenSSL Client Compatibility Changes for Let’s Encrypt Certificates - API Announcements - Let's Encrypt Community Support](https://community.letsencrypt.org/t/openssl-client-compatibility-changes-for-let-s-encrypt-certificates/143816)
+
 I've run into a few broken things today.  If something worked yesterday and it doesn't today, this might be why.
