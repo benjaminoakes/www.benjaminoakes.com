@@ -6,7 +6,7 @@ date: 2021-10-12
 ---
 
 ```
-       Usage: wtf[?|!]
+      Usage: wtf[?|!]
       Show's a few lines of the backtrace of the most recent exception (also available
       as `_ex_.backtrace`). If you want to see more lines, add more question marks or
       exclamation marks.
