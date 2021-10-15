@@ -9,7 +9,7 @@ date: 2021-10-15
 > 
 > [...]
 > 
-> The McPlant will be available for a limited time at eight McDonalds locations in Irving, TX; Carrollton, TX; **Cedar Falls**, IA; Jennings, LA; Lake Charles, LA; Manhattan Beach, CA; and El Segundo, CAthe headquarters of Beyond Meat, which is responsible for the McPlants plant-based patty.
+> The McPlant will be available for a limited time at eight McDonalds locations in Irving, TX; Carrollton, TX; **Cedar Falls, IA**; Jennings, LA; Lake Charles, LA; Manhattan Beach, CA; and El Segundo, CAthe headquarters of Beyond Meat, which is responsible for the McPlants plant-based patty.
 > 
 > [...]
 > 
