@@ -24,6 +24,6 @@ MyFile.new.no_more
 # => MyFile#no_more called from my_file.rb:16.
 ```
 
-Source: [Best practice to mark deprecated code in Ruby? - Anser on StackOverflow](https://stackoverflow.com/a/23554720/146764)
+Source: [Best practice to mark deprecated code in Ruby? - Answer on StackOverflow](https://stackoverflow.com/a/23554720/146764)
 
 Documentation here: [Module: Gem::Deprecate (Ruby 3.0.2)](https://ruby-doc.org/stdlib-3.0.2/libdoc/rubygems/rdoc/Gem/Deprecate.html).  Much better than just a comment.
