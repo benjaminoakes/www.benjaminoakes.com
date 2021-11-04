@@ -33,7 +33,7 @@ NR == 1 {
     printf db_columns[i] " VARCHAR(191)"
   }
 
- printf ");\n"
+  printf ");\n"
 }
 
 NR > 1 {
