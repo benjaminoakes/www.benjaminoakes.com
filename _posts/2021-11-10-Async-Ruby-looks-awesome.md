@@ -15,7 +15,7 @@ date: 2021-11-10
 
 Source: [Async Ruby - Bruno Sutic](https://brunosutic.com/blog/async-ruby)
 
-This is really interesting.  It can't be used with Rails (yet), but that seems like a matter of time.  It seems to provide something similar to JavaScript-esque `async` and `await`, but without new language keywords.  I've hoped something like this would be made, and I'm happy to have learned about it.
+This is really interesting.  It can't be used with Rails (yet), but it seems like it's just a matter of time before that's possible.  Async seems to provide something similar to JavaScript-esque `async` and `await`, but without new language keywords.  I've hoped something like this would be made, and I'm happy to have learned about it.
 
 I haven't tried it out yet, but I'm looking forward to it.
 
