@@ -23,3 +23,5 @@ Here are some additional resources I'm looking at:
 
 - GitHub: [socketry/async: An awesome asynchronous event-driven reactor for Ruby.](https://github.com/socketry/async)
 - Documentation [Getting Started](https://socketry.github.io/async/guides/getting-started/index.html)
+
+**Edit:** I just understood the Async logo.  It's a sink.  Asink.  Clever.
