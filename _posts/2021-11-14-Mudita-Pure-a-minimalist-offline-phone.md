@@ -16,5 +16,6 @@ So, I guess what's missing is:
 - Maps?
 - Music that I don't have to sync and manage myself?
 - Task management?
+- A camera?  (Though maybe a dedicated camera is better?)
 
 It's still very, very interesting though.
