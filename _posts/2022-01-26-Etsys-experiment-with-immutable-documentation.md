@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Etsys experiment with immutable documentation"
+title: "Etsy's experiment with immutable documentation"
 category: "engineering"
 date: 2022-01-26
 ---
