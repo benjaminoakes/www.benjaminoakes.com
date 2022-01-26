@@ -7,7 +7,7 @@ date: 2022-01-26
 
 > The utf8 encoding only supports three bytes per character. The real UTF-8 encoding  which everybody uses, including you  needs up to four bytes per character.
 >
-< MySQL developers never fixed this bug. They released a workaround in 2010: a new character set called utf8mb4.
+> MySQL developers never fixed this bug. They released a workaround in 2010: a new character set called utf8mb4.
 
 Source: [In MySQL, never use utf8. Use utf8mb4. - by Adam Hooper](https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434)
 
