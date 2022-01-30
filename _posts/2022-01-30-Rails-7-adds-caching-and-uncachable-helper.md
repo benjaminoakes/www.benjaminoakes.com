@@ -11,4 +11,4 @@ date: 2022-01-30
 
 Source: [Rails 7 adds caching? and uncachable! helper - Saeloun Blog](https://blog.saeloun.com/2021/12/08/rails-7-adds-cacheable-helper)
 
-Way better than just adding a comment saying "don't cache this,"
+Way better than just adding a comment saying "don't cache this."
