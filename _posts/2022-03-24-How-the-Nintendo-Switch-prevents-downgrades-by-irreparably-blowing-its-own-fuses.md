@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How the Nintendo Switch prevents downgrades by irreparably blowing its own fuses"
-category: "Hardway"
+category: "hardware"
 date: 2022-03-24
 ---
 
