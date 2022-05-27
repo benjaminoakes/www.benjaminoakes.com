@@ -5,7 +5,12 @@ category: "databases"
 date: 2022-05-27
 ---
 
-> This experimental app is provided in the hope that it may prove interesting or useful but is not an officially supported deliverable of the sqlite project. It is subject to any number of changes or outright removal at any time.
+```
+SQLite version 3.39.0 2022-05-26 05:18:33
+WASM shell
+Enter ".help" for usage hints.
+Connected to /fiddle.sqlite3.
+```
 
 Source: [sqlite3 fiddle](https://sqlite.org/fiddle/)
 
