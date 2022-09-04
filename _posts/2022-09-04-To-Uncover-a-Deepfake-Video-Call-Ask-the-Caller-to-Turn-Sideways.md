@@ -10,3 +10,5 @@ date: 2022-09-04
 Source: [To Uncover a Deepfake Video Call, Ask the Caller to Turn Sideways](https://metaphysic.ai/to-uncover-a-deepfake-video-call-ask-the-caller-to-turn-sideways/)
 
 This is science fiction, right?
+
+See also: [Jerry Seinfeld in Pulp Fiction (DeepFake)](https://www.youtube.com/watch?v=S1MBVXkQbWU)
