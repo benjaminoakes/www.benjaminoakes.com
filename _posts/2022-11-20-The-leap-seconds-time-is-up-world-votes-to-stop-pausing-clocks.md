@@ -9,4 +9,4 @@ date: 2022-11-20
 
 Source: [The leap seconds time is up: world votes to stop pausing clocks](https://www.nature.com/articles/d41586-022-03783-5)
 
-Previously on the blog: [Its time to leave the leap second in the past](https://www.benjaminoakes.com/science/2022/07/29/Its-time-to-leave-the-leap-second-in-the-past/)
+Previously on the blog: [It's time to leave the leap second in the past](https://www.benjaminoakes.com/science/2022/07/29/Its-time-to-leave-the-leap-second-in-the-past/)
