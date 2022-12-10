@@ -11,4 +11,4 @@ date: 2022-12-10
 
 Source: [Adobe releases PostScript source code - OSnews](https://www.osnews.com/story/135617/adobe-releases-postscript-source-code/)
 
-PostScript is more foundational than many people might realize. I know it used to be The basis for the GUI in Next step, which of course became Mac OS X and iOS. It's not just for printers.
+PostScript is more foundational than many people might realize. I know it used to be The basis for the GUI in NeXTStep, which of course became Mac OS X and iOS. It's not just for printers.
