@@ -11,3 +11,5 @@ Two articles on complexity both hit 500 points on Hacker News recently. They bot
 - [We're breaking up with JavaScript frontends](http://triskweline.de/unpoly-rugb/#/)
 
 That last one is good. It's by the folks at Makandra, whom I have a great deal of respect for. They make ActiveType and also Unpoly (the subject of their presentation). It's similar to Hotwire and HTMX. 
+
+I haven't read the first one much yet, but so far, I agree with it in concept.
