@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Haiku R1/beta4 - Release Notes"
-category: ""
+category: "computing"
 date: 2022-12-24
 ---
 
