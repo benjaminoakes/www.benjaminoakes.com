@@ -21,6 +21,63 @@ permalink: /sms_test/
         <input type="text" name="phone"><br>
         <input type="submit" value="Save">
       </form>
+      
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
+      <a href="javascript:handleLink()">SMS the saved number</a>
     </main>
   </body>
   <script>
