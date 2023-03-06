@@ -14,8 +14,6 @@ permalink: /sms_test/
   </head>
   <body>
     <main>
-      <a href="javascript:handleLink()">SMS the saved number</a>
-
       <form onsubmit="saveToLocalStorage(event)">
         <label for="phone">Phone</label><br>
         <input type="text" name="phone"><br>
