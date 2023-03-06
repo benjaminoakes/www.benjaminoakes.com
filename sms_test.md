@@ -4,7 +4,7 @@ title: SMS Test
 permalink: /sms_test/
 ---
 
-<!DOCTYPE html>
+<!-- based on https://benjaminoakes.github.io/bookmarklets/ -->
 <html>
   <head>
     <title>Bookmarklets</title>
