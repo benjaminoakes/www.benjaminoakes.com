@@ -15,4 +15,4 @@ Source: [JavaScript Imports Under The Hood - Jim Nielsen's Blog](https://blog.ji
 
 There may be too many JavaScript dialects.  I'm looking forward to the simplicity of what import maps seem to provide, without a overly complex build system.
 
-Say what you all about Ruby, but at least pretty much everyone writes Ruby in a very similar way. 
+Say what you will about Ruby, but at least pretty much everyone writes Ruby in a very similar way. 
