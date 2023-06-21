@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YxtNet-Browser: An app that lets you browse the web over SMS"
+title: "TxtNet-Browser: An app that lets you browse the web over SMS"
 category: ""
 date: 2023-06-21
 ---
