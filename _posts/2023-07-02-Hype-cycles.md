@@ -19,7 +19,7 @@ We've made this unnecessarily complicated. That said, I think the pendulum
 is swinging back again...
 
 I've tried to stay away from unnecessary thick clients, but they're
-basically unavoidable right now, especially because of iOS.  There's just
+basically unavoidable right now, especially because of iOS (and Android, though to a lesser extent).  There's just
 so much complexity for so little value... but it's where users are.  I hope
 we can simplify this situation. Thin clients are a great choice for a huge
 number of applications.
