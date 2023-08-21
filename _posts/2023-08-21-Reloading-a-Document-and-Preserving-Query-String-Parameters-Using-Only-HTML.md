@@ -10,13 +10,11 @@ ability to reload the document in its exact state by clicking on a link.
 parameters?". At that point, it seemed pretty inconceivable to me that
 there was really no way to reload a document using only HTML that preserved
 the state of the URL. So I turned to Mastodon and Twitter for help.
+>
+> [...]
+>
+> tl;dr: an empty string for your link, e.g. `<a href="">Reload</a>`
 
-Source: [Reloading a Document (and Preserving Query String Parameters)
-Using Only HTML](
-https://blog.jim-nielsen.com/2023/reloading-document-in-html-and-preserve-query-params/
-)
-
-tl;dr: an empty string for your link, e.g. `<a href="">Reload</a>`
+Source: [Reloading a Document (and Preserving Query String Parameters) Using Only HTML](https://blog.jim-nielsen.com/2023/reloading-document-in-html-and-preserve-query-params/)
 
 Good to know!
-
