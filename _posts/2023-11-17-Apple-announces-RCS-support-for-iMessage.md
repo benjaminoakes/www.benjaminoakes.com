@@ -12,3 +12,5 @@ Source: [Apple announces RCS support for iMessage - Ars Technica](https://arstec
 Wow, it happened!
 
 I wonder if the threat of opening up iMessage in the EU made this a palatable option for Apple?
+
+Also, 87% of teens? I had no idea!
