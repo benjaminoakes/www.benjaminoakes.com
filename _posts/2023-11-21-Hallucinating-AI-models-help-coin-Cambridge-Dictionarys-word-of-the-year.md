@@ -10,6 +10,7 @@ year is "hallucinate," owing to the popularity of large language models
 Dictionary also published an illustrated site explaining the term, saying,
 "When an artificial intelligence hallucinates, it produces false
 information."
-Source: ["Hallucinating" AI models help coin Cambridge Dictionarys word of
+
+Source: ["Hallucinating" AI models help coin Cambridge Dictionary's word of
 the year](https://arstechnica.com/?p=1984726)
 
