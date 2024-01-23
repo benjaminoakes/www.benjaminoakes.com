@@ -11,4 +11,4 @@ Source: [brunodev85/winlator: Android application for running Windows applicatio
 
 Basically, it's targeting Windows games.  That's good because Android games, in general, have declined in quality significantly over the last 10 years.
 
-It's amazing that this app works at all, though I'm not sure if it's a great option.
+It's amazing that this app works at all, though I'm not sure if it's a great option.  In any case, I hope it does well and is competitive with the Steam Deck.
