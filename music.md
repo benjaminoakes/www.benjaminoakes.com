@@ -18,3 +18,5 @@ Links to music I listen to while working (often VGM for that reason):
 - [Butterfly Kiss - Persona 5 OST [Extended] - YouTube](https://www.youtube.com/watch?v=Do5KL9AEcTw)
 - [Tokyo Daylight - Persona 5 OST [Extended] - YouTube](https://www.youtube.com/watch?v=yum1o3S0COo)
 - [Voyage of Promise - Bloodstained Ritual of the Night OST ~Extended~ - YouTube](https://www.youtube.com/watch?v=2ccf-YzKyVg)
+- [Final Fantasy Guitar Collection | John Oeth - YouTube](https://www.youtube.com/watch?v=2ccf-YzKyVg)
+- 
