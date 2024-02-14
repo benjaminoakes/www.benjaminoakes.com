@@ -13,7 +13,7 @@ I didn't know this existed until today.  I'm surprised this is enabled by defaul
 
 > But since this feature is on by default, it has resulted in some awkward moments during serious work meetings or other video sessions that do not require celebration effects, for example.
 
-Source: [Apple to Let Apps Disable Hand Gesture Effects in Video Calls • iPhone in Canada Blog](https://www.iphoneincanada.ca/2024/02/09/apple-disable-hand-gesture-effects-video/)
+Source: [Apple to Let Apps Disable Hand Gesture Effects in Video Calls - iPhone in Canada Blog](https://www.iphoneincanada.ca/2024/02/09/apple-disable-hand-gesture-effects-video/)
 
 I mean... It's fun, but not always appropriate.
 
