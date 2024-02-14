@@ -8,7 +8,7 @@ permalink: /utils/
 
 <script>
   add = (a, b) => a + b
-  sumString = (string) => string.split("").map(parseFloat).reduce(add)
+  sumString = (string) => string.split(" ").map(parseFloat).reduce(add)
   
   function promptSumString() {
     var string = prompt("Numbers?");
