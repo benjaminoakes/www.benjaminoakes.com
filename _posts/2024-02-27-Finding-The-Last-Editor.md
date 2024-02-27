@@ -11,4 +11,4 @@ Source: [Finding The Last Editor](https://world.hey.com/dhh/finding-the-last-edi
 
 DHH is definitely beginning to understand.  ([Previously](https://www.benjaminoakes.com/2024/02/26/Switching-to-Android-was-easy/).)
 
-I went through a similar thought process about 10 years ago, when I first started seeing where Apple was headed.  They certainly make nice hardware and software.  DHH has articulated the counterargument well, and this could be the start of something larger, given his influence in the industry.
+I went through a similar thought process about 10 years ago, when I first started seeing where Apple was headed.  They certainly make nice hardware and software, but  DHH has articulated the counterargument well.  This could be the start of something larger, given his influence in the industry.
