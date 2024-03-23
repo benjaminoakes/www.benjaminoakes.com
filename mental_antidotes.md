@@ -20,18 +20,29 @@ These energies can be applied to many situations:
 
 ## Thought Loop
 
+One can reach a general state of contentment if the following steps are followed:
+
 - Notice the emotion
 - Identify what emotion or mix of emotions is present
 - Accept it and embrace it.  Greet it ("Hello Anxiety")
 - Thank the emotion for the opportunity to practice these skills
 - In most cases: identify why.  Listen to any coincidental thoughts for clues if it's not clear.
    - In some cases, depression can be misserved by identifying the reason.  Focus on improving the mental state.
+- Forgive yourself.  (Don't beat yourself up)
 
 ### In general
 
-- Notice good things.  Think good thoughts and more good thought will follow.
+- Make an effort to notice good things.  Think good thoughts and more good thoughts will follow.
 
 ## Emotions
+
+There are 5 basic emotions:
+
+- Happiness
+- Sadness
+- Anger
+- Fear
+- Disgust
 
 ### Anger
 
@@ -58,7 +69,7 @@ How to address:
 - Send others compassion, especially those causing fear.  Attempt to understand their perspective.
 - Remember that you have non-fear inside you (non-fear: "steadfastness" and some definitions of courage)
 
-### Anxiety
+### Fear: Anxiety
 
 How to notice:
 
@@ -69,7 +80,7 @@ How to address:
 - See "Fear"
 - Also intermingled with "Depression"
 
-### Depression
+### Sadness: Depression
 
 How to notice:
 
@@ -92,7 +103,7 @@ Related:
 - [How do you deal with depression? Thich Nhat Hanh answers questions](https://www.youtube.com/watch?v=QY99Ekk3URc&t=194s)
 - [Fight Depression and Burnout in 2 Minutes a Day: 3 Good Things Activity](https://www.youtube.com/watch?v=sWfNosruPPw)
 
-### Despair
+### Sadness: Despair
 
 How to notice:
 
