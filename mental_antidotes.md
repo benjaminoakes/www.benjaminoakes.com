@@ -52,7 +52,7 @@ How to generate:
 
 - Make an effort to notice good things.  Think good thoughts and more good thoughts will follow.  This is key for avoiding depressive states.
 - Do less.  [Stop Running](https://www.youtube.com/watch?v=Qch5ISD9Bxo) from thing to thing.
-- Practice [the Eightfold Path](https://tricycle.org/beginners/buddhism/eightfold-path)
+- Generally practice [the Eightfold Path](https://tricycle.org/beginners/buddhism/eightfold-path)
   - Right view 
   - Right intention 
   - Right speech 
@@ -61,6 +61,15 @@ How to generate:
   - Right effort 
   - Right mindfulness
   - Right concentration
+
+Related:
+
+- [Nourishing Our Joy & Happiness - Thich Nhat Hanh (short teaching video)](https://www.youtube.com/watch?v=_KsQsmzm-ys)
+- [Nourishing Happiness - Translated by Thich Nhat Hanh, read by Brother Duc Khiem (audio)](https://www.youtube.com/watch?v=iLGqzpOfl6k)
+- [Stop Borrowing and Be Happy Now - Thich Nhat Hanh (short teaching video)](https://www.youtube.com/watch?v=5lM3S99RqFU)
+- [Happiness Depends on the Way You Look At Things - Thich Nhat Hanh (EN subtitles)](https://www.youtube.com/watch?v=N6fAPQdIIKI)
+- [Meaningful Life - Teaching by Thich Nhat Hanh](https://www.youtube.com/watch?v=KAR55vBpd0Q)
+- [Four Methods to Generate Joy and Happiness - Thich Nhat Hanh (EN subtitles)](https://www.youtube.com/watch?v=TOWlSm50Vj8)
 
 ### Anger
 
