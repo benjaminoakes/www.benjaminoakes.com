@@ -92,7 +92,7 @@ How to address:
 Related:
 
 - [Thich Nhat Hanh on Buddhist Essentials: What is Non-Fear](https://www.youtube.com/watch?v=xAvS8Jz7ay4)
-- [Practicing Non Fear | Teaching by Thich Nhat Hanh](https://www.youtube.com/watch?v=ObfJfA9q3ho)
+- [Practicing Non Fear - Teaching by Thich Nhat Hanh](https://www.youtube.com/watch?v=ObfJfA9q3ho)
 
 ### Fear: Anxiety
 
