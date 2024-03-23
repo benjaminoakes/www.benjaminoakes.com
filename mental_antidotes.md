@@ -8,7 +8,7 @@ permalink: /mental_antidotes/
 
 These antidotes address undesirable mental states and should be used when that state is noticed.
 
-Heavily inspired by Thich Nhat Hanh
+Heavily inspired by Thich Nhat Hanh and Buddhism in general
 
 (This document is a draft)
 
@@ -52,7 +52,7 @@ How to generate:
 
 - Make an effort to notice good things.  Think good thoughts and more good thoughts will follow.  This is key for avoiding depressive states.
 - Do less.  [Stop Running](https://www.youtube.com/watch?v=Qch5ISD9Bxo) from thing to thing.
-- Practice mindfulness
+- Practice [the Eightfold Path](https://tricycle.org/beginners/buddhism/eightfold-path/), including mindfulness
 
 ### Anger
 
