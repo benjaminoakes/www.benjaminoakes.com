@@ -161,3 +161,5 @@ Related:
 
 - [How to Stop Negative Perceptions of Ourselves - Thich Nhat Hanh (short teaching video)](https://www.youtube.com/watch?v=3zZtuiaczPI)
 - [How to stop looking for other people's approval - Thich Nhat Hanh answers questions](https://www.youtube.com/watch?v=RqmY3bnyOXM)
+
+Source: https://raw.githubusercontent.com/benjaminoakes/www.benjaminoakes.com/master/mental_antidotes.md
