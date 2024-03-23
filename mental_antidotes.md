@@ -53,12 +53,6 @@ How to address:
 - Send others compassion, especially those causing fear.  Attempt to understand their perspective.
 - Remember that you have non-fear inside you (non-fear: "steadfastness" and some definitions of courage)
 
-### Despair
-
-- Accept the reality of the situation
-- [Pain, Despair, and The Second Arrow](https://www.youtube.com/watch?v=MlLvjFPtFXw)
-
-
 ### Anxiety
 
 How to notice:
@@ -86,3 +80,22 @@ How to address:
 - Think good thoughts.  IMPORTANT: This is easily forgotten in a depressed state.  Start with at least 3 happy/grateful things from the last 24 hours.  Whenever possible, write them down.
 - Imagine ways to change the environment that brought about depression
 - Longer term: actually change the environment in some of the imagined ways
+
+Related:
+
+- [Fight Depression and Burnout in 2 Minutes a Day: 3 Good Things Activity](https://www.youtube.com/watch?v=sWfNosruPPw)
+
+### Despair
+
+How to notice:
+
+- Similar to depression but deeper and often outside our control
+
+How to address:
+
+- Accept the reality of the situation
+
+Related:
+
+- [How to Get Out of a Despairing Mood](https://www.youtube.com/watch?v=ApccemGnh78)
+- [Pain, Despair, and The Second Arrow](https://www.youtube.com/watch?v=MlLvjFPtFXw)
