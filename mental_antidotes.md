@@ -32,21 +32,27 @@ One can reach a general state of contentment if the following steps are followed
 - In most cases: identify why.  Listen to any coincidental thoughts for clues if it's not clear.
    - In some cases, depression can be misserved by identifying the reason.  Focus on improving the mental state.
 
-### In general
-
-- Make an effort to notice good things.  Think good thoughts and more good thoughts will follow.  This is key for avoiding depressive states.
+Also, make a point to generate happiness.
 
 ## Emotions
 
 There are 5 basic emotions:
 
-- Happiness
+- Happiness (see above to generate)
 - Sadness
 - Anger
 - Fear
 - Disgust
 
 Each can be further subdivided.
+
+### Happiness
+
+How to generate:
+
+- Make an effort to notice good things.  Think good thoughts and more good thoughts will follow.  This is key for avoiding depressive states.
+- Do less.  [Stop Running](https://www.youtube.com/watch?v=Qch5ISD9Bxo) from thing to thing.
+- Practice mindfulness
 
 ### Anger
 
@@ -74,6 +80,11 @@ How to address:
 - Send yourself compassion
 - Send others compassion, especially those causing fear.  Attempt to understand their perspective.
 - Analyze and discuss the fear
+
+Related:
+
+- [Thich Nhat Hanh on Buddhist Essentials: What is Non-Fear](https://www.youtube.com/watch?v=xAvS8Jz7ay4)
+- [Practicing Non Fear | Teaching by Thich Nhat Hanh](https://www.youtube.com/watch?v=ObfJfA9q3ho)
 
 ### Fear: Anxiety
 
@@ -125,3 +136,10 @@ Related:
 - Regarding climate change: [David Suzuki & Thich Nhat Hanh: Despair](https://www.youtube.com/watch?v=RWqB4-em308)
 - [How to Get Out of a Despairing Mood](https://www.youtube.com/watch?v=ApccemGnh78)
 - [Pain, Despair, and The Second Arrow](https://www.youtube.com/watch?v=MlLvjFPtFXw)
+
+## Disgust
+
+Related:
+
+- [How to Stop Negative Perceptions of Ourselves - Thich Nhat Hanh (short teaching video)](https://www.youtube.com/watch?v=3zZtuiaczPI)
+- [How to stop looking for other people's approval - Thich Nhat Hanh answers questions](https://www.youtube.com/watch?v=RqmY3bnyOXM)
