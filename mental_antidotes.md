@@ -14,7 +14,7 @@ Heavily inspired by Thich Nhat Hanh
 
 These energies can be applied to many situations:
 
-- Compassion: Send loving-kindness to another person or group.  "May they be happy, may they be healthy, may they be safe, may their lives go with ease"
+- Compassion: Send loving-kindness to another person or group.  "May they be happy, may they be healthy, may they be safe, may their lives go with ease."  This will often include attempting to understand other people's perspective.
 - Mindfulness:  Remember you're alive and in the here and now.  Come back home to the present moment.  Notice it.  Touch reality.
   - Use deep breathing with longer out-breaths than in-breaths.  This stimulates the brain to calm down.  Focus on breathing at the level of the belly (as opposed to the nose, for example).
 
@@ -38,7 +38,7 @@ How to notice:
 
 How to address:
 
-- Compassion toward the object of anger
+- Compassion toward the object of anger.  Attempt to understand their perspective.
 
 ### Fear
 
@@ -76,6 +76,6 @@ How to notice:
 How to address:
 
 - Mindfulness
-- Think good thoughts.  IMPORTANT: This is easily forgotten in a depressed state.  Start with at least 3 happy/grateful things from the last 24 hours.  Whenever possible, write them down.
+- Think good thoughts.  IMPORTANT: This is easily forgotten in a depressed state.  Start with at least 3 happy/grateful things from the last 24 hours.
 - Imagine ways to change the environment that brought about depression
 - Longer term: actually change the environment in some of the imagined ways
