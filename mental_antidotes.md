@@ -39,6 +39,7 @@ How to notice:
 
 - Hard to control speech and actions
 - Faster breathing, pulse
+- Tensing/twitching muscles
 
 How to address:
 
@@ -99,7 +100,8 @@ How to notice:
 
 How to address:
 
-- Accept the reality of the situation
+- Accept the reality of the situation.  It's true, whether it's desired or not.
+- Realize that you can act to improve the situation.
 
 Related:
 
