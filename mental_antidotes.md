@@ -14,13 +14,13 @@ Heavily inspired by Thich Nhat Hanh
 
 These energies can be applied to many situations:
 
-- Compassion: Send loving-kindness to another person or group.  "May they be happy, may they be healthy, may they be safe, may their lives go with ease."  This will often include attempting to understand other people's perspective.
+- Compassion: Send loving-kindness to another person or group.  "May they be happy, may they be healthy, may they be safe, may their lives go with ease."  This will often include attempting to understand other people's perspectives.
 - Mindfulness:  Remember you're alive and in the here and now.  Come back home to the present moment.  Notice it.  Touch reality.
   - Use deep breathing with longer out-breaths than in-breaths.  This stimulates the brain to calm down.  Focus on breathing at the level of the belly (as opposed to the nose, for example).
 
 ## Thought Loop
 
-One can reach a general state of contentment if the following steps are followed:
+One can reach a general state of contentment if the following steps are followed consistently:
 
 - Notice the emotion
 - Identify what emotion or mix of emotions is present
@@ -32,7 +32,7 @@ One can reach a general state of contentment if the following steps are followed
 
 ### In general
 
-- Make an effort to notice good things.  Think good thoughts and more good thoughts will follow.
+- Make an effort to notice good things.  Think good thoughts and more good thoughts will follow.  This is key for avoiding depressive states.
 
 ## Emotions
 
