@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Antidotes
-permalink: /antidotes/
+title: Mental Antidotes
+permalink: /mental_antidotes/
 ---
 
 ## Mental Antidotes
