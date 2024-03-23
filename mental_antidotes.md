@@ -27,6 +27,10 @@ These energies can be applied to many situations:
 - In most cases: identify why.  Listen to any coincidental thoughts for clues if it's not clear.
    - In some cases, depression can be misserved by identifying the reason.  Focus on improving the mental state.
 
+### In general
+
+- Notice good things.  Think good thoughts and more good thought will follow.
+
 ## Emotions
 
 ### Anger
