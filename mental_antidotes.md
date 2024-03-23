@@ -76,6 +76,6 @@ How to notice:
 How to address:
 
 - Mindfulness
-- Think good thoughts.  IMPORTANT: This is easily forgotten in a depressed state.  Start with at least 3 happy/grateful things from the last 24 hours.
+- Think good thoughts.  IMPORTANT: This is easily forgotten in a depressed state.  Start with at least 3 happy/grateful things from the last 24 hours.  Whenever possible, write them down.
 - Imagine ways to change the environment that brought about depression
 - Longer term: actually change the environment in some of the imagined ways
