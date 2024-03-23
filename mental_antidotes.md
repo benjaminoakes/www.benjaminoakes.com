@@ -165,7 +165,7 @@ Related:
 
 Related:
 
-- [How to React to Sorrow | Thich Nhat Hanh (short teaching video)](https://www.youtube.com/watch?v=-1s1rwqqszM)
+- [How to React to Sorrow - Thich Nhat Hanh (short teaching video)](https://www.youtube.com/watch?v=-1s1rwqqszM)
 
 ### Disgust
 
