@@ -125,6 +125,7 @@ How to address:
 
 Related:
 
+- [Transforming Depression, Anger and Fear with Mindful Breathing and Mindful Walking - Thich Nhat Hanh](https://www.youtube.com/watch?v=wjaSR-ie9kg)
 - [How do you deal with depression? Thich Nhat Hanh answers questions](https://www.youtube.com/watch?v=QY99Ekk3URc&t=194s)
 - [Fight Depression and Burnout in 2 Minutes a Day: 3 Good Things Activity](https://www.youtube.com/watch?v=sWfNosruPPw)
 
