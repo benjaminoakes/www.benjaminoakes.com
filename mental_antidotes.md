@@ -16,6 +16,7 @@ These energies can be applied to many situations:
 
 - Compassion: Send loving-kindness to another person or group.  "May they be happy, may they be healthy, may they be safe, may their lives go with ease"
 - Mindfulness:  Remember you're alive and in the here and now.  Come back home to the present moment.  Notice it.  Touch reality.
+  - Use deep breathing with longer out-breaths than in-breaths.  This stimulates the brain to calm down.  Focus on breathing at the level of the belly (as opposed to the nose, for example).
 
 ## Thought Loop
 
@@ -30,7 +31,20 @@ These energies can be applied to many situations:
 
 ### Anger
 
+How to notice:
+
+- Hard to control speech and actions
+- Faster breathing, pulse
+
+How to address:
+
+- Compassion toward the object of anger
+
 ### Fear
+
+How to notice:
+
+- "Hollowed out" feeling in the stomach
 
 How to address:
 
