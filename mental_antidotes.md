@@ -146,7 +146,7 @@ Related:
 - [How to Get Out of a Despairing Mood](https://www.youtube.com/watch?v=ApccemGnh78)
 - [Pain, Despair, and The Second Arrow](https://www.youtube.com/watch?v=MlLvjFPtFXw)
 
-## Disgust
+### Disgust
 
 Related:
 
