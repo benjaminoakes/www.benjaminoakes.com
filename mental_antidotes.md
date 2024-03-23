@@ -87,6 +87,7 @@ How to address:
 
 Related:
 
+- [How do you deal with depression? Thich Nhat Hanh answers questions](https://www.youtube.com/watch?v=QY99Ekk3URc&t=194s)
 - [Fight Depression and Burnout in 2 Minutes a Day: 3 Good Things Activity](https://www.youtube.com/watch?v=sWfNosruPPw)
 
 ### Despair
