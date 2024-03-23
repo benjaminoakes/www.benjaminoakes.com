@@ -83,6 +83,10 @@ How to address:
 
 - Compassion toward the object of anger.  Attempt to understand their perspective.
 
+Related:
+
+- [Taking Care of Anger - Thich Nhat Hanh (short teaching video)](https://www.youtube.com/watch?v=9OvLOna5_1A)
+
 ### Fear
 
 How to notice:
@@ -102,7 +106,8 @@ Related:
 
 - [Thich Nhat Hanh on Buddhist Essentials: What is Non-Fear](https://www.youtube.com/watch?v=xAvS8Jz7ay4)
 - [Practicing Non Fear - Teaching by Thich Nhat Hanh](https://www.youtube.com/watch?v=ObfJfA9q3ho)
-
+- [Working with Judgment and Fear - Thich Nhat Hanh](https://www.youtube.com/watch?v=VelNSInd8r0)
+  
 ### Fear: Anxiety
 
 How to notice:
@@ -135,8 +140,9 @@ How to address:
 Related:
 
 - [Transforming Depression, Anger and Fear with Mindful Breathing and Mindful Walking - Thich Nhat Hanh](https://www.youtube.com/watch?v=wjaSR-ie9kg)
-- [How do you deal with depression? Thich Nhat Hanh answers questions](https://www.youtube.com/watch?v=QY99Ekk3URc&t=194s)
+- [How do you deal with depression? Thich Nhat Hanh answers questions](https://www.youtube.com/watch?v=QY99Ekk3URc)
 - [Fight Depression and Burnout in 2 Minutes a Day: 3 Good Things Activity](https://www.youtube.com/watch?v=sWfNosruPPw)
+- [How to transform the genetic causes of depression - Thich Nhat Hanh Q&A](https://www.youtube.com/watch?v=Yz_iEIXqlBU)
 
 ### Sadness: Despair
 
@@ -154,6 +160,12 @@ Related:
 - Regarding climate change: [David Suzuki & Thich Nhat Hanh: Despair](https://www.youtube.com/watch?v=RWqB4-em308)
 - [How to Get Out of a Despairing Mood](https://www.youtube.com/watch?v=ApccemGnh78)
 - [Pain, Despair, and The Second Arrow](https://www.youtube.com/watch?v=MlLvjFPtFXw)
+
+### Sadness: Sorrow
+
+Related:
+
+- [How to React to Sorrow | Thich Nhat Hanh (short teaching video)](https://www.youtube.com/watch?v=-1s1rwqqszM)
 
 ### Disgust
 
