@@ -101,5 +101,6 @@ How to address:
 
 Related:
 
+- Regarding climate change: [David Suzuki & Thich Nhat Hanh: Despair](https://www.youtube.com/watch?v=RWqB4-em308)
 - [How to Get Out of a Despairing Mood](https://www.youtube.com/watch?v=ApccemGnh78)
 - [Pain, Despair, and The Second Arrow](https://www.youtube.com/watch?v=MlLvjFPtFXw)
