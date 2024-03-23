@@ -10,6 +10,8 @@ These antidotes address undesirable mental states and should be used when that s
 
 Heavily inspired by Thich Nhat Hanh
 
+(This document is a draft)
+
 ## Definitions
 
 These energies can be applied to many situations:
@@ -26,9 +28,9 @@ One can reach a general state of contentment if the following steps are followed
 - Identify what emotion or mix of emotions is present
 - Accept it and embrace it.  Greet it ("Hello Anxiety")
 - Thank the emotion for the opportunity to practice these skills
+- Forgive yourself for what caused this emotion to arise.  (Don't beat yourself up)
 - In most cases: identify why.  Listen to any coincidental thoughts for clues if it's not clear.
    - In some cases, depression can be misserved by identifying the reason.  Focus on improving the mental state.
-- Forgive yourself.  (Don't beat yourself up)
 
 ### In general
 
@@ -43,6 +45,8 @@ There are 5 basic emotions:
 - Anger
 - Fear
 - Disgust
+
+Each can be further subdivided.
 
 ### Anger
 
