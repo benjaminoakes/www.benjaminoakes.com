@@ -82,6 +82,7 @@ How to address:
 - Mindfulness
 - Intentional focus on relaxation
 - Think good thoughts.  IMPORTANT: This is easily forgotten in a depressed state.  Start with at least 3 happy/grateful things from the last 24 hours.  Whenever possible, write them down.
+- Practice self-love and compassion.  List nice things about yourself and your life.
 - Imagine ways to change the environment that brought about depression
 - Longer term: actually change the environment in some of the imagined ways
 
