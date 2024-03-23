@@ -53,6 +53,12 @@ How to address:
 - Send others compassion, especially those causing fear.  Attempt to understand their perspective.
 - Remember that you have non-fear inside you (non-fear: "steadfastness" and some definitions of courage)
 
+### Despair
+
+- Accept the reality of the situation
+- [Pain, Despair, and The Second Arrow](https://www.youtube.com/watch?v=MlLvjFPtFXw)
+
+
 ### Anxiety
 
 How to notice:
