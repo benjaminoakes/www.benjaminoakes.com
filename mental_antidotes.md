@@ -69,9 +69,11 @@ How to notice:
 How to address:
 
 - Mindfulness
+- Remember that you've made it through fearful situations before
+- Remember that you can tap into non-fear inside you (non-fear: "steadfastness" and some definitions of courage).
 - Send yourself compassion
 - Send others compassion, especially those causing fear.  Attempt to understand their perspective.
-- Remember that you have non-fear inside you (non-fear: "steadfastness" and some definitions of courage)
+- Analyze and discuss the fear
 
 ### Fear: Anxiety
 
