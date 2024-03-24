@@ -36,8 +36,8 @@ For other emotions:
 - Identify what emotion or mix of emotions is present
 - Accept it and embrace it.  Greet it ("Hello Anxiety")
 - Thank the emotion for the opportunity to practice these skills
-- Forgive yourself for what caused this emotion to arise.  (Don't beat yourself up)
-- For anxiety/depression, let the thought pass by.  Giving thought energy too it makes it worse.  If needed, collect the thought so it can be addressed later.
+- Don't beat yourself up.  If needed, forgive yourself for what caused this emotion to arise.
+- For anxiety/depression, let the thought pass by.  Giving thought energy to it makes it worse.  If truly needed, collect repeated anxious thoughts so they can be addressed later.  However, collecting the thoughts can be counterproductive.
 - For other emtions: identify why.  Listen to any coincidental thoughts for clues if it's not clear.
 
 ## Emotions
@@ -124,7 +124,7 @@ How to notice:
 How to address:
 
 - Mindfulness is especially helpful.  Try doing 5-4-3-2-1: Focus on 5 thing you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste.
-- Let anxious thoughts pass by.  It's important to recognize them and then send them on their way.  Avoid analysis of axious thoughts because giving them thought energy increases anxiety.
+- Let anxious thoughts pass by.  It's important to recognize them and then send them on their way.  Avoid analysis of axious thoughts because giving them thought energy increases anxiety.  There is sometimes a fine line between ignoring anxious thoughts and acknowledging them and sending them on their way.  Ignoring them completely can result in them becoming stronger.
 
 Related:
 
