@@ -135,6 +135,8 @@ Related:
 
 - [10 quick anxiety relief techniques](https://m.youtube.com/watch?v=xGb4fvfZpWM), has hand pinch
 - [How To Relieve Anxiety In One Minute - Piedmont Healthcare](https://m.youtube.com/watch?v=McCDfP5M878)
+  - Mindful breathing at the level of the stomach
+  - While seated, lean forward with elbows on knees and hang your head down
 - [The Missing Key In Your Anxiety Recovery - Learning To Let Go](https://www.youtube.com/watch?v=NOk6KrxefCw)
 
 See also: "Fear" and "Depression"
