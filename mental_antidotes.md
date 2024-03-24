@@ -26,17 +26,19 @@ These energies can be applied to many situations:
 
 ## Thought Loop
 
-One can reach a general state of contentment if the following steps are followed consistently:
+One can reach a general state of contentment if the following steps are followed consistently.
+
+Whenever possible, make a point to generate happiness.
+
+For other emotions:
 
 - Notice the emotion
 - Identify what emotion or mix of emotions is present
 - Accept it and embrace it.  Greet it ("Hello Anxiety")
 - Thank the emotion for the opportunity to practice these skills
 - Forgive yourself for what caused this emotion to arise.  (Don't beat yourself up)
-- In most cases: identify why.  Listen to any coincidental thoughts for clues if it's not clear.
-   - In some cases, depression can be misserved by identifying the reason.  Focus on improving the mental state.
-
-Also, make a point to generate happiness.
+- For anxiety/depression, let the thought pass by.  Giving thought energy too it makes it worse.  If needed, collect the thought so it can be addressed later.
+- For other emtions: identify why.  Listen to any coincidental thoughts for clues if it's not clear.
 
 ## Emotions
 
