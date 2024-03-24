@@ -69,6 +69,7 @@ How to generate:
   - Right effort 
   - Right mindfulness
   - Right concentration
+- Remember "[changing the peg](https://medium.com/illumination-curated/the-easiest-buddhist-practice-to-hammer-down-stress-and-anxiety-13cde6268ed)" (sometimes called anchor thoughts in Western psychology)
 - Help others generate happiness too
 
 Related:
