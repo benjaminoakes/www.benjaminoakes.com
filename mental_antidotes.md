@@ -44,7 +44,7 @@ For other emotions:
 
 There are 5 basic emotions:
 
-- Happiness (see above to generate)
+- Happiness (see below for how to generate)
 - Sadness
 - Anger
 - Fear
