@@ -113,11 +113,18 @@ Related:
 How to notice:
 
 - Tingling sensation
+- Increased heart rate
 
 How to address:
 
-- See "Fear"
-- Also intermingled with "Depression"
+- Mindfulness is especially helpful.  Try doing 5-4-3-2-1: Focus on 5 thing you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste.
+- Let anxious thoughts pass by.  It's important to recognize them and then send them on their way.  Avoid analysis of axious thoughts because giving them thought energy increases anxiety.
+
+Related:
+
+- [10 quick anxiety relief techniques](https://m.youtube.com/watch?v=xGb4fvfZpWM)
+
+See also: "Fear" and "Depression"
 
 ### Sadness: Depression
 
