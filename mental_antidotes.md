@@ -57,6 +57,7 @@ Each can be further subdivided.
 How to generate:
 
 - Make an effort to notice good things.  Think good thoughts and more good thoughts will follow.  This is key for avoiding depressive states.  Journal the good things that have been noticed.
+- Find ways of looking at things in a positive light.  For example, if it's freezing cold, thank the sensations of coldness for reminding you that you're alive.  There's always a way to look at things positively, though it does sometimes require effort to accept the reality of the situation.  (See "Despair")
 - Do less.  [Stop Running](https://www.youtube.com/watch?v=Qch5ISD9Bxo) from thing to thing.
 - Generally practice [the Eightfold Path](https://tricycle.org/beginners/buddhism/eightfold-path)
   - Right view 
@@ -67,6 +68,7 @@ How to generate:
   - Right effort 
   - Right mindfulness
   - Right concentration
+- Help others generate happiness too
 
 Related:
 
