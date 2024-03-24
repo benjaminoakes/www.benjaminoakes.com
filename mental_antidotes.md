@@ -91,6 +91,7 @@ How to notice:
 How to address:
 
 - Compassion toward the object of anger.  Attempt to understand their perspective.
+- Don't let wanting things to be different burn you up.  Accept the situation and move on and you'll be happier.
 
 Related:
 
