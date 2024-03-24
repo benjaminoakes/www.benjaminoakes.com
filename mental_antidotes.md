@@ -127,7 +127,7 @@ How to address:
 
 - Mindfulness is especially helpful.  Try doing 5-4-3-2-1: Focus on 5 thing you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste.
 - Let anxious thoughts pass by.  It's important to recognize them and then send them on their way.  Avoid analysis of axious thoughts because giving them thought energy increases anxiety.  There is sometimes a fine line between ignoring anxious thoughts and acknowledging them and sending them on their way.  Ignoring them completely can result in them becoming stronger.
-
+https://m.youtube.com/watch?v=NOk6KrxefCw&pp=ygUhaG93IHRvIGxldCBnbyBvZiBhbnhpb3VzIHRob3VnaHRz
 Related:
 
 - [10 quick anxiety relief techniques](https://m.youtube.com/watch?v=xGb4fvfZpWM), has hand pinch
