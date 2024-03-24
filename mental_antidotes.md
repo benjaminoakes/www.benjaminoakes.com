@@ -130,7 +130,8 @@ How to address:
 
 Related:
 
-- [10 quick anxiety relief techniques](https://m.youtube.com/watch?v=xGb4fvfZpWM)
+- [10 quick anxiety relief techniques](https://m.youtube.com/watch?v=xGb4fvfZpWM), has hand pinch
+- [How To Relieve Anxiety In One Minute - Piedmont Healthcare](https://m.youtube.com/watch?v=McCDfP5M878)
 
 See also: "Fear" and "Depression"
 
