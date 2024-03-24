@@ -19,6 +19,10 @@ These energies can be applied to many situations:
 - Compassion: Send loving-kindness to another person or group.  "May they be happy, may they be healthy, may they be safe, may their lives go with ease."  This will often include attempting to understand other people's perspectives.
 - Mindfulness:  Remember you're alive and in the here and now.  Come back home to the present moment.  Notice it.  Touch reality.
   - Use deep breathing with longer out-breaths than in-breaths.  This stimulates the brain to calm down.  Focus on breathing at the level of the belly (as opposed to the nose, for example).
+  - See 5-4-3-2-1 under "Anxiety"
+- Thought: analytictal reasoning.  Best left compartmentalized to a particular time.
+  - It can be helpful to have a collection habit, as described in David Allen's _Getting Things Done_ so there's a time and a place.
+  - A journaling habit is useful as well to give a time to analyze.  Journaling should also highlight at least 3 positive aspects of life from the last 24 hours.
 
 ## Thought Loop
 
@@ -50,7 +54,7 @@ Each can be further subdivided.
 
 How to generate:
 
-- Make an effort to notice good things.  Think good thoughts and more good thoughts will follow.  This is key for avoiding depressive states.
+- Make an effort to notice good things.  Think good thoughts and more good thoughts will follow.  This is key for avoiding depressive states.  Journal the good things that have been noticed.
 - Do less.  [Stop Running](https://www.youtube.com/watch?v=Qch5ISD9Bxo) from thing to thing.
 - Generally practice [the Eightfold Path](https://tricycle.org/beginners/buddhism/eightfold-path)
   - Right view 
