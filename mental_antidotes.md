@@ -20,9 +20,9 @@ These energies can be applied to many situations:
 - Mindfulness:  Remember you're alive and in the here and now.  Come back home to the present moment.  Notice it.  Touch reality.
   - Use deep breathing with longer out-breaths than in-breaths.  This stimulates the brain to calm down.  Focus on breathing at the level of the belly (as opposed to the nose, for example).
   - See 5-4-3-2-1 under "Anxiety"
-- Thought: analytictal reasoning.  Best left compartmentalized to a particular time.
-  - It can be helpful to have a collection habit, as described in David Allen's _Getting Things Done_, so there's a time and a place to process that thought.  GTD is often task oriented, but it can even be helpful to note non-task thoughts in a trusted systme (paper or digital) so that the mind can move on.
-  - A journaling habit is useful as well to give a time to analyze.  Journaling should also highlight at least 3 positive aspects of life from the last 24 hours.
+- Thought: analytical reasoning.  Best left compartmentalized to a particular time.
+  - It can be helpful to have a collection habit, as described in David Allen's _Getting Things Done_, so there's a time and a place to process that thought.  GTD is often task-oriented, but it can even be helpful to note non-task thoughts in a trusted system (paper or digital) so that the mind can move on.
+  - A journaling habit is useful as well to have a specific time to analyze.  Journaling should also highlight at least 3 positive aspects of life from the last 24 hours.
 
 ## Thought Loop
 
@@ -37,8 +37,9 @@ For other emotions:
 - Accept it and embrace it.  Greet it ("Hello Anxiety")
 - Thank the emotion for the opportunity to practice these skills
 - Don't beat yourself up.  If needed, forgive yourself for what caused this emotion to arise.
-- For anxiety/depression, let the thought pass by.  Giving thought energy to it makes it worse.  If truly needed, collect repeated anxious thoughts so they can be addressed later.  However, collecting the thoughts can be counterproductive.
-- For other emtions: identify why.  Listen to any coincidental thoughts for clues if it's not clear.
+- For anxiety/depression, let the thought pass by.  Let go of wanting things to be different.  Accept that things are perfect just the way they are!  There's always something happy to be found.
+  - Giving anxious/depressive thoughts energy makes them worse.  If truly needed, write down repeated anxious thoughts so they can be addressed later at the appropriate time.  However, collecting the thoughts can be counterproductive.
+- For other emotions: identify why.  Listen to any coincidental thoughts for clues if it's not clear.
 
 ## Emotions
 
