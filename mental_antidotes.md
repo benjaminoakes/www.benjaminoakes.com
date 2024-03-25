@@ -133,6 +133,7 @@ How to address:
 - Simply accept the situation and let go.  Whatever the worry is, worrying about it is only making you suffer in the here and the now.  Why live life in fear when it could be free of suffering?  The sooner you can let go, the sooner you can move on and recover from anxiety.  This doesn't mean giving up but to recognize that worry only prevents contentment.  Things are perfect just the way they are right now, but there's always room for improvement.
   - This acceptance and moving on from wanting things to be different from the way they are is core to Buddhist philosophy.
 - Accept your anxiety with open arms.  Give it a hug.  Then let it go.
+- Find joy, even if you don't feel like it.  Do the things you like and the good feelings will follow.
 
 Related:
 
@@ -142,6 +143,7 @@ Related:
   - While seated, lean forward with elbows on knees and hang your head down
 - [The Missing Key In Your Anxiety Recovery - Learning To Let Go](https://www.youtube.com/watch?v=NOk6KrxefCw)
 - [Unlocking Freedom: The Anxiety Hack to Letting Go and Moving Forward](https://www.youtube.com/watch?v=_tCTPB4FDd8)
+- [How To Regain Your Joy While Going Through Anxiety Recovery](https://www.youtube.com/watch?v=ouIVZTpsZGY)
 
 See also: "Fear" and "Depression"
 
