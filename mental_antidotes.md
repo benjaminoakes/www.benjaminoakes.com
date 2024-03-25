@@ -132,7 +132,7 @@ How to address:
 - Let anxious thoughts pass by.  It's important to recognize them and then send them on their way.  Avoid analysis of anxious thoughts because giving them thought energy increases anxiety.  There is sometimes a fine line between ignoring anxious thoughts and acknowledging them and sending them on their way.  Ignoring them completely can result in them becoming stronger.
 - Simply accept the situation and let go.  Whatever the worry is, worrying about it is only making you suffer in the here and the now.  Why live life in fear when it could be free of suffering?  The sooner you can let go, the sooner you can move on and recover from anxiety.  This doesn't mean giving up but to recognize that worry only prevents contentment.  Things are perfect just the way they are right now, but there's always room for improvement.
   - This acceptance and moving on from wanting things to be different from the way they are is core to Buddhist philosophy.
-- Welcome your anxiety.  Give it a hug.  Then let it go.
+- Accept your anxiety with open arms.  Give it a hug.  Then let it go.
 
 Related:
 
