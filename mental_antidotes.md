@@ -10,7 +10,7 @@ These antidotes address undesirable mental states and should be used when that s
 
 Heavily inspired by Thich Nhat Hanh and Buddhism in general
 
-(This document is a draft)
+(This document is a draft.)
 
 ## Definitions
 
@@ -37,9 +37,10 @@ For other emotions:
 - Accept it and embrace it.  Greet it ("Hello Anxiety")
 - Thank the emotion for the opportunity to practice these skills
 - Don't beat yourself up.  If needed, forgive yourself for what caused this emotion to arise.
-- For anxiety/depression, let the thought pass by.  Let go of wanting things to be different.  Accept that things are perfect just the way they are!  There's always something happy to be found.
-  - Giving anxious/depressive thoughts energy makes them worse.  If truly needed, write down repeated anxious thoughts so they can be addressed later at the appropriate time.  However, collecting the thoughts can be counterproductive.
+- For anxiety/depression, let the thought pass by.  Identify them as being anxiety/depression and move on.
+  - Giving anxious/depressive thoughts any energy makes them worse.  Even trying to make them positive thoughts.  If truly needed, write down repeated anxious thoughts so they can be addressed later at the appropriate time (e.g., questions to ask a doctor).  However, collecting the thoughts can be counterproductive too if it's feeding anxiety.
 - For other emotions: identify why.  Listen to any coincidental thoughts for clues if it's not clear.
+  - Let go of wanting things to be different.  Accept that things are perfect just the way they are!  There's always something happy to be found.
 
 ## Emotions
 
@@ -144,6 +145,7 @@ Related:
 - [The Missing Key In Your Anxiety Recovery - Learning To Let Go](https://www.youtube.com/watch?v=NOk6KrxefCw)
 - [Unlocking Freedom: The Anxiety Hack to Letting Go and Moving Forward](https://www.youtube.com/watch?v=_tCTPB4FDd8)
 - [How To Regain Your Joy While Going Through Anxiety Recovery](https://www.youtube.com/watch?v=ouIVZTpsZGY)
+- ["How Do I Ignore My Thoughts" - ANXIETY RECOVERY](https://www.youtube.com/watch?v=bhGaabtDeOU)
 
 See also: "Fear" and "Depression"
 
