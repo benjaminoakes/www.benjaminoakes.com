@@ -37,7 +37,7 @@ For other emotions:
 - Accept it and embrace it.  Greet it ("Hello Anxiety")
 - Thank the emotion for the opportunity to practice these skills
 - Don't beat yourself up.  If needed, forgive yourself for what caused this emotion to arise.
-- For anxiety/depression, let the thought pass by.  Identify them as being anxiety/depression and move on.
+- For anxiety/depression, let the thought pass by.  Identify them as being anxiety/depression, realize that the best thing to do is nothing, and move on.
   - Giving anxious/depressive thoughts any energy makes them worse.  Even trying to make them positive thoughts.  If truly needed, write down repeated anxious thoughts so they can be addressed later at the appropriate time (e.g., questions to ask a doctor).  However, collecting the thoughts can be counterproductive too if it's feeding anxiety.
   - This can be difficult if you're an analytical person.  It's okay.  You'll get better at it.
 - For other emotions: identify why.  Listen to any coincidental thoughts for clues if it's not clear.
