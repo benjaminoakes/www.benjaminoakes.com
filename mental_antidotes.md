@@ -128,7 +128,7 @@ How to notice:
 
 How to address:
 
-- Mindfulness is especially helpful.  Try doing 5-4-3-2-1: Focus on 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste.
+- Mindfulness is especially helpful to get to a better mental state.  Try doing 5-4-3-2-1: Focus on 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste.
 - Let anxious thoughts pass by.  It's important to recognize them and then send them on their way.  Avoid analysis of anxious thoughts because giving them thought energy increases anxiety.  There is sometimes a fine line between ignoring anxious thoughts and acknowledging them and sending them on their way.  Ignoring them completely can result in them becoming stronger.
 - Simply accept the situation and let go.  Whatever the worry is, worrying about it is only making you suffer in the here and the now.  Why live life in fear when it could be free of suffering?  The sooner you can let go, the sooner you can move on and recover from anxiety.  This doesn't mean giving up but to recognize that worry only prevents contentment.  Things are perfect just the way they are right now, but there's always room for improvement.
   - This acceptance and moving on from wanting things to be different from the way they are is core to Buddhist philosophy.
