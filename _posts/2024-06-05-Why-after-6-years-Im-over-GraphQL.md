@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why, after 6 years, Im'0 over GraphQL"
+title: "Why, after 6 years, I'm over GraphQL"
 date: 2024-06-05
 ---
 
