@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why, after 6 years, Im over GraphQL"
+title: "Why, after 6 years, Im'0 over GraphQL"
 date: 2024-06-05
 ---
 
@@ -10,7 +10,7 @@ assume that all requests are equally hard on the server. Any errors
 encountered are captured by the framework, leading to the fun task of
 reading stack traces in JSON GraphQL error responses.
 
-Source: [Why, after 6 years, Im over GraphQL](
+Source: [Why, after 6 years, I'm over GraphQL](
 https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
 
 GraphQL doesn't make sense as a default approach.  It makes sense
