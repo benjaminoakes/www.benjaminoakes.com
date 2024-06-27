@@ -20,7 +20,7 @@ After that, they're actually real microSD cards, but they just don't have the la
 
 ![F3 Qt after finishing](https://www.benjaminoakes.com/images/2024-06-26-f3-qt.png)
 
-[Here's a build](https://www.benjaminoakes.com/assets/f3-qt) for `f3-qt` for amd64 Ubuntu Linux.  I built this on Ubuntu 22.04, but it might work on other versions.  It's not hard to build ([instructions](https://github.com/zwpwjwtz/f3-qt/blob/master/INSTALL), but if you're unfamiliar, this download may help you.
+[Here's a build](https://www.benjaminoakes.com/assets/f3-qt) for `f3-qt` for amd64 Ubuntu Linux.  I built this on Ubuntu 22.04, but it might work on other versions.  It's not hard to build ([instructions](https://github.com/zwpwjwtz/f3-qt/blob/master/INSTALL)), but if you're unfamiliar, this download may help you.
 
 After determining the actual capacity, use a program like GNOME Disks to delete the large partition and then make a single small partition of the actual capacity.  After partitioning, you can confirm that it will work correctly with F3 if you would like.  It'll go a lot faster with a smaller partition.
 
