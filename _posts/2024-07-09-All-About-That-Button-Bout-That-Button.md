@@ -15,4 +15,4 @@ Source: [All About That Button, 'Bout That Button](https://blog.jim-nielsen.com/
 
 This makes a lot more sense than what I've experienced in Vue and React, frameworks in which it's common to reimplement browser behavior in JavaScript, negating much of the value of working in the browser.
 
-Remix seems much closer to Stimulus or Unpoly.
+Using Remix this  way seems much closer to Stimulus or Unpoly.
