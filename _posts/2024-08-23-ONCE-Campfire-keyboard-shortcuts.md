@@ -19,4 +19,4 @@ NodeList(5) [ button.trix-button.trix-button--icon.trix-button--icon-bold, butto
 
 So Bold, Italic, Link, Undo, and Redo are all, it seems.
 
-If someone learns more about how to use keyboard shortcuts for any part of Campfire, that would be nice to know about.
+If someone learns more about how to use keyboard shortcuts for any part of Campfire, that would be nice to know about. 🙂
