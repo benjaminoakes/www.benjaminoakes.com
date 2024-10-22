@@ -5,7 +5,7 @@ category: ""
 date: 2024-10-22
 ---
 
->Support for Intel and ~~Apple Silicon~~ ARM Macs, and Linux
+>Support for Intel and [ARM] Macs, and Linux
 
 Source: [abiosoft/colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
 
