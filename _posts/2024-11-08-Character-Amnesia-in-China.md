@@ -1,5 +1,6 @@
 ---
-layout: posttitle: "Character Amnesia in China"
+layout: post
+title: "Character Amnesia in China"
 category: ""
 date: 2024-11-08
 ---
