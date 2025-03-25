@@ -1,0 +1,19 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="240" fill="#5F4DEA" opacity="0.1"/>
+
+  <!-- Bridge tower -->
+  <rect x="220" y="140" width="72" height="240" rx="5" fill="#5F4DEA"/>
+
+  <!-- Bridge deck -->
+  <rect x="40" y="320" width="432" height="30" rx="5" fill="#5F4DEA"/>
+
+  <!-- Cable stays -->
+  <line x1="256" y1="160" x2="80" y2="320" stroke="#5F4DEA" stroke-width="12"/>
+  <line x1="256" y1="160" x2="160" y2="320" stroke="#5F4DEA" stroke-width="12"/>
+  <line x1="256" y1="160" x2="352" y2="320" stroke="#5F4DEA" stroke-width="12"/>
+  <line x1="256" y1="160" x2="432" y2="320" stroke="#5F4DEA" stroke-width="12"/>
+
+  <!-- Tower top -->
+  <circle cx="256" cy="140" r="20" fill="#5F4DEA"/>
+</svg>
