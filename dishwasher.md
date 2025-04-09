@@ -4,6 +4,7 @@ title: Dishwasher
 permalink: /utils/dishwasher/
 ---
 
+<script>
 function hoursUntil6AM() {
   // Get the current date and time
   const now = new Date();
@@ -34,4 +35,5 @@ function hoursUntil6AM() {
 
 // Display the result
 document.write("Hours until 6 AM tomorrow: " + hoursUntil6AM());
+</script>
 
