@@ -17,6 +17,16 @@ layout: default
   </header>
 
   <p>
+    {%- assign sharelette_url = "https://sharelette.cloudbreak.app/?url=" -%}
+    {%- assign encoded_url = page.url | absolute_url | url_encode -%}
+    {%- assign encoded_title = page.title | url_encode -%}
+    
+    <a href="{{ sharelette_url }}{{ encoded_url }}&text={{ encoded_title }}">
+      Share this page
+    </a>
+
+    |
+    
     Read it later using <a href="https://cloudbreak.app/wallabag/?utm_medium=referral&utm_source=benjaminoakes.com-post-{{ page.date | date: "%Y-%m-%d" }}&rby=benjaminoakes.com-{{ page.date | date: "%Y-%m-%d" }}">CloudBreak Wallabag</a>
   </p>
 
