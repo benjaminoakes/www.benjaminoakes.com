@@ -5,7 +5,9 @@ category: ""
 date: 2025-12-03
 ---
 
-Use with [Tampermonkey](https://www.tampermonkey.net/) or a compatible userscript manager:
+Use with [Tampermonkey](https://www.tampermonkey.net/) or a compatible userscript manager.
+
+Known issue: if the chat name isn't on the screen, it uses the name of the first chat instead.  It turns out Gemini doesn't even know the name of the chat on the screen until scrolling down to it in the history (check the top of the screen to see what I mean).  I'm opting to ignore the issue until Google improves the situation.
 
 ```javascript
 // ==UserScript==
