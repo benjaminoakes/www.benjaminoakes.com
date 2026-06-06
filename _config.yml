@@ -14,19 +14,12 @@ url: "http://www.benjaminoakes.com"
 baseurl: ""
 permalink: pretty
 
-adsense:
-  ad_client: "ca-pub-5788066382467641"
-  ad_slot: "2987007375"
-  ad_format: "auto"
-
 # Not supported on Bulma
 # disqus:
 #  shortname: "benjaminoakes"
 
 feedburner:
   feed_address: "BenjaminOakes"
-
-google_analytics: "UA-26383944-1"
 
 paginate: 10
 paginate_path: "/page/:num"
