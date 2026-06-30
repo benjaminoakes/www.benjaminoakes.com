@@ -17,30 +17,6 @@ GEM
     google-protobuf (4.33.6)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.33.6-aarch64-linux-gnu)
-      bigdecimal
-      rake (>= 13)
-    google-protobuf (4.33.6-aarch64-linux-musl)
-      bigdecimal
-      rake (>= 13)
-    google-protobuf (4.33.6-arm64-darwin)
-      bigdecimal
-      rake (>= 13)
-    google-protobuf (4.33.6-x86-linux-gnu)
-      bigdecimal
-      rake (>= 13)
-    google-protobuf (4.33.6-x86-linux-musl)
-      bigdecimal
-      rake (>= 13)
-    google-protobuf (4.33.6-x86_64-darwin)
-      bigdecimal
-      rake (>= 13)
-    google-protobuf (4.33.6-x86_64-linux-gnu)
-      bigdecimal
-      rake (>= 13)
-    google-protobuf (4.33.6-x86_64-linux-musl)
-      bigdecimal
-      rake (>= 13)
     http_parser.rb (0.8.0)
     i18n (1.14.4)
       concurrent-ruby (~> 1.0)
