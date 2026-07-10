@@ -7,6 +7,7 @@ permalink: /contact/
 If you'd like to get in touch with me, you can:
 
   * Send me <a class="mailto" data-email="YmxvZ0BiZW5qYW1pbm9ha2VzLmNvbQ==">an email</a>
+  * Post a mention on <a href="https://ruby.social/@benjaminoakes">Mastodon</a> (preferred)
   * Send a tweet to <a href="http://twitter.com/benjaminoakes">@benjaminoakes</a>
 
 <script>
