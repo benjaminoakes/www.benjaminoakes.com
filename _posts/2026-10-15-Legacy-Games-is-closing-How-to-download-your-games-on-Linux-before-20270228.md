@@ -5,7 +5,9 @@ category: ""
 date: 2026-10-15
 ---
 
-[Legacy Games](https://legacygames.com/) is shutting down on 2027-02-28 ([FAQ](https://legacygames.com/legacy-games-closure-faq-everything-you-need-to-know/)). I never bought anything from them, but like many people, I got some of their content for free when I was briefly an Amazon Prime subscriber.
+[Legacy Games](https://legacygames.com/) is shutting down on 2027-02-28 ([FAQ](https://legacygames.com/legacy-games-closure-faq-everything-you-need-to-know/)). I never bought anything from them, but like many people, I got some of their content for free when I was briefly an Amazon Prime subscriber. Heads up: I couldn't sign in until resetting my password. I don't think I ever set up an account with them officially until doing that.
+
+I have a couple of games from them that look decent, so I went ahead and figured out how to download the DRM-free installers, detailed below. However, you should know that they're all generally the same puzzle-genre games, at least what I got through Amazon Prime. I haven't played much, but _The Wild Case_ seems like a good place to start, at least in my library.
 
 For anyone on Linux, I can confirm that [the Lutris installer for the Legacy Games Launcher](https://lutris.net/games/legacy-games/) works. It took a long time to install though. (Tested on Ubuntu 24.04.)
 
@@ -15,7 +17,7 @@ I haven't tried [the `app-state.json` trick](https://www.reddit.com/r/GameDealsM
 
 However, the "copy before it deletes" approach works just fine if you don't have a ton of these.
 
-On Ubuntu, the installers live in `/home/{{username}}/Games/legacy-games/drive_c/users/{{username}}/AppData/Local/Temp` until they're deleted after installation. Just copy them before the install finishes, and you're set. I've tried reinstalling from these files and they work normally in Wine.
+On Ubuntu, the installers live in `/home/USERNAME/Games/legacy-games/drive_c/users/USERNAME/AppData/Local/Temp` until they're deleted after installation. Just copy them before the install finishes, and you're set. I've tried reinstalling from these files and they work normally in Wine.
 
 I hope this helps! If it does, I'd love to hear about it.
 
